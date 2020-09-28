@@ -1,6 +1,146 @@
 # Evolution Examples
 
-## Preliminary Examples
+## Newer Examples
+
+- grâmpan /'ʁra:mpan/ 'horn'
+  - First shift >> grãbänh /ˈgrɐ̃:.bæn̥/
+  - Second shift >> egrēbäńh /ɛˈʀɛ:.bæɲ̊/
+
+- kwenja /'kwenja/ 'foot'
+  - First shift >> kwenhjä /'kɸɛn̥.çæ/
+  - Second shift >> feńhexä /'fɛɲ̊ɛxæ/
+
+- vûreal /ˈvu:ˌre.al/ 'Belly'
+  - First shift >> vũre'älh /ˈvũ:ˌrɛʔ.æɬ/
+  - Second shift >> muréč /ˈmu:ˌrɛtɕ/
+
+- qômah /ˈqo:.maħ/ 'Neck'
+  - First shift >> qõäh /ˈqõ:.æħ/
+  - Second shift >> qoamäh /ˈɢoɐ̯m.æħ/
+
+- uqsiagh /ˈuqˌsi.aʕ/ 'Heart'
+  - First shift >> uqsi'ea /ˈʔuq̚ˌsiʔ.ɛɐ̯/
+  - Second shift >> gučči'ea /ˈɢutˌtɕsiʔ.eɐ̯/
+
+- qrêa /ˈqre:.a/ 'Sun'
+  - First shift >> qrêjä /ˈqr̥i:.jæ/
+  - Second shift >> erhieğä /ɛˈr̥ie̯.ɣæ/
+
+- val /ˈval/ 'Moon'
+  - First shift >> välh /ˈvæɬ/
+  - Second shift >> väś /ˈʋæɕ/
+
+- jâwta /ˈja:wta/ 'God'
+  - First shift >> jâwdä /ˈja:w.dæ/
+  - Second shift >> ğaowǵä /ˈɣæo̯ʋ.ɟæ/
+
+- tixêka /ˈtiˌχe:ka/ 'Star'
+  - First shift >> tixxêgä /ˈtiχˌχi:g̚.æ/
+  - Second shift >> cigrhiegä /ˈciʀ̥ˌʀ̥ie̯ɴ.æ/
+
+- 'To split'
+  - Participle Form
+    - Vuhîñkam >> ôtwô /ˈo:two:/
+    - First shift >> ôdwë /ˈʔu:d̚.wɘ:/
+    - Second shift >> quone̋ /ˈɢuo̯nɤ:/
+  - Negative Participle Form
+    - Vuhîñkam >> shwêôtwô /ˈçwe:ˌo:t.wo:/
+    - First shift >> çẅêjôdwë /ˈçɥe:ˌju:d̚.wɘ:/
+    - Second shift >> xȳğuone̋ /ˈxy:ˌɣuo̯nɤ:/
+  - Perfective Form
+    - Vuhîñkam >> qêôtwô /ˈqe:ˌo:t.wo:/
+    - First shift >> qêjôdwë /ˈqɨ:ˌju:d̚.wɘ:/
+    - Second shift >> qūğuone̋ /ˈɢu:ˌɣuo̯nɤ:/
+      - Proximal form >> mieuone̋ /ˈmie̯ˌuo̯nɤ:/
+      - Medial form >> aeuone̋ /ˈɑe̯ˌuo̯nɤ:/
+      - Proximal form >> mīnuone̋ /ˈmi:nˌuo̯nɤ:/
+  - Imperfective Form
+    - Vuhîñkam >> qêôtwôke /ˈqe:.o:ˌtwo:k.e/
+    - First shift >> qêjëtwôga /ˈqɨ:jɘ:ˌtwu:g̚.ɐ/
+    - Second shift >> qūğe̋tuoño /ˈɢu:.ɣɤ:ˌtuo̯ɴ.ɔ/
+
+- 'To stab'
+  - Participle Form
+    - Vuhîñkam >> ôlu /ˈo:lu/
+    - First shift >> ôlu /ˈʔu:l.u/
+    - Second shift >> quoĺu /ˈɢuo̯ʎu/
+  - Negative Participle Form
+    - Vuhîñkam >> shwêôlu /ˈçwe:ˌo:lu/
+    - First shift >> çẅêjôlu /ˈçɥe:ˌju:l.u/
+    - Second shift >> xyğuoĺu /ˈxy:ˌɣuo̯ʎu/
+  - Perfective Form
+    - Vuhîñkam >> qêôlu /ˈqe:ˌo:lu/
+    - First shift >> qêjôlu /ˈqɨ:ˌju:l.u/
+    - Second shift >> qūğuoĺu /ˈɢu:ˌɣuo̯ʎu/
+  - Imperfective Form
+    - Vuhîñkam >> qêôluka /ˈqe:.o:ˌluka/
+    - First shift >> qêjëlukka /ˈqɨ:ˌjɘ:l.uk̚.kɐ/
+    - Second shift >> qūğe̋ĺu'o /ˈɢu:ɣɤ:ˌʎuʔɔ/
+
+- 'To scratch'
+  - Participle Form
+    - Vuhîñkam >> wana /ˈwana/
+    - First shift >> wännhä /ˈwæn̥.n̥æ/
+    - Second shift >> väńcä /ˈʋæɲ̊cæ/
+  - Negative Participle Form
+    - Vuhîñkam >> qiwana /ˈqiˌwana/
+    - First shift >> qiwwhännhä /ˈqɨxˌxʷæn̥.n̥æ/
+    - Second shift >> qêhhäńcä /ˈɢeħˌħæɲ̊cæ/
+  - Perfective Form
+    - Vuhîñkam >> qêwana /ˈqe:ˌwana/
+    - First shift >> qêwännhä /ˈqɨ:ˌwæn̥.n̥æ/
+    - Second shift >> qeiväńcä /ˈɢei̯ˌʋæɲ̊.cæ/
+  - Imperfective Form
+    - Vuhîñkam >> qêwanaka /ˈqe:waˌnaka/
+    - First shift >> qêwänäkka /ˈqɨ:w.æˌnæk̚.kɐ/
+    - Second shift >> qeiväńä'e /ˈɢei̯ʋæˌɲæʔɛ/
+
+- 'To dig'
+  - Participle Form
+    - Vuhîñkam >> mewân /ˈmewa:n/
+    - First shift >> mewwhân /ˈmɛx.xʷɑ:n/
+    - Second shift >> mehhōń /ˈmɛħ.ħɔ:ɲ/
+  - Negative Participle Form
+    - Vuhîñkam >> amewân /ˈaˌmewa:n/
+    - First shift >> ämmhewwhân /ˈæm̥ˌm̥ɛx.xʷɑ:n/
+    - Second shift >> ämpehhōń /ˈæm̥ˌpɛħ.ħɔ:ɲ/
+  - Perfective Form
+    - Vuhîñkam >> qêmewân /ˈqe:ˌmewa:n/
+    - First shift >> qẽewwhân /ˈqɘ̃:ˌɛx.xʷɑ:n/
+    - Second shift >> qēñehhōń /ˈɢɛ:ˌɴɛħħɔ:ɲ/
+  - Imperfective Form
+    - Vuhîñkam >> qêmewânke /ˈqe:meˌwa:nke/
+    - First shift >> qẽawwânka /ˈqɘ̃:ɐwˌwa:n.gɐ/
+    - Second shift >> qēñevvaońe /ˈɢɛ:ɴɛʋˌʋæo̯ɲɛ/
+
+- 'To stand'
+  - Participle Form
+    - Vuhîñkam >> xê /ˈxe:/
+    - First shift >> xê /ˈxi:/
+    - Second shift >> egrhie /ɛˈʀ̥ie̯/
+  - Negative Participle Form
+    - Vuhîñkam >> îxê /ˈi:xe:/
+    - First shift >> ĩghë /ˈĩʁ.ɘ:/
+    - Second shift >> ńiegrê /ˈɲie̯ʀe:/
+  - Imperfective Form A
+    - Vuhîñkam >> qêxêñ /ˈqe:xe:ŋ/
+    - First shift >> qêgëñ /ˈqɨ:ʁ.ɘ:ŋ/
+    - Second shift >> qūgre̋ñ /ˈɢu:ʀɤ:ɴ/
+  - Perfective Form A
+    - Vuhîñkam >> qêxêñef /ˈqe:ˌxe:ŋef/
+    - First shift >> qêgêñaf /ˈqɨ:ʁˌi:ŋ.ɐf/
+    - Second shift >> qeigrieñef /ˈɢei̯ˌʀie̯ɴɛf/
+  - Imperfective Form B
+    - Vuhîñkam >> qêxêkan /ˈqe:ˌxe:kan/
+    - First shift >> qêgêkänh /ˈqɨ:ʁˌi:g̚.æn̥/
+    - Second shift >> qeigrieñäńh /ˈɢei̯ˌʀie̯ɴæɲ̥/
+  - Perfective Form B
+    - Vuhîñkam >> qêxêkanef /ˈqe:xe:ˌkanef/
+    - First shift >> qêgëkännhaf /ˈqɨ:ʁ.ɘ:ˌkæn̥.n̥ɐf/
+    - Second shift >> qeigrê'äńcef /ˈɢei̯ʁe:ˌʔæɲ̥cɛf/
+  - Note: The regular form B of this verb merges with that of *xekan* 'to walk'; the resultant verb has both meanings.  Irregular form A is a commonly used auxiliary verb
+
+## Old (but detailed) Examples
 
 - uple /'up.le/ 'to drink'
   - Verb regularisation >> qêuple /'qe:ˌu.plɐ/
@@ -118,7 +258,3 @@
     - /ɐ/ after Str-back vowel > /ɔ/
     - /ɬ/ > Ś /ɕ/
     - unreleased Unv stop > /ʔ/
-
-- grâmpan /'ʁra:mpan/ 'horn'
-  - First shift >> grãbänh /ˈgrɐ̃:.bæn̥/
-  - Second shift >> grẽbäńh /ˈʀɛ̃:.bæɲ̊/

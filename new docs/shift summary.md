@@ -1,10 +1,31 @@
 # Shift Summary
 
+## Shift Steps and Summary
+
+- First Shift
+  - Syllabification
+  - Vowel-voicing agreement
+  - Voicing assimilation
+  - Vowel shifts
+    - Laryngeal-vowel shift
+  - Dental shift
+  - Retroflex development
+  - GH vocalisation
+
+- Second Shift
+  - Affix elision
+  - General consonant shifts
+  - Consonant PoA chain shift
+  - Cluster simplification
+  - Hiatus vowel denasalisation
+  - Vowel shifts
+    - Front-Back split
+
 ## First Shift
 
 Step by step process of the First Sound Shift
 
-- Resyllibification (and stress assignment)
+- Resyllabification (and stress assignment)
   - keeping in mind constraint of maximal syllable CLVC
   - stressed syllables attract from following unstressed
     - 'a.ta > 'at.a
@@ -20,11 +41,11 @@ Step by step process of the First Sound Shift
     - preceding an unvoiced consonant, leave as is
       - if following syllable has a null initial, gemiate to following syllable
         - eg. 'om̥.a > 'om̥.m̥a; but 'om̥.ta == 'om̥.ta
-    - preceding a voiced glide (nasal, aprox, R) or fricative, devoice it
+    - preceding a voiced nasal, aprox or R, devoice it
+    - preceding a voiced fricative, lengthen vowel (but maintain short vowel quality)
     - preceding a nil final
       - word-final, leave as is
-      - before a hiatus, insert a glottal stop /ʔ/
-        - written as ʔ in first shift, as K after second
+      - before a hiatus, insert a glottal stop ' /ʔ/
       - if stressed; devoice and geminate the following consonant
       - if unstressed; geminate the following consonant but do not devoice
   - Long vowel:
@@ -32,7 +53,13 @@ Step by step process of the First Sound Shift
     - preceding a nasal when stressed, convert to nasal vowel (and remove nasal consonant)
     - Nasal vowel shifts
       - Ã > /ɐ̃:/
-    - preceding an unvoiced consonant, voice it
+    - preceding an unvoiced fricative, shorten vowel (but maintain long vowel quality)
+    - preceding any other unvoiced consonant, voice it
+    - preceding a hiatus, insert semivowel (at the beginning of next syllable)
+      - Ê, Î > insert J
+      - Ô, Û > insert W
+      - Â > insert based on subsequent
+      - Â + A > merge into one syllable
 
 - Voicing assimilation
   - clusters must be either wholly voiced or wholly unvoiced
@@ -41,6 +68,7 @@ Step by step process of the First Sound Shift
     - L /l/ > /ɬ/
     - J /j/ > /ç/
     - W /w/ > /xʷ~ɸ/
+      - /ɸ/ is used by all after other velar consonants
   - Nasal vowels force following consonant cluster to be voiced
 
 - Vowel shifts
@@ -82,6 +110,7 @@ Step by step process of the First Sound Shift
 
 - Consonant Shifts
   - TS /t̪͡s̪/ > TTH /t͡θ/
+  - palatal + W > palatal + Ẅẅ /ɥ/
 
 - Consonant Cluster Reduction
   - Alveolar + R or R + Alveolar > Retroflex
@@ -144,13 +173,6 @@ Step by step process of the First Sound Shift
 
 ## Second Shift
 
-- Further Common affix elisions
-  - verb initial qê- > q-
-  - when vowels are elided
-    - positive stress and positive length transfers to next available vowel
-      - if already stressed/long, then no extra effect
-    - impossible consonant clusters are broken with a temporary A /ɐ/, whose value will change later in the shift
-
 - Consonant shifts
   - General shifts
     - Q /q/ > /ɢ/
@@ -180,13 +202,18 @@ Step by step process of the First Sound Shift
     - in VC syllables:
       - V /ʋ/ > /ʊ̯/
       - DH /ð/ > /ɐ̯/
+    - Approximants before similar vowels in the same syllable are elided
+      - eg. vu /ʋu/ > u /u/
+      - V/W-U, J-I
 
 - Place Chain Shift
   - Applied AFTER all the above consonant shifts
   - Applied BEFORE all the below consonant shifts
   - Labial and Laryngeal retained
+    - WH /ɸ/ > F /f/
   - Retroflex > Alveolar (losing R)
     - ZR */ɻ/ > /ɹ/
+  - Alvolar + W glide > Alveolar (losing W)
   - Alveolar, Dental > Palatal
     - T /t/ > C /c/
     - S /s/ > Ś /ɕ/
@@ -200,7 +227,7 @@ Step by step process of the First Sound Shift
     - SH /ç/ > X /x/
     - J /j/ > Ğ /ɣ/
   - Velar > various
-    - K /k/ > elided
+    - K /k/, G /g/ > elided
     - Ñ /ŋ/ > retained or variously backed to /ŋ~ɴ/
     - X /χ/ > trilled GRH /ʀ̥/
     - G /ʁ/ > trilled GR /ʀ/
@@ -208,16 +235,22 @@ Step by step process of the First Sound Shift
     - W /w/ > develarised /ʋ/, merged with V
     - WH /χʷ/ > backed /ħ/
 
-- Further Cluster reduction/assimilation
+- Further Cluster simplification/reduction
+  - All clusters of uv. stop/Q + RH /r̥/ > RH /r̥/ (delete stop)
   - All clusters of stop + Ś /ɕ/ > Č /tɕ/
   - Nasal-Fricative clusters
-    - These occur after place shift
-    - All nasal + fricative clusters assimilate the fricative to the PoA of the nasal
-      - Sibilant quality is retained:
-        - S <> Ś; þ /θ/ <> Ç <> all other fricatives
-      - eg. omhho /ɔm̥ħɔ/ > omfo /ɔm̥fɔ/
-      - Ñ uses velar X/Ğ as /ŋ̊x/ and /ŋɣ/
-      - MV /mʋ/ pronounced \[mv] or \[mβ]
+    - Only homorganic clusters are allowed
+    - Otherwise, insert an epenthetic weak A (changed later)
+    - includes fricatives derived from devoiced apprx
+  - Trill compensation
+    - Vowels are added before word-initial trills
+    - E/O depending on front-back of primary stress
+
+- Vowel Elision
+  - When unstressed and when not producing an illegal cluster
+  - Especially following a glottal stop; which then combines with the following sound instead
+  - Never word-initial or word-final consonants
+  - Never adjacent to existing consonant clusters
 
 - Nasal vowel + Hiatus > Oral vowel + Nasal Consonant
   - Consonant depends on original vowel and is NOT AFFECTED BY PLACE CHAIN SHIFT
@@ -233,7 +266,7 @@ Step by step process of the First Sound Shift
       - stressed vowels can also mutate; secondary following primary and primary mutating arbitrarily
     - stressed & unstressed
       - I /ɨ/, Ê/Î /ɨ:/, Ĩ /ɨ̃:/
-        - front > E /e/, EI /ei̯/, EĨ /eĩ̯/
+        - front > É /e/, EI /ei̯/, EĨ /eĩ̯/
           - note that this exclusively occurs after laryngeals
         - back > U /u/, Ū /u:/, Ũ /ũ:/
       - Ë /ɘ:/
@@ -259,12 +292,24 @@ Step by step process of the First Sound Shift
   - Dipthongisation
     - stressed only
       - A̋ /æ:/ > ÄI /æɪ̯/
-      - Ē /ɔ:/ > EA /eɐ̯/
+      - Ē /ɛ:/ > EA /eɐ̯/
       - Ê~Î /i:/ > IE /ie̯/
       - Ô~Û /u:/ > UO /uo̯/
+      - Ŷ /y:/ > YI /yɪ̯/
       - Ō /ɔ:/ > OA /oɐ̯/
   - Other vowel changes
     - stressed & unstressed
       - EA /ɛɐ̯/, OA /ɔɐ̯/ > EA /eɐ̯/, OA /oɐ̯/
     - unstressed
       - Â /ɑ:/ > Ō /ɔ:/
+      - Ẽ /ẽ:/, Õ /õ:/ > Ẽ /ɛ̃:/, Õ /ɔ̃:/
+
+- Final denasalisation
+  - Any nasal vowels left are eliminated
+  - The nasal quality is transferred to the syllable-initial consonant instead
+  - If nasal cluster is impossible, then simply delete the nasality
+  - If the syllable is null-initial, then add a nasal consonant based on the vowel
+    - Back > M
+    - Central > Ñ
+    - Front > Ń
+  - Vowel quality is unchanged

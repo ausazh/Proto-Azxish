@@ -37,7 +37,23 @@ When a verb denotes directional movement, the location is the focus/topic
     - Over there/unseen/unknown - *homît- > mî-
     - Where (root) - *qe > qê-
 
-### Perfective and Imperfective forms
+### Verb Roots
+
+- Each verb has 4 Roots (these are complicated to derive)
+  - Participle Root
+    - based on the verb without changes
+    - used for noun and adjective derivation
+  - Negative Participle Root
+    - based on the verb with inherited negative pre/in-fix
+    - used for negative noun and adj derivation
+  - Verbal Root
+    - for Perf Verbs: prefix qê-
+    - for Impf Verbs: imperfective + -af
+    - used for perfective aspect verb tenses
+  - Imperfective Root
+    - for Perf Verbs: perfective + -ka
+    - for Impf Verbs: prefix qê- + irregular suffix -ñ/-kan
+    - used for imperfective aspect verb tenses
 
 - perfective verbs > imperfective form is -ka on root
   - upleka, omôqka, mangeka, etc
@@ -58,35 +74,78 @@ When a verb denotes directional movement, the location is the focus/topic
 
 while specific verb negation is still productive in deriving nouns and other words from verbs, they are no longer in use for general verb usage.  Instead, the negation principles are now attached to the location conjugation
 
+Note that Locatives *always* attract first consonants, regardless of subsequent stress, unlike regular derivation
+
 - positive
-  - Where (root) - *qe > qê-
-  - Here - *umêw- > mû-
-  - There - *âve- > vâ-
-  - Over there - *homît- > mî-
+  - Infinitive - *qe > qê- >
+    - In General:
+      - qê- /qɨ:/ >> qū- /ɢu:/ or qei- /ɢei̯/ (based on root back/frontness)
+    - before approximant:
+      - apx attaches >> business as usual!
+    - before stop/affricate:
+      - stop attaches, voiced and no-release >> mutates to nasal
+    - before nasal:
+      - nasal attaches, nasalises prefix >> breaks hiatus as Ñ OR released preceding as ñq
+      - qẽ- /qẽ:/ >> qēñ /ɢɛ:ɴ/ OR ñqē /ɴɢɛ:/
+    - before fricative:
+      - fric attaches, prefix shortened
+      - qe- /qɨ/ >> qu- /ɢu/ or qé- /ɢe/ (based on root back/frontness)
+    - before vowel:
+      - qêj- /qɨ:j/ >> qūğ- /ɢu:ɣ/ or qeiğ- /ɢei̯ɣ/ (based on root back/frontness)
+  - Proximal - *umêw- > mû-
+    - mũ- /mũ:/ >> mū- /mu:/
+    - before apx: as usual
+    - before stop/afc: mutate to stop to nasal
+    - before nasal: nasal attaches and fuses >> breaks hiatus as M OR is dropped
+    - before fric: fric attaches, prefix shortened
+      - mu- /mu/ >> mu- /mu/
+    - before vowel: use mêw- instead
+      - mêw- /mi:w/ >> miev- /mie̯ʋ/
+      - before a U, >> mie- /mie̯/
+  - Medial - *âve- > vâ-
+    - vâ- /va:/ >> vao- /ʋæo̯/ (front) or vae- /ʋɑe̯/ (back)
+    - before apx: as usual
+    - before stop/afc: mutate to stop to nasal
+    - before nasal: nasal attaches and fuses >> breaks hiatus as Ñ OR mvao-/mvae- /mv/
+    - before fric: fric attaches, prefix shortened
+      - va- /va/ >> ve- /ʋɛ/ (front) or vo- /ʋɔ/ (back)
+    - before vowel: use âv- instead
+      - âv- /a:v/ >> aov- /æo̯ʋ/ (front) or aev- /ɑe̯ʋ/ (back)
+      - before a U, >> ae- /ɑe̯/
+  - Distal - *homît- > mî-
+    - mĩ- /mĩ:/ >> mī- /mi:/
+    - before apx: as usual
+    - before stop/afc: mutate to stop to nasal
+    - before nasal: nasal attaches and fuses >> breaks hiatus as Ń OR is dropped
+    - before fric: fric attaches, prefix shortened
+      - mi- /mi/ >> mi- /mi/
+    - before vowel: use mît- instead
+      - mĩd- /mĩ:d̚/ >> mīn- /mi:n/
+
 - negative
-  - Where (root) - *êqe > êq-
-  - Here - *utwimêw- > tŷmû-
-  - There - *âxâve- > xâvâ-
-  - Over there - *îhomît- > îmî-
+  - Infinitive - *êqe > êq-
+  - Proximal - *utwimêw- > tŷmû-
+  - Medial - *âxâve- > xâvâ-
+  - Distal - *îhomît- > îmî-
 - emphatic
-  - Where (root) - *hevqe > huqê-
-  - Here - *hevumêw- > hûmû-
-  - There - *hevâve- > hâve-
-  - Over there - *hevhomît- > hefmî-
+  - Infinitive - *hevqe > huqê-
+  - Proximal - *hevumêw- > hûmû-
+  - Medial - *hevâve- > hâve-
+  - Distal - *hevhomît- > hefmî-
 - hab/inch
-  - Where (root) - *kertopqe > kroqqê-
-  - Here - *kertopumêw- > krumû-
-  - There - *kertopâve- > krovâ-
-  - Over there - *kertophomît- > kromî-
+  - Infinitive - *kertopqe > kroqqê-
+  - Proximal - *kertopumêw- > krumû-
+  - Medial - *kertopâve- > krovâ-
+  - Distal - *kertophomît- > kromî-
 - hab/inch negative
-  - Where (root) - *êkertopqe > êkroqqê-
-  - Here - *êkertopumêw- > êkrumû-
-  - There - *êkertopâve- > êkrovâ-
-  - Over there - *êkertophomît- > êkromî-
+  - Infinitive - *êkertopqe > êkroqqê-
+  - Proximal - *êkertopumêw- > êkrumû-
+  - Medial - *êkertopâve- > êkrovâ-
+  - Distal - *êkertophomît- > êkromî-
 - hab/inch emphatic
-  - Where (root) - *hevkertopqe > huroqqê-
-  - Here - *hevkertopumêw- > hukrumû-
-  - There - *hevkertopâve- > hukrovâ-
-  - Over there - *hukertophomît- > hukromî-
+  - Infinitive - *hevkertopqe > huroqqê-
+  - Proximal - *hevkertopumêw- > hukrumû-
+  - Medial - *hevkertopâve- > hukrovâ-
+  - Distal - *hukertophomît- > hukromî-
 
 ## Noun stuff
