@@ -1,6 +1,10 @@
 # Evolution Examples
 
-## Newer Examples
+## Slightly Older Examples
+
+- Note: these haven't gone through the Final Length Drop step yet
+- Also might have undergone vowel elision, which I've dropped as a thing
+- Also some of these I forgot about the fricative-shortens-vowels rule
 
 - grâmpan /'ʁra:mpan/ 'horn'
   - First shift >> grãbänh /ˈgrɐ̃:.bæn̥/
@@ -114,26 +118,28 @@
     - Second shift >> qēñevvaońe /ˈɢɛ:ɴɛʋˌʋæo̯ɲɛ/
 
 - 'To stand'
+  - Note: irregular derivation
+    - initial X voices instead of shortening preceding vowels
   - Participle Form
     - Vuhîñkam >> xê /ˈxe:/
     - First shift >> xê /ˈxi:/
-    - Second shift >> egrhie /ɛˈʀ̥ie̯/
+    - Second shift >> eřhie /ɛˈʀ̥ie̯/
   - Negative Participle Form
     - Vuhîñkam >> îxê /ˈi:xe:/
     - First shift >> ĩghë /ˈĩʁ.ɘ:/
-    - Second shift >> ńiegrê /ˈɲie̯ʀe:/
+    - Second shift >> ńieřê /ˈɲie̯ʀe/
   - Imperfective Form A
     - Vuhîñkam >> qêxêñ /ˈqe:xe:ŋ/
     - First shift >> qêgëñ /ˈqɨ:ʁ.ɘ:ŋ/
-    - Second shift >> qūgre̋ñ /ˈɢu:ʀɤ:ɴ/
+    - Second shift >> qūře̋ñ /ˈɢu:ʀɤ:ɴ/
   - Perfective Form A
     - Vuhîñkam >> qêxêñef /ˈqe:ˌxe:ŋef/
     - First shift >> qêgêñaf /ˈqɨ:ʁˌi:ŋ.ɐf/
-    - Second shift >> qeigrieñef /ˈɢei̯ˌʀie̯ɴɛf/
+    - Second shift >> qeiřieñef /ˈɢei̯ˌʀie̯ɴɛf/
   - Imperfective Form B
     - Vuhîñkam >> qêxêkan /ˈqe:ˌxe:kan/
     - First shift >> qêgêkänh /ˈqɨ:ʁˌi:g̚.æn̥/
-    - Second shift >> qeigrieñäńh /ˈɢei̯ˌʀie̯ɴæɲ̥/
+    - Second shift >> qeiřieñäńh /ˈɢei̯ˌʀie̯ɴæɲ̥/
   - Perfective Form B
     - Vuhîñkam >> qêxêkanef /ˈqe:xe:ˌkanef/
     - First shift >> qêgëkännhaf /ˈqɨ:ʁ.ɘ:ˌkæn̥.n̥ɐf/

@@ -13,13 +13,14 @@
   - GH vocalisation
 
 - Second Shift
-  - Affix elision
   - General consonant shifts
   - Consonant PoA chain shift
   - Cluster simplification
   - Hiatus vowel denasalisation
   - Vowel shifts
     - Front-Back split
+  - Nasal vowel loss
+  - Length distinction loss
 
 ## First Shift
 
@@ -70,12 +71,12 @@ Step by step process of the First Sound Shift
     - W /w/ > /xʷ~ɸ/
       - /ɸ/ is used by all after other velar consonants
   - Nasal vowels force following consonant cluster to be voiced
+  - Fricative-Consonant UV-V clusters assimilate to voiced second consonant instead (excluding approximants and R)
 
 - Vowel shifts
   - High vowels
     - Stressed
       - Î /i:/ > /ĩ:/, Û /u:/ > /ũ:/
-      - does not happen before nasal consonants (in which case, merges with long mid vowels)
     - Stressed Initial
       - Î /i:/ > /ʔĩ:/, Û /u:/ > /ʔũ:/
       - I /i/ > /ʔi/, U /u:/ > /ʔu/
@@ -104,13 +105,15 @@ Step by step process of the First Sound Shift
 - Laryngeal Vowel Shift
   - Front vowels > Central after laryngeal Q, H, GH
     - I /i/ > /ɨ/
-    - Î /i:/ > /ɨ̃:/ default, /ɨ:/ before nasal consonants
+    - Î /i:/ > /ɨ̃:/
     - E /e/ > /ɜ/ stressed, A /ɐ/ unstressed
     - Ê /e:/ > /ɘ:/ stressed and unstressed
 
 - Consonant Shifts
   - TS /t̪͡s̪/ > TTH /t͡θ/
-  - palatal + W > palatal + Ẅẅ /ɥ/
+  - W > Ẅ /ɥ/ ẅ
+    - after palatal consonant
+    - before I
 
 - Consonant Cluster Reduction
   - Alveolar + R or R + Alveolar > Retroflex
@@ -126,10 +129,8 @@ Step by step process of the First Sound Shift
         - stressed & unstressed
           - GHI /ʕi/ > /ʕɨ/ > AI /ɐɪ̯/
           - GHÎ /ʕi:/ > /ʕɨ̃:/ > Ã /ɐ̃:/
-            - non-nasalised form: */ʕɨ:/ > Ā /ɐ:/
           - GHU /ʕu/ > AU /ɐʊ̯/
           - GHÛ /ʕu:/ > /ʕũ:/ > AŨ /ɐʊ̯̃/
-            - non-nasalised form: */ʕu:/ > AU /ɐʊ̯/ (length neutralised)
           - GHA /ʕa/ > /ʕæ/ > AE /ɑɛ̯/
           - GHÂ /ʕa:~ʕɑ:/ > Â /a:~ɑ:/
         - stressed
@@ -151,13 +152,10 @@ Step by step process of the First Sound Shift
         - stressed & unstressed
           - IGH /iʕ/ > JA /jɐ/
           - ÎGH /i:ʕ/ > /ĩ:ʕ/ > IÃ /iɐ̯̃/
-            - non-nasalised form: */i:ʕ/ > IA /iɐ̯/
           - QIGH /qiʕ/ > /qɨʕ/ > QĀ /qɐ:/
           - QÎGH /qi:ʕ/ > /qɨ̃:ʕ/ > QÃ /ɐ̃:/
-            - non-nasalised form: */ɨ:ʕ/ > QĀ /ɐ:/
           - UGH /uʕ/ > WA /wɐ/
           - ÛGH /u:ʕ/ > /ũ:ʕ/ > UÃ /uɐ̯̃/
-            - non-nasalised form: */u:ʕ/ > UA /uɐ̯/
           - AGH /aʕ/ > /æʕ/ > EA /ɛɐ̯/
           - ÂGH /a:ʕ~ɑ:ʕ/ > Â /a:~ɑ:/
         - stressed
@@ -213,7 +211,8 @@ Step by step process of the First Sound Shift
     - WH /ɸ/ > F /f/
   - Retroflex > Alveolar (losing R)
     - ZR */ɻ/ > /ɹ/
-  - Alvolar + W glide > Alveolar (losing W)
+  - Alveolar + W glide > Alveolar (losing W)
+    - Also applies to Alv + U
   - Alveolar, Dental > Palatal
     - T /t/ > C /c/
     - S /s/ > Ś /ɕ/
@@ -243,14 +242,8 @@ Step by step process of the First Sound Shift
     - Otherwise, insert an epenthetic weak A (changed later)
     - includes fricatives derived from devoiced apprx
   - Trill compensation
-    - Vowels are added before word-initial trills
+    - Vowels are added before word-initial trills, and the trill is geminated
     - E/O depending on front-back of primary stress
-
-- Vowel Elision
-  - When unstressed and when not producing an illegal cluster
-  - Especially following a glottal stop; which then combines with the following sound instead
-  - Never word-initial or word-final consonants
-  - Never adjacent to existing consonant clusters
 
 - Nasal vowel + Hiatus > Oral vowel + Nasal Consonant
   - Consonant depends on original vowel and is NOT AFFECTED BY PLACE CHAIN SHIFT
@@ -313,3 +306,6 @@ Step by step process of the First Sound Shift
     - Central > Ñ
     - Front > Ń
   - Vowel quality is unchanged
+
+- Final loss of length
+  - Due to the effects of length-voicing accord, the widespread use of diphthongs, and several instances of length neutralisation/merger, vowel length becomes a completely allophonic feature; then disappears altogether from the language

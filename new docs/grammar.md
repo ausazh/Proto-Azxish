@@ -1,19 +1,23 @@
 # Grammar
 
+## Word order
+
+VSOT transative / SVT intransative
+T denotes a phrasal Tag, which takes much of the former verbal conjuagtion for Tense, Aspect and Mood
+
+Head-last
+
+Relative clauses expressed using participles in front of nouns
+
+- person that went to the shop = 'shop-going person'
+- person that I saw = 'my-seen person'
+- person that I know the partner of = 'partner-of-my-known person'
+
 ## Verb Conjugation Changes
 
-Tense and mood is moved off the main verb to a phrase-end tag modelled off the question tag (and to the question tag when it exists)
+Tense, aspect and mood is moved off the main verb to a phrase-end tag modelled off the question tag (and to the question tag when it exists)
 
-- Tags are:
-  - âq - indicative tag, derived from uqâ 'is'
-  - an - interrogative tag, derived from ahna
-  - în - conditional tag
-  - as - imperative tag, derived from al
-
-- Tags take tense markings:
-  - ox
-
-Verbs conjugate for certain Aspects, Emphasis/Negation and Location
+Verbs conjugate for Emphasis/Negation and Location
 Most conjugation is moved to the FRONT of the verb
 Each verb has 2 stems - Perfective and Imperfective
 The exact derivation of the stem depends on the most common usage of the verb
@@ -28,9 +32,6 @@ When a verb denotes directional movement, the location is the focus/topic
   - Affirmation
     - Negative - various
     - Emphatic - *hev- > hu-
-  - Aspect
-    - Habitual - *kertop + Impf > kro- + Impf
-    - Inchoative - *kertop + Perf > kro- + Perf
   - Location
     - Here - *umêw- > mû-
     - There - *âve- > vâ-
@@ -65,6 +66,7 @@ When a verb denotes directional movement, the location is the focus/topic
     - êkjap > êkjakan
     - xeki > xekkan
     - atsa > askan
+    - vatsan > vaskan
     - pefa > pefkan
     - gjekan > gjekan
   - perfective form is -af on root
@@ -93,7 +95,7 @@ Note that Locatives *always* attract first consonants, regardless of subsequent 
     - before vowel:
       - qêj- /qɨ:j/ >> qūğ- /ɢu:ɣ/ or qeiğ- /ɢei̯ɣ/ (based on root back/frontness)
   - Proximal - *umêw- > mû-
-    - mũ- /mũ:/ >> mū- /mu:/
+    - mũ- /mũ:/ >> muo- /muo̯/
     - before apx: as usual
     - before stop/afc: mutate to stop to nasal
     - before nasal: nasal attaches and fuses >> breaks hiatus as M OR is dropped
@@ -124,7 +126,7 @@ Note that Locatives *always* attract first consonants, regardless of subsequent 
 
 - negative
   - Infinitive - *êqe > êq-
-  - Proximal - *utwimêw- > tŷmû-
+  - Proximal - *utwimêw- > twimû-
   - Medial - *âxâve- > xâvâ-
   - Distal - *îhomît- > îmî-
 - emphatic
@@ -132,20 +134,73 @@ Note that Locatives *always* attract first consonants, regardless of subsequent 
   - Proximal - *hevumêw- > hûmû-
   - Medial - *hevâve- > hâve-
   - Distal - *hevhomît- > hefmî-
-- hab/inch
-  - Infinitive - *kertopqe > kroqqê-
-  - Proximal - *kertopumêw- > krumû-
-  - Medial - *kertopâve- > krovâ-
-  - Distal - *kertophomît- > kromî-
-- hab/inch negative
-  - Infinitive - *êkertopqe > êkroqqê-
-  - Proximal - *êkertopumêw- > êkrumû-
-  - Medial - *êkertopâve- > êkrovâ-
-  - Distal - *êkertophomît- > êkromî-
-- hab/inch emphatic
-  - Infinitive - *hevkertopqe > huroqqê-
-  - Proximal - *hevkertopumêw- > hukrumû-
-  - Medial - *hevkertopâve- > hukrovâ-
-  - Distal - *hukertophomît- > hukromî-
+
+### Verb Tag
+
+- Tags are (common, formal):
+  - âq-, uqâ- - indicative tag, derived from uqâ 'is'
+  - an-, ahna- - interrogative tag, derived from ahna
+  - ń-, în- - conditional tag
+  - s-, al- - imperative tag, derived from al
+  - kas-, gjân- - prohibitive tag
+    - common form derived from a-ka-l (negative of al)
+    - formal form derived from gjân (prevent)
+  - qân-, n/a - speculative tag, derived from qânal (think)
+    - to use speculative formally, use the verb qêqâlkan with a subjunctive tag
+    - speculative is used only for events out of one's control, or events that have already happened (whose answer we don't know)
+  - man-, mâne- - potential tag, derived from mangê (come)
+    - used to predict abstract or indefinite future events
+  - ol-, ulog- - commissive tag, derived from ulogê (go)
+    - used to state future intentions or speak about future events which one has control over
+
+- Tags take markings in this order:
+  - ox - past tense
+  - kan - habitual aspect
+  - personal inflections (optional)
+    - 1s - mûh
+    - 1p - jâl
+    - 2s - kup
+    - 1+2 - lrap
+    - 2p - me
+    - 3s - qeh
+    - 3d - rêt
+    - 3p - veh
+
+- The exact meanings of tag markings differ per tag
+  - Indicative
+    - Tense
+      - Non-Past - happening now
+      - Past - happened in the past
+      - Non-Past Habit - current habit
+      - Past Habit - past habit
+    - Personal - topic
+  - Conditional
+    - Tense
+      - Non-Past - the result of the condition
+      - Non-Past Habit - the condition
+      - Past - the result of the counterfactual condition
+      - Past Habit - counterfactual condition
+    - Personal - topic
+  - Interrogative
+    - Tense - as INDIC
+    - Personal - speech target
+  - Imperative/Prohibitive
+    - Tense - no tense/aspect inflections
+    - Personal - speech target
+  - Speculative
+    - Tense - no habit inflection
+      - Non-Past - something might be happening/might happen
+      - Past - something might have happened
+    - Personal - speculator
+  - Potential
+    - Tense - no past inflection
+      - Non-Past - something can happen
+      - Non-Past Habit - I can do something
+    - Personal - topic (or potential-holder for habit)
+  - Commissive
+    - Tense - no past inflection
+      - Non-Past - someone intends to do something
+      - Non-Past Habit - someone intends to do something regularly
+    - Personal - the 'intender'
 
 ## Noun stuff
