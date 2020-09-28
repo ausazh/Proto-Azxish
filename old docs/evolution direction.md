@@ -13,6 +13,9 @@ In this doc, I'll be going through general evolutions I'm planning to make
     - Compression of initial C+L into specific Onsets, with many sounds combined or assimilated
     - Compression of final V+C into specific Finals, again with certain sounds combined or assimilated
     - Thus, each syllable will consist of an Onset and a Final
+    - Syllablification of Protolang
+      - stressed syllables attract where possible and matching vowel length-voicing
+      - otherwise, prefer initial consonants
   - Stress-dependent differentiation
     - Stress (primary and secondary) will be broadly maintained, although the effect of affixes and inflections may change
     - Certain Onsets will only be allowable in Stressed positions
@@ -23,7 +26,7 @@ In this doc, I'll be going through general evolutions I'm planning to make
     - Consonant shifts
       - gh /ʕ/ > /ɐ/, with varying results
       - v /v/ > /ʊ~ʋ/ in certain positions
-      - ts /t̪͡s̪/ > th /t̪θ/
+      - ts /t̪͡s̪/ > tth /t̪θ/
       - ch /t͡ʃ/ > ch /cç/
     - Vowel shifts
       - A split - long /ɑ:/ vs short /æ/
@@ -38,6 +41,7 @@ In this doc, I'll be going through general evolutions I'm planning to make
         - Stressed long E/O will move into /i:/ and /u:/ positions
         - in cases where I and U are not nasalised, these will merge
     - Voicing assimilation
+      - Syllable Voicing assimilation occurs AFTER Vowel Voicing  
       - in initial clusters, voicing assimilates easily
       - in cross-syllable clusters, voicing assimilates:
         - Note: voicing assimilation is initially allophonic, introducing new allphones - K > /g/, not g /ɣ/
@@ -53,6 +57,7 @@ In this doc, I'll be going through general evolutions I'm planning to make
             - metathesise first final to onset (creating a new onset cluster, which will then be resolved)
               - ás-zad > sá-zad; áv-fad > vá-fad
               - káx-gá-se > \*kxá-gá-se; nás-zá-se > \*nsá-zá-se
+            - Note that this doesn't include geminated consonants!
     - Length and Final Consonants
       - Long vowels will require voiced or nil finals, short vowels will require voiceless finals
       - In addition, voicing assimilation will occur
@@ -63,7 +68,29 @@ In this doc, I'll be going through general evolutions I'm planning to make
         - Nil final consonants are a special case, where treatment depends on stress
 
 - Some examples (liable to change) of SHIFT #1
-  - 
+
+- SHIFT #2
+  - Some more out-there sound shifts
+    - Consonant Chain Shift
+      - Labial, Laryngeal: retained
+      - New series of Retroflex (Alveolar+R) > Alveolar
+        - TR /tr/ > /ʈ/ > /t/
+      - Dental > Palatal
+        - TH /tθ/ > CJ /tɕ/
+        - THJ /tθj/ > SJ /ɕ/
+      - Palatal > Velar
+        - CH /cç/ > K /k/
+        - SH /ç/ > X /x/
+      - Velar > various
+        - K /k/ > elided
+        - Ñ /ŋ/ > retained or variously backed to /ŋ~ɴ/
+        - X /χ/ > trilled /ʀ̥/
+        - G /ʁ/ > trilled /ʀ/
+        - W /w/ > develarised /β/
+    - Fricative/Approximant opening
+      - V /ʋ/ > /ʊ/
+      - DH /ð/ > /ɐ/
+      - G /ʁ/ is trilled instead as above
 
 ## Grammar
 

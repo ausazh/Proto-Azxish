@@ -1,0 +1,124 @@
+# Evolution Examples
+
+## Preliminary Examples
+
+- uple /'up.le/ 'to drink'
+  - Verb regularisation >> qêuple /'qe:ˌu.plɐ/
+    - perfective > uple; imperf > upleke
+    - lemma root 'where' > qêuple
+    - root 'here' > mûuple
+    - root 'there' > vâuple
+    - root 'o.there' > mîuple
+  - First shift >> qêupla /'qɨ:ˌup̚.ɬɐ/
+    - other forms
+      - impf >> qêuppleka /'qɨ:.upˌpɬɛk̚.ɐ/
+      - here >> mũupla /'mũ:ˌup̚.ɬɐ/
+      - there >> vâupla /'va:ˌup̚.ɬɐ/
+      - o.there >> mĩupla /'mĩ:ˌup̚.ɬɐ/
+    - Syllibification - ˈqêˌup.la, ˈqê.uˌplek.a
+    - Uns E /e/ > A /ɐ/
+    - Str E /e/ > /ɛ/
+    - Str Ê /e:/ > /i:/
+    - Vowel-voicing accord
+      - Uns U requires consonant > geminates P
+    - No-release P, K
+    - Voicing assimilation
+      - devoice L to /ɬ/
+    - Laryngeal vowel shift - /i:/ > /ɨ:/
+  - Second shift >> qűkšo /'ɢu:ʔ.ɕɔ/
+    - other forms
+      - impf >> qűpčéke /'ɢu:pˌt͡ɕɛʔ.ɛ/
+      - here >> mûmúkšo /'mu:ˌmuʔ.ɕɔ/
+      - there >> vâúkšo /'ʋæo̯ˌuʔ.ɕɔ/
+      - o.there >> mîńúkšo /'mĩ:ˌɲuʔ.ɕɔ/
+    - elision of Î from QÎ in verb heading
+      - length and stress transfer to next vowel U
+      - stress combines, leaving no secondary stress
+    - /ɐ/ after Str-back vowel > /ɔ/, after Str-front vowel > /ɛ/
+    - unreleased Unv stop /p̚/ > /ʔ/
+    - /ɬ/ > Ś /ɕ/; /pɬ/ > */pɕ/ > Č /t͡ɕ/
+      - note that previous 'geminated' P remains
+    - /q/ > /ɢ/
+    - /v/ > /ʋ/
+    - Str-Long A /a:/ > /æo̯/
+    - nasal vowel + hiatus > nasal cons
+      - nasal U > M
+      - nasal I > Ń /ɲ/
+
+- omôq /'om.o:q/ 'to eat'
+  - Verb regularisation >> qêomôq /'qe:ˌo.mo:q/
+    - perfective > omôq, imperfective > omôqka
+    - lemma root 'where' > qêomôq
+  - First shift >> qêommhëq /'qɨ:ˌɔm̥m̥ɘ:ɢ̚/, qêammôqka /'qɨ:.ɐmˌmu:q̚.ka/
+    - Syllibification - ˈqêˌom.ôq, ˈqê.oˌmôq.ka
+    - Vowel-voicing accord
+      - Str O devoices M, geminates to next initialless syllable
+      - Uns O geminates next M
+      - Long Ô voices Q > /ɢ̚/
+    - Voicing assimilation - devoice L
+    - Reduce unstr.short O > A /ɐ/
+    - Str-Long O /o:/ > /u:/; Uns > Ë /ɘ:/
+    - qê > qî /'qɨ:/
+  - Second shift >> qoampëñ /'ɢoɐ̯m̥.pɘ:ɴ/, qāmbuokko /'ɢa:mˌbuo̯ʔ.ʔɔ/
+    - elision of Î from QÎ in verb heading
+      - stress and length transfer to stressed short O, forming Ō
+      - stress and length transfer to unstressed A, forming Ā
+    - /ɐ/ after Str-back vowel > /ɔ/
+    - /q/ > /ɢ/
+    - unreleased Voc stop /ɢ̚/ > nasal /ɴ/
+    - Str Ô /u:/ > UO /uo̯/
+    - Ō /ɔ:/ > OA /oɐ̯/
+    - Geminate nasal > nasal + stop (w/ relevant voicing)
+
+- vanhânfri /ˈvanˌħa:nfri/ 'to sing'
+  - Verb regularisation >> qêvanhânfriñ /'qe:vanˌħa:nfriŋ/
+    - imperfective > vanhânfriñ, perfective > vanhânfriñef
+    - lemma root 'where' > qêvanhânfri
+  - First shift
+    - **Results**
+      - qêvänhãfriñ /ˈqɨ:v.æn̥ˌħɐ̃:.fr̥iŋ̊/
+      - qêvänhânfriññaf /ˈqɨ:v.æn̥.ħɑ:n̥ˌfr̥iŋ̊.ŋ̊ɐf/
+    - Syllibification - ˈqêv.anˌhân.friñ, ˈqêv.an.hânˌfriñ.ef
+    - Vowel-voicing accord
+      - A devoices N
+      - Str Â nasalises N
+      - I devoices Ñ; Str I also geminates to next initialless syllable
+    - Voicing assimilation
+      - devoice N in hân preceding stressed F
+      - devoice R after R
+    - Reduce unstr.short E > A /ɐ/
+    - Reduce short A > Ä /æ/
+    - Uns Â /a:/ > /ɑ:/
+    - qê > /'qɨ:/
+  - Second shift
+    - **Results**
+      - qväinhþẽvriñh /ˈɢʋæɪ̯n̥ˌθɛ̃:.ʋriŋ̊/
+      - qväinhþōnþríñqef /ˈɢʋæɪ̯n̥.θɔ:n̥ˌθr̥iɴ.ɢɛf/
+    - elision of Î from QÎ in verb heading
+      - stress and length transfer to unstressed Ä, creating A̋
+      - Stressed A̋ > ÄI /æɪ̯/
+    - /ɐ/ after Str-front vowel > E /ɛ/
+    - /q/ > /ɢ/
+    - Str Ô /u:/ > UO /uo̯/
+    - Uns Â /ɑ:/ > /ɔ:/
+    - Nasal vowel > voice following (fr)
+    - Nasal-Fricative Cluster Assimilation
+      - nh-h /n̥ħ/ > nhþ /n̥θ/
+      - nh-f /n̥f/ > nhþ /n̥θ/
+    - Geminate nasal > nasal + stop
+      - ññ > voiced ñq (due to revoicing of Q)
+
+- talaka /ˈtaˌlaka/ 'bone'
+  - First shift >> tällhäkä /ˈtæɬˌɬæk̚.æ/
+    - Syllibification - ˈtaˌlak.a
+    - Vowel-voicing accord
+      - Str A geminates and devoices following L
+    - Reduce short A > Ä /æ/
+  - Second shift >> cäśśä'ä /ˈcæɕˌɕæʔ.æ/
+    - /ɐ/ after Str-back vowel > /ɔ/
+    - /ɬ/ > Ś /ɕ/
+    - unreleased Unv stop > /ʔ/
+
+- grâmpan /'ʁra:mpan/ 'horn'
+  - First shift >> grãbänh /ˈgrɐ̃:.bæn̥/
+  - Second shift >> grẽbäńh /ˈʀɛ̃:.bæɲ̊/

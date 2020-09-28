@@ -1,0 +1,270 @@
+# Shift Summary
+
+## First Shift
+
+Step by step process of the First Sound Shift
+
+- Resyllibification (and stress assignment)
+  - keeping in mind constraint of maximal syllable CLVC
+  - stressed syllables attract from following unstressed
+    - 'a.ta > 'at.a
+  - syllable-final stops are no-audible-release, unless preceding another stop consonant
+  - Stress assignment follows Vuhinkam rules: first syllable primary, penult secondary.  
+    - 2 syllable words stressed only on the first; 1 syllable words stressed unless taking a functional role.
+
+- Vowel-Voicing Agreement
+  - Goal
+    - Long vowels must be paired with voiced finals
+    - Short vowels must be paired with voiceless finals
+  - Short vowel:
+    - preceding an unvoiced consonant, leave as is
+      - if following syllable has a null initial, gemiate to following syllable
+        - eg. 'om̥.a > 'om̥.m̥a; but 'om̥.ta == 'om̥.ta
+    - preceding a voiced glide (nasal, aprox, R) or fricative, devoice it
+    - preceding a nil final
+      - word-final, leave as is
+      - before a hiatus, insert a glottal stop /ʔ/
+        - written as ʔ in first shift, as K after second
+      - if stressed; devoice and geminate the following consonant
+      - if unstressed; geminate the following consonant but do not devoice
+  - Long vowel:
+    - preceding a voiced fricative, approx or R, leave as is
+    - preceding a nasal when stressed, convert to nasal vowel (and remove nasal consonant)
+    - Nasal vowel shifts
+      - Ã > /ɐ̃:/
+    - preceding an unvoiced consonant, voice it
+
+- Voicing assimilation
+  - clusters must be either wholly voiced or wholly unvoiced
+  - voicing assimilates preferentially to the stressed syllable, otherwise to the first syllable
+  - Approximants also close when devoicing
+    - L /l/ > /ɬ/
+    - J /j/ > /ç/
+    - W /w/ > /xʷ~ɸ/
+  - Nasal vowels force following consonant cluster to be voiced
+
+- Vowel shifts
+  - High vowels
+    - Stressed
+      - Î /i:/ > /ĩ:/, Û /u:/ > /ũ:/
+      - does not happen before nasal consonants (in which case, merges with long mid vowels)
+    - Stressed Initial
+      - Î /i:/ > /ʔĩ:/, Û /u:/ > /ʔũ:/
+      - I /i/ > /ʔi/, U /u:/ > /ʔu/
+    - otherwise retained
+  - Mid vowels
+    - Stressed  
+      - Ê /e:/ > /i:/, Ô /o:/ > /u:/
+      - E /e/ > /ɛ/, O /o/ > /ɔ/
+    - Stressed Initial
+      - Ê /e:/ > JÊ /jɪ:/, Ô /o:/ > WÔ /wʊ:/
+      - E /e/ > /ʔɛ/, O /o/ > /ʔɔ/
+    - Unstressed
+      - Ê /e:/, Ô /o:/ > Ë /ɘ:/
+      - E /e/, O /o/ > A /ɐ/
+  - Low vowel
+    - Stressed  
+      - Â /a:/ > /a:/
+      - A /a/ > Ä /æ/
+    - Stressed Initial
+      - Â /a:/ > /ʔa:/
+      - A /a/ > Ä /ʔæ/
+    - Unstressed  
+      - Â /a:/ > /ɑ:/
+      - A /a/ > Ä /æ/
+
+- Laryngeal Vowel Shift
+  - Front vowels > Central after laryngeal Q, H, GH
+    - I /i/ > /ɨ/
+    - Î /i:/ > /ɨ̃:/ default, /ɨ:/ before nasal consonants
+    - E /e/ > /ɜ/ stressed, A /ɐ/ unstressed
+    - Ê /e:/ > /ɘ:/ stressed and unstressed
+
+- Consonant Shifts
+  - TS /t̪͡s̪/ > TTH /t͡θ/
+
+- Consonant Cluster Reduction
+  - Alveolar + R or R + Alveolar > Retroflex
+    - N, T, S, Z, L
+    - excluding TS/TTH or R itself
+
+- Preliminary vocalisation: GH
+  - GH /ʕ/ >
+    - Note: ignore any syllables created through this change for stress calculation and initial syllabification
+    - Note: if combining GH results in a word-initial vowel, maintain GH in spelling to denote lack of glottal stop
+    - gh-V, C-gh-V
+      - forms diphthong/long vowel with vowel
+        - stressed & unstressed
+          - GHI /ʕi/ > /ʕɨ/ > AI /ɐɪ̯/
+          - GHÎ /ʕi:/ > /ʕɨ̃:/ > Ã /ɐ̃:/
+            - non-nasalised form: */ʕɨ:/ > Ā /ɐ:/
+          - GHU /ʕu/ > AU /ɐʊ̯/
+          - GHÛ /ʕu:/ > /ʕũ:/ > AŨ /ɐʊ̯̃/
+            - non-nasalised form: */ʕu:/ > AU /ɐʊ̯/ (length neutralised)
+          - GHA /ʕa/ > /ʕæ/ > AE /ɑɛ̯/
+          - GHÂ /ʕa:~ʕɑ:/ > Â /a:~ɑ:/
+        - stressed
+          - GHE /ʕe/ > /ʕɜ/ > AE /ɑɛ̯/
+          - GHÊ /ʕe:/ > /ʕɨ:/ > Ā /ɐ:/
+          - GHO /ʕo/ > /ʕɔ/ > AO /ɐɔ̯/
+          - GHÔ /ʕo:/ > /ʕu:/ > AU /ɐʊ̯/
+        - unstressed
+          - GHE /ʕe/, GHO /ʕo/ > /ʕɐ/ > Ā /ɐ:/
+          - GHÊ /ʕe:/, GHÔ /ʕo:/ > /ʕɘ:/ > Ë /ɘ:/
+      - eg. ghâra /'ʕa:r.a/ > ghârä /'a:r.æ/
+        - contrast this with âra /'a:r.a/ > ârä /'ʔa:r.æ/
+      - eg. kestghet /'kes.tʕet/ > kestāt /'kɛs.tɐ:t̚/
+    - gh-L-V
+      - forms a new syllable with vowel A /ɐ/
+      - eg. tânghra /'ta:n.ʕra/ > tânarä /'ta:n.ɐræ/
+    - V-gh
+      - forms diphthong/long vowel with vowel
+        - stressed & unstressed
+          - IGH /iʕ/ > JA /jɐ/
+          - ÎGH /i:ʕ/ > /ĩ:ʕ/ > IÃ /iɐ̯̃/
+            - non-nasalised form: */i:ʕ/ > IA /iɐ̯/
+          - QIGH /qiʕ/ > /qɨʕ/ > QĀ /qɐ:/
+          - QÎGH /qi:ʕ/ > /qɨ̃:ʕ/ > QÃ /ɐ̃:/
+            - non-nasalised form: */ɨ:ʕ/ > QĀ /ɐ:/
+          - UGH /uʕ/ > WA /wɐ/
+          - ÛGH /u:ʕ/ > /ũ:ʕ/ > UÃ /uɐ̯̃/
+            - non-nasalised form: */u:ʕ/ > UA /uɐ̯/
+          - AGH /aʕ/ > /æʕ/ > EA /ɛɐ̯/
+          - ÂGH /a:ʕ~ɑ:ʕ/ > Â /a:~ɑ:/
+        - stressed
+          - EGH /eʕ/ > EA /ɛɐ̯/
+          - QEGH /qeʕ/ > /qɜʕ/ > QĀ /qɐ:/
+          - ÊGH /e:ʕ/ > /i:ʕ/ > IA /iɐ̯/
+          - QÊGH /qe:ʕ/ > /qɘ:ʕ/ > QË /qɘ:/
+          - OGH /oʕ/ > /ɔʕ/ > OA /ɔɐ̯/
+          - ÔGH /o:ʕ/ > /u:ʕ/ > UA /uɐ̯/
+        - unstressed
+          - EGH /eʕ/, GHO /oʕ/ > /ɐʕ/ > Ā /ɐ:/
+          - ÊGH /e:ʕ/, GHÔ /o:ʕ/ > /ɘ:ʕ/ > Ë /ɘ:/
+
+## Second Shift
+
+- Further Common affix elisions
+  - verb initial qê- > q-
+  - when vowels are elided
+    - positive stress and positive length transfers to next available vowel
+      - if already stressed/long, then no extra effect
+    - impossible consonant clusters are broken with a temporary A /ɐ/, whose value will change later in the shift
+
+- Consonant shifts
+  - General shifts
+    - Q /q/ > /ɢ/
+  - Glottal stop
+    - initial glottal stop /ʔ/
+      - preceding Front cons > G /ɟ/
+      - preceding Back cons > Q /ɢ/
+  - Non-released stops
+    - before another stop, forms a geminate stop
+    - before a sibilant, forms an affricate
+    - otherwise
+      - voiced > nasal
+      - unvoiced > ' /ʔ/
+  - Geminate nasals > nasal + stop
+    - with relevant voicing
+      - except Ñ, which re-undergoes Q > /ɢ/
+      - thus both ÑÑH /ŋ̊ŋ̊/ and ÑÑ /ŋŋ/ > ÑQ /ɴɢ/
+  - Fricative/Approximant opening and vocalisation
+    - G /ʁ/ is trilled instead as above
+    - V /v/ > /ʋ/ generally
+    - ZR /ʐ/ > */ɻ/ > /ɹ/ generally
+      - the second step after applying the chain shift
+    - in CCV syllables where the fricative is first:
+      - V > /ʊ/
+      - DH /ð/ > /ɐ/
+      - ZR > /ɹ̩/
+    - in VC syllables:
+      - V /ʋ/ > /ʊ̯/
+      - DH /ð/ > /ɐ̯/
+
+- Place Chain Shift
+  - Applied AFTER all the above consonant shifts
+  - Applied BEFORE all the below consonant shifts
+  - Labial and Laryngeal retained
+  - Retroflex > Alveolar (losing R)
+    - ZR */ɻ/ > /ɹ/
+  - Alveolar, Dental > Palatal
+    - T /t/ > C /c/
+    - S /s/ > Ś /ɕ/
+    - Z, N, L as expected
+      - written as Ź Ń Ĺ
+    - þ /θ/ > Ç /ç/
+    - TTH /tθ/ > Č /tɕ/
+    - LH /ɬ/ > Ś /ɕ/
+  - Palatal > Velar
+    - CH /cç/ > K /k/
+    - SH /ç/ > X /x/
+    - J /j/ > Ğ /ɣ/
+  - Velar > various
+    - K /k/ > elided
+    - Ñ /ŋ/ > retained or variously backed to /ŋ~ɴ/
+    - X /χ/ > trilled GRH /ʀ̥/
+    - G /ʁ/ > trilled GR /ʀ/
+      - these fuse with trilled R's also
+    - W /w/ > develarised /ʋ/, merged with V
+    - WH /χʷ/ > backed /ħ/
+
+- Further Cluster reduction/assimilation
+  - All clusters of stop + Ś /ɕ/ > Č /tɕ/
+  - Nasal-Fricative clusters
+    - These occur after place shift
+    - All nasal + fricative clusters assimilate the fricative to the PoA of the nasal
+      - Sibilant quality is retained:
+        - S <> Ś; þ /θ/ <> Ç <> all other fricatives
+      - eg. omhho /ɔm̥ħɔ/ > omfo /ɔm̥fɔ/
+      - Ñ uses velar X/Ğ as /ŋ̊x/ and /ŋɣ/
+      - MV /mʋ/ pronounced \[mv] or \[mβ]
+
+- Nasal vowel + Hiatus > Oral vowel + Nasal Consonant
+  - Consonant depends on original vowel and is NOT AFFECTED BY PLACE CHAIN SHIFT
+  - Vowel is considered BEFORE VOWEL SHIFTS
+  - Back vowels > M /m/
+  - Front vowels > Ń /ɲ/
+  - Central vowels > N /n/
+
+- Vowel shifts
+  - Back-Front vowel split
+    - central vowels tend to take on the back/frontness value of the closest previous stressed syllable in the word
+      - a few other vowels also participate
+      - stressed vowels can also mutate; secondary following primary and primary mutating arbitrarily
+    - stressed & unstressed
+      - I /ɨ/, Ê/Î /ɨ:/, Ĩ /ɨ̃:/
+        - front > E /e/, EI /ei̯/, EĨ /eĩ̯/
+          - note that this exclusively occurs after laryngeals
+        - back > U /u/, Ū /u:/, Ũ /ũ:/
+      - Ë /ɘ:/
+        - front > Ê /e:/
+        - back > E̋ /ɤ:/
+      - E /ɜ/
+        - front > E /ɛ/
+        - back > Â /ʌ/
+      - A /ɐ/, Ā /ɐ:/, Ã /ɐ̃:/
+        - front > E /ɛ/, EA /eɐ̯/, Ẽ /ɛ̃:/
+        - back > O /ɔ/, OA /oɐ̯/, Õ /ɔ̃:/
+    - unstressed only
+      - I /i/, Î /i:/
+        - front > retain I, Ī
+        - back > Ë /ɤ/, ËI /ɤɪ̯/
+      - U /u/, Û /u:/
+        - front > Y /y/, Ȳ /y:/
+        - back > retain U, Ū
+    - stressed only
+      - Â /a:/
+        - front > AO /æo̯/
+        - back > AE /ɑe̯/
+  - Dipthongisation
+    - stressed only
+      - A̋ /æ:/ > ÄI /æɪ̯/
+      - Ē /ɔ:/ > EA /eɐ̯/
+      - Ê~Î /i:/ > IE /ie̯/
+      - Ô~Û /u:/ > UO /uo̯/
+      - Ō /ɔ:/ > OA /oɐ̯/
+  - Other vowel changes
+    - stressed & unstressed
+      - EA /ɛɐ̯/, OA /ɔɐ̯/ > EA /eɐ̯/, OA /oɐ̯/
+    - unstressed
+      - Â /ɑ:/ > Ō /ɔ:/
