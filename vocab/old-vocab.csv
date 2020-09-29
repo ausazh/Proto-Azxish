@@ -11,7 +11,7 @@ añagi, VERB, To hear
 qâlkja, VERB, To know
 pefithê, VERB, To sleep
 itihimê, VERB, To die (not live)
-ûtihgîlas, VERB, To kill
+
 uqêzla, VERB, To swim
 uqpûhal, VERB, To fly
 pefa, VERB, To lie (on your side)
@@ -63,11 +63,11 @@ kînal, VERB, To bring
 lîuntâ, VERB, To make
 ñaxug, VERB, To meet
 pivâh, VERB, To argue
-ghôlqe, VERB, To become
+
 herpô, VERB, To prosper
 evrûp, VERB, To disagree
 arâmhe, VERB, To part
-îxegh, VERB, To follow
+
 xexên, VERB, To pass/go by
 vahâq, VERB, To ask
 utûmhe, VERB, To join/attach
@@ -111,7 +111,6 @@ xelak, NOUN, Person (A)
 êzvla, NOUN, Fish (A)
 pûhal, NOUN, Bird (A)
 fipomla, NOUN, Dog (A)
-hoghjal, NOUN, Insect (I)
 tsala, NOUN, Tree (I)
 tsale, NOUN, Plant (I) (small tree)
 gêam, NOUN, Leaf (I)
@@ -139,7 +138,6 @@ kêwma, NOUN, Knee (I)
 lîxehaq, NOUN, Hand (I)
 vûreal, NOUN, Belly (I)
 qômah, NOUN, Neck (I)
-uqsiagh, NOUN, Heart (A)
 qrêa, NOUN, Sun (E)
 val, NOUN, Moon (E)
 jâwta, NOUN, God (E)
@@ -163,14 +161,13 @@ arfax, NOUN, Child (A)
 washîa, NOUN, Wife (A)
 zimaq, NOUN, Husband (A)
 chaqam, NOUN, Mother (A)
-hrêpgha, NOUN, Father (A)
 oga, NOUN, Animal (A)
 hôktsal, NOUN, Forest (I)
 tsaln, NOUN, Stick (I)
 ixeha, NOUN, Fruit (I)
 mak, NOUN, Flower (I)
 etermak, NOUN, Grass (I)
-uktramak, NOUN, Rope (I)
+
 xukâmal, NOUN, Wing (A)
 lijam, NOUN, Back (I)
 ukêza, NOUN, River (A)
@@ -192,7 +189,6 @@ wahîa, NOUN, Argument (A)
 vâkutsa, NOUN, Road (A)
 mêa, NOUN, Wisdom (E)
 xompaj, NOUN, Progress (I)
-goghta, NOUN, Flow (A)
 chûjas, NOUN, Size (I)
 jar, NOUN, Life (E)
 tsira, NOUN, Hill (I)
@@ -208,7 +204,6 @@ chupa, DET, Many
 shêña, DET, Some
 xi, DET, Few
 âjah, DET, Every
-verto, DET, More
 hêm, CONJ, And
 pru, CONJ, If 
 ver, CONJ, Because
@@ -227,7 +222,7 @@ qi, ADV, How
 âve, ADV, Near
 rêmuh, ADV, Far
 ghug, ADV, Right
-ighêmpi, ADV, Left
+
 
 metafke, ADJ, Big
 pefke, ADJ, Small
@@ -236,12 +231,12 @@ ugane, ADJ, Wide
 pre, ADJ, Hot
 aut, ADJ, Cold
 vêf, ADJ, Full
-kertop, ADJ, New
+
 ômve, ADJ, Old
 ñîxe, ADJ, Round
 fritô, ADJ, Dry
 frito, ADJ, Thick
-kigertar, ADJ, Heavy
+
 pûvloñ, ADJ, Short
 nex, ADJ, Narrow
 gôrkem, ADJ, Thin
@@ -249,7 +244,7 @@ hev, ADJ, Good
 irpêg, ADJ, Bad
 uvewî, ADJ, Rotten
 hârke, ADJ, Dirty
-mughet, ADJ, Straight
+
 wôthan, ADJ, Sharp
 grûsti, ADJ, Dull
 pumwê, ADJ, Correct
@@ -258,8 +253,23 @@ mexî, ADJ, Useful
 gûtji, ADJ, Powerful
 jewom, ADJ, Proud
 glip, ADJ, Mighty
-mwîgegh, ADJ, Hard/Difficult
+
 kalâ, ADJ, Smug/Priggish
 firêm, ADJ, Enternal
 
 wahra, NOUN, Mistake (I)
+verto, DET, More
+kertop, ADJ, New
+kigertar, ADJ, Heavy
+uktramak, NOUN, Rope (I)
+
+îxegh, VERB, To follow
+mughet, ADJ, Straight
+mwîgegh, ADJ, Hard/Difficult
+ighêmpi, ADV, Left
+ghôlqe, VERB, To become
+hoghjal, NOUN, Insect (I)
+goghta, NOUN, Flow (A)
+hrêpgha, NOUN, Father (A)
+uqsiagh, NOUN, Heart (A)
+ûtihgîlas, VERB, To kill

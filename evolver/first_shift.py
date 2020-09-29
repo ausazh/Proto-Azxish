@@ -1,90 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 29 17:23:17 2020
 
-@author: Andi
-
-Used to convert systematically convert Vuhinkam vocab to new
-
-To use:
-(to be used in an interpreter environment coz I'm lazy)
-
-run the script, then use evolve()
-
-evolve() takes two optional arguments:
-    src - the source of the vocab to evolve, defaults to vocab/old-vocab.csv
-    dest - the destination to place evolved vocab, defaults to vocab/new-vocab.csv
-    *Note that evolve will OVERWRITE files
-
-source file should be a csv file with 3 columns: word, word class, translation
-destination file will be a similar format with 4 columns: word, word class, translation, old word (for reference)
-
-LATER:
-    write a specaialised verb evolver, which will derive all 4 roots
-        (part, neg part, perf, imperf)
-    as well as all 24 conjugations (perf-impf * aff-neg-emp * inf-prox-med-dist)
-    will need a specialised source file with verbs marked for PERF or IMPERF base
-        also irregular words will need to be manually edited from original source
-        
-"""
-
-import csv, warnings
-
-# constants and defaults
-DEFAULT_SRC = 'vocab/old-vocab.csv'
-DEFAULT_DEST = 'vocab/new-vocab.csv'
-
-EXAMPLE_LIST = [['uple', 'VERB', 'To drink'],
-                ['omoq', 'VERB', 'To eat']]
-
-IPA_VUHINKAM_DIGRAPHS = {'ts': 't͡s', 'ch': 't͡ʃ', 'sh': 'ç', 'gh': 'ʕ'}
-
-IPA_VUHINKAM = {'m': 'm', 'n': 'n', 'ñ': 'ŋ',
-                'p': 'p', 't': 't', 'k': 'k', 'q': 'q',
-                'f': 'f', 's': 's', 'x': 'x', 'h': 'ħ',
-                'v': 'v', 'z': 'z', 'g': 'ɣ',
-                'w': 'w', 'l': 'l', 'j': 'j', 'r': 'r',
-                'a': 'a', 'e': 'e', 'i': 'i', 'o': 'o', 'u': 'u',
-                'â': 'aː', 'ê': 'eː', 'î': 'iː', 'ô': 'oː', 'û': 'uː'}
-
-IRREG_GEMINATE = {'t͡s': 't', 't͡ʃ': 't', 'd͡z': 'd', 'd͡ʒ': 'd', 'xʷ': 'x'}
-
-VUHINKAM_VOWELS = ['a', 'e', 'i', 'o', 'u', 'aː', 'eː', 'iː', 'oː', 'uː']
-VUHINKAM_LIQUIDS = ['r', 'w', 'l', 'j', 'm', 'n', 'ŋ']
-VUHINKAM_NASALS = ['m', 'n', 'ŋ']
-VUHINKAM_FRICS = ['f', 's', 'x', 'ħ', 'v', 'z', 'ɣ', 'ç', 'ʕ']
-
-# First Shift changes
-# Short and long vars given to all these due to fricatives
-TO_NASALISE = {'iː': 'ĩː', 'uː': 'ũː', 'i': 'ĩ', 'u': 'ũ'}
-TO_CLOSE = {'eː': 'iː', 'oː': 'uː', 'e': 'i', 'o': 'u'}
-TO_OPEN = {'e': 'ɛ', 'o': 'ɔ', 'eː': 'ɛː', 'oː': 'ɔː'}
-TO_BACK = {'aː': 'ɑː', 'a': 'ɑ'}
-TO_FRONT = {'a': 'æ', 'aː': 'æː'}
-# Exceptionally; unstressed long/short E and O centralise as actual long/short
-TO_CENTRALISE = {'e': 'ɐ', 'o': 'ɐ', 'eː': 'ɘː', 'oː': 'ɘː'}
-
-VUHINKAM_VOICED = {'m': 'm̥', 'n': 'n̥', 'ŋ': 'ŋ̊',
-                   'v': 'f', 'z': 's', 'ɣ': 'x', 'ʕ': 'ħ',
-                   'w': 'xʷ', 'l': 'ɬ', 'j': 'ç', 'r': 'r̥'}
-VUHINKAM_UNVOICED = {'p': 'b', 't': 'd', 'k': 'g', 'q': 'ɢ',
-                     't͡s': 'd͡z', 't͡ʃ': 'd͡ʒ',
-                     'f': 'v', 's': 'z', 'ç': 'ʝ', 'x': 'ɣ', 'ħ': 'ʕ'}
-ASSIMILATING_VOICED = VUHINKAM_VOICED.copy()
-ASSIMILATING_VOICED.update({'b': 'p', 'd': 't', 'g': 'k', 'ɢ': 'q',
-                            'd͡z': 't͡s', 'd͡ʒ': 't͡ʃ', 'w': 'ɸ', 'ʝ': 'ç'})
-ASSIMILATING_UNVOICED = VUHINKAM_UNVOICED.copy()
-ASSIMILATING_UNVOICED.update({'m̥': 'm', 'n̥': 'n', 'ŋ̊': 'ŋ',
-                              'xʷ': 'ɣʷ', 'ɬ': 'l', 'r̥': 'r'})
-
-def is_vuh_long_vowel(v):
-    return v in VUHINKAM_VOWELS and len(v) > 1
-def lengthen_vuh_vowel(v):
-    if is_vuh_long_vowel(v):
-        return v
-    return v + 'ː'
-def shorten_vuh_vowel(v):
-    return v[:-1]
+import warnings
+from syllable import Syllable
+from first_shift_constants import *
 
 # is hiatus between i and i+1
 def is_hiatus(word, i):
@@ -93,79 +10,24 @@ def is_hiatus(word, i):
     return (word[i].vowel_position == len(word[i]) - 1
                 and word[i+1].vowel_position == 0)
 
-''' 
-update_vowel(new): change the vowel
-update_vowel_length(l): change vowel length (True or False)
-      'vowel length' is distinct from actual vowel length as it can be frozen by certain things
-      remember to change vowel length when updating vowel if it is required!
-      at the end of each Shift, vowel length will also be updated
-swap_cons(pos, new): swap a consonant at position pos with a single other consonant 
-add_cons(pos, new): add a new consonant at position X
-remove_cons (pos): remove a consonant
-
-Note: During formation, anything goes
-however, after syllabification, all mutations should be done through specific methods!
-Perform actions one at a time!
-'''
-class Syllable(list):
-    def __init__(self, *args, **kwargs):
-        super(Syllable, self).__init__(*args, **kwargs)
-        self.stress = False
-        self.vowel = None
-        self.vowel_position = None
-        self.is_long_vowel = None
-    def is_vowel_initial(self):
-        return self.vowel_position == 0
-    def is_vowel_final(self):
-        return self.vowel_position == len(self) - 1
-    def set_vowel(self):
-        for i in range(len(self)):
-            s = self[i]
-            if s in VUHINKAM_VOWELS:
-                self.vowel = s
-                self.vowel_position = i
-                self.is_long_vowel = is_vuh_long_vowel(s)
-                return s
-        warnings.warn('Syllable ' + str(self) + ' has no vowel!')
-        return None
-    def update_vowel(self, new):
-        self.vowel = new
-        self[self.vowel_position] = new
-    def swap_cons(self, pos, new):
-        if self.vowel_position != pos:
-            self[pos] = new
-            return
-        warnings.warn('Attempting to swap cons ' + new +
-                      ' into pos ' + str(pos) +
-                      'in syllable: '  + str(self))
-    def add_cons(self, pos, new):
-        # Doesn't check for phonotactic rule breaches
-        # NOTE: as opposed to the insert function
-        if pos < 0:
-            pos += len(self) + 1 # just for the following comparison
-        if self.vowel_position >= pos:
-            self.vowel_position += 1
-        self.insert(pos, new)
-    def remove_cons(self, pos):
-        if pos < 0:
-            pos += len(self) # just for the following comparison
-        if self.vowel_position == pos:
-            warnings.warn('Attempting to remove consonant at vowel position ' + str(pos) + 'in syllable: '  + str(self))
-        elif self.vowel_position > pos:
-            self.vowel_position -= 1
-        self.pop(pos)
-            
-# Import vocab list from source
-def import_vocab(src):
-    with open(src, newline='', encoding='utf-8') as f:
-        reader = csv.reader(f)
-        data = list(reader)
-    return data
-
-# Export vocab list to dest
-def export_vocab(dest, vocab):
-    #print(vocab)
-    return
+# functions to retrieve adjacents, regardless of syllable structure
+def get_preceding(word, i, pos):
+    if pos > 0:
+        return word[i][pos-1]
+    if i > 0:
+        return word[i-1][-1]
+    #warnings.warn('Attempting to retrieve preceding of initial at ' + str(word))
+    return None
+def get_following(word, i, pos):
+    if pos + 1 < len(word[i]):
+        return word[i][pos+1]
+    if i + 1 < len(word):
+        return word[i+1][0]
+    #warnings.warn('Attempting to retrieve following of final at ' + str(word))
+    return None
+    
+def get_adjacent(word, i, pos):
+    return (get_preceding(word, i, pos), get_following(word, i, pos))
 
 # Evolution steps: First Shift
 def ipaify(word):
@@ -229,7 +91,7 @@ def syllabify(word):
             else:
                 warnings.warn('Illegal consonant cluster: unresolvable CC: ' +str(word))
         s.set_vowel()
-    print('syllabified ' + str(syllables))
+    #print('syllabified ' + str(syllables))
     return syllables
 
 # goal: long vowels paired with voiced finals; short vowels paired with unvoiced
@@ -279,7 +141,7 @@ def agree_vowel_voicing(word):
                     and s[-1] != 'ʔ'):
                 word[i+1].add_cons(0, s[-1])
                 s.swap_cons(-1, IRREG_GEMINATE.get(s[-1], s[-1]))
-    print('agreed length-voicing ' + str(word))
+    #print('agreed length-voicing ' + str(word))
     return word    
 
 def shift_vowel_first(word):
@@ -326,47 +188,156 @@ def shift_vowel_first(word):
                 # I/U stay as is
                 if s.vowel in TO_CENTRALISE:
                     s.update_vowel(TO_CENTRALISE[s.vowel])
-    print('shifted vowel (1) ' + str(word))
+    #print('shifted vowel (1) ' + str(word))
     return word    
 
 def assimilate_voicing(word):
     for i in range(len(word)):
         s = word[i]
+        # Fricative-Consonant UV-V clusters assimilate to V, excluding apx and R
         # Do onset cluster assimilation
         if s.vowel_position >= 2:
-            if s[0] in ASSIMILATING_VOICED and s[1] in ASSIMILATING_UNVOICED:
+            if (s[0] in TO_VOICE_FRICS
+                    and s[1] in ASSIMILATING_VOICED
+                    and s[1] not in VOICING_FOLLOWS_EXCS):
+                s.swap_cons(0, ASSIMILATING_UNVOICED[s[0]])
+                # UV-UV(F)-V assimilates to V-V-V
+                prec = get_preceding(word, i, 0)
+                if prec in ASSIMILATING_UNVOICED:
+                    word[i-1].swap_cons(-1, ASSIMILATING_UNVOICED[prec])
+            elif s[0] in ASSIMILATING_VOICED and s[1] in ASSIMILATING_UNVOICED:
                 s.swap_cons(1, ASSIMILATING_UNVOICED[s[1]])
-            if s[0] in ASSIMILATING_UNVOICED and s[1] in ASSIMILATING_VOICED:
+            elif s[0] in ASSIMILATING_UNVOICED and s[1] in ASSIMILATING_VOICED:
                 s.swap_cons(1, ASSIMILATING_VOICED[s[1]])
+
+        # Nasal vowels force following cluster to be voiced
+        if s.vowel in VOICING_NASALS:
+            if s.is_vowel_final():
+                fol = get_following(word, i, s.vowel_position)
+                if fol in ASSIMILATING_UNVOICED:
+                    word[i+1].swap_cons(0, ASSIMILATING_UNVOICED[fol])
+            elif s[-1] in ASSIMILATING_UNVOICED:
+               s.swap_cons(-1, ASSIMILATING_UNVOICED[s[-1]])
+
         # Do inter-syllable cluster assimilation
         if i + 1 >= len(word):
             continue # no following syllable to assimilate
         s1 = word[i+1]
         if s.is_vowel_final() or s1.is_vowel_initial():
             continue # no cluster to assimilate
-        if s[-1] in ASSIMILATING_VOICED and s1[0] in ASSIMILATING_UNVOICED:
+        if (s[-1] in TO_VOICE_FRICS
+            and s1[0] in ASSIMILATING_VOICED
+            and s1[0] not in VOICING_FOLLOWS_EXCS):
+            s.swap_cons(-1, ASSIMILATING_UNVOICED[s[-1]])
+        elif s[-1] in ASSIMILATING_VOICED and s1[0] in ASSIMILATING_UNVOICED:
             s1.swap_cons(0, ASSIMILATING_UNVOICED[s1[0]])
-        if s[-1] in ASSIMILATING_UNVOICED and s1[0] in ASSIMILATING_VOICED:
+        elif s[-1] in ASSIMILATING_UNVOICED and s1[0] in ASSIMILATING_VOICED:
             s1.swap_cons(0, ASSIMILATING_VOICED[s1[0]])
-    print('assimilated clusters ' + str(word))
+    #print('assimilated clusters ' + str(word))
     return word    
 
 def shift_laryngeal_vowel(word):
+    for i in range(len(word)):
+        s = word[i]
+        prec = get_preceding(word, i, s.vowel_position)
+        if (prec in LARYNGEALS and s.vowel in LARING_VOWELS):
+            s.update_vowel(LARING_VOWELS[s.vowel])
     return word    
 
 def shift_cons_first(word):
-    return word    
-
-def reduce_cluster_first(word):
+    for i in range(len(word)):
+        s = word[i]
+        # TS > TTH
+        if 't͡s' in s:
+            s.swap_cons(s.index('t͡s'), 't͡θ')
+        # W > Ẅ after palatal cons or before I
+        if 'w' in s:
+            pos = s.index('w')
+            prec, fol = get_adjacent(word, i, pos)
+            if prec in FIRST_PALATALS or fol in FIRST_I_VARS:
+                s.swap_cons(pos, 'ɥ')
+        # Alv + R > Retroflex
+        pos = -1
+        if 'r' in s: pos = s.index('r')
+        if 'r̥' in s: pos = s.index('r̥')
+        if pos >= 0:            
+            prec, fol = get_adjacent(word, i, pos)
+            merged = False
+            if prec in RETRING_ALVS:
+                merged = True
+                if pos == 0:
+                    word[i-1].swap_cons(-1, RETRING_ALVS[prec])
+                else:
+                    s.swap_cons(pos-1, RETRING_ALVS[prec])
+            if fol in RETRING_ALVS:
+                merged = True
+                if pos + 1 == len(s):
+                    word[i+1].swap_cons(0, RETRING_ALVS[fol])
+                else:
+                    s.swap_cons(pos+1, RETRING_ALVS[fol])
+            if merged:
+                s.remove_cons(pos)
+    #print("lar'd I/E and shifted cons " + str(word))
     return word    
 
 def vocalise_gh(word):
+    for i in range(len(word)):
+        s = word[i]
+        if 'ʕ' not in s:
+            continue
+        pos = s.index('ʕ')
+        # GH-V-(C) or C-GH-V-(C) > rising dipthong
+        if (pos == s.vowel_position - 1):
+            s.remove_cons(pos)
+            s.update_vowel(GH_FIRST[s.vowel])
+        # (CL)-V-GH > falling dipthong
+        elif (pos == s.vowel_position + 1):
+            s.remove_cons(pos)
+            vowel = GH_SECOND[s.vowel]
+            if vowel in GH_TO_REJIG:
+                glide, vowel = GH_TO_REJIG[vowel]
+                s.add_cons(s.vowel_position, glide)
+            s.update_vowel(vowel)
+        # GH-L-V-(C) >
+        elif (pos == s.vowel_position - 2):
+            # V|GH-L-V > falling dipthong in previous
+            if i > 0 and word[i-1].is_vowel_final:
+                s.remove_cons(pos)
+                vowel = GH_SECOND[s.vowel]
+                if vowel in GH_TO_REJIG:
+                    glide, vowel = GH_TO_REJIG[vowel]
+                    word[i-1].add_cons(s.vowel_position, glide)
+                    word[i-1].update_vowel(vowel)
+            else: # C|GH-L-V > new vowel 'A'
+                s.remove_cons(pos)
+                s.add_cons(pos, 'ɐ')
+        else:
+            warnings.warn("uhh there's an error in GH voxing for " + str(word))
+    #print('vocalised gh ', str(word))
     return word        
 
+def derelease_stops(word):
+    for s in word:
+        if s[-1] in STOPS_TO_DERELEASE:
+            s.swap_cons(-1, s[-1] + '̚') 
+    return word
+
 def desyllabify(word):
-    return word    
+    desyl = ''
+    stressed = False
+    for s in word:
+        if s.stress:
+            if not stressed:
+                desyl += 'ˈ'
+                stressed = True
+            else:
+                desyl += 'ˌ'
+        for l in s:
+            desyl += l
+    return desyl
 
 def first_shift(word):
+    print('---old word: ' + str(word) + ' ---')
     word = ipaify(word)
     word = syllabify(word)
     word = agree_vowel_voicing(word)
@@ -374,34 +345,8 @@ def first_shift(word):
     word = assimilate_voicing(word)
     word = shift_laryngeal_vowel(word)
     word = shift_cons_first(word)
-    word = reduce_cluster_first(word)
     word = vocalise_gh(word)
+    word = derelease_stops(word)
     word = desyllabify(word)
+    print('>>>new word: ' + str(word) + ' <<<')
     return word
-
-# Evolution steps: First Shift
-def second_shift(word):
-    return word
-
-# Evolve a word
-def evolve_word(line):
-    word, word_type, translation = line
-
-    first_word = first_shift(word)
-    second_word = second_shift(first_word)
-
-    return [second_word, word_type, translation, word]
-
-
-# the final function
-def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
-    print ('importing vocab from ' + src)
-    old_vc = import_vocab(src)
-    
-    print ('evolving vocab...')
-    new_vc = [evolve_word(line) for line in old_vc if line]
-    
-    print('exporting vocab to ' + dest)
-    export_vocab(dest, new_vc)
-    return new_vc
-

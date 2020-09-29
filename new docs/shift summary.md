@@ -85,7 +85,7 @@ Step by step process of the First Sound Shift
       - A /a/ > Ä /æ/
 
 - Voicing assimilation
-  - clusters must be either wholly voiced or wholly unvoiced
+  - clusters should be either wholly voiced or wholly unvoiced
   - voicing assimilates preferentially to the stressed syllable, otherwise to the first syllable
   - in onset clusters, voicing assimilates to the first consonant
   - Approximants also close when devoicing
@@ -93,15 +93,20 @@ Step by step process of the First Sound Shift
     - J /j/ > /ç/
     - W /w/ > /ɸ/
       - NOTE W: when devoicing via agreement, devoice to /xʷ/ instead
+
   - Nasal vowels force following consonant cluster to be voiced
   - Fricative-Consonant UV-V clusters assimilate to voiced second consonant instead (excluding approximants and R)
+    - in UV-UV-V clusters where second and third are Fric and applicable Cons; this rule takes priority, and extends further back to first consonant
+      - eg. aksna > agzna, but akna > aknha
+    - in CCC clusters where first and second are Fric/Cons, the third must necessarily be voiced; thus UV-V-V naturally assimilates
+      - eg. asvna > azvna
 
 - Laryngeal Vowel Shift
   - Front vowels > Central after laryngeal Q, H, GH
     - I /i/ > /ɨ/
-    - Î /i:/ > /ɨ̃:/
-    - E /e/ > /ɜ/ stressed, A /ɐ/ unstressed
-    - Ê /e:/ > /ɘ:/ stressed and unstressed
+    - Î /ĩ:/ > /ɨ̃:/
+    - E /ɛ/ > /ɜ/
+    - Ê /i:/ > /ɨ:/
 
 - Consonant Shifts
   - TS /t̪͡s̪/ > TTH /t͡θ/
@@ -113,6 +118,7 @@ Step by step process of the First Sound Shift
   - Alveolar + R or R + Alveolar > Retroflex
     - N, T, S, Z, L
     - excluding TS/TTH or R itself
+    - in clusters of Alv-R-Alv, retroflex both
 
 - Preliminary vocalisation: GH
   - GH /ʕ/ >
