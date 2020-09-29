@@ -1,0 +1,265 @@
+uple,VERB,To drink
+omôq,VERB,To eat
+ihemê,VERB,To live
+uqâ,VERB,To be 
+mândgê,VERB,To come
+ulogê,VERB,To go 
+xekan,VERB,To walk
+ûkân,VERB,To bite 
+êkjap,VERB,To see
+añagi,VERB,To hear
+qâlkja,VERB,To know
+pefithê,VERB,To sleep
+itihimê,VERB,To die (not live)
+ûtihgîls,VERB,To kill
+uqêzla,VERB,To swim
+uqpûhal,VERB,To fly
+pefa,VERB,To lie (on your side)
+gjekan,VERB,To sit
+xeki,VERB,To stand
+glankî,VERB,To give
+vatakas,VERB,To say
+hanhâme,VERB,To burn
+upvat,VERB,To suck
+gjupvat,VERB,To spit
+vatsenakan,VERB,To vomit
+vatsen,VERB,To blow
+vatsan,VERB,To breathe
+atsa,VERB,To laugh
+qâlan,VERB,To think
+vatsede,VERB,To smell
+qâithim,VERB,To fear
+ûtilg,VERB,To fight
+varhti,VERB,To hunt
+ôtlun,VERB,To hit
+wôtiq,VERB,To cut
+ôtwô,VERB,To split
+ôlu,VERB,To stab
+wana,VERB,To scratch
+mewân,VERB,To dig
+xê,VERB,To stand 
+lanti,VERB,To turn
+gjxê,VERB,To fall
+lankî,VERB,To take
+lîhaq,VERB,To hold
+metlîhaq,VERB,To squeeze
+haqop,VERB,To have
+lîxil,VERB,To rub
+lîxêv,VERB,To wash 
+lîn,VERB,To wipe
+lîxeq,VERB,To pull
+gjlîxeq,VERB,To push
+mândlî,VERB,To throw
+hôiden,VERB,To tie
+hoistên,VERB,To sew
+hûint,VERB,To count
+vanhânfri,VERB,To sing
+veranmen,VERB,To play (games)
+uqkrêha,VERB,To float
+uqêz,VERB,To flow
+uqautêv,VERB,To freeze
+uqñî,VERB,To swell
+kînal,VERB,To bring
+lîuntâ,VERB,To make
+ñaxug,VERB,To meet
+pivâh,VERB,To argue
+ghôlqe,VERB,To become
+herpô,VERB,To prosper
+evrûp,VERB,To disagree
+arâmhe,VERB,To part
+îxegh,VERB,To follow
+xexên,VERB,To pass/go by
+vahâq,VERB,To ask
+utûmhe,VERB,To join/attach
+tamhe,VERB,To remain
+vahâq,VERB,To ask
+gjâñ,VERB,To prevent/deter
+îxam,VERB,To help
+vatvân,VERB,To shout
+glankîkan,VERB,To adore/love
+etîvatfâ,VERB,To boast
+xekakân,VERB,To march
+ôtlukîn,VERB,To break
+xelkan,VERB,To arrive
+vâo,VERB,To be shocked
+ûle,VERB,To loose
+qâlkjes,VERB,To realize
+gjxexan,VERB,To wait
+etî,PRN,I 
+utû,PRN,You (sg)
+utôt,PRN,You (dul)
+utoj,PRN,You (pl)
+ñatôt,PRN,We (dul)
+ñaoj,PRN,We (pl)
+kê,PRN,They (sg)
+kêot,PRN,They (dul)
+kêoj,PRN,They (pl)
+qer,PRN,Who
+qîu,PRN,What
+keir,PREP,Of
+vlo,PREP,With 
+fes,PREP,Like/As
+zo,PREP,After
+îk,PREP,Before
+hû,PREP,From
+pre,NUM,One (I)
+qôt,NUM,Two (I)
+ghûma,NUM,Three (I)
+giheam,NOUN,Woman (A)
+choam,NOUN,Man (A)
+xelak,NOUN,Person (A)
+êzvla,NOUN,Fish (A)
+pûhal,NOUN,Bird (A)
+fipomla,NOUN,Dog (A)
+hoghjal,NOUN,Insect (I)
+tsala,NOUN,Tree (I)
+tsale,NOUN,Plant (I) (small tree)
+gêam,NOUN,Leaf (I)
+supat,NOUN,Tree Bark (I)
+puat,NOUN,Skin (I)
+ñaka,NOUN,Flesh (I)
+ñêka,NOUN,Meat (to eat) (A)
+êvñêka,NOUN,Blood (I)
+talaka,NOUN,Bone (A)
+kehuma,NOUN,Egg (I)
+grâmpan,NOUN,Horn (I)
+lupax,NOUN,Tail (I)
+krêhan,NOUN,Feather (I)
+xukla,NOUN,Hair (I)
+vâka,NOUN,Head (I)
+gîlmañ,NOUN,Ear (I)
+êkjômap,NOUN,Eye (I)
+flezchâma,NOUN,Nose (I)
+vats,NOUN,Mouth (I)
+ûka,NOUN,Tooth (I)
+shichag,NOUN,Tongue (A)
+vufar,NOUN,Claw (I)
+kwenja,NOUN,Foot (I)
+kêwma,NOUN,Knee (I)
+lîxehaq,NOUN,Hand (I)
+vûreal,NOUN,Belly (I)
+qômah,NOUN,Neck (I)
+uqsiagh,NOUN,Heart (A)
+qrêa,NOUN,Sun (E)
+val,NOUN,Moon (E)
+jâwta,NOUN,God (E)
+tixêka,NOUN,Star (E)
+êvza,NOUN,Water (E)
+verja,NOUN,Rain (A)
+reqa,NOUN,Stone (I)
+êvreqa,NOUN,Sand (I)
+metireqa,NOUN,Earth (I)
+valjân,NOUN,Cloud (I)
+hanvaljâ,NOUN,Smoke (A)
+hanema,NOUN,Fire (A)
+hauhâ,NOUN,Ashes (I)
+shechaq,NOUN,Path (I)
+xetaq,NOUN,Mountain (I)
+gjîkâ,NOUN,Night (I)
+îksâ,NOUN,Day (I)
+pûriax,NOUN,Name (A)
+sunam,NOUN,Other (I~A)
+arfax,NOUN,Child (A)
+washîa,NOUN,Wife (A)
+zimaq,NOUN,Husband (A)
+chaqam,NOUN,Mother (A)
+hrêpgha,NOUN,Father (A)
+oga,NOUN,Animal (A)
+hôktsal,NOUN,Forest (I)
+tsaln,NOUN,Stick (I)
+ixeha,NOUN,Fruit (I)
+mak,NOUN,Flower (I)
+etermak,NOUN,Grass (I)
+uktrmak,NOUN,Rope (I)
+xukâmal,NOUN,Wing (A)
+lijam,NOUN,Back (I)
+ukêza,NOUN,River (A)
+metêza,NOUN,Lake (A)
+metugêza,NOUN,Ocean (A)
+metêzta,NOUN,Salt (I)
+taita,NOUN,Dust (I)
+valanât,NOUN,Sky (A)
+hautêvat,NOUN,Snow (I)
+autêvat,NOUN,Ice (I)
+ponhen,NOUN,Side (of body) (I)
+ukhisa,NOUN,Year (E)
+qaqixah,NOUN,Team (A)
+miûpar,NOUN,Power (E)
+eha,NOUN,Land (I)
+gormêta,NOUN,Freedom (E)
+îzmax,NOUN,Ideal (I)
+wahîa,NOUN,Argument (A)
+vâkutsa,NOUN,Road (A)
+mêa,NOUN,Wisdom (E)
+xombaj,NOUN,Progress (I)
+goghta,NOUN,Flow (A)
+chûjas,NOUN,Size (I)
+jar,NOUN,Life (E)
+tsira,NOUN,Hill (I)
+chêshaz,NOUN,Beach (I)
+zûma,NOUN,Speech/Voice/Words (E)
+wahra,NOUN,Mistake (I)
+vifu,NOUN,Victory (E)
+apîta,NOUN,Roar (A)
+pamwêa,NOUN,Sound (A)
+xaga,NOUN,Coast (I)
+ghuja,DET,This
+jâhap,DET,That
+chupa,DET,Many
+shêña,DET,Some
+xi,DET,Few
+âjah,DET,Every
+verto,DET,More
+hêm,CONJ,And
+pru,CONJ,If 
+ver,CONJ,Because
+ôxig,CONJ,Or
+vug,COLOUR,Red
+gaqo,COLOUR,Black
+pâmva,COLOUR,White
+
+fêke,ADV,All
+umêw,ADV,Here
+homît,ADV,There
+qe,ADV,Where
+qo,ADV,When
+qi,ADV,How
+
+âve,ADV,Near
+rêmuh,ADV,Far
+ghug,ADV,Right
+ighêmpi,ADV,Left
+
+metfke,ADJ,Big
+pefke,ADJ,Small
+ukhae,ADJ,Long
+ugane,ADJ,Wide
+bre,ADJ,Hot
+aut,ADJ,Cold
+vêf,ADJ,Full
+kertop,ADJ,New
+ômve,ADJ,Old
+ñîxe,ADJ,Round
+fritô,ADJ,Dry
+frito,ADJ,Thick
+kigertr,ADJ,Heavy
+pûvloñ,ADJ,Short
+nex,ADJ,Narrow
+gôrkem,ADJ,Thin
+hev,ADJ,Good
+irpêg,ADJ,Bad
+uvewî,ADJ,Rotten
+hârke,ADJ,Dirty
+mughet,ADJ,Straight
+wôthan,ADJ,Sharp
+grûsti,ADJ,Dull
+pumwê,ADJ,Correct
+fri,ADJ,Other
+mexî,ADJ,Useful
+gûtji,ADJ,Powerful
+jewom,ADJ,Proud
+glip,ADJ,Mighty
+mvîgegh,ADJ,Hard/Difficult
+kalâ,ADJ,Smug/Priggish
+firêm,ADJ,Enternal
+

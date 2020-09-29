@@ -40,7 +40,7 @@ Step by step process of the First Sound Shift
     - Short vowels must be paired with voiceless finals
   - Short vowel:
     - preceding an unvoiced consonant, leave as is
-      - if following syllable has a null initial, gemiate to following syllable
+      - if stressed and the following syllable has a null initial, gemiate to following syllable
         - eg. 'om̥.a > 'om̥.m̥a; but 'om̥.ta == 'om̥.ta
     - preceding a voiced nasal, aprox or R, devoice it
     - preceding a voiced fricative, lengthen vowel (but maintain short vowel quality)
@@ -51,27 +51,9 @@ Step by step process of the First Sound Shift
       - if unstressed; geminate the following consonant but do not devoice
   - Long vowel:
     - preceding a voiced fricative, approx or R, leave as is
-    - preceding a nasal when stressed, convert to nasal vowel (and remove nasal consonant)
-    - Nasal vowel shifts
-      - Ã > /ɐ̃:/
+    - for I and U, preceding a nasal when stressed, remove nasal consonant.  The vowel will be nasalised later
     - preceding an unvoiced fricative, shorten vowel (but maintain long vowel quality)
     - preceding any other unvoiced consonant, voice it
-    - preceding a hiatus, insert semivowel (at the beginning of next syllable)
-      - Ê, Î > insert J
-      - Ô, Û > insert W
-      - Â > insert based on subsequent
-      - Â + A > merge into one syllable
-
-- Voicing assimilation
-  - clusters must be either wholly voiced or wholly unvoiced
-  - voicing assimilates preferentially to the stressed syllable, otherwise to the first syllable
-  - Approximants also close when devoicing
-    - L /l/ > /ɬ/
-    - J /j/ > /ç/
-    - W /w/ > /xʷ~ɸ/
-      - /ɸ/ is used by all after other velar consonants
-  - Nasal vowels force following consonant cluster to be voiced
-  - Fricative-Consonant UV-V clusters assimilate to voiced second consonant instead (excluding approximants and R)
 
 - Vowel shifts
   - High vowels
@@ -86,7 +68,7 @@ Step by step process of the First Sound Shift
       - Ê /e:/ > /i:/, Ô /o:/ > /u:/
       - E /e/ > /ɛ/, O /o/ > /ɔ/
     - Stressed Initial
-      - Ê /e:/ > JÊ /jɪ:/, Ô /o:/ > WÔ /wʊ:/
+      - Ê /e:/ > JÊ /je:/, Ô /o:/ > WÔ /wo:/
       - E /e/ > /ʔɛ/, O /o/ > /ʔɔ/
     - Unstressed
       - Ê /e:/, Ô /o:/ > Ë /ɘ:/
@@ -101,6 +83,18 @@ Step by step process of the First Sound Shift
     - Unstressed  
       - Â /a:/ > /ɑ:/
       - A /a/ > Ä /æ/
+
+- Voicing assimilation
+  - clusters must be either wholly voiced or wholly unvoiced
+  - voicing assimilates preferentially to the stressed syllable, otherwise to the first syllable
+  - in onset clusters, voicing assimilates to the first consonant
+  - Approximants also close when devoicing
+    - L /l/ > /ɬ/
+    - J /j/ > /ç/
+    - W /w/ > /ɸ/
+      - NOTE W: when devoicing via agreement, devoice to /xʷ/ instead
+  - Nasal vowels force following consonant cluster to be voiced
+  - Fricative-Consonant UV-V clusters assimilate to voiced second consonant instead (excluding approximants and R)
 
 - Laryngeal Vowel Shift
   - Front vowels > Central after laryngeal Q, H, GH
