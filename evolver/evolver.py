@@ -30,6 +30,7 @@ LATER:
 
 import csv, warnings
 from first_shift import first_shift
+from second_shift import second_shift
 
 DEFAULT_SRC = '../vocab/old-vocab.csv'
 DEFAULT_DEST = '../vocab/new-vocab.csv'
@@ -46,18 +47,14 @@ def export_vocab(dest, vocab):
     #print(vocab)
     return
 
-# Evolution steps: First Shift
-def second_shift(word):
-    return word
-
 # Evolve a word
 def evolve_word(line):
     word, word_type, translation = line
 
-    first_word = first_shift(word)
-    second_word = second_shift(first_word)
+    first_word, phones = first_shift(word)
+    final_word, second_word, ipa = second_shift(phones)
 
-    return [second_word, word_type, translation, word]
+    return [final_word, ipa, word_type, translation, word, first_word, second_word]
 
 # the final function
 def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
@@ -71,3 +68,4 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
     export_vocab(dest, new_vc)
     return new_vc
 
+vc = evolve()

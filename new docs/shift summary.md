@@ -190,19 +190,25 @@ Step by step process of the First Sound Shift
       - thus both ÑÑH /ŋ̊ŋ̊/ and ÑÑ /ŋŋ/ > ÑQ /ɴɢ/
   - Fricative/Approximant opening and vocalisation
     - G /ʁ/ is trilled instead as above
-    - V /v/ > /ʋ/ generally
-    - ZR /ʐ/ > */ɻ/ > /ɹ/ generally
-      - the second step after applying the chain shift
-    - in CCV syllables where the fricative is first:
-      - V > /ʊ/
-      - DH /ð/ > /ɐ/
-      - ZR > /ɹ̩/
-    - in VC syllables:
-      - V /ʋ/ > /ʊ̯/
-      - DH /ð/ > /ɐ̯/
-    - Approximants before similar vowels in the same syllable are elided
+    - for General, CXC, VC
+      - V /v/ > /ʋ/, /ʊ/, /ʊ̯/
+        - W merges with V
+      - L /l/ > /l/, /ʊ/, /ʊ̯/
+        - /l/ is later palatalised
+      - ZR /ʐ/ > /ɹ/, /ʌ/, /ɹ/
+      - J /j/ > /j/, /ɪ/, /ɪ̯/
+        - JH /ʝ/ merges with J
+    - CXC and VC ignore syllable borders
+      - i.e. kaiva /ˈka.iˌva/ > kaiua /ˈka.iʊ̯ˌa/
+    - CXC syllables where vocalising is X:
+      - also applies when first C is nil
+      - would apply for last C nil, if that were a legal cluster in the first place
+    - VC syllables don't apply if V already has off-glide
+    - V/W/J/JH before similar vowels are elided if not transformed by CXC or VC rules:
       - eg. vu /ʋu/ > u /u/
       - V/W-U, J-I
+    - process for ZR is /ʐ/ > */ɻ/ > /ɹ/
+      - the second step after applying the chain shift
 
 - Place Chain Shift
   - Applied AFTER all the above consonant shifts
@@ -211,18 +217,22 @@ Step by step process of the First Sound Shift
     - WH /ɸ/ > F /f/
   - Retroflex > Alveolar (losing R)
     - ZR */ɻ/ > /ɹ/
-  - Alveolar + W glide > Alveolar (losing W)
+  - Alveolar + F/W glide or Laryngeal > Alveolar (losing W)
     - Also applies to Alv + U
+    - TTH /tθ/ > TF /tf/
   - Alveolar, Dental > Palatal
     - T /t/ > C /c/
     - S /s/ > Ś /ɕ/
     - Z, N, L as expected
       - written as Ź Ń Ĺ
-    - þ /θ/ > Ç /ç/
-    - TTH /tθ/ > Č /tɕ/
     - LH /ɬ/ > Ś /ɕ/
+  - Alveolar + Palatal (except J) > Velar
+    - blocked by voiceless lateral af/fric (which > palatal)
+    - S, Z, L retained as alveolar before an ongoing palatal > velar shift
+      - atja > acgha, atjha > akgha
+      - anhsta > ańhśca, anscha > aɴska, alhcha > aśka
   - Palatal > Velar
-    - CH /cç/ > K /k/
+    - CH /t͡ʃ/ > K /k/
     - SH /ç/ > X /x/
     - J /j/ > Ğ /ɣ/
   - Velar > various
@@ -235,22 +245,29 @@ Step by step process of the First Sound Shift
     - WH /χʷ/ > backed /ħ/
 
 - Further Cluster simplification/reduction
-  - All clusters of uv. stop/Q + RH /r̥/ > RH /r̥/ (delete stop)
+  - All clusters of uv. stop/Q + RH /r̥/ > RH /r̥/ (delete stop); affricates > fricatives in this environment also
   - All clusters of stop + Ś /ɕ/ > Č /tɕ/
-  - Nasal-Fricative clusters
-    - Only homorganic clusters are allowed
-    - Otherwise, insert an epenthetic weak A (changed later)
-    - includes fricatives derived from devoiced apprx
+    - All affricates also assimilate > Č /tɕ/
+    - also note that stop + voiced Ź /ʑ/ are not affected!
+    - these affricates are subject to the above Affr-R rule
+  - Palatal-Other clusters
+    - Insert an epenthetic weak A (changed later) to break
+    - clusters to break:
+      - including de/voiced vars of all:
+      - Palatal + Vel/Uv/Lar or V/U/L + Pal
+        - sibiliant and affricate palatals are exempt
   - Trill compensation
     - Vowels are added before word-initial trills, and the trill is geminated
     - E/O depending on front-back of primary stress
 
-- Nasal vowel + Hiatus > Oral vowel + Nasal Consonant
-  - Consonant depends on original vowel and is NOT AFFECTED BY PLACE CHAIN SHIFT
-  - Vowel is considered BEFORE VOWEL SHIFTS
-  - Back vowels > M /m/
-  - Front vowels > Ń /ɲ/
-  - Central vowels > N /n/
+- Hiatus breaking
+  - Nasal vowel + Hiatus > Oral vowel + Nasal Consonant
+    - Consonant depends on original vowel and is NOT AFFECTED BY PLACE CHAIN SHIFT
+    - Vowel is considered BEFORE VOWEL SHIFTS
+    - Back vowels > M /m/
+    - Front vowels > Ń /ɲ/
+    - High Central vowels > N /n/
+    - Low Central vowels > ɴ /ɴ/
 
 - Vowel shifts
   - Back-Front vowel split
@@ -288,14 +305,23 @@ Step by step process of the First Sound Shift
       - Ē /ɛ:/ > EA /eɐ̯/
       - Ê~Î /i:/ > IE /ie̯/
       - Ô~Û /u:/ > UO /uo̯/
-      - Ŷ /y:/ > YI /yɪ̯/
       - Ō /ɔ:/ > OA /oɐ̯/
   - Other vowel changes
     - stressed & unstressed
       - EA /ɛɐ̯/, OA /ɔɐ̯/ > EA /eɐ̯/, OA /oɐ̯/
     - unstressed
       - Â /ɑ:/ > Ō /ɔ:/
-      - Ẽ /ẽ:/, Õ /õ:/ > Ẽ /ɛ̃:/, Õ /ɔ̃:/
+  - Diphthong mergers
+    - all things with -u and -i
+
+- Guttural Trill Vowel Opening
+  - Note that this will only alter between already established vowels/diphthongs
+
+## Final Shifts
+
+The merger steps listed here take place during a period of outward migration of the people, thus different regions have completed these shifts to different degrees.  Exactly what degree I'll leave up to each descendant.
+
+Dictionary forms will have all 3 changes gone through (and trills merged to alveolar); but I will also provide a version having gone through none of these changes and any of these can be applied or not applied.
 
 - Final denasalisation
   - Any nasal vowels left are eliminated
@@ -309,3 +335,7 @@ Step by step process of the First Sound Shift
 
 - Final loss of length
   - Due to the effects of length-voicing accord, the widespread use of diphthongs, and several instances of length neutralisation/merger, vowel length becomes a completely allophonic feature; then disappears altogether from the language
+
+- Final trill merger
+  - Guttural trills are merged with alveolar trills
+  - Exact realisation depends on region

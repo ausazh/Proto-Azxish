@@ -91,7 +91,7 @@ def syllabify(word):
             else:
                 warnings.warn('Illegal consonant cluster: unresolvable CC: ' +str(word))
         s.set_vowel()
-    #print('syllabified ' + str(syllables))
+    # print('syllabified ' + str(syllables))
     return syllables
 
 # goal: long vowels paired with voiced finals; short vowels paired with unvoiced
@@ -141,7 +141,7 @@ def agree_vowel_voicing(word):
                     and s[-1] != 'ʔ'):
                 word[i+1].add_cons(0, s[-1])
                 s.swap_cons(-1, IRREG_GEMINATE.get(s[-1], s[-1]))
-    #print('agreed length-voicing ' + str(word))
+    # print('agreed length-voicing ' + str(word))
     return word    
 
 def shift_vowel_first(word):
@@ -247,9 +247,11 @@ def shift_laryngeal_vowel(word):
 def shift_cons_first(word):
     for i in range(len(word)):
         s = word[i]
-        # TS > TTH
+        # TS > TTH, DZ > DDH
         if 't͡s' in s:
             s.swap_cons(s.index('t͡s'), 't͡θ')
+        if 'd͡z' in s:
+            s.swap_cons(s.index('d͡z'), 'd͡ð')
         # W > Ẅ after palatal cons or before I
         if 'w' in s:
             pos = s.index('w')
@@ -324,17 +326,27 @@ def derelease_stops(word):
 
 def desyllabify(word):
     desyl = ''
+    phones = []
     stressed = False
     for s in word:
         if s.stress:
             if not stressed:
                 desyl += 'ˈ'
+                if len(phones)>0 and phones[-1] == '.':
+                    phones = phones[:-1]
+                phones += ['ˈ']
                 stressed = True
             else:
                 desyl += 'ˌ'
+                if phones[-1] == '.':
+                    phones = phones[:-1]
+                phones += ['ˌ']
         for l in s:
             desyl += l
-    return desyl
+        phones += s + ['.']
+    if phones[-1] == '.':
+        phones = phones[:-1]
+    return desyl, phones
 
 def first_shift(word):
     print('---old word: ' + str(word) + ' ---')
@@ -347,6 +359,6 @@ def first_shift(word):
     word = shift_cons_first(word)
     word = vocalise_gh(word)
     word = derelease_stops(word)
-    word = desyllabify(word)
+    word, phones = desyllabify(word)
     print('>>>new word: ' + str(word) + ' <<<')
-    return word
+    return word, phones

@@ -24,8 +24,7 @@ upvat, VERB, To suck
 gjupvat, VERB, To spit
 vatsenakan, VERB, To vomit
 vatsen, VERB, To blow
-vatsan, VERB, To breathe
-atsa, VERB, To laugh
+
 qâlan, VERB, To think
 vatsete, VERB, To smell
 qâithim, VERB, To fear
@@ -55,7 +54,6 @@ hoistên, VERB, To sew
 hûint, VERB, To count
 vanhânfri, VERB, To sing
 veranmen, VERB, To play (games)
-uqkrêha, VERB, To float
 uqêz, VERB, To flow
 uqautêv, VERB, To freeze
 uqñî, VERB, To swell
@@ -138,7 +136,6 @@ kêwma, NOUN, Knee (I)
 lîxehaq, NOUN, Hand (I)
 vûreal, NOUN, Belly (I)
 qômah, NOUN, Neck (I)
-qrêa, NOUN, Sun (E)
 val, NOUN, Moon (E)
 jâwta, NOUN, God (E)
 tixêka, NOUN, Star (E)
@@ -162,8 +159,7 @@ washîa, NOUN, Wife (A)
 zimaq, NOUN, Husband (A)
 chaqam, NOUN, Mother (A)
 oga, NOUN, Animal (A)
-hôktsal, NOUN, Forest (I)
-tsaln, NOUN, Stick (I)
+
 ixeha, NOUN, Fruit (I)
 mak, NOUN, Flower (I)
 etermak, NOUN, Grass (I)
@@ -227,8 +223,6 @@ ghug, ADV, Right
 metafke, ADJ, Big
 pefke, ADJ, Small
 ukhae, ADJ, Long
-ugane, ADJ, Wide
-pre, ADJ, Hot
 aut, ADJ, Cold
 vêf, ADJ, Full
 
@@ -261,7 +255,6 @@ wahra, NOUN, Mistake (I)
 verto, DET, More
 kertop, ADJ, New
 kigertar, ADJ, Heavy
-uktramak, NOUN, Rope (I)
 
 îxegh, VERB, To follow
 mughet, ADJ, Straight
@@ -273,3 +266,18 @@ goghta, NOUN, Flow (A)
 hrêpgha, NOUN, Father (A)
 uqsiagh, NOUN, Heart (A)
 ûtihgîlas, VERB, To kill
+
+uktramak, NOUN, Rope (I)
+ugane, ADJ, Wide
+
+vatsan, VERB, To breathe
+atsa, VERB, To laugh
+
+hôktsal, NOUN, Forest (I)
+tsal, NOUN, Stick (I)
+
+pre, ADJ, Hot
+uqkrêha, VERB, To float
+qrêa, NOUN, Sun (E)
+
+asqrôla, NOUN, Example (I)
