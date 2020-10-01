@@ -541,6 +541,23 @@ def shift_vowel(word):
     print('vowels shifted', word)
     return word
 
+def open_guttural(word):
+    for i, s in word.range():
+        if not s.is_sound or s == '':
+            continue
+        prev, fol = word.get_adjacent(i)
+        if (s.rep in AFTER_SHIFT_VOWELS and (
+                (prev and prev.rep in ['ʀ̥', 'ʀ']) or
+                (fol and fol.rep in ['ʀ̥', 'ʀ']) )):
+            s.mutate(OPEN_ADJ_GUTR[s])
+            # open *again* if specifically before guttural
+            # this occurs for long front vowels, which gain a central glide
+            if s.rep in OPEN_BEF_GUTR and fol and fol.rep in ['ʀ̥', 'ʀ']:
+                s.mutate(OPEN_BEF_GUTR[s])
+
+    print('gut-vowels opened', word)
+    return word
+
 def denasalise(word):
     for i, s in word.range():
         if not s.is_sound or s == '':
@@ -565,8 +582,23 @@ def merge_trill(word):
     # print('trills merged', word)
     return word    
 
+inventory = set()
+
 def scriptify(word):
-    # respell palatal clusters and geminates
+    p_stress = False
+    s_stress = False
+    
+    for i, s in word.range():
+        if s == 'ˈ':
+            p_stress = True
+        elif s == 'ˌ':
+            s_stress = True
+        elif s == '.':
+            p_stress = False
+            s_stress = False
+        else:
+            inventory.add(s)
+    
 
     return word, word
 
@@ -578,10 +610,13 @@ def second_shift(word):
     word = shift_cluster(word)
     word = break_hiatus(word)
     word = shift_vowel(word)
-    nonfinal_word, ipa = scriptify(word)
+    word = open_guttural(word)
+    nonfinal_word, _ = scriptify(word)
+    print('>>>shift 2: ' + str(word) + ' <<<')
     # final steps
     word = denasalise(word)
     word = delengthen(word)
     word = merge_trill(word)
     word, ipa = scriptify(word)
+    print(inventory)
     return word, nonfinal_word, ipa
