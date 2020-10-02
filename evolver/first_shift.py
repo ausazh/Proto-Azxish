@@ -360,5 +360,5 @@ def first_shift(word):
     word = vocalise_gh(word)
     word = derelease_stops(word)
     word, phones = desyllabify(word)
-    print('>>>new word: ' + str(word) + ' <<<')
+    print('>>>shift 1: ' + str(word) + ' <<<')
     return word, phones

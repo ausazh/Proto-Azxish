@@ -233,7 +233,7 @@ def shift_place(word):
         # see sign assignments below for details on the shift
         if sign == 'alv-pal':
             if s.rep in PALATAL_TRIGGERS:
-                print('trigger pal>vel!', marks, s)
+                # print('trigger pal>vel!', marks, s)
                 for m in marks:
                     m.mutate(PALATAL_PLACE_SHIFT[m]) 
                 s.mutate(PALATAL_PLACE_SHIFT[s])
@@ -336,12 +336,17 @@ def shift_place(word):
             m.mutate(ALVEOLAR_PLACE_SHIFT[m]) 
     elif sign == 'x':
         prev = word.get_prev(i)
-        print(word, prev, marks, s, i)
+        # print(word, prev, marks, s, i)
         if prev and prev.rep in RHOTS:
             prev.delete()
         marks[0].mutate('ʀ̥')
 
     word.clear()
+
+    for _, s in word.range():
+        if s.rep in PLACESHIFT_CLEANUP:
+            s.mutate(PLACESHIFT_CLEANUP[s])
+
     # print('shifted place', word)
     return word
 
@@ -441,6 +446,7 @@ def do_shift_vowel(v, front):
     inf_i = 0
     if not front:
         inf_i = 1
+    # print('shifting s', v.s)
 
     if v.in_hiatus and v.s in NO_SHIFT_BEFORE_HIATUS:
         pass
@@ -458,7 +464,7 @@ def do_shift_vowel(v, front):
         elif v.s in STR_NO_SHIFT:
             pass
         else:
-            warnings.warn('Unhandled stressed vowel ' + v.s)
+            raise KeyError('Unhandled stressed vowel ' + v.s)
     else:  
         if v.s in UNS_INF_SHIFT:
             v.mutate(UNS_INF_SHIFT[v.s][inf_i])
@@ -467,7 +473,8 @@ def do_shift_vowel(v, front):
         elif v.s in UNS_NO_SHIFT:
             pass
         else:
-            warnings.warn('Unhandled unstressed vowel ' + v.s)
+            raise KeyError('Unhandled unstressed vowel ' + v.s)
+    # print('shifted vowel', v.s)
 
 def shift_vowel(word):
     vowels = [] 
@@ -481,13 +488,15 @@ def shift_vowel(word):
     for _, s in word.range():
         if s == 'ˈ':
             p_stress = True
+            s_stress = False
         elif s == 'ˌ':
             s_stress = True
+            p_stress = False
         elif s == '.':
             p_stress = False
             s_stress = False
         
-        elif s.rep in ALL_VOWELS:
+        elif s.rep in ABS_ALL_VOWELS:
             v = Vowel(s.rep, s, p_stress, s_stress)
             if p_stress:
                 influence = v
@@ -495,6 +504,7 @@ def shift_vowel(word):
             elif s_stress:
                 s_stress_v = v
             vowels.append(v)
+            # print(s.rep, p_stress, s_stress)
 
     # Update influence of vowels
     for v in vowels:
@@ -538,7 +548,7 @@ def shift_vowel(word):
             continue # already done stressed vowels
         do_shift_vowel(v, v.inf.is_front())
 
-    print('vowels shifted', word)
+    # print('vowels shifted', word)
     return word
 
 def open_guttural(word):
@@ -555,52 +565,84 @@ def open_guttural(word):
             if s.rep in OPEN_BEF_GUTR and fol and fol.rep in ['ʀ̥', 'ʀ']:
                 s.mutate(OPEN_BEF_GUTR[s])
 
-    print('gut-vowels opened', word)
+    # print('gut-vowels opened', word)
     return word
 
 def denasalise(word):
+    was_bound = False
     for i, s in word.range():
         if not s.is_sound or s == '':
-            continue
+            was_bound = True
+        else:
+            if '̃' in s.rep:
+                s.mutate(s.rep.replace('̃', ''))
+                if was_bound:
+                    if s.rep in BACK_VOWELS:
+                        s.insert('m')
+                    elif s.rep in CENTRAL_VOWELS:
+                        s.insert('ɴ')
+                    elif s.rep in FRONT_VOWELS:
+                        s.insert('n')
 
+            was_bound = False
+
+    word.clear()
     # print('nasals deleted', word)
     return word
     
 def delengthen(word):
-    for i, s in word.range():
+    for _, s in word.range():
         if not s.is_sound or s == '':
             continue
+        s.mutate(s.rep.replace('ː', ''))
 
     # print('length deleted', word)
     return word    
     
 def merge_trill(word):
-    for i, s in word.range():
+    for _, s in word.range():
         if not s.is_sound or s == '':
             continue
+        s.mutate(s.rep.replace('ʀ̥', 'r̥'))
+        s.mutate(s.rep.replace('ʀ', 'r'))
 
     # print('trills merged', word)
     return word    
 
-inventory = set()
+def rare_sounds_shift(word):
+    for _, s in word.range():
+        if not s.is_sound or s == '':
+            continue
+        if s.rep in SHIFT_RARE_SOUND:
+            s.mutate(SHIFT_RARE_SOUND[s])
 
-def scriptify(word):
-    p_stress = False
-    s_stress = False
+    # print('rare sounds merged', word)
+    return word    
+
+def scriptify(sounds):
+    stress = False
+    ipa = ''
+    word = ''
     
-    for i, s in word.range():
-        if s == 'ˈ':
-            p_stress = True
-        elif s == 'ˌ':
-            s_stress = True
+    for _, s in sounds.range():
+        if s == 'ˈ' or s == 'ˌ':
+            ipa += s.rep
+            stress = True
         elif s == '.':
-            p_stress = False
-            s_stress = False
+            stress = False
+        elif s.rep in FINAL_VOWELS:
+            ipa += s.rep
+            index = 0
+            if stress: index = 1
+            word += FINAL_VOWELS[s][index]
+        elif s.rep in FINAL_CONS:
+            ipa += s.rep
+            word += FINAL_CONS[s] 
         else:
-            inventory.add(s)
-    
+            ipa += s.rep
+            raise KeyError("couldn't find letter for " + s.rep + ' in ' + str(word))
 
-    return word, word
+    return word, ipa
 
 # Evolution steps: Second Shift
 def second_shift(word):
@@ -611,12 +653,13 @@ def second_shift(word):
     word = break_hiatus(word)
     word = shift_vowel(word)
     word = open_guttural(word)
-    nonfinal_word, _ = scriptify(word)
-    print('>>>shift 2: ' + str(word) + ' <<<')
+    # print('>>>shift 2: ' + str(word) + ' <<<')
     # final steps
     word = denasalise(word)
     word = delengthen(word)
     word = merge_trill(word)
+    word = rare_sounds_shift(word)
     word, ipa = scriptify(word)
-    print(inventory)
-    return word, nonfinal_word, ipa
+    print('>>>final:', word, '/' + ipa + '/', '<<<')
+    print()
+    return word, ipa

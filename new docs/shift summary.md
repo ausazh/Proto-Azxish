@@ -319,14 +319,8 @@ Step by step process of the First Sound Shift
 
 ## Final Shifts
 
-The merger steps listed here take place during a period of outward migration of the people, thus different regions have completed these shifts to different degrees.  Exactly what degree I'll leave up to each descendant.
-
-Dictionary forms will have all 3 changes gone through (and trills merged to alveolar); but I will also provide a version having gone through none of these changes and any of these can be applied or not applied.
-
 - Final denasalisation
   - Any nasal vowels left are eliminated
-  - The nasal quality is transferred to the syllable-initial consonant instead
-  - If nasal cluster is impossible, then simply delete the nasality
   - If the syllable is null-initial, then add a nasal consonant based on the vowel
     - Back > M
     - Central > Ñ
@@ -339,3 +333,8 @@ Dictionary forms will have all 3 changes gone through (and trills merged to alve
 - Final trill merger
   - Guttural trills are merged with alveolar trills
   - Exact realisation depends on region
+
+- Voiced and Voiceless Nasal merger
+  - Incomplete merger at time of evolution
+  - Beginning to merge into one phoneme allophonically pronounced voiced or voiceless
+  - Represented with the same letter, but distinction marked in IPA representation

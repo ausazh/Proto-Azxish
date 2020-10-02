@@ -62,13 +62,16 @@ ALVEOLAR_SHIFT_BLOCKS = {'ʋ': '', 'f': 'ħ', 'ʊ': 'ʊ', 't͡θ': 'f', 'd͡ð':
                          'uː': 'uː', 'ũ': 'ũ', 'ũː': 'ũː',
                          'ɢ': 'ɢ', 'ɴ̥': 'ɴ̥', 'ɴ': 'ɴ', 'ħ': 'ħ'}
 PALATAL_BLOCKS = ['t͡ɬ', 'ɬ']
-PALATAL_TRIGGERS = ['t͡ʃ', 'd͡ʒ', 'ç', 'ʝ']
-PALATAL_PLACE_SHIFT = {'t͡ʃ': 'k', 'd͡ʒ': 'g', 'ç': 'x',
-                       'ʝ': 'ɣ', 'j': 'ɣ',
+PALATAL_TRIGGERS = ['t͡ʃ', 'd͡ʒ', 'ç']
+PALATAL_PLACE_SHIFT = {'t͡ʃ': 'k', 'd͡ʒ': 'g', 'ç': 'x', 'j': 'ɣ',
                        't': 'k', 'd': 'g', 'n̥': 'ɴ̥', 'n': 'ɴ',
                        'l': 'l', 's': 's', 'z': 'z'}
 VELAR_NASAL_SHIFT = {'ŋ̊': 'ɴ̥', 'ŋ': 'ɴ'}
 RHOTS = ['r', 'r̥']
+
+PLACESHIFT_CLEANUP = {
+    'ç': 'j', 'ɬ': 'ɕ'
+}
 
 # Cluster Reduction
 STOPS_TO_DELETE = {'p': '', 'b': '', 'c': '', 'ɟ': '',
@@ -177,8 +180,8 @@ NO_SHIFT = [
     'e', 'æ', 'o',
 ]
 STR_NO_SHIFT = [
-    'ĩ', 'ĩː',
-    'ũ', 'ũː', 'uɪ̯', 
+    'i', 'ĩ', 'ĩː',
+    'u', 'ũ', 'ũː', 'uɪ̯', 
 ]
 NO_SHIFT_BEFORE_HIATUS = [
     'iː', 'uː', 'ɛː', 'ɔː',
@@ -312,19 +315,32 @@ OPEN_BEF_GUTR = {
     'eː': 'eɐ̯', 'ẽː': 'eɐ̯̃',
     'oː': 'oɐ̯', 'õː': 'oɐ̯̃',
 }
+SHIFT_RARE_SOUND = {
+    'ɥ': 'j', 'ʝ': 'j',
+}
 
-FINAL_VOWELS = [
-    'a', # Central
-    'æ', 'ɛ', # Low front
-    'e', 'ø', # Mid front
-    'i', 'y', # High front
-    'eɐ̯', 'ie̯', # Centring front
-    'æɪ̯', 'ei̯', # Cis front
-    'æo̯', 'øʊ̯', # Trans front
-    'ʌ', 'ɔ', # Low back
-    'o', 'ɤ', # Mid back
-    'u', 'uɪ̯', # High back
-    'oɐ̯', 'uo̯', # Centring back
-    'ɑʊ̯', 'ou̯', # Cis back
-    'ɑe̯', 'ɤɪ̯', # Trans back
-]
+FINAL_VOWELS = {
+    'a': ['ä', 'ā'], # Central
+    'æ': ['a', 'à'], 'ɛ': ['e', 'è'], # Low front
+    'e': ['ê', 'é'], 'ø': ['ö', 'ő'], # Mid front
+    'i': ['i', 'í'], 'y': ['ü', 'ű'], # High front
+    'eɐ̯': ['ea', 'éa'], 'ie̯': ['ie', 'íe'], # Centring front
+    'æɪ̯': ['ai', 'ái'], 'ei̯': ['ei', 'éi'], # Cis front
+    'æo̯': ['ao', 'áo'], 'øʊ̯': ['eu', 'éu'], # Trans front
+    'ʌ': ['â', 'á'], 'ɔ': ['o', 'ò'], # Low back
+    'o': ['ô', 'ó'], 'ɤ': ['ë', 'e̋'], # Mid back
+    'u': ['u', 'ú'], 'uɪ̯': ['ui', 'úi'], # High back
+    'oɐ̯': ['oa', 'óa'], 'uo̯': ['uo', 'úo'], # Centring back
+    'ɑʊ̯': ['au', 'áu'], 'ou̯': ['ou', 'óu'], # Cis back
+    'ɑe̯': ['ae', 'áe'], 'ɤɪ̯': ['oi', 'ói'], # Trans back
+}
+
+FINAL_CONS = {
+    'p': 'p', 'b': 'b', 'f': 'f', 'ʋ': 'v', 'm': 'm', 'm̥': 'm',
+    't': 't', 'd': 'd', 's': 's', 'z': 'z', 'n': 'n', 'n̥': 'n',
+    't͡ʃ': 'ť', 'd͡ʒ': 'ď', 'r': 'r', 'r̥': 'ŕ', 'ɹ': 'ř', 'l': 'l',
+    'c': 'c', 'ɟ': 'y', 'c͡ɕ': 'č', 'ɟ͡ʑ': 'y̌',
+    'ɕ': 'ś', 'ʑ': 'ź', 'ɲ': 'ń', 'ɲ̊': 'ń', 'ʎ': 'ľ', 'j': 'j',
+    'k': 'k', 'g': 'g', 'x': 'x', 'ɣ': 'w',  
+    'ɢ': 'q', 'ħ': 'h', 'ɴ': 'ñ', 'ɴ̥': 'ñ', 'ʔ': 'ʔ',
+}

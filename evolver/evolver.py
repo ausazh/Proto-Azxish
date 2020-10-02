@@ -44,7 +44,9 @@ def import_vocab(src):
 
 # Export vocab list to dest
 def export_vocab(dest, vocab):
-    #print(vocab)
+    with open(dest, 'w', newline='', encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerows(vocab)
     return
 
 # Evolve a word
@@ -52,9 +54,9 @@ def evolve_word(line):
     word, word_type, translation = line
 
     first_word, phones = first_shift(word)
-    final_word, second_word, ipa = second_shift(phones)
+    second_word, ipa = second_shift(phones)
 
-    return [final_word, ipa, word_type, translation, word, first_word, second_word]
+    return [second_word, ipa, word_type, translation, word, first_word]
 
 # the final function
 def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
@@ -69,3 +71,4 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
     return new_vc
 
 vc = evolve()
+oriv = evolve('../vocab/text.csv', '../vocab/text-ev.csv')
