@@ -320,27 +320,54 @@ SHIFT_RARE_SOUND = {
 }
 
 FINAL_VOWELS = {
-    'a': ['ä', 'ā'], # Central
-    'æ': ['a', 'à'], 'ɛ': ['e', 'è'], # Low front
-    'e': ['ê', 'é'], 'ø': ['ö', 'ő'], # Mid front
-    'i': ['i', 'í'], 'y': ['ü', 'ű'], # High front
+    'a': ['a', 'á'], # Central
+    'æ': ['æ', 'ǽ'], 'ɛ': ['ɛ', 'ɛ́'], # Low front
+    'e': ['e', 'é'], 'ø': ['ø', 'ǿ'], # Mid front
+    'i': ['i', 'í'], 'y': ['y', 'ý'], # High front
     'eɐ̯': ['ea', 'éa'], 'ie̯': ['ie', 'íe'], # Centring front
-    'æɪ̯': ['ai', 'ái'], 'ei̯': ['ei', 'éi'], # Cis front
-    'æo̯': ['ao', 'áo'], 'øʊ̯': ['eu', 'éu'], # Trans front
-    'ʌ': ['â', 'á'], 'ɔ': ['o', 'ò'], # Low back
-    'o': ['ô', 'ó'], 'ɤ': ['ë', 'e̋'], # Mid back
+    'æɪ̯': ['æi', 'ǽi'], 'ei̯': ['ei', 'éi'], # Cis front
+    'æo̯': ['æo', 'ǽo'], 'øʊ̯': ['øu', 'ǿu'], # Trans front
+    'ʌ': ['ɑ', 'ɑ́'], 'ɔ': ['ɔ', 'ɔ́'], # Low back
+    'o': ['o', 'ó'], 'ɤ': ['ɤ', 'ɤ́'], # Mid back
     'u': ['u', 'ú'], 'uɪ̯': ['ui', 'úi'], # High back
     'oɐ̯': ['oa', 'óa'], 'uo̯': ['uo', 'úo'], # Centring back
-    'ɑʊ̯': ['au', 'áu'], 'ou̯': ['ou', 'óu'], # Cis back
-    'ɑe̯': ['ae', 'áe'], 'ɤɪ̯': ['oi', 'ói'], # Trans back
+    'ɑʊ̯': ['ɑu', 'ɑ́u'], 'ou̯': ['ou', 'óu'], # Cis back
+    'ɑe̯': ['ɑe', 'ɑ́e'], 'ɤɪ̯': ['ɤi', 'ɤ́i'], # Trans back
 }
 
 FINAL_CONS = {
     'p': 'p', 'b': 'b', 'f': 'f', 'ʋ': 'v', 'm': 'm', 'm̥': 'm',
     't': 't', 'd': 'd', 's': 's', 'z': 'z', 'n': 'n', 'n̥': 'n',
-    't͡ʃ': 'ť', 'd͡ʒ': 'ď', 'r': 'r', 'r̥': 'ŕ', 'ɹ': 'ř', 'l': 'l',
-    'c': 'c', 'ɟ': 'y', 'c͡ɕ': 'č', 'ɟ͡ʑ': 'y̌',
+    't͡ʃ': 'ť', 'd͡ʒ': 'ď', 'r': 'r', 'r̥': 'r̥', 'ɹ': 'ɹ', 'l': 'l',
+    'c': 'c', 'ɟ': 'ǵ', 'c͡ɕ': 'č', 'ɟ͡ʑ': 'y̌',
     'ɕ': 'ś', 'ʑ': 'ź', 'ɲ': 'ń', 'ɲ̊': 'ń', 'ʎ': 'ľ', 'j': 'j',
     'k': 'k', 'g': 'g', 'x': 'x', 'ɣ': 'w',  
     'ɢ': 'q', 'ħ': 'h', 'ɴ': 'ñ', 'ɴ̥': 'ñ', 'ʔ': 'ʔ',
 }
+
+# Alternate romanisation
+# FINAL_VOWELS = {
+#     'a': ['ä', 'ā'], # Central
+#     'æ': ['a', 'à'], 'ɛ': ['e', 'è'], # Low front
+#     'e': ['ê', 'é'], 'ø': ['ö', 'ő'], # Mid front
+#     'i': ['i', 'í'], 'y': ['ü', 'ű'], # High front
+#     'eɐ̯': ['ea', 'éa'], 'ie̯': ['ie', 'íe'], # Centring front
+#     'æɪ̯': ['ai', 'ái'], 'ei̯': ['ei', 'éi'], # Cis front
+#     'æo̯': ['ao', 'áo'], 'øʊ̯': ['eu', 'éu'], # Trans front
+#     'ʌ': ['â', 'á'], 'ɔ': ['o', 'ò'], # Low back
+#     'o': ['ô', 'ó'], 'ɤ': ['ë', 'e̋'], # Mid back
+#     'u': ['u', 'ú'], 'uɪ̯': ['ui', 'úi'], # High back
+#     'oɐ̯': ['oa', 'óa'], 'uo̯': ['uo', 'úo'], # Centring back
+#     'ɑʊ̯': ['au', 'áu'], 'ou̯': ['ou', 'óu'], # Cis back
+#     'ɑe̯': ['ae', 'áe'], 'ɤɪ̯': ['oi', 'ói'], # Trans back
+# }
+
+# FINAL_CONS = {
+#     'p': 'p', 'b': 'b', 'f': 'f', 'ʋ': 'v', 'm': 'm', 'm̥': 'm',
+#     't': 't', 'd': 'd', 's': 's', 'z': 'z', 'n': 'n', 'n̥': 'n',
+#     't͡ʃ': 'ť', 'd͡ʒ': 'ď', 'r': 'r', 'r̥': 'ŕ', 'ɹ': 'ř', 'l': 'l',
+#     'c': 'c', 'ɟ': 'y', 'c͡ɕ': 'č', 'ɟ͡ʑ': 'y̌',
+#     'ɕ': 'ś', 'ʑ': 'ź', 'ɲ': 'ń', 'ɲ̊': 'ń', 'ʎ': 'ľ', 'j': 'j',
+#     'k': 'k', 'g': 'g', 'x': 'x', 'ɣ': 'w',  
+#     'ɢ': 'q', 'ħ': 'h', 'ɴ': 'ñ', 'ɴ̥': 'ñ', 'ʔ': 'ʔ',
+# }
