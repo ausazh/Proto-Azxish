@@ -81,7 +81,7 @@ Auto-derived from original
 |èhhúmpa|ˈɛħˌħum̥pæ|NOUN|Egg (I)|kehuma|ˈkɛħˌħum̥m̥æ|
 |fèñřä|ˈfɛɴ̥r̥a|NOUN|Foot (I)|kwenja|ˈkɸɛn̥çæ|
 |fíppòmśa|ˈfipˌpɔm̥ɕæ|NOUN|Dog (A)|fipomla|ˈfip̚ˌpɔm̥ɬæ|
-|fśéazàoma|ˈfɕeɐ̯zˌæo̯mæ|NOUN|Nose (I)|flezchâma|ˈfɬɛːzˌd͡ʒaːmæ|
+|fśéazgàoma|ˈfɕeɐ̯zˌgæo̯mæ|NOUN|Nose (I)|flezchâma|ˈfɬɛːzˌd͡ʒaːmæ|
 |ǵàppíńa|ˈɟæpˌpiɲæ|NOUN|Roar (A)|apîta|ˈʔæp̚ˌpĩːd̚æ|
 |ǵàřfäř|ˈɟær̥far̥|NOUN|Child (A)|arfax|ˈʔær̥fæx|
 |ǵàsřúoľa|ˈɟæsˌr̥uo̯ʎæ|NOUN|Example (I)|asqrôla|ˈʔæsˌqr̥uːlæ|
@@ -155,8 +155,8 @@ Auto-derived from original
 |wéñíeña|ˈɣeˌɴie̯ɴæ|NOUN|Blood (I)|êvñêka|ˈjeːˌvŋiːg̚æ|
 |wérèqqa|ˈɣeˌrɛɢɢæ|NOUN|Sand (I)|êvreqa|ˈjeːˌvrɛq̚qæ|
 |wéźa|ˈɣeʑæ|NOUN|Water (E)|êvza|ˈjeːvzæ|
-|xèkaʔ|ˈxɛkæʔ|NOUN|Path (I)|shechaq|ˈçɛt̚t͡ʃæq̚|
-|xíkar|ˈxikær|NOUN|Tongue (A)|shichag|ˈçit̚t͡ʃæːɣ|
+|xèkkaʔ|ˈxɛkkæʔ|NOUN|Path (I)|shechaq|ˈçɛt̚t͡ʃæq̚|
+|xíkkar|ˈxikkær|NOUN|Tongue (A)|shichag|ˈçit̚t͡ʃæːɣ|
 |ýma|ˈymæ|NOUN|Knee (I)|kêwma|ˈkiːwmæ|
 |zúoma|ˈzuo̯mæ|NOUN|Speech/Voice/Words (E)|zûma|ˈzũːæ|
 |źímpaʔ|ˈʑim̥pæʔ|NOUN|Husband (A)|zimaq|ˈzim̥m̥æq̚|
@@ -180,8 +180,8 @@ Auto-derived from original
 |qúccəʔ|ˈɢuccɤʔ|PRN|You (dul)|utôt|ˈʔut̚tɘːd̚|
 |qúonu|ˈɢuo̯nu|PRN|What|qîu|ˈqɨ̃ːu|
 |qúttu|ˈɢuttu|PRN|You (sg)|utû|ˈʔut̚tuː|
-|arràľańi|ærˈræʎæɲ̊i|VERB|To give|glankî|ˈɣlæn̥kiː|
-|arràľańníñań|ærˈræʎæɲ̊ˌniɴæɲ̊|VERB|To adore/love|glankîkan|ˈɣlæn̥ˌkĩːg̚æn̥|
+|arràľańeki|ærˈræʎæɲ̊ɛki|VERB|To give|glankî|ˈɣlæn̥kiː|
+|arràľańekíñań|ærˈræʎæɲ̊ɛˌkiɴæɲ̊|VERB|To adore/love|glankîkan|ˈɣlæn̥ˌkĩːg̚æn̥|
 |arrwàśśéraʔ|ærˈrɣæɕˌɕeræʔ|VERB|To push|gjalîxeq|ˈɣjæɬˌɬĩɣɐq̚|
 |arrwāřřàřřäń|ærˈrɣar̥ˌr̥ær̥r̥aɲ̊|VERB|To wait|gjaxexan|ˈɣjæxˌxɛxxæn̥|
 |arrwāřře|ærˈrɣar̥r̥ɛ|VERB|To fall|gjaxê|ˈɣjæxxɘː|
@@ -190,7 +190,7 @@ Auto-derived from original
 |ařřààoń|ær̥ˈr̥æˌæɔɲ|VERB|To march|xekakân|ˈxɛk̚ˌkæk̚kɑːn|
 |ařřài|ær̥ˈr̥æi|VERB|To stand|xeki|ˈxɛk̚ki|
 |ařřàřřeń|ær̥ˈr̥ær̥r̥ɛɲ|VERB|To pass/go by|xexên|ˈxɛxxɘːn|
-|ařřàśań|ær̥ˈr̥æɕæɲ̊|VERB|To arrive|xelkan|ˈxɛɬkæn̥|
+|ařřàśkań|ær̥ˈr̥æɕkæɲ̊|VERB|To arrive|xelkan|ˈxɛɬkæn̥|
 |ařřéa|ær̥ˈr̥eɐ̯|VERB|To stand |xê|ˈxiː|
 |áulqo|ˈɑʊ̯lɢɔ|VERB|To become|ghôlqe|ˈɐʊ̯lɢɐ|
 |ârrwáeñ|ʌrˈrɣɑe̯ɴ|VERB|To prevent/deter|gjâñ|ˈɣjaːŋ|
@@ -214,7 +214,7 @@ Auto-derived from original
 |íeńaś|ˈie̯ɲæɕ|VERB|To bring|kînal|ˈkĩːæɬ|
 |jéñwaʔ|ˈjeɴɣæʔ|VERB|To see|êkjap|ˈjeːg̚jæp̚|
 |ľàńci|ˈʎæɲ̊ci|VERB|To turn|lanti|ˈlæn̥ti|
-|ľàńi|ˈʎæɲ̊i|VERB|To take|lankî|ˈlæn̥kiː|
+|ľàńeki|ˈʎæɲ̊ɛki|VERB|To take|lankî|ˈlæn̥kiː|
 |ľérao|ˈʎeræo̯|VERB|To wash |lîxêv|ˈlĩɣɘːv|
 |ľéraʔ|ˈʎeræʔ|VERB|To pull|lîxeq|ˈlĩɣɐq̚|
 |ľérêś|ˈʎereɕ|VERB|To rub|lîxil|ˈlĩɣiɬ|

@@ -309,7 +309,7 @@ def shift_place(word):
             s.mutate(PALATAL_PLACE_SHIFT[s])
         
         # Simple velar changes
-        elif s.rep in ['k', 'g']:
+        elif signed != 'alv' and signed != 'alv-pal' and s.rep in ['k', 'g']:
             s.delete()
         elif s.rep in VELAR_NASAL_SHIFT:
             s.mutate(VELAR_NASAL_SHIFT[s])
