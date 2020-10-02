@@ -320,15 +320,15 @@ SHIFT_RARE_SOUND = {
 }
 
 FINAL_VOWELS = {
-    'a': ['a', 'á'], # Central
-    'æ': ['æ', 'ǽ'], 'ɛ': ['ɛ', 'ɛ́'], # Low front
-    'e': ['e', 'é'], 'ø': ['ø', 'ǿ'], # Mid front
+    'a': ['â', 'á'], # Central
+    'æ': ['a', 'à'], 'ɛ': ['e', 'è'], # Low front
+    'e': ['ê', 'é'], 'ø': ['ø', 'ǿ'], # Mid front
     'i': ['i', 'í'], 'y': ['y', 'ý'], # High front
     'eɐ̯': ['ea', 'éa'], 'ie̯': ['ie', 'íe'], # Centring front
     'æɪ̯': ['æi', 'ǽi'], 'ei̯': ['ei', 'éi'], # Cis front
     'æo̯': ['æo', 'ǽo'], 'øʊ̯': ['øu', 'ǿu'], # Trans front
-    'ʌ': ['ɑ', 'ɑ́'], 'ɔ': ['ɔ', 'ɔ́'], # Low back
-    'o': ['o', 'ó'], 'ɤ': ['ɤ', 'ɤ́'], # Mid back
+    'ʌ': ['å', 'ǻ'], 'ɔ': ['o', 'ò'], # Low back
+    'o': ['ô', 'ó'], 'ɤ': ['ə', 'ə́'], # Mid back
     'u': ['u', 'ú'], 'uɪ̯': ['ui', 'úi'], # High back
     'oɐ̯': ['oa', 'óa'], 'uo̯': ['uo', 'úo'], # Centring back
     'ɑʊ̯': ['ɑu', 'ɑ́u'], 'ou̯': ['ou', 'óu'], # Cis back
