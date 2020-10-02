@@ -76,4 +76,4 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False):
     return new_vc
 
 vc = evolve(sort=True)
-oriv = evolve('../vocab/text.csv', '../vocab/text-ev.csv')
+# oriv = evolve('../vocab/text.csv', '../vocab/text-ev.csv')

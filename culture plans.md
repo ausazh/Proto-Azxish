@@ -23,6 +23,18 @@ Inhabiting the West River Valley.
     - Fishing
     - Hunting
     - Basic copperworking
+  
+  - Concrete Developments
+    - Domesticated crops
+      - Barley (river plans)
+      - Cabbage (north)
+      - Gourds and Melons (south and riverplains)
+        - Sweet melons - watermelon, rockmelon, etc
+        - Bitter melons - bitter melon
+        - Clear melons - cucumber, luffa
+        - Thick-skinned melons - pumpkin
+      - Soybean (south)
+      - Peppers, Capsicum, Chilli (south)
 
 - Things to develop
   - Agriculture, Food
