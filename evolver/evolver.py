@@ -43,7 +43,12 @@ def import_vocab(src):
     return data
 
 # Export vocab list to dest
-def export_vocab(dest, vocab):
+def export_vocab(dest, vocab, sort):
+    # sort vocab
+    if sort:
+        vocab.sort(key=lambda x: x[0])
+        vocab.sort(key=lambda x: x[2])
+
     with open(dest, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerows(vocab)
@@ -59,7 +64,7 @@ def evolve_word(line):
     return [second_word, ipa, word_type, translation, word, first_word]
 
 # the final function
-def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
+def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False):
     print ('importing vocab from ' + src)
     old_vc = import_vocab(src)
     
@@ -67,8 +72,8 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST):
     new_vc = [evolve_word(line) for line in old_vc if line]
     
     print('exporting vocab to ' + dest)
-    export_vocab(dest, new_vc)
+    export_vocab(dest, new_vc, sort)
     return new_vc
 
-vc = evolve()
+vc = evolve(sort=True)
 oriv = evolve('../vocab/text.csv', '../vocab/text-ev.csv')
