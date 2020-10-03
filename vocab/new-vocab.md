@@ -57,111 +57,98 @@ Auto-derived from original
 |ařřé|ær̥ˈr̥e|DET|Few|xi|ˈxi|
 |àoxxa|ˈæo̯xxæ|DET|This|ghuja|ˈɐʊ̯ççæ|
 |kúppa|ˈkuppæ|DET|Many|chupa|ˈt͡ʃup̚pæ|
+|míkka|ˈmikkæ|DET|That over there|mitja|ˈmit̚çæ|
 |qàiah|ˈɢæɪ̯æħ|DET|Every|âjah|ˈʔaːjæħ|
 |vète|ˈʋɛtɛ|DET|More|verto|ˈvɛʈɐ|
 |wàhaʔ|ˈɣæħæʔ|DET|That|jâhap|ˈjaħæp̚|
 |xíeña|ˈxie̯ɴæ|DET|Some|shêña|ˈçiːŋæ|
-|arràombań|ærˈræo̯mbæɲ̊|NOUN|Horn (I)|grâmpan|ˈɣraːmbæn̥|
-|arréhhèʔam|ærˈreħˌħɛʔæm̥|NOUN|Woman (A)|giheam|ˈɣiħˌħɜʔæm̥|
-|arréño|ærˈreɴɔ|NOUN|Night (I)|gjîkâ|ˈɣjĩːg̚ɑː|
-|arrǿmañ|ærˈrømæɴ̥|NOUN|Ear (I)|gîlmañ|ˈɣĩːlmæŋ̊|
-|ařřàccaʔ|ær̥ˈr̥æccæʔ|NOUN|Mountain (I)|xetaq|ˈxɛt̚tæq̚|
-|ařřàrrä|ær̥ˈr̥ærra|NOUN|Coast (I)|xaga|ˈxæːɣɣæ|
-|ařřàśśaʔ|ær̥ˈr̥æɕɕæʔ|NOUN|Person (A)|xelak|ˈxɛɬɬæk̚|
-|ârráǵa|ʌrˈrʌɟæ|NOUN|Flow (A)|goghta|ˈɣɑːdæ|
-|ârrářmíeńa|ʌrˈrʌr̥ˌm̥ie̯ɲæ|NOUN|Freedom (E)|gormêta|ˈɣɔr̥ˌm̥iːd̚æ|
-|âřřámpax|ʌr̥ˈr̥ʌm̥pæx|NOUN|Progress (I)|xompaj|ˈxɔm̥pæç|
-|âřřóáemaś|ʌr̥ˈr̥oˌɑe̯mæɕ|NOUN|Wing (A)|xukâmal|ˈxuk̚ˌkaːmæɬ|
-|âřřócča|ʌr̥ˈr̥occ͡ɕæ|NOUN|Hair (I)|xukla|ˈxuk̚ɬæ|
-|càʔícca|ˈcæʔˌiccæ|NOUN|Dust (I)|taita|ˈtæʔˌit̚tæ|
-|céřřéaña|ˈcer̥ˌr̥eɐ̯ɴæ|NOUN|Star (E)|tixêka|ˈtixˌxiːg̚æ|
-|errèqqa|ɛrˈrɛɢɢæ|NOUN|Stone (I)|reqa|ˈrɛq̚qæ|
-|eřříhań|ɛr̥ˈr̥iħæɲ̊|NOUN|Feather (I)|krêhan|ˈkr̥iħæn̥|
-|fèñxa|ˈfɛɴ̥xæ|NOUN|Foot (I)|kwenja|ˈkɸɛn̥çæ|
-|fśéazgàoma|ˈfɕeɐ̯zˌgæo̯mæ|NOUN|Nose (I)|flezchâma|ˈfɬɛːzˌd͡ʒaːmæ|
-|ǵàppíńa|ˈɟæpˌpiɲæ|NOUN|Roar (A)|apîta|ˈʔæp̚ˌpĩːd̚æ|
-|ǵàřfäř|ˈɟær̥far̥|NOUN|Child (A)|arfax|ˈʔær̥fæx|
-|ǵàsřúoľa|ˈɟæsˌr̥uo̯ʎæ|NOUN|Example (I)|asqrôla|ˈʔæsˌqr̥uːlæ|
-|ǵàʔyccýaʔ|ˈɟæʔycˌcyæʔ|NOUN|Ice (I)|autêvat|ˈʔæʔut̚ˌtiːvæt̚|
-|ǵèhha|ˈɟɛħħæ|NOUN|Land (I)|eha|ˈʔɛħħæ|
-|ǵíǵy̌o|ˈɟiɟɟ͡ʑɔ|NOUN|Day (I)|îksâ|ˈʔĩːg̚zɑː|
-|ǵíźmäř|ˈɟiʑmar̥|NOUN|Ideal (I)|îzmax|ˈʔĩːzmæx|
-|hànhàśxo|ˈħæn̥ˌħæɕxɔ|NOUN|Smoke (A)|hanvaljâ|ˈħæn̥ˌfæɬçɑː|
-|hàńma|ˈħæɲ̊m̥æ|NOUN|Fire (A)|hanema|ˈħæn̥m̥æ|
-|hàʔúhho|ˈħæʔˌuħħɔ|NOUN|Ashes (I)|hauhâ|ˈħæʔˌuħħɑː|
-|hàʔyccýaʔ|ˈħæʔycˌcyæʔ|NOUN|Snow (I)|hautêvat|ˈħæʔut̚ˌtiːvæt̚|
-|háeaś|ˈħɑe̯æɕ|NOUN|Insect (I)|hoghjal|ˈħɑːjæɬ|
-|hříemâe|ˈħr̥ie̯mɑe̯|NOUN|Father (A)|hrêpgha|ˈħr̥iːb̚ɑɛ̯|
-|húoñdvaś|ˈħuo̯ɴdʋæɕ|NOUN|Forest (I)|hôktsal|ˈħuːg̚d͡ðæɬ|
-|jéñwúomaʔ|ˈjeɴˌɣuo̯mæʔ|NOUN|Eye (I)|êkjômap|ˈjeːg̚ˌjuːmæp̚|
-|jérèqqa|ˈjeˌrɛɢɢæ|NOUN|Sand (I)|êvreqa|ˈjeːvˌrɛq̚qæ|
-|jéźa|ˈjeʑæ|NOUN|Water > Water (in the world) (E)|êvza|ˈjeːvzæ|
-|kàqqam|ˈkæɢɢæm̥|NOUN|Mother (A)|chaqam|ˈt͡ʃæq̚qæm̥|
-|kíxeź|ˈkixɛʑ|NOUN|Beach (I)|chêshaz|ˈt͡ʃiçæːz|
-|kòʔam|ˈkɔʔæm̥|NOUN|Man (A)|choam|ˈt͡ʃɔʔæm̥|
+|árvo|ˈʌrʋɔ|LOC-PRN|LocPrn-Medial-Neg - There/That Not|ghâxvâ|ˈaːɣvɑː|
+|háuo|ˈħɑʊ̯ɔ|LOC-PRN|LocPrn-Medial-Emph - There/That Well|hâve|ˈħaːvɐ|
+|húñə|ˈħuɴɤ|LOC-PRN|LocPrn-Indefinite-Emph - Somewhere Well|hûqê|ˈħũːɢ̚ɘː|
+|húomu|ˈħuo̯mu|LOC-PRN|LocPrn-Proximal-Emph - Here/This Well|hûmû|ˈħũːuː|
+|húoməń|ˈħuo̯mɤɲ|LOC-PRN|LocPrn-Distal-Emph - Over There Well|hûmît|ˈħũːiːd̚|
+|íeńiń|ˈie̯ɲiɲ|LOC-PRN|LocPrn-Distal-Neg - Over There Not|jîmît|ˈjĩːiːd̚|
+|jéñ|ˈjeɴ|LOC-PRN|LocPrn-Indefinite-Neg - Somewhere Not|êq|ˈjeːɢ̚|
+|míń|ˈmiɲ|LOC-PRN|LocPrn-Distal - Over There|mît|ˈmĩːd̚|
+|mú|ˈmu|LOC-PRN|LocPrn-Proximal - Here/This|mû|ˈmũː|
+|qúo|ˈɢuo̯|LOC-PRN|LocPrn-Indefinite - Somewhere|qê|ˈqɨː|
+|thímpy|ˈtħim̥py|LOC-PRN|LocPrn-Proximal-Neg - Here/This Not|twimû|ˈtɸim̥m̥uː|
+|váe|ˈʋɑe̯|LOC-PRN|LocPrn-Medial - There/That|vâ|ˈvaː|
+|ařřài|ær̥ˈr̥æi|NOUN|To stand > Stance (I)|xeki|ˈxɛk̚ki|
+|ařřéa|ær̥ˈr̥eɐ̯|NOUN|To stand > Status/State (I)|xê|ˈxiː|
 |kúińaś|ˈkuɪ̯ɲæɕ|NOUN|Size (I)|chûjas|ˈt͡ʃũːjæs|
-|lúppäř|ˈluppar̥|NOUN|Tail (I)|lupax|ˈlup̚pæx|
-|ľérâeʔ|ˈʎerɑe̯ʔ|NOUN|Hand (I)|lîxehaq|ˈlĩɣɑɛ̯q̚|
-|ľíxxam|ˈʎixxæm̥|NOUN|Back (I)|lijam|ˈliççæm̥|
-|mèccíeźa|ˈmɛcˌcie̯ʑæ|NOUN|Lake (A)|metêza|ˈmɛt̚ˌtiːzæ|
-|mèʔèqqa|ˈmɛʔˌɛɢɢæ|NOUN|Earth (I)|metireqa|ˈmɛʈ̚ˌɛq̚qæ|
-|mèʔřéaźa|ˈmɛʔˌr̥eɐ̯ʑæ|NOUN|Ocean (A)|metugêza|ˈmɛt̚ˌxiːzæ|
-|mía|ˈmiæ|NOUN|Wisdom (E)|mêa|ˈmiːæ|
-|míʔmúmař|ˈmiʔˌmumær̥|NOUN|Power (E)|miûpar|ˈmiʔˌũːb̚ær̥|
-|múrèʔaś|ˈmuˌrɛʔæɕ|NOUN|Belly (I)|vûreal|ˈvũːˌrɛʔæɬ|
-|ñàa|ˈɴææ|NOUN|Flesh (I)|ñaka|ˈŋæk̚kæ|
-|pàmfía|ˈpæm̥ˌfiæ|NOUN|Sound (A)|pamwêa|ˈpæm̥ˌɸiːæ|
-|pònhoń|ˈpɔn̥ħɔɲ̊|NOUN|Side (of body) (I)|ponhen|ˈpɔn̥ħɐn̥|
-|púríʔäř|ˈpuˌriʔar̥|NOUN|Name (A)|pûriax|ˈpũːˌriʔæx|
-|púʔaʔ|ˈpuʔæʔ|NOUN|Skin (I)|puat|ˈpuʔæt̚|
-|qàʔřäh|ˈɢæʔr̥aħ|NOUN|Team (A)|qaqixah|ˈqæq̚xæħ|
-|qúcčíʔo|ˈɢucˌc͡ɕiʔɔ|NOUN|Heart (A)|uqsiagh|ˈʔuq̚ˌsiʔaː|
-|qúíeźa|ˈɢuˌie̯ʑæ|NOUN|River (A)|ukêza|ˈʔuk̚ˌkiːzæ|
-|qúña|ˈɢuɴæ|NOUN|Tooth (I)|ûka|ˈʔũːg̚æ|
-|qúomah|ˈɢuo̯mæħ|NOUN|Neck (I)|qômah|ˈquːmæħ|
-|qúttàmpaʔ|ˈɢutˌtæm̥pæʔ|NOUN|Rope (I)|uktramak|ˈʔuk̚ˌʈæm̥m̥æk̚|
-|qúʔhúśśa|ˈɢuʔˌħuɕɕæ|NOUN|Year (E)|ukhisa|ˈʔuk̚ˌħɨssæ|
-|řía|ˈr̥iæ|NOUN|Sun (E)|qrêa|ˈqr̥iːæ|
-|súńcam|ˈsuɲ̊cæm̥|NOUN|Other (I~A)|sunam|ˈsun̥n̥æm̥|
-|tfàś|ˈtfæɕ|NOUN|Stick (I)|tsal|ˈt͡θæɬ|
-|tfířřa|ˈtfir̥r̥æ|NOUN|Hill (I)|tsira|ˈt͡θir̥r̥æ|
-|úffař|ˈuffær̥|NOUN|Claw (I)|vufar|ˈvuffær̥|
-|vàhhéina|ˈʋæħˌħei̯næ|NOUN|Argument (A)|wahîa|ˈwæħˌħɨ̃ːæ|
-|vàhřa|ˈʋæħr̥æ|NOUN|Mistake (I)|wahra|ˈwæħr̥æ|
-|vàoña|ˈʋæo̯ɴæ|NOUN|Head (I)|vâka|ˈvaːg̚æ|
-|vàoñdva|ˈʋæo̯ɴdʋæ|NOUN|Road (A)|vâkutsa|ˈvaːg̚d͡ðæ|
-|vàś|ˈʋæɕ|NOUN|Moon (E)|val|ˈvæɬ|
-|vàśńoń|ˈʋæɕɲ̊ɔɲ|NOUN|Sky (A)|valanât|ˈvæɬn̥ɑːd̚|
-|vàśxoń|ˈʋæɕxɔɲ|NOUN|Cloud (I)|valjân|ˈvæɬçɑːn|
-|vàtf|ˈʋætf|NOUN|Mouth (I)|vats|ˈvæt͡θ|
-|vàxxíeńa|ˈʋæxˌxie̯ɲæ|NOUN|Wife (A)|washîa|ˈwæçˌçĩːæ|
-|vèřxa|ˈʋɛr̥xæ|NOUN|Rain (A)|verja|ˈvɛr̥çæ|
-|víffy|ˈʋiffy|NOUN|Victory (E)|vifu|ˈviffu|
-|wàř|ˈɣær̥|NOUN|Life (E)|jar|ˈjær̥|
-|wáuǵa|ˈɣɑʊ̯ɟæ|NOUN|God (E)|jâwta|ˈjaːwdæ|
-|xèkkaʔ|ˈxɛkkæʔ|NOUN|Path (I)|shechaq|ˈçɛt̚t͡ʃæq̚|
-|xíkkar|ˈxikkær|NOUN|Tongue (A)|shichag|ˈçit̚t͡ʃæːɣ|
-|ýma|ˈymæ|NOUN|Knee (I)|kêwma|ˈkiːwmæ|
-|zúoma|ˈzuo̯mæ|NOUN|Speech/Voice/Words (E)|zûma|ˈzũːæ|
-|źímpaʔ|ˈʑim̥pæʔ|NOUN|Husband (A)|zimaq|ˈzim̥m̥æq̚|
+|arràombań|ærˈræo̯mbæɲ̊|NOUN - Anatomy|Horn (I)|grâmpan|ˈɣraːmbæn̥|
+|arrǿmañ|ærˈrømæɴ̥|NOUN - Anatomy|Ear (I)|gîlmañ|ˈɣĩːlmæŋ̊|
+|âřřóáemľań|ʌr̥ˈr̥oˌɑe̯mʎæɲ̊|NOUN - Anatomy|Wing (A)|xukâmalan|ˈxuk̚ˌkaːmlæn̥|
+|âřřócča|ʌr̥ˈr̥occ͡ɕæ|NOUN - Anatomy|Hair (I)|xukla|ˈxuk̚ɬæ|
+|eřříhań|ɛr̥ˈr̥iħæɲ̊|NOUN - Anatomy|Feather (I)|krêhan|ˈkr̥iħæn̥|
+|fèñxa|ˈfɛɴ̥xæ|NOUN - Anatomy|Foot (I)|kwenja|ˈkɸɛn̥çæ|
+|fśéazgàoma|ˈfɕeɐ̯zˌgæo̯mæ|NOUN - Anatomy|Nose (I)|flezchâma|ˈfɬɛːzˌd͡ʒaːmæ|
+|jéñwúomaʔ|ˈjeɴˌɣuo̯mæʔ|NOUN - Anatomy|Eye (I)|êkjômap|ˈjeːg̚ˌjuːmæp̚|
+|lúppäř|ˈluppar̥|NOUN - Anatomy|Tail (I)|lupax|ˈlup̚pæx|
+|ľérâeʔ|ˈʎerɑe̯ʔ|NOUN - Anatomy|Hand (I)|lîxehaq|ˈlĩɣɑɛ̯q̚|
+|ľíxxam|ˈʎixxæm̥|NOUN - Anatomy|Back (I)|lijam|ˈliççæm̥|
+|múrèʔaś|ˈmuˌrɛʔæɕ|NOUN - Anatomy|Belly (I)|vûreal|ˈvũːˌrɛʔæɬ|
+|ñàa|ˈɴææ|NOUN - Anatomy|Flesh (I)|ñaka|ˈŋæk̚kæ|
+|pònhoń|ˈpɔn̥ħɔɲ̊|NOUN - Anatomy|Side (of body) (I)|ponhen|ˈpɔn̥ħɐn̥|
+|púʔaʔ|ˈpuʔæʔ|NOUN - Anatomy|Skin (I)|puat|ˈpuʔæt̚|
+|qúcčéaâeń|ˈɢucˌc͡ɕeɐ̯ɑe̯ɲ̊|NOUN - Anatomy|Heart (A)|uqsighan|ˈʔuq̚ˌsiɐ̯ɑɛ̯n̥|
+|qúña|ˈɢuɴæ|NOUN - Anatomy|Tooth (I)|ûka|ˈʔũːg̚æ|
+|qúomah|ˈɢuo̯mæħ|NOUN - Anatomy|Neck (I)|qômah|ˈquːmæħ|
+|úffař|ˈuffær̥|NOUN - Anatomy|Claw (I)|vufar|ˈvuffær̥|
+|vàoña|ˈʋæo̯ɴæ|NOUN - Anatomy|Head (I)|vâka|ˈvaːg̚æ|
+|vàtf|ˈʋætf|NOUN - Anatomy|Mouth (I)|vats|ˈvæt͡θ|
+|xíkřäń|ˈxikr̥aɲ̊|NOUN - Anatomy|Tongue (A)|shichgan|ˈçit͡ʃxæn̥|
+|ýma|ˈymæ|NOUN - Anatomy|Knee (I)|kêwma|ˈkiːwmæ|
 |âřřóazzúoźñə|ʌr̥ˈr̥oɐ̯zˌzuo̯ʑɴɤ|NOUN - Animal|Bee Hive (I)|xuzzuzñi|ˈxuːzˌzuːzŋi|
-|âřřóaźño|ʌr̥ˈr̥oɐ̯ʑɴɔ|NOUN - Animal|Bee (A)|xuzñe|ˈxuːzŋɐ|
-|fíʔmśa|ˈfiʔm̥ɕæ|NOUN - Animal|Dog (A)|fipomla|ˈfip̚m̥ɬæ|
+|âřřóaźñoń|ʌr̥ˈr̥oɐ̯ʑɴɔɲ̊|NOUN - Animal|Bee (A)|xuzñen|ˈxuːzŋɐn̥|
+|fíʔmśań|ˈfiʔm̥ɕæɲ̊|NOUN - Animal|Dog (A)|fipomlan|ˈfip̚m̥ɬæn̥|
+|háeľoń|ˈħɑe̯ʎɔɲ̊|NOUN - Animal|Insect (I)|hoghjalen|ˈħɑːjlɐn̥|
 |hèʔhéii|ˈħɛʔˌħei̯i|NOUN - Animal|Pigsty (I)|hekhêkki|ˈħɜk̚ˌħɨːg̚gi|
-|héia|ˈħei̯æ|NOUN - Animal|Pig (A)|hêkka|ˈħɨːg̚gæ|
-|hřèsha|ˈħr̥ɛsħæ|NOUN - Animal|Wolf (A)|hresfa|ˈħr̥ɛsfæ|
-|hřúońľo|ˈħr̥uo̯ɲʎɔ|NOUN - Animal|Coyote (A)|hrôtlo|ˈħr̥uːd̚lɐ|
-|jébvèñaś|ˈjeˌbʋɛɴæɕ|NOUN - Animal|Waterfowl (A)|êvpûhal|ˈjeːvˌbwɐ̃æɬ|
-|jézøľa|ˈjezøʎæ|NOUN - Animal|Fish (A)|êzvla|ˈjeːzvlæ|
-|màoa|ˈmæo̯æ|NOUN - Animal|Goat (A)|mâpka|ˈmaːb̚gæ|
+|héiań|ˈħei̯æɲ̊|NOUN - Animal|Pig (A)|hêkkan|ˈħɨːg̚gæn̥|
+|hřèshań|ˈħr̥ɛsħæɲ̊|NOUN - Animal|Wolf (A)|hresfan|ˈħr̥ɛsfæn̥|
+|hřúońľań|ˈħr̥uo̯ɲʎæɲ̊|NOUN - Animal|Coyote (A)|hrôtlan|ˈħr̥uːd̚læn̥|
+|jébvàomań|ˈjeˌbʋæo̯mæɲ̊|NOUN - Animal|Waterfowl (A)|êvpûhalan|ˈjeːvˌbwɐ̃læn̥|
+|jézøľań|ˈjezøʎæɲ̊|NOUN - Animal|Fish (A)|êzvlan|ˈjeːzvlæn̥|
+|màoań|ˈmæo̯æɲ̊|NOUN - Animal|Goat (A)|mâpkan|ˈmaːb̚gæn̥|
 |màʔmàoi|ˈmæʔˌm̥æo̯i|NOUN - Animal|Goat run (I)|mapmâpki|ˈmæp̚ˌm̥aːb̚gi|
-|pvèñaś|ˈpʋɛɴæɕ|NOUN - Animal|Bird (A)|pûhal|ˈpwɐ̃æɬ|
-|qárrä|ˈɢʌrra|NOUN - Animal|Animal (A)|oga|ˈʔɔːɣɣæ|
+|pvàomań|ˈpʋæo̯mæɲ̊|NOUN - Animal|Bird (A)|pûhalan|ˈpwɐ̃læn̥|
+|qárräń|ˈɢʌrraɲ̊|NOUN - Animal|Animal (A)|ogan|ˈʔɔːɣɣæn̥|
 |qèqqéii|ˈɢɛɢˌɢei̯i|NOUN - Animal|Duck farm (I)|qepqêpki|ˈqɜp̚ˌqɨːb̚gi|
-|qéia|ˈɢei̯æ|NOUN - Animal|Duck (A)|qêpka|ˈqɨːb̚gæ|
-|řáuga|ˈr̥ɑʊ̯gæ|NOUN - Animal|Ibex (A)|prâlcha|ˈpr̥aːld͡ʒæ|
-|vóɹa|ˈʋoɹæ|NOUN - Animal|Boar (A)|ôrza|ˈwoːʐæ|
-|càśa|ˈcæɕæ|NOUN - Food|Bone (A)|talaka|ˈtæɬkæ|
+|qéiań|ˈɢei̯æɲ̊|NOUN - Animal|Duck (A)|qêpkan|ˈqɨːb̚gæn̥|
+|řáugań|ˈr̥ɑʊ̯gæɲ̊|NOUN - Animal|Ibex (A)|prâlchan|ˈpr̥aːld͡ʒæn̥|
+|vóɹań|ˈʋoɹæɲ̊|NOUN - Animal|Boar (A)|ôrzan|ˈwoːʐæn̥|
+|ǵèhhoń|ˈɟɛħħɔɲ|NOUN - Community|Land > Territory (H)|ehân|ˈʔɛħħɑːn|
+|qàʔřāhhoń|ˈɢæʔˌr̥aħħɔɲ|NOUN - Community|Team (H)|qaqixahân|ˈqæq̚ˌxæħħɑːn|
+|ârrářmíegge|ʌrˈrʌr̥ˌm̥ie̯ggɛ|NOUN - Concept|Freedom (D)|gormêtache|ˈɣɔr̥ˌm̥iːd̚d͡ʒɐ|
+|âřřámpax|ʌr̥ˈr̥ʌm̥pæx|NOUN - Concept|Progress (I)|xompaj|ˈxɔm̥pæç|
+|ǵíźmäř|ˈɟiʑmar̥|NOUN - Concept|Ideal > Idea (I)|îzmax|ˈʔĩːzmæx|
+|míàkke|ˈmiˌækkɛ|NOUN - Concept|Wisdom (D)|mêache|ˈmiːˌæt̚t͡ʃɐ|
+|míʔyříkke|ˈmiʔyˌr̥ikkɛ|NOUN - Concept|Power (D)|miûpariche|ˈmiʔuːˌpr̥it̚t͡ʃɐ|
+|vàhřa|ˈʋæħr̥æ|NOUN - Concept|Mistake (I)|wahra|ˈwæħr̥æ|
+|vífke|ˈʋifkɛ|NOUN - Concept|Victory (D)|vifuche|ˈvift͡ʃɐ|
+|vàoñdvań|ˈʋæo̯ɴdʋæɲ̊|NOUN - Construction|Road (A)|vâkutsan|ˈvaːg̚d͡ðæn̥|
+|ařřàccaʔ|ær̥ˈr̥æccæʔ|NOUN - Environment|Mountain (I)|xetaq|ˈxɛt̚tæq̚|
+|ařřàrrä|ær̥ˈr̥ærra|NOUN - Environment|Coast (I)|xaga|ˈxæːɣɣæ|
+|càʔícca|ˈcæʔˌiccæ|NOUN - Environment|Dust (I)|taita|ˈtæʔˌit̚tæ|
+|errèqqa|ɛrˈrɛɢɢæ|NOUN - Environment|Stone (I)|reqa|ˈrɛq̚qæ|
+|errèqqe|ɛrˈrɛɢɢɛ|NOUN - Environment|Pebble (I)|reqe|ˈrɛq̚qɐ|
+|ǵàʔyccýaʔ|ˈɟæʔycˌcyæʔ|NOUN - Environment|Ice (I)|autêvat|ˈʔæʔut̚ˌtiːvæt̚|
+|ǵèhha|ˈɟɛħħæ|NOUN - Environment|Land (I)|eha|ˈʔɛħħæ|
+|hàʔyccýaʔ|ˈħæʔycˌcyæʔ|NOUN - Environment|Snow (I)|hautêvat|ˈħæʔut̚ˌtiːvæt̚|
+|húoñdvaś|ˈħuo̯ɴdʋæɕ|NOUN - Environment|Forest (I)|hôktsal|ˈħuːg̚d͡ðæɬ|
+|jérèqqa|ˈjeˌrɛɢɢæ|NOUN - Environment|Sand (I)|êvreqa|ˈjeːvˌrɛq̚qæ|
+|jéźíkke|ˈjeˌʑikkɛ|NOUN - Environment|Water > Water (in the world) (E)|êvziche|ˈjeːvˌzit̚t͡ʃɐ|
+|kíxeź|ˈkixɛʑ|NOUN - Environment|Beach (I)|chêshaz|ˈt͡ʃiçæːz|
+|mèccíeźań|ˈmɛcˌcie̯ʑæɲ̊|NOUN - Environment|Lake (A)|metêzan|ˈmɛt̚ˌtiːzæn̥|
+|mèʔèkke|ˈmɛʔˌɛkkɛ|NOUN - Environment|Earth > Ground (E)|metireqiche|ˈmɛʈ̚ˌɛq̚t͡ʃɐ|
+|mèʔèqqa|ˈmɛʔˌɛɢɢæ|NOUN - Environment|Earth > Soil (I)|metireqa|ˈmɛʈ̚ˌɛq̚qæ|
+|mèʔřéaźań|ˈmɛʔˌr̥eɐ̯ʑæɲ̊|NOUN - Environment|Ocean (A)|metugêzan|ˈmɛt̚ˌxiːzæn̥|
+|qúíeźań|ˈɢuˌie̯ʑæɲ̊|NOUN - Environment|River (A)|ukêzan|ˈʔuk̚ˌkiːzæn̥|
+|tfířřa|ˈtfir̥r̥æ|NOUN - Environment|Hill (I)|tsira|ˈt͡θir̥r̥æ|
+|xèkkaʔ|ˈxɛkkæʔ|NOUN - Environment|Path (esp. natural) (I)|shechaq|ˈçɛt̚t͡ʃæq̚|
+|arràźbèʔa|ærˈræʑˌbɛʔæ|NOUN - Food|Olive Oil (I)|gezpea|ˈɣɛːzˌbɛʔæ|
+|càśa|ˈcæɕæ|NOUN - Food|Bone (I)|talaka|ˈtæɬkæ|
 |éama|ˈeɐ̯mæ|NOUN - Food|Egg (I)|kehuma|ˈkɛɐ̯mæ|
 |ǵàmpía|ˈɟæm̥ˌpiæ|NOUN - Food|Milk (human and animal) (I)|amêa|ˈʔæm̥ˌm̥iːæ|
 |hàñqíeña|ˈħæɴˌɢie̯ɴæ|NOUN - Food|Roast Meat (I)|hañêka|ˈħæŋ̊ˌŋ̊iːg̚æ|
@@ -169,16 +156,40 @@ Auto-derived from original
 |jèréamañ|ˈjɛˌreɐ̯mæɴ̥|NOUN - Food|Vegetable Soup (I)|êgêmañ|ˈjeːˌɣiːmæŋ̊|
 |jéñíeña|ˈjeˌɴie̯ɴæ|NOUN - Food|Blood (I)|êvñêka|ˈjeːvˌŋiːg̚æ|
 |mèccíeźǵa|ˈmɛcˌcie̯ʑɟæ|NOUN - Food|Salt (I)|metêzta|ˈmɛt̚ˌtiːzdæ|
-|ñíeña|ˈɴie̯ɴæ|NOUN - Food|Meat (to eat) (A)|ñêka|ˈŋiːg̚æ|
+|ñíeña|ˈɴie̯ɴæ|NOUN - Food|Meat (to eat) (I)|ñêka|ˈŋiːg̚æ|
 |pýañ|ˈpyæɴ̥|NOUN - Food|Meat Stew (I)|pêlañ|ˈpiːlæŋ̊|
 |qòttòʔo|ˈɢɔtˌtɔʔɔ|NOUN - Food|Flour (I)|ottoe|ˈʔɔt̚ˌtɔʔɐ|
 |qúcčía|ˈɢucˌc͡ɕiæ|NOUN - Food|Drinking Water (I)|uplêa|ˈʔup̚ˌɬiːæ|
 |řàrreèmpa|ˈr̥ærrɛˌɛm̥pæ|NOUN - Food|Mustard Sauce (I)|pregêema|ˈpr̥ɛːɣɣɘːˌɛm̥m̥æ|
 |řèʔřèʔa|ˈr̥ɛʔˌr̥ɛʔæ|NOUN - Food|Ground Chilli (I)|preprea|ˈpr̥ɛp̚ˌr̥ɛʔæ|
 |wúʔíeńa|ˈɣuʔˌie̯ɲæ|NOUN - Food|Honey (I)|juêta|ˈjuʔˌiːd̚æ|
+|súńcam|ˈsuɲ̊cæm̥|NOUN - Function|Other (I)|sunam|ˈsun̥n̥æm̥|
+|súńmoń|ˈsuɲ̊m̥ɔɲ|NOUN - Function|Other (A)|sunamân|ˈsun̥m̥ɑːn|
+|arréańàoge|ærˈreɐ̯ˌɲæo̯gɛ|NOUN - Mythos|Night > God of the Night (D)|gjîkâche|ˈɣjĩːˌgaːd͡ʒɐ|
+|càśíkke|ˈcæɕˌikkɛ|NOUN - Mythos|Enchanted Bone (D)|talakiche|ˈtæɬˌkit̚t͡ʃɐ|
+|ǵíǵy̌àoge|ˈɟiɟˌɟ͡ʑæo̯gɛ|NOUN - Mythos|Day > Goddess of the Day (D)|îksâche|ˈʔĩːg̚ˌzaːd͡ʒɐ|
+|ǵíźmāřřäń|ˈɟiʑˌmar̥r̥aɲ̊|NOUN - Mythos|Ideal > Idol (A)|îzmaxan|ˈʔĩːzˌmæxxæn̥|
+|qúʔhúsko|ˈɢuʔˌħuskɔ|NOUN - Mythos|Year > God of the Seasons/Harvests (D)|ukhisiche|ˈʔuk̚ˌħɨst͡ʃɐ|
+|tfèńcíkke|ˈtfɛɲ̊ˌcikkɛ|NOUN - Mythos|Goddess of the Winds/Weather (D)|tsenaniche|ˈt͡θɛn̥ˌn̥it̚t͡ʃɐ|
+|vóɹmòsko|ˈʋoˌɹmɔskɔ|NOUN - Mythos|Mammoth (D)|ôrzumosiche|ˈwoːˌʐmɔst͡ʃɐ|
+|wáudòkko|ˈɣɑʊ̯ˌdɔkkɔ|NOUN - Mythos|God > Deity (D)|jâwtoche|ˈjaːwˌdɔt̚t͡ʃɐ|
+|wúʔíegge|ˈɣuʔˌie̯ggɛ|NOUN - Mythos|Purifying Honey (D)|juêtiche|ˈjuʔˌiːd̚d͡ʒɐ|
+|ařřàśoń|ær̥ˈr̥æɕɔɲ|NOUN - People|Person (H)|xelakân|ˈxɛɬkɑːn|
+|ârrwòmoń|ʌrˈrɣɔmɔɲ|NOUN - People|Woman (H)|gihemân|ˈɣjɐmɑːn|
+|ǵàřfāřřâń|ˈɟær̥ˌfar̥r̥ʌɲ|NOUN - People|Child (H)|arfaxân|ˈʔær̥ˌfæxxɑːn|
+|hříemoń|ˈħr̥ie̯mɔɲ|NOUN - People|Father (H)|hrêpghân|ˈħr̥iːb̚ɑːn|
+|kàʔmoń|ˈkæʔm̥ɔɲ|NOUN - People|Mother (H)|chaqamân|ˈt͡ʃæq̚m̥ɑːn|
+|kòʔàmpoń|ˈkɔʔˌæm̥pɔɲ|NOUN - People|Man (H)|choamân|ˈt͡ʃɔʔˌæm̥m̥ɑːn|
+|vàxxíeńoń|ˈʋæxˌxie̯ɲɔɲ|NOUN - People|Wife (H)|washîân|ˈwæçˌçĩːɑːn|
+|źímqoń|ˈʑim̥ɢɔɲ|NOUN - People|Husband (H)|zimaqân|ˈzim̥qɑːn|
+|arréño|ærˈreɴɔ|NOUN - Phenomena|Night (I)|gjîkâ|ˈɣjĩːg̚ɑː|
+|ârráǵań|ʌrˈrʌɟæɲ̊|NOUN - Phenomena|Flow (A)|goghtan|ˈɣɑːdæn̥|
+|ǵàsřúoľań|ˈɟæsˌr̥uo̯ʎæɲ̊|NOUN - Phenomena|Reflection/Image (A)|asqrôlan|ˈʔæsˌqr̥uːlæn̥|
+|ǵíǵy̌o|ˈɟiɟɟ͡ʑɔ|NOUN - Phenomena|Day (I)|îksâ|ˈʔĩːg̚zɑː|
+|ľíwmań|ˈʎiɣmæɲ̊|NOUN - Phenomena|Back > Shadow (A)|lijaman|ˈliʝmæn̥|
+|qúʔhúśśa|ˈɢuʔˌħuɕɕæ|NOUN - Phenomena|Year (I)|ukhisa|ˈʔuk̚ˌħɨssæ|
+|wàřke|ˈɣær̥kɛ|NOUN - Phenomena|Life (D)|jarche|ˈjær̥t͡ʃɐ|
 |arràźba|ærˈræʑbæ|NOUN - Plant|Olive (I)|gezpa|ˈɣɛːzbæ|
-|arràźbèʔa|ærˈræʑˌbɛʔæ|NOUN - Plant|Olive Oil (I)|gezpea|ˈɣɛːzˌbɛʔæ|
-|arràźbítfśa|ærˈræʑˌbitfɕæ|NOUN - Plant|Olive Tree (I)|gezpitsala|ˈɣɛːzˌbit͡θɬæ|
 |arràźbítfśa|ærˈræʑˌbitfɕæ|NOUN - Plant|Olive Tree (I)|gezpitsala|ˈɣɛːzˌbit͡θɬæ|
 |arréam|ærˈreæm̥|NOUN - Plant|Leaf (I)|gêam|ˈɣiːæm̥|
 |fříía|ˈfr̥iˌiæ|NOUN - Plant|Pumpkin (I)|fritkêa|ˈfr̥it̚ˌkiːæ|
@@ -211,11 +222,11 @@ Auto-derived from original
 |řèʔřéřä|ˈr̥ɛʔˌr̥er̥a|NOUN - Plant|'Hot Pepper' (chilli) (I)|preprixka|ˈpr̥ɛp̚ˌr̥ixkæ|
 |řéřä|ˈr̥er̥a|NOUN - Plant|Pepper (any kind) (I)|prixka|ˈpr̥ixkæ|
 |súppaʔ|ˈsuppæʔ|NOUN - Plant|Tree Bark (I)|supat|ˈsup̚pæt̚|
+|tfàś|ˈtfæɕ|NOUN - Plant|Stick (I)|tsal|ˈt͡θæɬ|
 |tfàśśa|ˈtfæɕɕæ|NOUN - Plant|Tree (I)|tsala|ˈt͡θæɬɬæ|
 |tfàśśe|ˈtfæɕɕɛ|NOUN - Plant|Plant (I) (small tree)|tsale|ˈt͡θæɬɬɐ|
 |tòʔńa|ˈtɔʔɲ̊æ|NOUN - Plant|Almond (I)|tokna|ˈtɔk̚n̥æ|
 |tòʔńítfśa|ˈtɔʔˌɲ̊itfɕæ|NOUN - Plant|Almond Tree (I)|toknitsala|ˈtɔk̚ˌn̥it͡θɬæ|
-|túgmaʔ|ˈtugmæʔ|NOUN - Plant|Sorghum (plant) (I)|tûchimak|ˈtũːd͡ʒmæk̚|
 |túgmaʔ|ˈtugmæʔ|NOUN - Plant|Sorghum (plant) (I)|tûchimak|ˈtũːd͡ʒmæk̚|
 |túgo|ˈtugɔ|NOUN - Plant|Sorghum (grain) (I)|tûche|ˈtũːd͡ʒɐ|
 |úruva|ˈuruʋæ|NOUN - Plant|Pear (I)|vrûva|ˈvrũːvæ|
@@ -225,6 +236,25 @@ Auto-derived from original
 |vèřtfśa|ˈʋɛr̥tfɕæ|NOUN - Plant|Tree/Jersey Cabbage (I)|wertsala|ˈwɛr̥t͡θɬæ|
 |źéarbréřä|ˈʑeɐ̯rˌbrer̥a|NOUN - Plant|'Sweet Pepper' (capsicum) (I)|zigprixka|ˈziːɣˌbrixkæ|
 |źéaréa|ˈʑeɐ̯rˌeæ|NOUN - Plant|Sweet Melon (I)|zigkêa|ˈziːɣˌgiːæ|
+|póarâń|ˈpoɐ̯rʌɲ|NOUN - Rhetoric|Name (H)|pûrixân|ˈpũːrɣɑːn|
+|vàhhéinań|ˈʋæħˌħei̯næɲ̊|NOUN - Rhetoric|Argument (A)|wahîan|ˈwæħˌħɨ̃ːæn̥|
+|zúgo|ˈzugɔ|NOUN - Rhetoric|Words > Eulogy (D)|zûmiche|ˈzũːd͡ʒɐ|
+|zúomań|ˈzuo̯mæɲ̊|NOUN - Rhetoric|Speech/Voice/Words (A)|zûman|ˈzũːæn̥|
+|ǵàppíńań|ˈɟæpˌpiɲæɲ̊|NOUN - Senses|Roar (A)|apîtan|ˈʔæp̚ˌpĩːd̚æn̥|
+|pàmfíań|ˈpæm̥ˌfiæɲ̊|NOUN - Senses|Sound (A)|pamwêan|ˈpæm̥ˌɸiːæn̥|
+|céřřéagge|ˈcer̥ˌr̥eɐ̯ggɛ|NOUN - Sky|Star (E)|tixêkiche|ˈtixˌxiːg̚d͡ʒɐ|
+|ǵàʔyccýǵań|ˈɟæʔycˌcyɟæɲ̊|NOUN - Sky|Ice > Hail (A)|autêvatan|ˈʔæʔut̚ˌtiːvdæn̥|
+|hàʔyccýǵań|ˈħæʔycˌcyɟæɲ̊|NOUN - Sky|Snow > Snow (falling) (A)|hautêvatan|ˈħæʔut̚ˌtiːvdæn̥|
+|řííkke|ˈr̥iˌikkɛ|NOUN - Sky|Sun (E)|qrêiche|ˈqr̥iːˌit̚t͡ʃɐ|
+|vàśke|ˈʋæɕkɛ|NOUN - Sky|Moon (E)|valiche|ˈvæɬt͡ʃɐ|
+|vàśńàońań|ˈʋæɕˌɲ̊æo̯ɲæɲ̊|NOUN - Sky|Sky (A)|valanâtan|ˈvæɬˌn̥aːd̚æn̥|
+|vàśxań|ˈʋæɕxæɲ̊|NOUN - Sky|Cloud (A)|valjan|ˈvæɬçæn̥|
+|vàtfńań|ˈʋætfɲ̊æɲ̊|NOUN - Sky|To blow > Wind (A)|vatsenan|ˈvæt͡θn̥æn̥|
+|vèřxań|ˈʋɛr̥xæɲ̊|NOUN - Sky|Rain (A)|verjan|ˈvɛr̥çæn̥|
+|hànhàśxań|ˈħæn̥ˌħæɕxæɲ̊|NOUN - Tools|Smoke (A)|hanvaljan|ˈħæn̥ˌfæɬçæn̥|
+|hàńmań|ˈħæɲ̊m̥æɲ̊|NOUN - Tools|Fire (A)|haneman|ˈħæn̥m̥æn̥|
+|hàʔúhho|ˈħæʔˌuħħɔ|NOUN - Tools|Ashes (I)|hauhâ|ˈħæʔˌuħħɑː|
+|qúttàmpaʔ|ˈɢutˌtæm̥pæʔ|NOUN - Tools|Rope (I)|uktramak|ˈʔuk̚ˌʈæm̥m̥æk̚|
 |àoma|ˈæo̯mæ|NUM|Three (I)|ghûma|ˈɐʊ̯̃æ|
 |qúoń|ˈɢuo̯ɲ|NUM|Two (I)|qôt|ˈquːd̚|
 |řè|ˈr̥ɛ|NUM|One (I)|pre|ˈpr̥ɛ|
@@ -235,22 +265,20 @@ Auto-derived from original
 |arrwāřře|ærˈrɣar̥r̥ɛ|PART|To fall (Participle)|gjaxê|ˈɣjæxxɘː|
 |arrwèań|ærˈrɣɛæɲ̊|PART|To sit (Participle)|gjekan|ˈɣjɛk̚kæn̥|
 |ařřàań|ær̥ˈr̥ææɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Participle)|xekan|ˈxɛk̚kæn̥|
-|ařřài|ær̥ˈr̥æi|PART|To stand > To be standing (Participle)|xeki|ˈxɛk̚ki|
 |ařřàoń|ær̥ˈr̥æɔɲ|PART|To march (Participle)|xekakân|ˈxɛk̚kɑːn|
 |ařřàřřeń|ær̥ˈr̥ær̥r̥ɛɲ|PART|To pass/go by (Participle)|xexên|ˈxɛxxɘːn|
 |ařřàśań|ær̥ˈr̥æɕæɲ̊|PART|To arrive (Participle)|xelkan|ˈxɛɬkæn̥|
-|ařřéa|ær̥ˈr̥eɐ̯|PART|To stand > To be standing (Participle)|xê|ˈxiː|
+|áemčwòñaʔ|ˈɑe̯m̥ˌc͡ɕɣɔɴæʔ|PART|To squeeze (Negative Participle)|metlîhaq|ˈɑɛ̯m̥ˌtɬjɐ̃æq̚|
+|áemfoń|ˈɑe̯m̥fɔɲ|PART|To dig (Negative Participle)|mewân|ˈɑɛ̯m̥ɸɑːn|
+|áempáeńârâ|ˈɑe̯m̥ˌpɑe̯ɲʌrʌ|PART|To come (Negative Participle)|mângê|ˈɑɛ̯m̥ˌm̥aːnɣɘː|
+|áempáeńǵľə|ˈɑe̯m̥ˌpɑe̯ɲɟʎɤ|PART|To throw (Negative Participle)|mântlî|ˈɑɛ̯m̥ˌm̥aːndliː|
+|áeñřoar|ˈɑe̯ɴ̥r̥oɐ̯r|PART|To meet (Negative Participle)|ñaxug|ˈɑɛ̯ŋ̊xuːɣ|
 |áulqo|ˈɑʊ̯lɢɔ|PART|To become (Participle)|ghôlqe|ˈɐʊ̯lɢɐ|
 |ârrwáeñ|ʌrˈrɣɑe̯ɴ|PART|To prevent/deter (Participle)|gjâñ|ˈɣjaːŋ|
 |ârrwúʔfaʔ|ʌrˈrɣuʔfæʔ|PART|To spit (Participle)|gjupvat|ˈɣjup̚fæt̚|
 |càmhe|ˈcæm̥ħɛ|PART|To remain (Participle)|tamhe|ˈtæm̥ħɐ|
 |ǵàiørym|ˈɟæɪ̯ørym|PART|To disagree (Negative Participle)|evrûp|ˈʔɛʝvruːb̚|
-|ǵàmčwèñaʔ|ˈɟæm̥ˌc͡ɕɣɛɴæʔ|PART|To squeeze (Negative Participle)|metlîhaq|ˈʔæm̥ˌtɬjɐ̃æq̚|
-|ǵàmfoń|ˈɟæm̥fɔɲ|PART|To dig (Negative Participle)|mewân|ˈʔæm̥ɸɑːn|
-|ǵàmpàońare|ˈɟæm̥ˌpæo̯ɲærɛ|PART|To come (Negative Participle)|mângê|ˈʔæm̥ˌm̥aːnɣɘː|
-|ǵàmpàońǵľi|ˈɟæm̥ˌpæo̯ɲɟʎi|PART|To throw (Negative Participle)|mântlî|ˈʔæm̥ˌm̥aːndliː|
 |ǵàñřê|ˈɟæɴ̥r̥e|PART|To hear (Participle)|añagi|ˈʔæŋ̊xi|
-|ǵàñřør|ˈɟæɴ̥r̥ør|PART|To meet (Negative Participle)|ñaxug|ˈʔæŋ̊xuːɣ|
 |ǵàorym|ˈɟæo̯rym|PART|To disagree (Participle)|evrûp|ˈʔɛːvruːb̚|
 |ǵàřřàomea|ˈɟær̥ˌr̥æo̯meɐ̯|PART|To part (Participle)|arâmhe|ˈʔær̥ˌr̥aːmɐː|
 |ǵàtfa|ˈɟætfæ|PART|To laugh > To be laughing (Participle)|atsa|ˈʔæt̚t͡θæ|
@@ -259,41 +287,13 @@ Auto-derived from original
 |ǵàʔřàomea|ˈɟæʔˌr̥æo̯meɐ̯|PART|To part (Negative Participle)|arâmhe|ˈʔæk̚ˌr̥aːmɐː|
 |ǵèccyàʔfo|ˈɟɛccyˌæʔfɔ|PART|To boast > To be boastful (Participle)|etîvatfâ|ˈʔɛt̚tiːˌvæt̚fɑː|
 |ǵèxecyàʔfo|ˈɟɛxɛcyˌæʔfɔ|PART|To boast > To be boastful (Negative Participle)|etîvatfâ|ˈʔɛçtiːˌvæt̚fɑː|
-|ǵéaraľàńi|ˈɟeɐ̯ræˌʎæɲ̊i|PART|To adore/love (Negative Participle)|glankî|ˈʔĩːɣˌlæn̥kiː|
-|ǵéaraľàńi|ˈɟeɐ̯ræˌʎæɲ̊i|PART|To give (Negative Participle)|glankî|ˈʔĩːɣˌlæn̥kiː|
-|ǵéaràonêraʔ|ˈɟeɐ̯rˌæo̯neræʔ|PART|To push (Negative Participle)|gjalîxeq|ˈʔĩːɣˌjlĩɣɐq̚|
-|ǵéaràśań|ˈɟeɐ̯ˌræɕæɲ̊|PART|To arrive (Negative Participle)|xelkan|ˈʔĩːˌɣɛɬkæn̥|
-|ǵéarwāřřäń|ˈɟeɐ̯rˌɣar̥r̥aɲ̊|PART|To wait (Negative Participle)|gjaxexan|ˈʔĩːɣˌjæxxæn̥|
-|ǵéarwāřře|ˈɟeɐ̯rˌɣar̥r̥ɛ|PART|To fall (Negative Participle)|gjaxê|ˈʔĩːɣˌjæxxɘː|
-|ǵéarwèań|ˈɟeɐ̯rˌɣɛæɲ̊|PART|To sit (Negative Participle)|gjekan|ˈʔĩːɣˌjɛk̚kæn̥|
-|ǵéarwoñ|ˈɟeɐ̯rɣɔɴ|PART|To prevent/deter (Negative Participle)|gjâñ|ˈʔĩːɣjɑːŋ|
-|ǵéarwúʔfaʔ|ˈɟeɐ̯rˌɣuʔfæʔ|PART|To spit (Negative Participle)|gjupvat|ˈʔĩːɣˌjup̚fæt̚|
-|ǵérāoń|ˈɟerˌaɔɲ|PART|To march (Negative Participle)|xekakân|ˈʔĩɣˌgæk̚kɑːn|
 |ǵéräm|ˈɟeram̥|PART|To help (Participle)|îxam|ˈʔĩɣæm̥|
-|ǵéräń|ˈɟeraɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Negative Participle)|xekan|ˈʔĩɣgæn̥|
-|ǵére|ˈɟerɛ|PART|To stand > To be standing (Negative Participle)|xê|ˈʔĩɣɘː|
 |ǵére|ˈɟerɛ|PART|To follow (Participle)|îxegh|ˈʔĩɣɘː|
-|ǵérê|ˈɟere|PART|To stand > To be standing (Negative Participle)|xeki|ˈʔĩɣgi|
-|ǵérreń|ˈɟerrɛɲ|PART|To pass/go by (Negative Participle)|xexên|ˈʔĩɣɣɘːn|
 |ǵíccèwemê|ˈɟicˌcɛɣɛme|PART|To die (not live) > To be dead (Negative Participle)|itihimê|ˈʔit̚ˌtjɐmɘː|
-|ǵíeńàolqe|ˈɟie̯ˌɲæo̯lɢɛ|PART|To become (Negative Participle)|ghôlqe|ˈʔĩːˌɐʊ̯lɢɐ|
-|ǵíeńàomińʔ|ˈɟie̯ˌɲæo̯miɲʔ|PART|To count (Negative Participle)|hûint|ˈʔĩːˌɐʊ̯̃int̚|
-|ǵíeńáeřpə|ˈɟie̯ˌɲɑe̯r̥pɤ|PART|To prosper > To be prosperous (Negative Participle)|herpô|ˈʔĩːˌɑɛ̯r̥pɘː|
 |ǵíźéräm|ˈɟiˌʑeram̥|PART|To help (Negative Participle)|îxam|ˈʔĩːˌzĩɣæm̥|
 |ǵíźére|ˈɟiˌʑerɛ|PART|To follow (Negative Participle)|îxegh|ˈʔĩːˌzĩɣɘː|
 |ǵíʔhèmpê|ˈɟiʔˌħɛm̥pe|PART|To live (Negative Participle)|ihemê|ˈʔit̚ˌħɜm̥m̥ɘː|
 |ǵíʔhémpê|ˈɟiʔˌħem̥pe|PART|To die (not live) > To be dead (Participle)|itihimê|ˈʔit̚ˌħɨm̥m̥ɘː|
-|ǵýdvań|ˈɟydʋæɲ̊|PART|To breathe > To be alive (Negative Participle)|vatsan|ˈʔĩːvd͡ðæn̥|
-|ǵýdveń|ˈɟydʋɛɲ̊|PART|To blow (Negative Participle)|vatsen|ˈʔĩːvd͡ðɐn̥|
-|ǵýdvècce|ˈɟyˌdʋɛccɛ|PART|To smell (Negative Participle)|vatsete|ˈʔĩːvˌd͡ðɛt̚tɐ|
-|ǵýdvèńań|ˈɟyˌdʋɛɲ̊æɲ̊|PART|To vomit > To be sick (Negative Participle)|vatsenakan|ˈʔĩːvˌd͡ðɛn̥kæn̥|
-|ǵýǵàaś|ˈɟyˌɟææɕ|PART|To say > To mean/To intend (Negative Participle)|vatakas|ˈʔĩːvˌdæk̚kæs|
-|ǵýmanhàonøri|ˈɟymæn̥ˌħæo̯nøri|PART|To sing (Negative Participle)|vanhânfri|ˈʔĩːvæn̥ˌħaːnvri|
-|ǵýmařhàcci|ˈɟymær̥ˌħæcci|PART|To hunt (Negative Participle)|varhati|ˈʔĩːvær̥ˌħæt̚ti|
-|ǵýmàoe|ˈɟyˌmæo̯ɛ|PART|To be shocked (Negative Participle)|vâo|ˈʔĩːˌvaːɐ|
-|ǵýmàʔfoń|ˈɟyˌmæʔfɔɲ|PART|To shout (Negative Participle)|vatvân|ˈʔĩːˌvæt̚fɑːn|
-|ǵýmoñ|ˈɟymɔɴ|PART|To ask > To say (Negative Participle)|vahâq|ˈʔĩːvɑːɢ̚|
-|ǵýràńmeń|ˈɟyˌræɲ̊m̥ɛɲ̊|PART|To play (games) (Negative Participle)|veranmen|ˈʔĩːvˌræn̥m̥ɐn̥|
 |hànhàome|ˈħæn̥ˌħæo̯mɛ|PART|To burn (something) (Participle)|hanhâme|ˈħæn̥ˌħaːmɐ|
 |hàqqeʔ|ˈħæɢɢɛʔ|PART|To have (Participle)|haqop|ˈħæq̚qɐp̚|
 |hářpə|ˈħʌr̥pɤ|PART|To prosper > To be prosperous (Participle)|herpô|ˈħɜr̥pɘː|
@@ -301,6 +301,13 @@ Auto-derived from original
 |húícceń|ˈħuˌiccɛɲ̊|PART|To tie (Participle)|hôiten|ˈħuːˌit̚tɐn̥|
 |húoməńʔ|ˈħuo̯mɤɲʔ|PART|To count (Participle)|hûint|ˈħũːint̚|
 |íeńaś|ˈie̯ɲæɕ|PART|To bring (Participle)|kînal|ˈkĩːæɬ|
+|íeńàolqe|ˈie̯ˌɲæo̯lɢɛ|PART|To become (Negative Participle)|ghôlqe|ˈjĩːˌɐʊ̯lɢɐ|
+|íeńàomińʔ|ˈie̯ˌɲæo̯miɲʔ|PART|To count (Negative Participle)|hûint|ˈjĩːˌɐʊ̯̃int̚|
+|íeńáeřpə|ˈie̯ˌɲɑe̯r̥pɤ|PART|To prosper > To be prosperous (Negative Participle)|herpô|ˈjĩːˌɑɛ̯r̥pɘː|
+|íweñanhàome|ˈiɣɛɴæn̥ˌħæo̯mɛ|PART|To burn (something) (Negative Participle)|hanhâme|ˈjjɐ̃æn̥ˌħaːmɐ|
+|íweñeʔíścêń|ˈiɣɛɴɛʔˌiɕceɲ|PART|To sew (Negative Participle)|hoistên|ˈjjɐ̃ɐʔˌistɘːn|
+|íweñêícceń|ˈiɣɛɴeˌiccɛɲ̊|PART|To tie (Negative Participle)|hôiten|ˈjjɐ̃ɘːˌit̚tɐn̥|
+|íweqeʔ|ˈiɣɛɢɛʔ|PART|To have (Negative Participle)|haqop|ˈjjɐ̃ɢɐp̚|
 |jécàmhe|ˈjeˌcæm̥ħɛ|PART|To remain (Negative Participle)|tamhe|ˈjeːˌtæm̥ħɐ|
 |jéíeńaś|ˈjeˌie̯ɲæɕ|PART|To bring (Negative Participle)|kînal|ˈjeːˌkĩːæɬ|
 |jémva|ˈjemʋæ|PART|To lie (on your side) (Negative Participle)|pefa|ˈjeːb̚væ|
@@ -323,6 +330,24 @@ Auto-derived from original
 |máeńârâ|ˈmɑe̯ɲʌrʌ|PART|To come (Participle)|mângê|ˈmaːnɣɘː|
 |mècčwèñaʔ|ˈmɛcˌc͡ɕɣɛɴæʔ|PART|To squeeze (Participle)|metlîhaq|ˈmɛt̚ˌɬjɐ̃æq̚|
 |mèhhoń|ˈmɛħħɔɲ|PART|To dig (Participle)|mewân|ˈmɛxxʷɑːn|
+|néaraľàńi|ˈneɐ̯ræˌʎæɲ̊i|PART|To adore/love (Negative Participle)|glankî|ˈjĩːɣˌlæn̥kiː|
+|néaraľàńi|ˈneɐ̯ræˌʎæɲ̊i|PART|To give (Negative Participle)|glankî|ˈjĩːɣˌlæn̥kiː|
+|néaràonêraʔ|ˈneɐ̯rˌæo̯neræʔ|PART|To push (Negative Participle)|gjalîxeq|ˈjĩːɣˌjlĩɣɐq̚|
+|néaràśań|ˈneɐ̯ˌræɕæɲ̊|PART|To arrive (Negative Participle)|xelkan|ˈjĩːˌɣɛɬkæn̥|
+|néarwāřřäń|ˈneɐ̯rˌɣar̥r̥aɲ̊|PART|To wait (Negative Participle)|gjaxexan|ˈjĩːɣˌjæxxæn̥|
+|néarwāřře|ˈneɐ̯rˌɣar̥r̥ɛ|PART|To fall (Negative Participle)|gjaxê|ˈjĩːɣˌjæxxɘː|
+|néarwèań|ˈneɐ̯rˌɣɛæɲ̊|PART|To sit (Negative Participle)|gjekan|ˈjĩːɣˌjɛk̚kæn̥|
+|néarwoñ|ˈneɐ̯rɣɔɴ|PART|To prevent/deter (Negative Participle)|gjâñ|ˈjĩːɣjɑːŋ|
+|néarwúʔfaʔ|ˈneɐ̯rˌɣuʔfæʔ|PART|To spit (Negative Participle)|gjupvat|ˈjĩːɣˌjup̚fæt̚|
+|nérāoń|ˈnerˌaɔɲ|PART|To march (Negative Participle)|xekakân|ˈjĩɣˌgæk̚kɑːn|
+|néräń|ˈneraɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Negative Participle)|xekan|ˈjĩɣgæn̥|
+|nérreń|ˈnerrɛɲ|PART|To pass/go by (Negative Participle)|xexên|ˈjĩɣɣɘːn|
+|nýdvań|ˈnydʋæɲ̊|PART|To breathe > To be alive (Negative Participle)|vatsan|ˈjĩːvd͡ðæn̥|
+|nýdveń|ˈnydʋɛɲ̊|PART|To blow (Negative Participle)|vatsen|ˈjĩːvd͡ðɐn̥|
+|nýdvècce|ˈnyˌdʋɛccɛ|PART|To smell (Negative Participle)|vatsete|ˈjĩːvˌd͡ðɛt̚tɐ|
+|nýdvèńań|ˈnyˌdʋɛɲ̊æɲ̊|PART|To vomit > To be sick (Negative Participle)|vatsenakan|ˈjĩːvˌd͡ðɛn̥kæn̥|
+|nýǵàaś|ˈnyˌɟææɕ|PART|To say > To mean/To intend (Negative Participle)|vatakas|ˈjĩːvˌdæk̚kæs|
+|nýràńmeń|ˈnyˌræɲ̊m̥ɛɲ̊|PART|To play (games) (Negative Participle)|veranmen|ˈjĩːvˌræn̥m̥ɐn̥|
 |ñāřřør|ˈɴar̥r̥ør|PART|To meet (Participle)|ñaxug|ˈŋæxxuːɣ|
 |pèffa|ˈpɛffæ|PART|To lie (on your side) (Participle)|pefa|ˈpɛffæ|
 |pèffíʔhê|ˈpɛfˌfiʔħe|PART|To sleep (Participle)|pefithê|ˈpɛfˌfit̚ħɘː|
@@ -373,11 +398,7 @@ Auto-derived from original
 |qúʔfəříha|ˈɢuʔfɤˌr̥iħæ|PART|To float (Negative Participle)|uqkrêha|ˈʔut̚ɸiq̚ˌkr̥iħæ|
 |qúʔfəttúomoa|ˈɢuʔfɤtˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|utûmhe|ˈʔut̚ɸit̚ˌtũːɐː|
 |qúʔñə|ˈɢuʔɴ̥ɤ|PART|To swell (Participle)|uqñî|ˈʔuq̚ŋ̊iː|
-|qwèñanhàome|ˈɢɣɛɴæn̥ˌħæo̯mɛ|PART|To burn (something) (Negative Participle)|hanhâme|ˈʔjɐ̃æn̥ˌħaːmɐ|
-|qwèñeʔíścêń|ˈɢɣɛɴɛʔˌiɕceɲ|PART|To sew (Negative Participle)|hoistên|ˈʔjɐ̃ɐʔˌistɘːn|
-|qwèñêícceń|ˈɢɣɛɴeˌiccɛɲ̊|PART|To tie (Negative Participle)|hôiten|ˈʔjɐ̃ɘːˌit̚tɐn̥|
 |qwòmə|ˈɢɣɔmɤ|PART|To live (Participle)|ihemê|ˈʔjɐmɘː|
-|qwòqoʔ|ˈɢɣɔɢɔʔ|PART|To have (Negative Participle)|haqop|ˈʔjɐ̃ɢɐp̚|
 |úioñaʔ|ˈuɪ̯ɔɴæʔ|PART|To hold (Participle)|lîhaq|ˈljɐ̃æq̚|
 |úońəʔ|ˈuo̯ɲɤʔ|PART|To cut (Participle)|wôtiq|ˈwuːd̚iq̚|
 |vàaś|ˈʋææɕ|PART|To say > To mean/To intend (Participle)|vatakas|ˈvæt̚kæs|
@@ -400,240 +421,217 @@ Auto-derived from original
 |vóxfíenvê|ˈʋoxˌfie̯nʋe|PART|To split (Negative Participle)|ôtwô|ˈwoçˌɸiːd̚wɘː|
 |vóxfýy|ˈʋoxˌfyy|PART|To stab (Negative Participle)|ôlu|ˈwoçˌɸiːlu|
 |vóxfəčúmu|ˈʋoxfɤˌc͡ɕumu|PART|To break (Negative Participle)|ôtlukîn|ˈwoçɸɘːˌtɬuk̚kĩː|
+|ýmanhàonøri|ˈymæn̥ˌħæo̯nøri|PART|To sing (Negative Participle)|vanhânfri|ˈjĩːvæn̥ˌħaːnvri|
+|ýmařhàcci|ˈymær̥ˌħæcci|PART|To hunt (Negative Participle)|varhati|ˈjĩːvær̥ˌħæt̚ti|
+|ýmàoe|ˈyˌmæo̯ɛ|PART|To be shocked (Negative Participle)|vâo|ˈjĩːˌvaːɐ|
+|ýmàʔfoń|ˈyˌmæʔfɔɲ|PART|To shout (Negative Participle)|vatvân|ˈjĩːˌvæt̚fɑːn|
+|ýmoñ|ˈymɔɴ|PART|To ask > To say (Negative Participle)|vahâq|ˈjĩːvɑːɢ̚|
 |èʔiř|ˈɛʔir̥|PREP|Of|keir|ˈkɛʔir̥|
 |fèś|ˈfɛɕ|PREP|Like/As|fes|ˈfɛs|
 |ǵíñ|ˈɟiɴ|PREP|Before|îk|ˈʔĩːg̚|
 |hú|ˈħu|PREP|From|hû|ˈħũː|
 |úlo|ˈulɔ|PREP|With |vlo|ˈvlɔ|
 |zò|ˈzɔ|PREP|After|zo|ˈzɔ|
+|ârráem|ʌrˈrɑe̯m|PRN|2.d.Acc - You & Me|gâm|ˈɣaːm|
+|čàř|ˈc͡ɕær̥|PRN|2.s.Acc - Thee|plex|ˈpɬɛx|
+|erríeńoń|ɛrˈrie̯ɲɔɲ|PRN|3.H.d.Nom - He/She/It and I|rêtân|ˈriːd̚ɑːn|
+|féaa|ˈfeɐ̯æ|PRN|1.s.Acc - Me|fêgha|ˈfiɐ̯æ|
 |ǵècci|ˈɟɛcci|PRN|I |etî|ˈʔɛt̚tiː|
+|ǵér|ˈɟer|PRN|3.I.Acc - It/Them|îx|ˈʔĩɣ|
+|ǵérâń|ˈɟerʌɲ|PRN|3.H.s.Acc - Him/Her/It|îxân|ˈʔĩɣɑːn|
+|ǵéräń|ˈɟeraɲ̊|PRN|3.A.s.Acc - It/Him/Her|îxan|ˈʔĩɣæn̥|
 |íe|ˈie̯|PRN|They (sg)|kê|ˈkiː|
 |íex|ˈiɛx|PRN|They (pl)|kêoj|ˈkiːɐç|
 |íeʔ|ˈiɛʔ|PRN|They (dul)|kêot|ˈkiːɐt̚|
+|ľàřřaʔ|ˈʎær̥r̥æʔ|PRN|2.d.Nom - You & I|larap|ˈlær̥r̥æp̚|
+|mè|ˈmɛ|PRN|2.p.Nom - You|me|ˈmɛ|
+|mvò|ˈmʋɔ|PRN|1.s.Nom - I|mûh|ˈmwɐ̃|
 |ñàccêń|ˈɴæcceɲ|PRN|We (dul)|ñatôt|ˈŋæt̚tɘːd̚|
 |ñàʔex|ˈɴæʔɛx|PRN|We (pl)|ñaoj|ˈŋæʔɐç|
+|ñáeń|ˈɴɑe̯ɲ|PRN|3.H.p.Nom - Them|ñân|ˈŋaːn|
+|ñèń|ˈɴɛɲ̊|PRN|3.A.p.Acc - Them|ñen|ˈŋɛn̥|
+|ñíkke|ˈɴikkɛ|PRN|3.D.Nom - Him/Her/It/Them|ñiche|ˈŋit̚t͡ʃɐ|
+|póa|ˈpoɐ̯|PRN|1.p.Acc - Us|pôgh|ˈpuɐ̯|
+|qáh|ˈɢʌħ|PRN|3.I.Nom - It/They|qeh|ˈqɜħ|
+|qáhhoń|ˈɢʌħħɔɲ|PRN|3.H.s.Nom - He/She/It|qehân|ˈqɜħħɑːn|
 |qář|ˈɢʌr̥|PRN|Who|qer|ˈqɜr̥|
+|qèhhań|ˈɢɛħħæɲ̊|PRN|3.A.s.Nom - It/He/She|qehan|ˈqɜħħæn̥|
 |qúccox|ˈɢuccɔx|PRN|You (pl)|utoj|ˈʔut̚tɐç|
 |qúccəń|ˈɢuccɤɲ|PRN|You (dul)|utôt|ˈʔut̚tɘːd̚|
 |qúonu|ˈɢuo̯nu|PRN|What|qîu|ˈqɨ̃ːu|
 |qúttu|ˈɢuttu|PRN|You (sg)|utû|ˈʔut̚tuː|
-|qéiyʔñíñe|ˈɢei̯yʔˌɴ̥iɴɛ|V-DEMO-IM-0IN|To be swelling / To be swollen|qêjuqñîke|ˈqɨːjuq̚ˌŋ̊ĩːg̚ɐ|
-|qǿihàań|ˈɢøiˌħææɲ̊|V-DEMO-IM-0IN|To be holding / To hold|qêlîhaqkan|ˈqɨːliːˌħæq̚kæn̥|
-|múľəhàań|ˈmuʎɤˌħææɲ̊|V-DEMO-IM-1PR|Is holding here|mûlîhaqkan|ˈmũːliːˌħæq̚kæn̥|
-|mýyʔñíñe|ˈmyyʔˌɴ̥iɴɛ|V-DEMO-IM-1PR|Is swollen here|mêwuqñîke|ˈmiːwuq̚ˌŋ̊ĩːg̚ɐ|
-|qáuuʔñíñe|ˈɢɑʊ̯uʔˌɴ̥iɴɛ|V-DEMO-IM-2ME|Is swollen there|âvuqñîke|ˈʔaːvuq̚ˌŋ̊ĩːg̚ɐ|
-|váuəhàań|ˈʋɑʊ̯ɤˌħææɲ̊|V-DEMO-IM-2ME|Is holding there|vâlîhaqkan|ˈvaːliːˌħæq̚kæn̥|
-|mínyʔñíñe|ˈminyʔˌɴ̥iɴɛ|V-DEMO-IM-3DI|Is swollen over there|mîtuqñîke|ˈmĩːd̚uq̚ˌŋ̊ĩːg̚ɐ|
-|mýmihàań|ˈmymiˌħææɲ̊|V-DEMO-IM-3DI|Is holding over there|mîlîhaqkan|ˈmĩːliːˌħæq̚kæn̥|
-|húqqouəhàań|ˈħuɢɢou̯ɤˌħææɲ̊|V-DEMO-IM-E-0IN|To be holding / To hold (emphatic)|huqêlîhaqkan|ˈħuq̚qɘːliːˌħæq̚kæn̥|
-|húqquiuʔñíñe|ˈħuɢɢuɪ̯uʔˌɴ̥iɴɛ|V-DEMO-IM-E-0IN|To be swelling / To be swollen (emphatic)|huqêjuqñîke|ˈħuq̚qɘːjuq̚ˌŋ̊ĩːg̚ɐ|
-|húomouuʔñíñe|ˈħuo̯mou̯uʔˌɴ̥iɴɛ|V-DEMO-IM-E-1PR|Is swollen here (emphatic)|hûmêwuqñîke|ˈħũːɘːwuq̚ˌŋ̊ĩːg̚ɐ|
-|húomuľəhàań|ˈħuo̯muʎɤˌħææɲ̊|V-DEMO-IM-E-1PR|Is holding here (emphatic)|hûmûlîhaqkan|ˈħũːuːliːˌħæq̚kæn̥|
-|hǿuvâuyʔñíñe|ˈħøʊ̯ʋɑʊ̯yʔˌɴ̥iɴɛ|V-DEMO-IM-E-2ME|Is swollen there (emphatic)|hevâvuqñîke|ˈħɜːvvɑːvuq̚ˌŋ̊ĩːg̚ɐ|
-|váuəhàań|ˈʋɑʊ̯ɤˌħææɲ̊|V-DEMO-IM-E-2ME|Is holding there (emphatic)|vâlîhaqkan|ˈvaːliːˌħæq̚kæn̥|
-|hǿumityʔñíñe|ˈħøʊ̯mityʔˌɴ̥iɴɛ|V-DEMO-IM-E-3DI|Is swollen over there (emphatic)|hefmîtuqñîke|ˈħɜvmiːtuq̚ˌŋ̊ĩːg̚ɐ|
-|hǿumyihàań|ˈħøʊ̯myiˌħææɲ̊|V-DEMO-IM-E-3DI|Is holding over there (emphatic)|hefmîlîhaqkan|ˈħɜvmiːliːˌħæq̚kæn̥|
-|jéñeľihàań|ˈjeɴɛʎiˌħææɲ̊|V-DEMO-IM-N-0IN|To not be holding / To not hold|êqlîhaqkan|ˈjeːɢ̚liːˌħæq̚kæn̥|
-|jéñwyʔñíñe|ˈjeɴɣyʔˌɴ̥iɴɛ|V-DEMO-IM-N-0IN|To not be swelling / To not be swollen|êqjuqñîke|ˈjeːɢ̚juq̚ˌŋ̊ĩːg̚ɐ|
-|thímpyľihàań|ˈtħim̥pyʎiˌħææɲ̊|V-DEMO-IM-N-1PR|Is not holding here|twimûlîhaqkan|ˈtɸim̥m̥uːliːˌħæq̚kæn̥|
-|thímpøuyʔñíñe|ˈtħim̥pøʊ̯yʔˌɴ̥iɴɛ|V-DEMO-IM-N-1PR|Is not swollen here|twimêwuqñîke|ˈtɸim̥m̥ɘːwuq̚ˌŋ̊ĩːg̚ɐ|
-|âřřáuâuəhàań|ʌr̥ˈr̥ɑʊ̯ɑʊ̯ɤˌħææɲ̊|V-DEMO-IM-N-2ME|Is not holding there|xâvâlîhaqkan|ˈxaːvɑːliːˌħæq̚kæn̥|
-|qāřâuyʔñíñe|ˈɢar̥ɑʊ̯yʔˌɴ̥iɴɛ|V-DEMO-IM-N-2ME|Is not swollen there|âxâvuqñîke|ˈʔaxɑːvuq̚ˌŋ̊ĩːg̚ɐ|
-|ǵíeńityʔñíñe|ˈɟie̯ɲityʔˌɴ̥iɴɛ|V-DEMO-IM-N-3DI|Is not swollen over there|îmîtuqñîke|ˈʔĩːiːtuq̚ˌŋ̊ĩːg̚ɐ|
-|ǵíeńyihàań|ˈɟie̯ɲyiˌħææɲ̊|V-DEMO-IM-N-3DI|Is not holding over there|îmîlîhaqkan|ˈʔĩːiːliːˌħæq̚kæn̥|
-|qúiúʔñə|ˈɢuɪ̯ˌuʔɴ̥ɤ|V-DEMO-PF-0IN|To swell|qêjuqñî|ˈqɨːˌjuq̚ŋ̊iː|
-|qǿihàńef|ˈɢøiˌħæɲ̊ɛf|V-DEMO-PF-0IN|To grab / To hold|qêlîhaqknef|ˈqɨːliːˌħæq̚kn̥ɐf|
-|múľəhàńef|ˈmuʎɤˌħæɲ̊ɛf|V-DEMO-PF-1PR|Grabs here|mûlîhaqknef|ˈmũːliːˌħæq̚kn̥ɐf|
-|mýúʔñə|ˈmyˌuʔɴ̥ɤ|V-DEMO-PF-1PR|Swells here|mêwuqñî|ˈmiːˌwuq̚ŋ̊iː|
-|qáuúʔñə|ˈɢɑʊ̯ˌuʔɴ̥ɤ|V-DEMO-PF-2ME|Swells there|âvuqñî|ˈʔaːˌvuq̚ŋ̊iː|
-|váuəhàńef|ˈʋɑʊ̯ɤˌħæɲ̊ɛf|V-DEMO-PF-2ME|Grabs there|vâlîhaqknef|ˈvaːliːˌħæq̚kn̥ɐf|
-|mídúʔñə|ˈmiˌduʔɴ̥ɤ|V-DEMO-PF-3DI|Swells over there|mîtuqñî|ˈmĩːˌduq̚ŋ̊iː|
-|mýmihàńef|ˈmymiˌħæɲ̊ɛf|V-DEMO-PF-3DI|Grabs over there|mîlîhaqknef|ˈmĩːliːˌħæq̚kn̥ɐf|
-|húqqouəhàńef|ˈħuɢɢou̯ɤˌħæɲ̊ɛf|V-DEMO-PF-E-0IN|To grab / To hold (emphatic)|huqêlîhaqknef|ˈħuq̚qɘːliːˌħæq̚kn̥ɐf|
-|húqquiúʔñə|ˈħuɢɢuɪ̯ˌuʔɴ̥ɤ|V-DEMO-PF-E-0IN|To swell (emphatic)|huqêjuqñî|ˈħuq̚qɘːˌjuq̚ŋ̊iː|
-|húomouúʔñə|ˈħuo̯mou̯ˌuʔɴ̥ɤ|V-DEMO-PF-E-1PR|Swells here (emphatic)|hûmêwuqñî|ˈħũːɘːˌwuq̚ŋ̊iː|
-|húomuľəhàńef|ˈħuo̯muʎɤˌħæɲ̊ɛf|V-DEMO-PF-E-1PR|Grabs here (emphatic)|hûmûlîhaqknef|ˈħũːuːliːˌħæq̚kn̥ɐf|
-|háuľəhàńef|ˈħɑʊ̯ʎɤˌħæɲ̊ɛf|V-DEMO-PF-E-2ME|Grabs there (emphatic)|hâvelîhaqknef|ˈħaːvliːˌħæq̚kn̥ɐf|
-|hóuvâuúʔñə|ˈħou̯ʋɑʊ̯ˌuʔɴ̥ɤ|V-DEMO-PF-E-2ME|Swells there (emphatic)|hevâvuqñî|ˈħɜːvvɑːˌvuq̚ŋ̊iː|
-|háumətúʔñə|ˈħɑʊ̯mɤˌtuʔɴ̥ɤ|V-DEMO-PF-E-3DI|Swells over there (emphatic)|hefmîtuqñî|ˈħɜvmiːˌtuq̚ŋ̊iː|
-|hǿumyihàńef|ˈħøʊ̯myiˌħæɲ̊ɛf|V-DEMO-PF-E-3DI|Grabs over there (emphatic)|hefmîlîhaqknef|ˈħɜvmiːliːˌħæq̚kn̥ɐf|
-|jéñeľihàńef|ˈjeɴɛʎiˌħæɲ̊ɛf|V-DEMO-PF-N-0IN|To not grab / To not hold|êqlîhaqknef|ˈjeːɢ̚liːˌħæq̚kn̥ɐf|
-|jéñwúʔñə|ˈjeɴˌɣuʔɴ̥ɤ|V-DEMO-PF-N-0IN|To not swell|êqjuqñî|ˈjeːɢ̚ˌjuq̚ŋ̊iː|
-|thímpyľihàńef|ˈtħim̥pyʎiˌħæɲ̊ɛf|V-DEMO-PF-N-1PR|Doesn't grab here|twimûlîhaqknef|ˈtɸim̥m̥uːliːˌħæq̚kn̥ɐf|
-|thímpøuúʔñə|ˈtħim̥pøʊ̯ˌuʔɴ̥ɤ|V-DEMO-PF-N-1PR|Doesn't swell here|twimêwuqñî|ˈtɸim̥m̥ɘːˌwuq̚ŋ̊iː|
-|âřřáuâuəhàńef|ʌr̥ˈr̥ɑʊ̯ɑʊ̯ɤˌħæɲ̊ɛf|V-DEMO-PF-N-2ME|Doesn't grab there|xâvâlîhaqknef|ˈxaːvɑːliːˌħæq̚kn̥ɐf|
-|qářâuúʔñə|ˈɢʌr̥ɑʊ̯ˌuʔɴ̥ɤ|V-DEMO-PF-N-2ME|Doesn't swell there|âxâvuqñî|ˈʔaxɑːˌvuq̚ŋ̊iː|
-|ǵíeńitúʔñə|ˈɟie̯ɲiˌtuʔɴ̥ɤ|V-DEMO-PF-N-3DI|Doesn't swell over there|îmîtuqñî|ˈʔĩːiːˌtuq̚ŋ̊iː|
-|ǵíeńyihàńef|ˈɟie̯ɲyiˌħæɲ̊ɛf|V-DEMO-PF-N-3DI|Doesn't grab over there|îmîlîhaqknef|ˈʔĩːiːliːˌħæq̚kn̥ɐf|
-|qúʔñə|ˈɢuʔɴ̥ɤ|V-DEMO-PT|Swelling|uqñî|ˈʔuq̚ŋ̊iː|
-|úioñaʔ|ˈuɪ̯ɔɴæʔ|V-DEMO-PT|Holding|lîhaq|ˈljɐ̃æq̚|
-|qéśśwèñaʔ|ˈɢeɕˌɕɣɛɴæʔ|V-DEMO-PT-N|Not holding|qilîhaq|ˈqɨɬˌɬjɐ̃æq̚|
-|qúʔfíʔñi|ˈɢuʔˌfiʔɴ̥i|V-DEMO-PT-N|Not swelling|utwiqñî|ˈʔut̚ˌɸiq̚ŋ̊iː|
-|qàraeařàe|ˈɢæræeɐ̯ˌr̥æɛ|VERB|To push (Imperfective)|gjalîxeq|ˈqɨːɣjliːˌxɛq̚kɐ|
-|qàraľańíeńef|ˈɢæræʎæɲ̊ˌie̯ɲɛf|VERB|To adore/love (Perfective)|glankî|ˈqɨːɣlæn̥ˌkĩːɐf|
-|qàraľańníñe|ˈɢæræʎæɲ̊ˌniɴɛ|VERB|To give (Imperfective)|glankî|ˈqɨːɣlæn̥ˌkĩːg̚ɐ|
-|qàraľàńi|ˈɢæræˌʎæɲ̊i|VERB|To give (Perfective)|glankî|ˈqɨːɣˌlæn̥kiː|
-|qàraľàńni|ˈɢæræˌʎæɲ̊ni|VERB|To adore/love (Imperfective)|glankî|ˈqɨːɣˌlæn̥kĩː|
-|qàràonêraʔ|ˈɢærˌæo̯neræʔ|VERB|To push (Perfective)|gjalîxeq|ˈqɨːɣˌjlĩɣɐq̚|
-|qàrwāřře|ˈɢærˌɣar̥r̥ɛ|VERB|To fall (Perfective)|gjaxê|ˈqɨːɣˌjæxxɘː|
-|qàrwäřřàřańef|ˈɢærɣar̥ˌr̥ær̥æɲ̊ɛf|VERB|To wait (Perfective)|gjaxexan|ˈqɨːɣjæxˌxɛxkn̥ɐf|
-|qàrwäřřàřäń|ˈɢærɣar̥ˌr̥ær̥aɲ̊|VERB|To wait (Imperfective)|gjaxexan|ˈqɨːɣjæxˌxɛxkæn̥|
-|qàrwäřřéañe|ˈɢærɣar̥ˌr̥eɐ̯ɴɛ|VERB|To fall (Imperfective)|gjaxê|ˈqɨːɣjæxˌxiːg̚ɐ|
-|qàrwèań|ˈɢærˌɣɛæɲ̊|VERB|To sit (Imperfective)|gjekan|ˈqɨːɣˌjɛk̚kæn̥|
-|qàrwèʔńef|ˈɢærˌɣɛʔɲ̊ɛf|VERB|To sit (Perfective)|gjekan|ˈqɨːɣˌjɛk̚n̥ɐf|
-|qàrwyʔfàe|ˈɢærɣyʔˌfæɛ|VERB|To spit (Imperfective)|gjupvat|ˈqɨːɣjup̚ˌfæt̚kɐ|
-|qàřàśań|ˈɢæˌr̥æɕæɲ̊|VERB|To arrive (Perfective)|xelkan|ˈqɨːˌxɛɬkæn̥|
-|qèřaśàńe|ˈɢɛr̥æɕˌæɲ̊ɛ|VERB|To arrive (Imperfective)|xelkan|ˈqɨxɐɬˌkæn̥kɐ|
-|qèřāań|ˈɢɛr̥ˌaæɲ̊|VERB|To march (Imperfective)|xekakân|ˈqɨxˌkæk̚kæn̥|
-|qèřāʔńef|ˈɢɛr̥ˌaʔɲ̊ɛf|VERB|To march (Perfective)|xekakân|ˈqɨxˌkæk̚n̥ɐf|
-|qèřäń|ˈɢɛr̥aɲ̊|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Imperfective)|xekan|ˈqɨxkæn̥|
-|qèřřéańe|ˈɢɛr̥ˌr̥eɐ̯ɲɛ|VERB|To pass/go by (Imperfective)|xexên|ˈqɨxˌxiːngɐ|
-|qéhanhàome|ˈɢeħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Perfective)|hanhâme|ˈqɨħæn̥ˌħaːmɐ|
-|qéhanhàome|ˈɢeħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Imperfective)|hanhâme|ˈqɨħæn̥ˌħaːmgɐ|
-|qéheʔiścíeńe|ˈɢeħɛʔiɕˌcie̯ɲɛ|VERB|To sew (Imperfective)|hoistên|ˈqɨħɐʔisˌtiːngɐ|
-|qéheʔíścêń|ˈɢeħɛʔˌiɕceɲ|VERB|To sew (Perfective)|hoistên|ˈqɨħɐʔˌistɘːn|
-|qéhêiccèńe|ˈɢeħeicˌcɛɲ̊ɛ|VERB|To tie (Imperfective)|hôiten|ˈqɨħɘːit̚ˌtɛn̥kɐ|
-|qéhêícceń|ˈɢeħeˌiccɛɲ̊|VERB|To tie (Perfective)|hôiten|ˈqɨħɘːˌit̚tɐn̥|
-|qéhuíńce|ˈɢeħuˌiɲ̊cɛ|VERB|To count (Imperfective)|hûint|ˈqɨħuːˌin̥tkɐ|
-|qéiàftań|ˈɢei̯ˌæftæɲ̊|VERB|To laugh > To be laughing (Imperfective)|atsa|ˈqɨːˌjæt͡θkæn̥|
-|qéiàftńef|ˈɢei̯ˌæftɲ̊ɛf|VERB|To laugh > To be laughing (Perfective)|atsa|ˈqɨːˌjæt͡θkn̥ɐf|
-|qéibľèe|ˈɢei̯ˌbʎɛɛ|VERB|To drink (Imperfective)|uple|ˈqɨːjˌblɛk̚kɐ|
-|qéicàmheñ|ˈɢei̯ˌcæm̥ħɛɴ̥|VERB|To remain (Imperfective)|tamhe|ˈqɨːˌtæm̥ħɐŋ̊|
-|qéicàmñef|ˈɢei̯ˌcæmɴɛf|VERB|To remain (Perfective)|tamhe|ˈqɨːˌtæmŋɐf|
-|qéieambíeñef|ˈɢei̯eɐ̯mˌbie̯ɴɛf|VERB|To live (Perfective)|ihemê|ˈqɨːjɐːmˌmiːŋɐf|
-|qéieařàiań|ˈɢei̯eɐ̯ˌr̥æɪ̯æɲ̊|VERB|To follow (Imperfective)|îxegh|ˈqɨːjiːˌxæːgæn̥|
-|qéieařàińef|ˈɢei̯eɐ̯ˌr̥æɪ̯ɲɛf|VERB|To follow (Perfective)|îxegh|ˈqɨːjiːˌxæːgnɐf|
-|qéieařāme|ˈɢei̯eɐ̯ˌr̥am̥ɛ|VERB|To help (Imperfective)|îxam|ˈqɨːjiːˌxæm̥kɐ|
-|qéiênlyíeńe|ˈɢei̯enlyˌie̯ɲɛ|VERB|To break (Imperfective)|ôtlukîn|ˈqɨːjɘːd̚luk̚ˌkĩːgɐ|
-|qéiêxàań|ˈɢei̯eˌxææɲ̊|VERB|To see (Imperfective)|êkjap|ˈqɨːjɘːˌkçæp̚kæn̥|
-|qéiêxàńef|ˈɢei̯eˌxæɲ̊ɛf|VERB|To see (Perfective)|êkjap|ˈqɨːjɘːˌkçæp̚kn̥ɐf|
-|qéiǵewemíeñef|ˈɢei̯ɟɛɣɛˌmie̯ɴɛf|VERB|To die (not live) > To be dead (Perfective)|itihimê|ˈqɨːjdjɐˌmiːŋɐf|
-|qéiǵyaʔfàoñef|ˈɢei̯ɟyæʔˌfæo̯ɴɛf|VERB|To boast > To be boastful (Perfective)|etîvatfâ|ˈqɨːjdiːvæt̚ˌfaːŋɐf|
-|qéiǵyàʔfoñ|ˈɢei̯ɟyˌæʔfɔɴ|VERB|To boast > To be boastful (Imperfective)|etîvatfâ|ˈqɨːjdiːˌvæt̚fɑːŋ|
-|qéiíeńaś|ˈɢei̯ˌie̯ɲæɕ|VERB|To bring (Perfective)|kînal|ˈqɨːˌkĩːæɬ|
-|qéiľarréañe|ˈɢei̯ʎærˌreɐ̯ɴɛ|VERB|To go  (Imperfective)|ulogê|ˈqɨːjlɐɣˌɣiːg̚ɐ|
-|qéimàońǵľi|ˈɢei̯ˌmæo̯ɲɟʎi|VERB|To throw (Perfective)|mântlî|ˈqɨːˌmaːndliː|
-|qéimǵľihàe|ˈɢei̯mɟʎiˌħæɛ|VERB|To squeeze (Imperfective)|metlîhaq|ˈqɨːmdliːˌħæq̚kɐ|
-|qéimońaréañe|ˈɢei̯mɔɲæˌreɐ̯ɴɛ|VERB|To come (Imperfective)|mângê|ˈqɨːmɑːnˌɣiːg̚ɐ|
-|qéimońǵľíñe|ˈɢei̯mɔɲˌɟʎiɴɛ|VERB|To throw (Imperfective)|mântlî|ˈqɨːmɑːnˌdlĩːg̚ɐ|
-|qéimviʔhéiñef|ˈɢei̯mʋiʔˌħei̯ɴɛf|VERB|To sleep (Perfective)|pefithê|ˈqɨːb̚vit̚ˌħɨːŋɐf|
-|qéimvíʔhêñ|ˈɢei̯mˌʋiʔħeɴ|VERB|To sleep (Imperfective)|pefithê|ˈqɨːb̚ˌvit̚ħɘːŋ|
-|qéinéräm|ˈɢei̯ˌneram̥|VERB|To help (Perfective)|îxam|ˈqɨːˌjĩɣæm̥|
-|qéiñàrańef|ˈɢei̯ˌɴæræɲɛf|VERB|To hear (Perfective)|añagi|ˈqɨːjˌŋæːɣgnɐf|
-|qéiñàrêń|ˈɢei̯ˌɴæreɲ̊|VERB|To hear (Imperfective)|añagi|ˈqɨːjˌŋæːɣgin̥|
-|qéiñâuwàńcef|ˈɢei̯ɴɑʊ̯ˌɣæɲ̊cɛf|VERB|To know (Perfective)|qâlkja|ˈqɨːɢ̚ɑːlˌgjæn̥n̥ɐf|
-|qéiñâuwèśe|ˈɢei̯ɴɑʊ̯ˌɣɛɕɛ|VERB|To realize (Imperfective)|qâlkjes|ˈqɨːɢ̚ɑːlˌgjɛskɐ|
-|qéiñińàśe|ˈɢei̯ɴiˌɲæɕɛ|VERB|To bring (Imperfective)|kînal|ˈqɨːg̚iːˌnæɬkɐ|
-|qéipèfań|ˈɢei̯ˌpɛfæɲ̊|VERB|To lie (on your side) (Imperfective)|pefa|ˈqɨːˌpɛfkæn̥|
-|qéipèfńef|ˈɢei̯ˌpɛfɲ̊ɛf|VERB|To lie (on your side) (Perfective)|pefa|ˈqɨːˌpɛfkn̥ɐf|
-|qéiqaʔyccýań|ˈɢei̯ɢæʔycˌcyæɲ̊|VERB|To freeze > To be frozen (Imperfective)|uqautêv|ˈqɨːjɢæʔut̚ˌtiːvgæn̥|
-|qéiqaʔyccýńef|ˈɢei̯ɢæʔycˌcyɲɛf|VERB|To freeze > To be frozen (Perfective)|uqautêv|ˈqɨːjɢæʔut̚ˌtiːvgnɐf|
-|qéiqáuań|ˈɢei̯ˌɢɑʊ̯æɲ̊|VERB|To think (Imperfective)|qâlan|ˈqɨːˌqaːlgæn̥|
-|qéiqáuwań|ˈɢei̯ˌɢɑʊ̯ɣæɲ̊|VERB|To know (Imperfective)|qâlkja|ˈqɨːˌqaːlgjæn̥|
-|qéiqéiźań|ˈɢei̯ˌɢei̯ʑæɲ̊|VERB|To flow (Imperfective)|uqêz|ˈqɨːjˌɢɨːzgæn̥|
-|qéiqéiźľań|ˈɢei̯ˌɢei̯ʑʎæɲ̊|VERB|To swim > To be (travelling) in water (Imperfective)|uqêzla|ˈqɨːjˌɢɨːzglæn̥|
-|qéiqêźľàńcef|ˈɢei̯ɢeʑˌʎæɲ̊cɛf|VERB|To swim > To be (travelling) in water (Perfective)|uqêzla|ˈqɨːjɢɘːzˌglæn̥n̥ɐf|
-|qéiycewarøàśe|ˈɢei̯ycɛɣærøˌæɕɛ|VERB|To kill (Imperfective)|ûtihgîlas|ˈqɨːjuːtjɐɣiːˌlæskɐ|
-|qéiycewarǿmaś|ˈɢei̯ycɛɣæˌrømæɕ|VERB|To kill (Perfective)|ûtihgîlas|ˈqɨːjuːtjɐˌɣĩːlæs|
-|qéiycíśań|ˈɢei̯yˌciɕæɲ̊|VERB|To fight (Imperfective)|ûtilag|ˈqɨːjuːˌtiɬkæn̥|
-|qéiycíśńef|ˈɢei̯yˌciɕɲ̊ɛf|VERB|To fight (Perfective)|ûtilag|ˈqɨːjuːˌtiɬkn̥ɐf|
-|qéiyppyhśàńcef|ˈɢei̯yppyħˌɕæɲ̊cɛf|VERB|To fly > To be (travelling) in the air (Perfective)|uqpûhal|ˈqɨːjuq̚puħˌkɬæn̥n̥ɐf|
-|qéiyříha|ˈɢei̯yˌr̥iħæ|VERB|To float (Perfective)|uqkrêha|ˈqɨːjuq̚ˌkr̥iħæ|
-|qéiyříhe|ˈɢei̯yˌr̥iħɛ|VERB|To float (Imperfective)|uqkrêha|ˈqɨːjuq̚ˌkr̥iħkɐ|
-|qéiyʔfàe|ˈɢei̯yʔˌfæɛ|VERB|To suck (Imperfective)|upvat|ˈqɨːjup̚ˌfæt̚kɐ|
-|qéiyʔñíñe|ˈɢei̯yʔˌɴ̥iɴɛ|VERB|To swell (Imperfective)|uqñî|ˈqɨːjuq̚ˌŋ̊ĩːg̚ɐ|
-|qóaouqáo|ˈɢoɐ̯ou̯ˌɢʌɔ|VERB|To become (Imperfective)|ghôlqe|ˈqɐːɘːlˌɢɜk̚kɐ|
-|qóarwáeño|ˈɢoɐ̯rˌɣɑe̯ɴɔ|VERB|To prevent/deter (Imperfective)|gjâñ|ˈqɨːɣˌjaːŋgɐ|
-|qóarwoñ|ˈɢoɐ̯rɣɔɴ|VERB|To prevent/deter (Perfective)|gjâñ|ˈqɨːɣjɑːŋ|
-|qóarwúʔfaʔ|ˈɢoɐ̯rˌɣuʔfæʔ|VERB|To spit (Perfective)|gjupvat|ˈqɨːɣˌjup̚fæt̚|
-|qóřâńof|ˈɢor̥ʌɲ̊ɔf|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Perfective)|xekan|ˈqɨxkn̥ɐf|
-|qóřřâń|ˈɢor̥r̥ʌɲ|VERB|To pass/go by (Perfective)|xexên|ˈqɨxxɘːn|
-|qúhořpúoñof|ˈɢuħɔr̥ˌpuo̯ɴɔf|VERB|To prosper > To be prosperous (Perfective)|herpô|ˈqɨħɐr̥ˌpuːŋɐf|
-|qúhqòań|ˈɢuħˌɢɔæɲ̊|VERB|To have (Imperfective)|haqop|ˈqɨħˌqɔp̚kæn̥|
-|qúhqòńof|ˈɢuħˌɢɔɲ̊ɔf|VERB|To have (Perfective)|haqop|ˈqɨħˌqɔp̚kn̥ɐf|
-|qúiáempəñ|ˈɢuɪ̯ˌɑe̯m̥pɤɴ|VERB|To live (Imperfective)|ihemê|ˈqɨːjˌɑɛ̯m̥m̥ɘːŋ|
-|qúibľo|ˈɢuɪ̯bʎɔ|VERB|To drink (Perfective)|uple|ˈqɨːjblɐ|
-|qúidumáeo|ˈɢuɪ̯duˌmɑe̯ɔ|VERB|To join/attach (Imperfective)|utûmhe|ˈqɨːjdũːˌɑɛ̯k̚kɐ|
-|qúidúomoa|ˈɢuɪ̯ˌduo̯moɐ̯|VERB|To join/attach (Perfective)|utûmhe|ˈqɨːjˌdũːɐː|
-|qúiǵòwoməñ|ˈɢuɪ̯ˌɟɔɣɔmɤɴ|VERB|To die (not live) > To be dead (Imperfective)|itihimê|ˈqɨːjˌdjɐmɘːŋ|
-|qúilárrâ|ˈɢuɪ̯ˌlʌrrʌ|VERB|To go  (Perfective)|ulogê|ˈqɨːjˌlɔːɣɣɘː|
-|qúimúľńof|ˈɢuɪ̯ˌmuʎɲɔf|VERB|To lose > To be lost (Perfective)|ûle|ˈqɨːˌjũːlgnɐf|
-|qúimúľoń|ˈɢuɪ̯ˌmuʎɔɲ̊|VERB|To lose > To be lost (Imperfective)|ûle|ˈqɨːˌjũːlgɐn̥|
-|qúimúñoń|ˈɢuɪ̯ˌmuɴɔɲ|VERB|To bite  (Perfective)|ûkân|ˈqɨːˌjũːg̚ɑːn|
-|qúimúo|ˈɢuɪ̯ˌmuɔ|VERB|To eat (Imperfective)|omôq|ˈqɨːjˌmuːɢ̚gɐ|
-|qúiməñ|ˈɢuɪ̯mɤɴ|VERB|To eat (Perfective)|omôq|ˈqɨːjmɘːɢ̚|
-|qúiôrum|ˈɢuɪ̯orum|VERB|To disagree (Perfective)|evrûp|ˈqɨːjvruːb̚|
-|qúiqáeñof|ˈɢuɪ̯ˌɢɑe̯ɴɔf|VERB|To be  (Perfective)|uqâ|ˈqɨːjˌɢaːŋɐf|
-|qúiqoñ|ˈɢuɪ̯ɢɔɴ|VERB|To be  (Imperfective)|uqâ|ˈqɨːjɢɑːŋ|
-|qúiqúoźńof|ˈɢuɪ̯ˌɢuo̯ʑɲɔf|VERB|To flow (Perfective)|uqêz|ˈqɨːjˌɢɨːzgnɐf|
-|qúiráemoa|ˈɢuɪ̯ˌrɑe̯moɐ̯|VERB|To part (Perfective)|arâmhe|ˈqɨːjˌraːmɐː|
-|qúiromáeo|ˈɢuɪ̯rɔmˌɑe̯ɔ|VERB|To part (Imperfective)|arâmhe|ˈqɨːjrɑːmˌɑɛ̯k̚kɐ|
-|qúiuáeńo|ˈɢuɪ̯uˌɑe̯ɲɔ|VERB|To bite  (Imperfective)|ûkân|ˈqɨːjuːˌkaːngɐ|
-|qúiuppvòľań|ˈɢuɪ̯upˌpʋɔʎæɲ̊|VERB|To fly > To be (travelling) in the air (Imperfective)|uqpûhal|ˈqɨːjuq̚ˌpwɐ̃glæn̥|
-|qúiúolu|ˈɢuɪ̯ˌuo̯lu|VERB|To stab (Perfective)|ôlu|ˈqɨːˌjuːlu|
-|qúiúoľo|ˈɢuɪ̯ˌuo̯ʎɔ|VERB|To stab (Imperfective)|ôlu|ˈqɨːˌjuːlgɐ|
-|qúiúonluń|ˈɢuɪ̯ˌuo̯nluɲ̊|VERB|To hit (Perfective)|ôtlun|ˈqɨːˌjuːd̚lun̥|
-|qúiúonvə|ˈɢuɪ̯ˌuo̯nʋɤ|VERB|To split (Perfective)|ôtwô|ˈqɨːˌjuːd̚wɘː|
-|qúiúrumo|ˈɢuɪ̯ˌurumɔ|VERB|To disagree (Imperfective)|evrûp|ˈqɨːjˌvrũːb̚gɐ|
-|qúiúʔfaʔ|ˈɢuɪ̯ˌuʔfæʔ|VERB|To suck (Perfective)|upvat|ˈqɨːˌjup̚fæt̚|
-|qúiúʔñə|ˈɢuɪ̯ˌuʔɴ̥ɤ|VERB|To swell (Perfective)|uqñî|ˈqɨːˌjuq̚ŋ̊iː|
-|qúiəčúmu|ˈɢuɪ̯ɤˌc͡ɕumu|VERB|To break (Perfective)|ôtlukîn|ˈqɨːjɘːˌtɬuk̚kĩː|
-|qúiəčúńo|ˈɢuɪ̯ɤˌc͡ɕuɲ̊ɔ|VERB|To hit (Imperfective)|ôtlun|ˈqɨːjɘːˌtɬun̥kɐ|
-|qúiəthúoño|ˈɢuɪ̯ɤˌtħuo̯ɴɔ|VERB|To split (Imperfective)|ôtwô|ˈqɨːjɘːˌtɸuːg̚ɐ|
-|qúoanhonúrəñqof|ˈɢuo̯æn̥ħɔnˌurɤɴɢɔf|VERB|To sing (Perfective)|vanhânfri|ˈqɨːvæn̥ħɑːnˌvriŋ̊ŋ̊ɐf|
-|qúoáeo|ˈɢuo̯ˌɑe̯ɔ|VERB|To ask > To say (Imperfective)|vahâq|ˈqɨːvˌaːɢ̚gɐ|
-|qúoáeoñ|ˈɢuo̯ˌɑe̯ɔɴ̥|VERB|To be shocked (Imperfective)|vâo|ˈqɨːˌvaːɐŋ̊|
-|qúoáulqo|ˈɢuo̯ˌɑʊ̯lɢɔ|VERB|To become (Perfective)|ghôlqe|ˈqɨːˌɐʊ̯lɢɐ|
-|qúohářpəñ|ˈɢuo̯ˌħʌr̥pɤɴ|VERB|To prosper > To be prosperous (Imperfective)|herpô|ˈqɨːˌħɜr̥pɘːŋ|
-|qúohúoməńʔ|ˈɢuo̯ˌħuo̯mɤɲʔ|VERB|To count (Perfective)|hûint|ˈqɨːˌħũːint̚|
-|qúoiúńco|ˈɢuo̯iˌuɲ̊cɔ|VERB|To make (Perfective)|lîuntâ|ˈqɨːliːˌun̥tɑː|
-|qúomáeńârâ|ˈɢuo̯ˌmɑe̯ɲʌrʌ|VERB|To come (Perfective)|mângê|ˈqɨːˌmaːnɣɘː|
-|qúomǵúioñaʔ|ˈɢuo̯mˌɟuɪ̯ɔɴæʔ|VERB|To squeeze (Perfective)|metlîhaq|ˈqɨːmˌdljɐ̃æq̚|
-|qúomváeńo|ˈɢuo̯mˌʋɑe̯ɲɔ|VERB|To dig (Imperfective)|mewân|ˈqɨːmˌwaːngɐ|
-|qúomvoh|ˈɢuo̯mʋɔħ|VERB|To argue (Perfective)|pivâh|ˈqɨːb̚vɑħ|
-|qúomvoń|ˈɢuo̯mʋɔɲ|VERB|To dig (Perfective)|mewân|ˈqɨːmwɑːn|
-|qúomvòho|ˈɢuo̯mˌʋɔħɔ|VERB|To argue (Imperfective)|pivâh|ˈqɨːb̚ˌvaħkɐ|
-|qúoñoəʔhúñań|ˈɢuo̯ɴɔɤʔˌħuɴ̥æɲ̊|VERB|To fear (Imperfective)|qâithim|ˈqɨːɢ̚ɑːit̚ˌħɨŋ̊kæn̥|
-|qúoñoəʔhúñońof|ˈɢuo̯ɴɔɤʔˌħuɴ̥ɔɲ̊ɔf|VERB|To fear (Perfective)|qâithim|ˈqɨːɢ̚ɑːit̚ˌħɨŋ̊kn̥ɐf|
-|qúoñroar|ˈɢuo̯ɴroɐ̯r|VERB|To meet (Perfective)|ñaxug|ˈqɨːŋɣuːɣ|
-|qúoñróarâ|ˈɢuo̯ɴˌroɐ̯rʌ|VERB|To meet (Imperfective)|ñaxug|ˈqɨːŋˌɣuːɣgɐ|
-|qúooñ|ˈɢuo̯ɔɴ|VERB|To ask > To say (Perfective)|vahâq|ˈqɨːvɑːɢ̚|
-|qúooòñqof|ˈɢuo̯ɔˌɔɴɢɔf|VERB|To be shocked (Perfective)|vâo|ˈqɨːvɑːˌɔŋ̊ŋ̊ɐf|
-|qúoqáuńof|ˈɢuo̯ˌɢɑʊ̯ɲɔf|VERB|To think (Perfective)|qâlan|ˈqɨːˌqaːlgnɐf|
-|qúoqáuwoś|ˈɢuo̯ˌɢɑʊ̯ɣɔɕ|VERB|To realize (Perfective)|qâlkjes|ˈqɨːˌqaːlgjɐs|
-|qúoúońəʔ|ˈɢuo̯ˌuo̯ɲɤʔ|VERB|To cut (Perfective)|wôtiq|ˈqɨːˌwuːd̚iq̚|
-|qǿanhàonøriñ|ˈɢøæn̥ˌħæo̯nøriɴ̥|VERB|To sing (Imperfective)|vanhânfri|ˈqɨːvæn̥ˌħaːnvriŋ̊|
-|qǿańcíe|ˈɢøæɲ̊ˌciɛ|VERB|To turn (Imperfective)|lanti|ˈqɨːlæn̥ˌtik̚kɐ|
-|qǿańníñe|ˈɢøæɲ̊ˌniɴɛ|VERB|To take (Imperfective)|lankî|ˈqɨːlæn̥ˌkĩːg̚ɐ|
-|qǿařhàiń|ˈɢøær̥ˌħæiɲ̊|VERB|To hunt (Imperfective)|varhati|ˈqɨːvær̥ˌħæt̚kin̥|
-|qǿařhàńef|ˈɢøær̥ˌħæɲ̊ɛf|VERB|To hunt (Perfective)|varhati|ˈqɨːvær̥ˌħæt̚kn̥ɐf|
-|qǿaʔfàońe|ˈɢøæʔˌfæo̯ɲɛ|VERB|To shout (Imperfective)|vatvân|ˈqɨːvæt̚ˌfaːngɐ|
-|qǿàfteń|ˈɢøˌæftɛɲ̊|VERB|To blow (Imperfective)|vatsen|ˈqɨːˌvæt͡θkɐn̥|
-|qǿàftńef|ˈɢøˌæftɲ̊ɛf|VERB|To blow (Perfective)|vatsen|ˈqɨːˌvæt͡θkn̥ɐf|
-|qǿàńci|ˈɢøˌæɲ̊ci|VERB|To turn (Perfective)|lanti|ˈqɨːˌlæn̥ti|
-|qǿàńi|ˈɢøˌæɲ̊i|VERB|To take (Perfective)|lankî|ˈqɨːˌlæn̥kiː|
-|qǿàʔfoń|ˈɢøˌæʔfɔɲ|VERB|To shout (Perfective)|vatvân|ˈqɨːˌvæt̚fɑːn|
-|qǿdvañ|ˈɢødʋæɴ̥|VERB|To breathe > To be alive (Imperfective)|vatsan|ˈqɨːvd͡ðæŋ̊|
-|qǿdvàñqef|ˈɢøˌdʋæɴɢɛf|VERB|To breathe > To be alive (Perfective)|vatsan|ˈqɨːvˌd͡ðæŋ̊ŋ̊ɐf|
-|qǿdvèeń|ˈɢøˌdʋɛɛɲ̊|VERB|To smell (Imperfective)|vatsete|ˈqɨːvˌd͡ðɛt̚kɐn̥|
-|qǿdvèńań|ˈɢøˌdʋɛɲ̊æɲ̊|VERB|To vomit > To be sick (Imperfective)|vatsenakan|ˈqɨːvˌd͡ðɛn̥kæn̥|
-|qǿdvèńef|ˈɢøˌdʋɛɲ̊ɛf|VERB|To smell (Perfective)|vatsete|ˈqɨːvˌd͡ðɛt̚kn̥ɐf|
-|qǿdvèńńef|ˈɢøˌdʋɛɲ̊ɲ̊ɛf|VERB|To vomit > To be sick (Perfective)|vatsenakan|ˈqɨːvˌd͡ðɛn̥kn̥ɐf|
-|qǿeařàe|ˈɢøeɐ̯ˌr̥æɛ|VERB|To pull (Imperfective)|lîxeq|ˈqɨːliːˌxɛq̚kɐ|
-|qǿeařéśe|ˈɢøeɐ̯ˌr̥eɕɛ|VERB|To rub (Imperfective)|lîxil|ˈqɨːliːˌxiɬkɐ|
-|qǿeařǿe|ˈɢøeɐ̯ˌr̥øɛ|VERB|To wash  (Imperfective)|lîxêv|ˈqɨːliːˌxiːvgɐ|
-|qǿêcíe|ˈɢøeˌciɛ|VERB|To cut (Imperfective)|wôtiq|ˈqɨːwɘːˌtiq̚kɐ|
-|qǿǵàań|ˈɢøˌɟææɲ̊|VERB|To say > To mean/To intend (Imperfective)|vatakas|ˈqɨːvˌdæk̚kæn̥|
-|qǿǵàʔńef|ˈɢøˌɟæʔɲ̊ɛf|VERB|To say > To mean/To intend (Perfective)|vatakas|ˈqɨːvˌdæk̚n̥ɐf|
-|qǿihàań|ˈɢøiˌħææɲ̊|VERB|To hold (Imperfective)|lîhaq|ˈqɨːliːˌħæq̚kæn̥|
-|qǿihàńef|ˈɢøiˌħæɲ̊ɛf|VERB|To hold (Perfective)|lîhaq|ˈqɨːliːˌħæq̚kn̥ɐf|
-|qǿiyńcàoñe|ˈɢøiyɲ̊ˌcæo̯ɴɛ|VERB|To make (Imperfective)|lîuntâ|ˈqɨːliːun̥ˌtaːg̚ɐ|
-|qǿíeńe|ˈɢøˌie̯ɲɛ|VERB|To wipe (Imperfective)|lîn|ˈqɨːˌlĩːgɐ|
-|qǿnérao|ˈɢøˌneræo̯|VERB|To wash  (Perfective)|lîxêv|ˈqɨːˌlĩɣɘːv|
-|qǿnéraʔ|ˈɢøˌneræʔ|VERB|To pull (Perfective)|lîxeq|ˈqɨːˌlĩɣɐq̚|
-|qǿnérêś|ˈɢøˌnereɕ|VERB|To rub (Perfective)|lîxil|ˈqɨːˌlĩɣiɬ|
-|qǿni|ˈɢøni|VERB|To wipe (Perfective)|lîn|ˈqɨːlĩː|
-|qǿńa|ˈɢøɲæ|VERB|To scratch (Perfective)|wana|ˈqɨːwnæ|
-|qǿńàe|ˈɢøˌɲæɛ|VERB|To scratch (Imperfective)|wana|ˈqɨːwˌnæk̚kɐ|
-|qǿrańmèńcef|ˈɢøræɲ̊ˌm̥ɛɲ̊cɛf|VERB|To play (games) (Perfective)|veranmen|ˈqɨːvræn̥ˌkm̥ɛn̥n̥ɐf|
-|qǿràńmeń|ˈɢøˌræɲ̊m̥ɛɲ̊|VERB|To play (games) (Imperfective)|veranmen|ˈqɨːvˌræn̥km̥ɐn̥|
+|úʔ|ˈuʔ|PRN|2.s.Nom - Thou|kup|ˈkup̚|
+|vèhhań|ˈʋɛħħæɲ̊|PRN|3.A.p.Nom - They|vehan|ˈvɛħħæn̥|
+|vèhhoń|ˈʋɛħħɔɲ|PRN|3.H.p.Nom - They|vehân|ˈvɛħħɑːn|
+|vèhke|ˈʋɛħkɛ|PRN|3.D.Nom - He/She/It/They|vehiche|ˈvɛħt͡ʃɐ|
+|wáu|ˈɣɑʊ̯|PRN|1.p.Nom - We|jâl|ˈjaːl|
+|wúʔoń|ˈɣuʔɔɲ|PRN|3.H.d.Acc - Him/Her/It and I|juân|ˈjuʔɑːn|
+|źíeñe|ˈʑie̯ɴɛ|PRN|2.p.Acc - Ye|zêñko|ˈziːŋgɐ|
+|arràľańi|ærˈræʎæɲ̊i|VERB|To give (Perfective)|glankî|ˈɣlæn̥kiː|
+|arràľańíeńef|ærˈræʎæɲ̊ˌie̯ɲɛf|VERB|To adore/love (Perfective)|glankî|ˈɣlæn̥ˌkĩːɐf|
+|arràľańni|ærˈræʎæɲ̊ni|VERB|To adore/love (Imperfective)|glankî|ˈɣlæn̥kĩː|
+|arràľańníñe|ærˈræʎæɲ̊ˌniɴɛ|VERB|To give (Imperfective)|glankî|ˈɣlæn̥ˌkĩːg̚ɐ|
+|arrwàśśeařàe|ærˈrɣæɕɕeɐ̯ˌr̥æɛ|VERB|To push (Imperfective)|gjalîxeq|ˈɣjæɬɬiːˌxɛq̚kɐ|
+|arrwàśśéraʔ|ærˈrɣæɕˌɕeræʔ|VERB|To push (Perfective)|gjalîxeq|ˈɣjæɬˌɬĩɣɐq̚|
+|arrwāřřàřańef|ærˈrɣar̥ˌr̥ær̥æɲ̊ɛf|VERB|To wait (Perfective)|gjaxexan|ˈɣjæxˌxɛxkn̥ɐf|
+|arrwāřřàřäń|ærˈrɣar̥ˌr̥ær̥aɲ̊|VERB|To wait (Imperfective)|gjaxexan|ˈɣjæxˌxɛxkæn̥|
+|arrwāřře|ærˈrɣar̥r̥ɛ|VERB|To fall (Perfective)|gjaxê|ˈɣjæxxɘː|
+|arrwāřřéañe|ærˈrɣar̥ˌr̥eɐ̯ɴɛ|VERB|To fall (Imperfective)|gjaxê|ˈɣjæxˌxiːg̚ɐ|
+|arrwèań|ærˈrɣɛæɲ̊|VERB|To sit (Imperfective)|gjekan|ˈɣjɛk̚kæn̥|
+|arrwèʔńef|ærˈrɣɛʔɲ̊ɛf|VERB|To sit (Perfective)|gjekan|ˈɣjɛk̚n̥ɐf|
+|ařřàań|ær̥ˈr̥ææɲ̊|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Imperfective)|xekan|ˈxɛk̚kæn̥|
+|ařřàań|ær̥ˈr̥ææɲ̊|VERB|To march (Imperfective)|xekakân|ˈxɛk̚kæn̥|
+|ařřàńef|ær̥ˈr̥æɲ̊ɛf|VERB|To march (Perfective)|xekakân|ˈxɛk̚kn̥ɐf|
+|ařřàřřeń|ær̥ˈr̥ær̥r̥ɛɲ|VERB|To pass/go by (Perfective)|xexên|ˈxɛxxɘːn|
+|ařřàřřéańe|ær̥ˈr̥ær̥ˌr̥eɐ̯ɲɛ|VERB|To pass/go by (Imperfective)|xexên|ˈxɛxˌxiːngɐ|
+|ařřàśań|ær̥ˈr̥æɕæɲ̊|VERB|To arrive (Perfective)|xelkan|ˈxɛɬkæn̥|
+|ařřàśàńe|ær̥ˈr̥æɕˌæɲ̊ɛ|VERB|To arrive (Imperfective)|xelkan|ˈxɛɬˌkæn̥kɐ|
+|ařřàʔńef|ær̥ˈr̥æʔɲ̊ɛf|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Perfective)|xekan|ˈxɛk̚n̥ɐf|
+|áulqáo|ˈɑʊ̯lˌɢʌɔ|VERB|To become (Imperfective)|ghôlqe|ˈɐʊ̯lˌɢɜk̚kɐ|
+|áulqo|ˈɑʊ̯lɢɔ|VERB|To become (Perfective)|ghôlqe|ˈɐʊ̯lɢɐ|
+|ârrwáeñ|ʌrˈrɣɑe̯ɴ|VERB|To prevent/deter (Perfective)|gjâñ|ˈɣjaːŋ|
+|ârrwáeño|ʌrˈrɣɑe̯ɴɔ|VERB|To prevent/deter (Imperfective)|gjâñ|ˈɣjaːŋgɐ|
+|ârrwúʔfaʔ|ʌrˈrɣuʔfæʔ|VERB|To spit (Perfective)|gjupvat|ˈɣjup̚fæt̚|
+|ârrwúʔfàe|ʌrˈrɣuʔˌfæɛ|VERB|To spit (Imperfective)|gjupvat|ˈɣjup̚ˌfæt̚kɐ|
+|càmheñ|ˈcæm̥ħɛɴ̥|VERB|To remain (Imperfective)|tamhe|ˈtæm̥ħɐŋ̊|
+|càmñef|ˈcæmɴɛf|VERB|To remain (Perfective)|tamhe|ˈtæmŋɐf|
+|ǵàftań|ˈɟæftæɲ̊|VERB|To laugh > To be laughing (Imperfective)|atsa|ˈʔæt͡θkæn̥|
+|ǵàftńef|ˈɟæftɲ̊ɛf|VERB|To laugh > To be laughing (Perfective)|atsa|ˈʔæt͡θkn̥ɐf|
+|ǵàñqàrańef|ˈɟæɴˌɢæræɲɛf|VERB|To hear (Perfective)|añagi|ˈʔæŋ̊ˌŋ̊æːɣgnɐf|
+|ǵàñqàrêń|ˈɟæɴˌɢæreɲ̊|VERB|To hear (Imperfective)|añagi|ˈʔæŋ̊ˌŋ̊æːɣgin̥|
+|ǵàorúomo|ˈɟæo̯ˌruo̯mɔ|VERB|To disagree (Imperfective)|evrûp|ˈʔɛːvˌrũːb̚gɐ|
+|ǵàorym|ˈɟæo̯rym|VERB|To disagree (Perfective)|evrûp|ˈʔɛːvruːb̚|
+|ǵàřřàomea|ˈɟær̥ˌr̥æo̯meɐ̯|VERB|To part (Perfective)|arâmhe|ˈʔær̥ˌr̥aːmɐː|
+|ǵàřřomáeo|ˈɟær̥r̥ɔmˌɑe̯ɔ|VERB|To part (Imperfective)|arâmhe|ˈʔær̥r̥ɑːmˌɑɛ̯k̚kɐ|
+|ǵèccyaʔfàoñef|ˈɟɛccyæʔˌfæo̯ɴɛf|VERB|To boast > To be boastful (Perfective)|etîvatfâ|ˈʔɛt̚tiːvæt̚ˌfaːŋɐf|
+|ǵèccyàʔfoñ|ˈɟɛccyˌæʔfɔɴ|VERB|To boast > To be boastful (Imperfective)|etîvatfâ|ˈʔɛt̚tiːˌvæt̚fɑːŋ|
+|ǵéaràiań|ˈɟeɐ̯ˌræɪ̯æɲ̊|VERB|To follow (Imperfective)|îxegh|ˈʔĩːˌɣæːgæn̥|
+|ǵéaràińef|ˈɟeɐ̯ˌræɪ̯ɲɛf|VERB|To follow (Perfective)|îxegh|ˈʔĩːˌɣæːgnɐf|
+|ǵéarāme|ˈɟeɐ̯ˌram̥ɛ|VERB|To help (Imperfective)|îxam|ˈʔĩːˌɣæm̥kɐ|
+|ǵéräm|ˈɟeram̥|VERB|To help (Perfective)|îxam|ˈʔĩɣæm̥|
+|ǵíʔhémpêñ|ˈɟiʔˌħem̥peɴ|VERB|To die (not live) > To be dead (Imperfective)|itihimê|ˈʔit̚ˌħɨm̥m̥ɘːŋ|
+|ǵíʔhêmbíeñef|ˈɟiʔħemˌbie̯ɴɛf|VERB|To die (not live) > To be dead (Perfective)|itihimê|ˈʔit̚ħɨmˌmiːŋɐf|
+|hànhàome|ˈħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Perfective)|hanhâme|ˈħæn̥ˌħaːmɐ|
+|hànhàome|ˈħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Imperfective)|hanhâme|ˈħæn̥ˌħaːmgɐ|
+|hàqqòań|ˈħæɢˌɢɔæɲ̊|VERB|To have (Imperfective)|haqop|ˈħæq̚ˌqɔp̚kæn̥|
+|hàqqòńof|ˈħæɢˌɢɔɲ̊ɔf|VERB|To have (Perfective)|haqop|ˈħæq̚ˌqɔp̚kn̥ɐf|
+|hářpúoñof|ˈħʌr̥ˌpuo̯ɴɔf|VERB|To prosper > To be prosperous (Perfective)|herpô|ˈħɜr̥ˌpuːŋɐf|
+|hářpəñ|ˈħʌr̥pɤɴ|VERB|To prosper > To be prosperous (Imperfective)|herpô|ˈħɜr̥pɘːŋ|
+|hòʔíścêń|ˈħɔʔˌiɕceɲ|VERB|To sew (Perfective)|hoistên|ˈħɔʔˌistɘːn|
+|hòʔəścíeńe|ˈħɔʔɤɕˌcie̯ɲɛ|VERB|To sew (Imperfective)|hoistên|ˈħɔʔisˌtiːngɐ|
+|húícceń|ˈħuˌiccɛɲ̊|VERB|To tie (Perfective)|hôiten|ˈħuːˌit̚tɐn̥|
+|húomíńce|ˈħuo̯ˌmiɲ̊cɛ|VERB|To count (Imperfective)|hûint|ˈħũːˌin̥tkɐ|
+|húoməńʔ|ˈħuo̯mɤɲʔ|VERB|To count (Perfective)|hûint|ˈħũːint̚|
+|húəccèńe|ˈħuɤcˌcɛɲ̊ɛ|VERB|To tie (Imperfective)|hôiten|ˈħuːit̚ˌtɛn̥kɐ|
+|íeńaś|ˈie̯ɲæɕ|VERB|To bring (Perfective)|kînal|ˈkĩːæɬ|
+|jéñwàań|ˈjeɴˌɣææɲ̊|VERB|To see (Imperfective)|êkjap|ˈjeːg̚ˌjæp̚kæn̥|
+|jéñwàńef|ˈjeɴˌɣæɲ̊ɛf|VERB|To see (Perfective)|êkjap|ˈjeːg̚ˌjæp̚kn̥ɐf|
+|ľàńci|ˈʎæɲ̊ci|VERB|To turn (Perfective)|lanti|ˈlæn̥ti|
+|ľàńcíe|ˈʎæɲ̊ˌciɛ|VERB|To turn (Imperfective)|lanti|ˈlæn̥ˌtik̚kɐ|
+|ľàńi|ˈʎæɲ̊i|VERB|To take (Perfective)|lankî|ˈlæn̥kiː|
+|ľàńníñe|ˈʎæɲ̊ˌniɴɛ|VERB|To take (Imperfective)|lankî|ˈlæn̥ˌkĩːg̚ɐ|
+|ľéaràe|ˈʎeɐ̯ˌræɛ|VERB|To pull (Imperfective)|lîxeq|ˈlĩːˌɣɛq̚kɐ|
+|ľéaréśe|ˈʎeɐ̯ˌreɕɛ|VERB|To rub (Imperfective)|lîxil|ˈlĩːˌɣiɬkɐ|
+|ľéarǿe|ˈʎeɐ̯ˌrøɛ|VERB|To wash  (Imperfective)|lîxêv|ˈlĩːˌɣiːvgɐ|
+|ľérao|ˈʎeræo̯|VERB|To wash  (Perfective)|lîxêv|ˈlĩɣɘːv|
+|ľéraʔ|ˈʎeræʔ|VERB|To pull (Perfective)|lîxeq|ˈlĩɣɐq̚|
+|ľérêś|ˈʎereɕ|VERB|To rub (Perfective)|lîxil|ˈlĩɣiɬ|
+|ľí|ˈʎi|VERB|To wipe (Perfective)|lîn|ˈlĩː|
+|ľíeńáeań|ˈʎie̯ˌɲɑe̯æɲ̊|VERB|To hold (Imperfective)|lîhaq|ˈlĩːˌɑɛ̯q̚kæn̥|
+|ľíeńáeńof|ˈʎie̯ˌɲɑe̯ɲ̊ɔf|VERB|To hold (Perfective)|lîhaq|ˈlĩːˌɑɛ̯q̚kn̥ɐf|
+|ľíeńe|ˈʎie̯ɲɛ|VERB|To wipe (Imperfective)|lîn|ˈlĩːgɐ|
+|ľíeńúńco|ˈʎie̯ˌɲuɲ̊cɔ|VERB|To make (Perfective)|lîuntâ|ˈlĩːˌun̥tɑː|
+|ľíeńyńcàoñe|ˈʎie̯ɲyɲ̊ˌcæo̯ɴɛ|VERB|To make (Imperfective)|lîuntâ|ˈlĩːun̥ˌtaːg̚ɐ|
+|màońaréañe|ˈmæo̯ɲæˌreɐ̯ɴɛ|VERB|To come (Imperfective)|mângê|ˈmaːnˌɣiːg̚ɐ|
+|màońǵľi|ˈmæo̯ɲɟʎi|VERB|To throw (Perfective)|mântlî|ˈmaːndliː|
+|màońǵľíñe|ˈmæo̯ɲˌɟʎiɴɛ|VERB|To throw (Imperfective)|mântlî|ˈmaːnˌdlĩːg̚ɐ|
+|máeńârâ|ˈmɑe̯ɲʌrʌ|VERB|To come (Perfective)|mângê|ˈmaːnɣɘː|
+|mècčihàe|ˈmɛcc͡ɕiˌħæɛ|VERB|To squeeze (Imperfective)|metlîhaq|ˈmɛt̚ɬiːˌħæq̚kɐ|
+|mècčwèñaʔ|ˈmɛcˌc͡ɕɣɛɴæʔ|VERB|To squeeze (Perfective)|metlîhaq|ˈmɛt̚ˌɬjɐ̃æq̚|
+|mèhhàońe|ˈmɛħˌħæo̯ɲɛ|VERB|To dig (Imperfective)|mewân|ˈmɛxˌxʷaːngɐ|
+|mèhhoń|ˈmɛħħɔɲ|VERB|To dig (Perfective)|mewân|ˈmɛxxʷɑːn|
+|níńàśe|ˈniˌɲæɕɛ|VERB|To bring (Imperfective)|kînal|ˈkĩːˌnæɬkɐ|
+|ñāřřóarâ|ˈɴar̥ˌr̥oɐ̯rʌ|VERB|To meet (Imperfective)|ñaxug|ˈŋæxˌxuːɣgɐ|
+|ñāřřør|ˈɴar̥r̥ør|VERB|To meet (Perfective)|ñaxug|ˈŋæxxuːɣ|
+|pèfań|ˈpɛfæɲ̊|VERB|To lie (on your side) (Imperfective)|pefa|ˈpɛfkæn̥|
+|pèffiʔhéiñef|ˈpɛffiʔˌħei̯ɴɛf|VERB|To sleep (Perfective)|pefithê|ˈpɛffit̚ˌħɨːŋɐf|
+|pèffíʔhêñ|ˈpɛfˌfiʔħeɴ|VERB|To sleep (Imperfective)|pefithê|ˈpɛfˌfit̚ħɘːŋ|
+|pèfńef|ˈpɛfɲ̊ɛf|VERB|To lie (on your side) (Perfective)|pefa|ˈpɛfkn̥ɐf|
+|píffàhe|ˈpifˌfæħɛ|VERB|To argue (Imperfective)|pivâh|ˈpifˌfaħkɐ|
+|pývoh|ˈpyʋɔħ|VERB|To argue (Perfective)|pivâh|ˈpiːvvɑħ|
+|qàoiʔhéñań|ˈɢæo̯iʔˌħeɴ̥æɲ̊|VERB|To fear (Imperfective)|qâithim|ˈqaːit̚ˌħɨŋ̊kæn̥|
+|qàoiʔhéñeńef|ˈɢæo̯iʔˌħeɴ̥ɛɲ̊ɛf|VERB|To fear (Perfective)|qâithim|ˈqaːit̚ˌħɨŋ̊kn̥ɐf|
+|qáuań|ˈɢɑʊ̯æɲ̊|VERB|To think (Imperfective)|qâlan|ˈqaːlgæn̥|
+|qáuńof|ˈɢɑʊ̯ɲɔf|VERB|To think (Perfective)|qâlan|ˈqaːlgnɐf|
+|qáuwań|ˈɢɑʊ̯ɣæɲ̊|VERB|To know (Imperfective)|qâlkja|ˈqaːlgjæn̥|
+|qáuwàńcef|ˈɢɑʊ̯ˌɣæɲ̊cɛf|VERB|To know (Perfective)|qâlkja|ˈqaːlˌgjæn̥n̥ɐf|
+|qáuwèśe|ˈɢɑʊ̯ˌɣɛɕɛ|VERB|To realize (Imperfective)|qâlkjes|ˈqaːlˌgjɛskɐ|
+|qáuwoś|ˈɢɑʊ̯ɣɔɕ|VERB|To realize (Perfective)|qâlkjes|ˈqaːlgjɐs|
+|qòmpúo|ˈɢɔm̥ˌpuɔ|VERB|To eat (Imperfective)|omôq|ˈʔɔm̥ˌm̥uːɢ̚gɐ|
+|qòmpəñ|ˈɢɔm̥pɤɴ|VERB|To eat (Perfective)|omôq|ˈʔɔm̥m̥ɘːɢ̚|
+|qúcčèe|ˈɢucˌc͡ɕɛɛ|VERB|To drink (Imperfective)|uple|ˈʔup̚ˌɬɛk̚kɐ|
+|qúcčo|ˈɢucc͡ɕɔ|VERB|To drink (Perfective)|uple|ˈʔup̚ɬɐ|
+|qúǵíśań|ˈɢuˌɟiɕæɲ̊|VERB|To fight (Imperfective)|ûtilag|ˈʔũːˌdiɬkæn̥|
+|qúǵíśńef|ˈɢuˌɟiɕɲ̊ɛf|VERB|To fight (Perfective)|ûtilag|ˈʔũːˌdiɬkn̥ɐf|
+|qúľńof|ˈɢuʎɲɔf|VERB|To lose > To be lost (Perfective)|ûle|ˈʔũːlgnɐf|
+|qúľoń|ˈɢuʎɔɲ̊|VERB|To lose > To be lost (Imperfective)|ûle|ˈʔũːlgɐn̥|
+|qúńowârâàśe|ˈɢuɲɔɣʌrʌˌæɕɛ|VERB|To kill (Imperfective)|ûtihgîlas|ˈʔũːd̚jɐɣiːˌlæskɐ|
+|qúńowârǿmaś|ˈɢuɲɔɣʌˌrømæɕ|VERB|To kill (Perfective)|ûtihgîlas|ˈʔũːd̚jɐˌɣĩːlæs|
+|qúñoń|ˈɢuɴɔɲ|VERB|To bite  (Perfective)|ûkân|ˈʔũːg̚ɑːn|
+|qúomáeńo|ˈɢuo̯ˌmɑe̯ɲɔ|VERB|To bite  (Imperfective)|ûkân|ˈʔũːˌgaːngɐ|
+|qúppuhśàńcef|ˈɢuppuħˌɕæɲ̊cɛf|VERB|To fly > To be (travelling) in the air (Perfective)|uqpûhal|ˈʔuq̚puħˌkɬæn̥n̥ɐf|
+|qúppvòľań|ˈɢupˌpʋɔʎæɲ̊|VERB|To fly > To be (travelling) in the air (Imperfective)|uqpûhal|ˈʔuq̚ˌpwɐ̃glæn̥|
+|qúqqaʔuccýań|ˈɢuɢɢæʔucˌcyæɲ̊|VERB|To freeze > To be frozen (Imperfective)|uqautêv|ˈʔuq̚qæʔut̚ˌtiːvgæn̥|
+|qúqqaʔuccýńef|ˈɢuɢɢæʔucˌcyɲɛf|VERB|To freeze > To be frozen (Perfective)|uqautêv|ˈʔuq̚qæʔut̚ˌtiːvgnɐf|
+|qúqqáeñof|ˈɢuɢˌɢɑe̯ɴɔf|VERB|To be  (Perfective)|uqâ|ˈʔuq̚ˌqaːŋɐf|
+|qúqqoñ|ˈɢuɢɢɔɴ|VERB|To be  (Imperfective)|uqâ|ˈʔuq̚qɑːŋ|
+|qúqqúoźań|ˈɢuɢˌɢuo̯ʑæɲ̊|VERB|To flow (Imperfective)|uqêz|ˈʔuq̚ˌqɨːzgæn̥|
+|qúqqúoźľań|ˈɢuɢˌɢuo̯ʑʎæɲ̊|VERB|To swim > To be (travelling) in water (Imperfective)|uqêzla|ˈʔuq̚ˌqɨːzglæn̥|
+|qúqqúoźńof|ˈɢuɢˌɢuo̯ʑɲɔf|VERB|To flow (Perfective)|uqêz|ˈʔuq̚ˌqɨːzgnɐf|
+|qúqqəźľàńcef|ˈɢuɢɢɤʑˌʎæɲ̊cɛf|VERB|To swim > To be (travelling) in water (Perfective)|uqêzla|ˈʔuq̚qɘːzˌglæn̥n̥ɐf|
+|qúříha|ˈɢuˌr̥iħæ|VERB|To float (Perfective)|uqkrêha|ˈʔuq̚ˌkr̥iħæ|
+|qúříhe|ˈɢuˌr̥iħɛ|VERB|To float (Imperfective)|uqkrêha|ˈʔuq̚ˌkr̥iħkɐ|
+|qúśřâ|ˈɢuɕr̥ʌ|VERB|To go  (Perfective)|ulogê|ˈʔuɬxɘː|
+|qúśřéañe|ˈɢuɕˌr̥eɐ̯ɴɛ|VERB|To go  (Imperfective)|ulogê|ˈʔuɬˌxiːg̚ɐ|
+|qúttumáeo|ˈɢuttuˌmɑe̯ɔ|VERB|To join/attach (Imperfective)|utûmhe|ˈʔut̚tũːˌɑɛ̯k̚kɐ|
+|qúttúomoa|ˈɢutˌtuo̯moɐ̯|VERB|To join/attach (Perfective)|utûmhe|ˈʔut̚ˌtũːɐː|
+|qúʔfaʔ|ˈɢuʔfæʔ|VERB|To suck (Perfective)|upvat|ˈʔup̚fæt̚|
+|qúʔfàe|ˈɢuʔˌfæɛ|VERB|To suck (Imperfective)|upvat|ˈʔup̚ˌfæt̚kɐ|
+|qúʔñíñe|ˈɢuʔˌɴ̥iɴɛ|VERB|To swell (Imperfective)|uqñî|ˈʔuq̚ˌŋ̊ĩːg̚ɐ|
+|qúʔñə|ˈɢuʔɴ̥ɤ|VERB|To swell (Perfective)|uqñî|ˈʔuq̚ŋ̊iː|
+|qwèmíeñef|ˈɢɣɛˌmie̯ɴɛf|VERB|To live (Perfective)|ihemê|ˈʔjɐˌmiːŋɐf|
+|qwòməñ|ˈɢɣɔmɤɴ|VERB|To live (Imperfective)|ihemê|ˈʔjɐmɘːŋ|
+|úocíe|ˈuo̯ˌciɛ|VERB|To cut (Imperfective)|wôtiq|ˈwuːˌtiq̚kɐ|
+|úońəʔ|ˈuo̯ɲɤʔ|VERB|To cut (Perfective)|wôtiq|ˈwuːd̚iq̚|
+|vàań|ˈʋææɲ̊|VERB|To say > To mean/To intend (Imperfective)|vatakas|ˈvæt̚kæn̥|
+|vàfteń|ˈʋæftɛɲ̊|VERB|To blow (Imperfective)|vatsen|ˈvæt͡θkɐn̥|
+|vàftńef|ˈʋæftɲ̊ɛf|VERB|To blow (Perfective)|vatsen|ˈvæt͡θkn̥ɐf|
+|vàhhàoe|ˈʋæħˌħæo̯ɛ|VERB|To ask > To say (Imperfective)|vahâq|ˈvæħˌħaːɢ̚gɐ|
+|vàhhoñ|ˈʋæħħɔɴ|VERB|To ask > To say (Perfective)|vahâq|ˈvæħħɑːɢ̚|
+|vànhàonøriñ|ˈʋæn̥ˌħæo̯nøriɴ̥|VERB|To sing (Imperfective)|vanhânfri|ˈvæn̥ˌħaːnvriŋ̊|
+|vànhonúrəñqof|ˈʋæn̥ħɔnˌurɤɴɢɔf|VERB|To sing (Perfective)|vanhânfri|ˈvæn̥ħɑːnˌvriŋ̊ŋ̊ɐf|
+|vàńca|ˈʋæɲ̊cæ|VERB|To scratch (Perfective)|wana|ˈwæn̥n̥æ|
+|vàńe|ˈʋæɲ̊ɛ|VERB|To scratch (Imperfective)|wana|ˈwæn̥kɐ|
+|vàńef|ˈʋæɲ̊ɛf|VERB|To say > To mean/To intend (Perfective)|vatakas|ˈvæt̚kn̥ɐf|
+|vàřhàiń|ˈʋær̥ˌħæiɲ̊|VERB|To hunt (Imperfective)|varhati|ˈvær̥ˌħæt̚kin̥|
+|vàřhàńef|ˈʋær̥ˌħæɲ̊ɛf|VERB|To hunt (Perfective)|varhati|ˈvær̥ˌħæt̚kn̥ɐf|
+|vàtfañ|ˈʋætfæɴ̥|VERB|To breathe > To be alive (Imperfective)|vatsan|ˈvæt̚t͡θæŋ̊|
+|vàtfèeń|ˈʋætˌfɛɛɲ̊|VERB|To smell (Imperfective)|vatsete|ˈvæt̚ˌt͡θɛt̚kɐn̥|
+|vàtfèńef|ˈʋætˌfɛɲ̊ɛf|VERB|To smell (Perfective)|vatsete|ˈvæt̚ˌt͡θɛt̚kn̥ɐf|
+|vàtfńàań|ˈʋætfˌɲ̊ææɲ̊|VERB|To vomit > To be sick (Imperfective)|vatsenakan|ˈvæt͡θˌn̥æk̚kæn̥|
+|vàtfńàʔńef|ˈʋætfˌɲ̊æʔɲ̊ɛf|VERB|To vomit > To be sick (Perfective)|vatsenakan|ˈvæt͡θˌn̥æk̚n̥ɐf|
+|vàtfñef|ˈʋætfɴ̥ɛf|VERB|To breathe > To be alive (Perfective)|vatsan|ˈvæt͡θŋ̊ɐf|
+|vàʔfàońe|ˈʋæʔˌfæo̯ɲɛ|VERB|To shout (Imperfective)|vatvân|ˈvæt̚ˌfaːngɐ|
+|vàʔfoń|ˈʋæʔfɔɲ|VERB|To shout (Perfective)|vatvân|ˈvæt̚fɑːn|
+|váeoñ|ˈʋɑe̯ɔɴ̥|VERB|To be shocked (Imperfective)|vâo|ˈvaːɐŋ̊|
+|váeòñqof|ˈʋɑe̯ˌɔɴɢɔf|VERB|To be shocked (Perfective)|vâo|ˈvaːˌɔŋ̊ŋ̊ɐf|
+|vèřřańmèńcef|ˈʋɛr̥r̥æɲ̊ˌm̥ɛɲ̊cɛf|VERB|To play (games) (Perfective)|veranmen|ˈvɛr̥r̥æn̥ˌkm̥ɛn̥n̥ɐf|
+|vèřřàńmeń|ˈʋɛr̥ˌr̥æɲ̊m̥ɛɲ̊|VERB|To play (games) (Imperfective)|veranmen|ˈvɛr̥ˌr̥æn̥km̥ɐn̥|
+|vónluíeńe|ˈʋonluˌie̯ɲɛ|VERB|To break (Imperfective)|ôtlukîn|ˈwoːd̚luk̚ˌkĩːgɐ|
+|vónluń|ˈʋonluɲ̊|VERB|To hit (Perfective)|ôtlun|ˈwoːd̚lun̥|
+|vónlúmu|ˈʋonˌlumu|VERB|To break (Perfective)|ôtlukîn|ˈwoːd̚ˌluk̚kĩː|
+|vónlúńo|ˈʋonˌluɲ̊ɔ|VERB|To hit (Imperfective)|ôtlun|ˈwoːd̚ˌlun̥kɐ|
+|vónúoño|ˈʋonˌuo̯ɴɔ|VERB|To split (Imperfective)|ôtwô|ˈwoːd̚ˌwuːg̚ɐ|
+|vónvə|ˈʋonʋɤ|VERB|To split (Perfective)|ôtwô|ˈwoːd̚wɘː|
+|vóuo|ˈʋou̯ɔ|VERB|To stab (Imperfective)|ôlu|ˈwoːlgɐ|
+|vóuu|ˈʋou̯u|VERB|To stab (Perfective)|ôlu|ˈwoːlu|

@@ -1,59 +1,5 @@
-xê,VERB-PT,To stand > To be standing
-xeki,VERB-PT,To stand > To be standing
-
-lîhaq,V-DEMO-PT,Holding
-qilîhaq,V-DEMO-PT-N,Not holding
-qêlîhaqkan,V-DEMO-IM-0IN,To be holding / To hold
-mûlîhaqkan,V-DEMO-IM-1PR,Is holding here
-vâlîhaqkan,V-DEMO-IM-2ME,Is holding there
-mîlîhaqkan,V-DEMO-IM-3DI,Is holding over there
-êqlîhaqkan,V-DEMO-IM-N-0IN,To not be holding / To not hold
-twimûlîhaqkan,V-DEMO-IM-N-1PR,Is not holding here
-xâvâlîhaqkan,V-DEMO-IM-N-2ME,Is not holding there
-îmîlîhaqkan,V-DEMO-IM-N-3DI,Is not holding over there
-huqêlîhaqkan,V-DEMO-IM-E-0IN,To be holding / To hold (emphatic)
-hûmûlîhaqkan,V-DEMO-IM-E-1PR,Is holding here (emphatic)
-vâlîhaqkan,V-DEMO-IM-E-2ME,Is holding there (emphatic)
-hefmîlîhaqkan,V-DEMO-IM-E-3DI,Is holding over there (emphatic)
-qêlîhaqknef,V-DEMO-PF-0IN,To grab / To hold
-mûlîhaqknef,V-DEMO-PF-1PR,Grabs here
-vâlîhaqknef,V-DEMO-PF-2ME,Grabs there
-mîlîhaqknef,V-DEMO-PF-3DI,Grabs over there
-êqlîhaqknef,V-DEMO-PF-N-0IN,To not grab / To not hold
-twimûlîhaqknef,V-DEMO-PF-N-1PR,Doesn't grab here
-xâvâlîhaqknef,V-DEMO-PF-N-2ME,Doesn't grab there
-îmîlîhaqknef,V-DEMO-PF-N-3DI,Doesn't grab over there
-huqêlîhaqknef,V-DEMO-PF-E-0IN,To grab / To hold (emphatic)
-hûmûlîhaqknef,V-DEMO-PF-E-1PR,Grabs here (emphatic)
-hâvelîhaqknef,V-DEMO-PF-E-2ME,Grabs there (emphatic)
-hefmîlîhaqknef,V-DEMO-PF-E-3DI,Grabs over there (emphatic)
-
-uqñî,V-DEMO-PT,Swelling
-utwiqñî,V-DEMO-PT-N,Not swelling
-qêjuqñî,V-DEMO-PF-0IN,To swell
-mêwuqñî,V-DEMO-PF-1PR,Swells here
-âvuqñî,V-DEMO-PF-2ME,Swells there
-mîtuqñî,V-DEMO-PF-3DI,Swells over there
-êqjuqñî,V-DEMO-PF-N-0IN,To not swell
-twimêwuqñî,V-DEMO-PF-N-1PR,Doesn't swell here
-âxâvuqñî,V-DEMO-PF-N-2ME,Doesn't swell there
-îmîtuqñî,V-DEMO-PF-N-3DI,Doesn't swell over there
-huqêjuqñî,V-DEMO-PF-E-0IN,To swell (emphatic)
-hûmêwuqñî,V-DEMO-PF-E-1PR,Swells here (emphatic)
-hevâvuqñî,V-DEMO-PF-E-2ME,Swells there (emphatic)
-hefmîtuqñî,V-DEMO-PF-E-3DI,Swells over there (emphatic)
-qêjuqñîke,V-DEMO-IM-0IN,To be swelling / To be swollen
-mêwuqñîke,V-DEMO-IM-1PR,Is swollen here
-âvuqñîke,V-DEMO-IM-2ME,Is swollen there
-mîtuqñîke,V-DEMO-IM-3DI,Is swollen over there
-êqjuqñîke,V-DEMO-IM-N-0IN,To not be swelling / To not be swollen
-twimêwuqñîke,V-DEMO-IM-N-1PR,Is not swollen here
-âxâvuqñîke,V-DEMO-IM-N-2ME,Is not swollen there
-îmîtuqñîke,V-DEMO-IM-N-3DI,Is not swollen over there
-huqêjuqñîke,V-DEMO-IM-E-0IN,To be swelling / To be swollen (emphatic)
-hûmêwuqñîke,V-DEMO-IM-E-1PR,Is swollen here (emphatic)
-hevâvuqñîke,V-DEMO-IM-E-2ME,Is swollen there (emphatic)
-hefmîtuqñîke,V-DEMO-IM-E-3DI,Is swollen over there (emphatic)
+xê,NOUN,To stand > Status/State (I)
+xeki,NOUN,To stand > Stance (I)
 
 ihemê,ihemêñ,VERB-IM,To live
 uqâ,uqâñ,VERB-IM,To be 
@@ -141,17 +87,6 @@ ghôlqe,VERB-PF,To become
 ûtihgîlas,VERB-PF,To kill
 uqkrêha,VERB-PF,To float
 
-etî,PRN,I 
-utû,PRN,You (sg)
-utôt,PRN,You (dul)
-utoj,PRN,You (pl)
-ñatôt,PRN,We (dul)
-ñaoj,PRN,We (pl)
-kê,PRN,They (sg)
-kêot,PRN,They (dul)
-kêoj,PRN,They (pl)
-qer,PRN,Who
-qîu,PRN,What
 keir,PREP,Of
 vlo,PREP,With 
 fes,PREP,Like/As
@@ -162,87 +97,154 @@ pre,NUM,One (I)
 qôt,NUM,Two (I)
 ghûma,NUM,Three (I)
 
-giheam,NOUN,Woman (A)
-choam,NOUN,Man (A)
-xelak,NOUN,Person (A)
-puat,NOUN,Skin (I)
-ñaka,NOUN,Flesh (I)
-grâmpan,NOUN,Horn (I)
-lupax,NOUN,Tail (I)
-krêhan,NOUN,Feather (I)
-xukla,NOUN,Hair (I)
-vâka,NOUN,Head (I)
-gîlmañ,NOUN,Ear (I)
-êkjômap,NOUN,Eye (I)
-flezchâma,NOUN,Nose (I)
-vats,NOUN,Mouth (I)
-ûka,NOUN,Tooth (I)
-shichag,NOUN,Tongue (A)
-vufar,NOUN,Claw (I)
-kwenja,NOUN,Foot (I)
-kêwma,NOUN,Knee (I)
-lîxehaq,NOUN,Hand (I)
-vûreal,NOUN,Belly (I)
-qômah,NOUN,Neck (I)
-val,NOUN,Moon (E)
-jâwta,NOUN,God (E)
-tixêka,NOUN,Star (E)
-êvza,NOUN,Water > Water (in the world) (E)
-verja,NOUN,Rain (A)
-reqa,NOUN,Stone (I)
-êvreqa,NOUN,Sand (I)
-metireqa,NOUN,Earth (I)
-valjân,NOUN,Cloud (I)
-hanvaljâ,NOUN,Smoke (A)
-hanema,NOUN,Fire (A)
-hauhâ,NOUN,Ashes (I)
-shechaq,NOUN,Path (I)
-xetaq,NOUN,Mountain (I)
-gjîkâ,NOUN,Night (I)
-îksâ,NOUN,Day (I)
-pûriax,NOUN,Name (A)
-sunam,NOUN,Other (I~A)
-arfax,NOUN,Child (A)
-washîa,NOUN,Wife (A)
-zimaq,NOUN,Husband (A)
-chaqam,NOUN,Mother (A)
+gihemân,NOUN - People,Woman (H)
+choamân,NOUN - People,Man (H)
+xelakân,NOUN - People,Person (H)
+arfaxân,NOUN - People,Child (H)
+washîân,NOUN - People,Wife (H)
+zimaqân,NOUN - People,Husband (H)
+chaqamân,NOUN - People,Mother (H)
+hrêpghân,NOUN - People,Father (H)
 
+qaqixahân,NOUN - Community,Team (H)
+ehân,NOUN - Community,Land > Territory (H)
 
-xukâmal,NOUN,Wing (A)
-lijam,NOUN,Back (I)
-ukêza,NOUN,River (A)
-metêza,NOUN,Lake (A)
-metugêza,NOUN,Ocean (A)
-taita,NOUN,Dust (I)
-valanât,NOUN,Sky (A)
-hautêvat,NOUN,Snow (I)
-autêvat,NOUN,Ice (I)
-ponhen,NOUN,Side (of body) (I)
-ukhisa,NOUN,Year (E)
-qaqixah,NOUN,Team (A)
-miûpar,NOUN,Power (E)
-eha,NOUN,Land (I)
-gormêta,NOUN,Freedom (E)
-îzmax,NOUN,Ideal (I)
-wahîa,NOUN,Argument (A)
-vâkutsa,NOUN,Road (A)
-mêa,NOUN,Wisdom (E)
-xompaj,NOUN,Progress (I)
+uqsighan,NOUN - Anatomy,Heart (A)
+shichgan,NOUN - Anatomy,Tongue (A)
+puat,NOUN - Anatomy,Skin (I)
+ñaka,NOUN - Anatomy,Flesh (I)
+xukla,NOUN - Anatomy,Hair (I)
+vâka,NOUN - Anatomy,Head (I)
+gîlmañ,NOUN - Anatomy,Ear (I)
+êkjômap,NOUN - Anatomy,Eye (I)
+flezchâma,NOUN - Anatomy,Nose (I)
+vats,NOUN - Anatomy,Mouth (I)
+ûka,NOUN - Anatomy,Tooth (I)
+kwenja,NOUN - Anatomy,Foot (I)
+kêwma,NOUN - Anatomy,Knee (I)
+lîxehaq,NOUN - Anatomy,Hand (I)
+vûreal,NOUN - Anatomy,Belly (I)
+qômah,NOUN - Anatomy,Neck (I)
+grâmpan,NOUN - Anatomy,Horn (I)
+lupax,NOUN - Anatomy,Tail (I)
+krêhan,NOUN - Anatomy,Feather (I)
+vufar,NOUN - Anatomy,Claw (I)
+xukâmalan,NOUN - Anatomy,Wing (A)
+lijam,NOUN - Anatomy,Back (I)
+ponhen,NOUN - Anatomy,Side (of body) (I)
+
+apîtan,NOUN - Senses,Roar (A)
+pamwêan,NOUN - Senses,Sound (A)
+
+qrêiche,NOUN - Sky,Sun (E)
+valiche,NOUN - Sky,Moon (E)
+tixêkiche,NOUN - Sky,Star (E)
+verjan,NOUN - Sky,Rain (A)
+valjan,NOUN - Sky,Cloud (A)
+vatsenan,NOUN - Sky,To blow > Wind (A)
+valanâtan,NOUN - Sky,Sky (A)
+hautêvatan,NOUN - Sky,Snow > Snow (falling) (A)
+autêvatan,NOUN - Sky,Ice > Hail (A)
+
+jâwtoche,NOUN - Mythos,God > Deity (D)
+gjîkâche,NOUN - Mythos,Night > God of the Night (D)
+îksâche,NOUN - Mythos,Day > Goddess of the Day (D)
+tsenaniche,NOUN - Mythos,Goddess of the Winds/Weather (D)
+ukhisiche,NOUN - Mythos,Year > God of the Seasons/Harvests (D)
+ôrzumosiche,NOUN - Mythos,Mammoth (D)
+talakiche,NOUN - Mythos,Enchanted Bone (D)
+juêtiche,NOUN - Mythos,Purifying Honey (D)
+îzmaxan,NOUN - Mythos,Ideal > Idol (A)
+
+êvziche,NOUN - Environment,Water > Water (in the world) (E)
+metireqiche,NOUN - Environment,Earth > Ground (E)
+metireqa,NOUN - Environment,Earth > Soil (I)
+reqa,NOUN - Environment,Stone (I)
+reqe,NOUN - Environment,Pebble (I)
+êvreqa,NOUN - Environment,Sand (I)
+xetaq,NOUN - Environment,Mountain (I)
+hôktsal,NOUN - Environment,Forest (I)
+shechaq,NOUN - Environment,Path (esp. natural) (I)
+ukêzan,NOUN - Environment,River (A)
+metêzan,NOUN - Environment,Lake (A)
+metugêzan,NOUN - Environment,Ocean (A)
+taita,NOUN - Environment,Dust (I)
+hautêvat,NOUN - Environment,Snow (I)
+autêvat,NOUN - Environment,Ice (I)
+eha,NOUN - Environment,Land (I)
+tsira,NOUN - Environment,Hill (I)
+chêshaz,NOUN - Environment,Beach (I)
+xaga,NOUN - Environment,Coast (I)
+
+haneman,NOUN - Tools,Fire (A)
+hanvaljan,NOUN - Tools,Smoke (A)
+hauhâ,NOUN - Tools,Ashes (I)
+uktramak,NOUN - Tools,Rope (I)
+
+vâkutsan,NOUN - Construction,Road (A)
+
+pûrixân,NOUN - Rhetoric,Name (H)
+wahîan,NOUN - Rhetoric,Argument (A)
+zûman,NOUN - Rhetoric,Speech/Voice/Words (A)
+zûmiche,NOUN - Rhetoric,Words > Eulogy (D)
+
+sunam,NOUN - Function,Other (I)
+sunamân,NOUN - Function,Other (A)
 chûjas,NOUN,Size (I)
-jar,NOUN,Life (E)
-tsira,NOUN,Hill (I)
-chêshaz,NOUN,Beach (I)
-zûma,NOUN,Speech/Voice/Words (E)
-vifu,NOUN,Victory (E)
-apîta,NOUN,Roar (A)
-pamwêa,NOUN,Sound (A)
-xaga,NOUN,Coast (I)
+
+gjîkâ,NOUN - Phenomena,Night (I)
+îksâ,NOUN - Phenomena,Day (I)
+asqrôlan,NOUN - Phenomena,Reflection/Image (A)
+goghtan,NOUN - Phenomena,Flow (A)
+lijaman,NOUN - Phenomena,Back > Shadow (A)
+ukhisa,NOUN - Phenomena,Year (I)
+jarche,NOUN - Phenomena,Life (D)
+
+vifuche,NOUN - Concept,Victory (D)
+miûpariche,NOUN - Concept,Power (D)
+gormêtache,NOUN - Concept,Freedom (D)
+îzmax,NOUN - Concept,Ideal > Idea (I)
+mêache,NOUN - Concept,Wisdom (D)
+xompaj,NOUN - Concept,Progress (I)
+wahra,NOUN - Concept,Mistake (I)
+
 ghuja,DET,This
 jâhap,DET,That
+mitja,DET,That over there
 chupa,DET,Many
 shêña,DET,Some
 xi,DET,Few
 âjah,DET,Every
+verto,DET,More
+
+qer,PRN,Who
+qîu,PRN,What
+
+mûh,PRN,1.s.Nom - I
+fêgha,PRN,1.s.Acc - Me
+jâl,PRN,1.p.Nom - We
+pôgh,PRN,1.p.Acc - Us
+kup,PRN,2.s.Nom - Thou
+plex,PRN,2.s.Acc - Thee
+larap,PRN,2.d.Nom - You & I
+gâm,PRN,2.d.Acc - You & Me
+me,PRN,2.p.Nom - You
+zêñko,PRN,2.p.Acc - Ye
+qeh,PRN,3.I.Nom - It/They
+îx,PRN,3.I.Acc - It/Them
+qehan,PRN,3.A.s.Nom - It/He/She
+îxan,PRN,3.A.s.Acc - It/Him/Her
+qehân,PRN,3.H.s.Nom - He/She/It
+îxân,PRN,3.H.s.Acc - Him/Her/It
+rêtân,PRN,3.H.d.Nom - He/She/It and I
+juân,PRN,3.H.d.Acc - Him/Her/It and I
+vehan,PRN,3.A.p.Nom - They
+ñen,PRN,3.A.p.Acc - Them
+vehân,PRN,3.H.p.Nom - They
+ñân,PRN,3.H.p.Nom - Them
+vehiche,PRN,3.D.Nom - He/She/It/They
+ñiche,PRN,3.D.Nom - Him/Her/It/Them
+
 hêm,CONJ,And
 pru,CONJ,If 
 ver,CONJ,Because
@@ -250,6 +252,19 @@ ver,CONJ,Because
 vug,COLOUR,Red
 gaqo,COLOUR,Black
 pâmva,COLOUR,White
+
+qê,LOC-PRN,LocPrn-Indefinite - Somewhere
+mû,LOC-PRN,LocPrn-Proximal - Here/This
+vâ,LOC-PRN,LocPrn-Medial - There/That
+mît,LOC-PRN,LocPrn-Distal - Over There
+êq,LOC-PRN,LocPrn-Indefinite-Neg - Somewhere Not
+twimû,LOC-PRN,LocPrn-Proximal-Neg - Here/This Not
+ghâxvâ,LOC-PRN,LocPrn-Medial-Neg - There/That Not
+jîmît,LOC-PRN,LocPrn-Distal-Neg - Over There Not
+hûqê,LOC-PRN,LocPrn-Indefinite-Emph - Somewhere Well
+hûmû,LOC-PRN,LocPrn-Proximal-Emph - Here/This Well
+hâve,LOC-PRN,LocPrn-Medial-Emph - There/That Well
+hûmît,LOC-PRN,LocPrn-Distal-Emph - Over There Well
 
 fêke,ADV,All
 umêw,ADV,Here
@@ -262,18 +277,15 @@ qi,ADV,How
 rêmuh,ADV,Far
 ghug,ADV,Right
 
-
 metafke,ADJ,Big
 pefke,ADJ,Small
 ukhae,ADJ,Long
 aut,ADJ,Cold
 vêf,ADJ,Full
-
 ômve,ADJ,Old
 ñîxe,ADJ,Round
 fritô,ADJ,Dry
 frito,ADJ,Thick
-
 pûvloñ,ADJ,Short
 nex,ADJ,Narrow
 gôrkem,ADJ,Thin
@@ -281,7 +293,6 @@ hev,ADJ,Good
 irpêg,ADJ,Bad
 uvewî,ADJ,Rotten
 hârke,ADJ,Dirty
-
 wôthan,ADJ,Sharp
 grûsti,ADJ,Dull
 pumwê,ADJ,Correct
@@ -290,36 +301,18 @@ mexî,ADJ,Useful
 gûtji,ADJ,Powerful
 jewom,ADJ,Proud
 glip,ADJ,Mighty
-
 kalâ,ADJ,Smug/Priggish
 firêm,ADJ,Enternal
-
-wahra,NOUN,Mistake (I)
-verto,DET,More
 kertop,ADJ,New
 kigertar,ADJ,Heavy
-
-
 mughet,ADJ,Straight
 mwîgegh,ADJ,Hard/Difficult
 ighêmpi,ADV,Left
-hoghjal,NOUN,Insect (I)
-goghta,NOUN,Flow (A)
-hrêpgha,NOUN,Father (A)
-uqsiagh,NOUN,Heart (A)
-
-uktramak,NOUN,Rope (I)
 ugane,ADJ,Wide
-
-
-hôktsal,NOUN,Forest (I)
-tsal,NOUN,Stick (I)
-
 pre,ADJ,Hot
-qrêa,NOUN,Sun (E)
 
-asqrôla,NOUN,Example (I)
 
+tsal,NOUN - Plant,Stick (I)
 tsala,NOUN - Plant,Tree (I)
 tsale,NOUN - Plant,Plant (I) (small tree)
 gêam,NOUN - Plant,Leaf (I)
@@ -374,36 +367,38 @@ merêka,NOUN - Plant,Cannabis (Drug) (I)
 merekmak,NOUN - Plant,Cannabis/Hemp Plant (I)
 merêlrwa,NOUN - Plant,Hemp Fibre (I)
 
-êzvla,NOUN - Animal,Fish (A)
-pûhal,NOUN - Animal,Bird (A)
-oga,NOUN - Animal,Animal (A)
+êzvlan,NOUN - Animal,Fish (A)
+pûhalan,NOUN - Animal,Bird (A)
+ogan,NOUN - Animal,Animal (A)
 
-ôrza,NOUN - Animal,Boar (A)
-hêkka,NOUN - Animal,Pig (A)
+ôrzan,NOUN - Animal,Boar (A)
+hêkkan,NOUN - Animal,Pig (A)
 hekhêkki,NOUN - Animal,Pigsty (I)
-êvpûhal,NOUN - Animal,Waterfowl (A)
-qêpka,NOUN - Animal,Duck (A)
+êvpûhalan,NOUN - Animal,Waterfowl (A)
+qêpkan,NOUN - Animal,Duck (A)
 qepqêpki,NOUN - Animal,Duck farm (I)
-prâlcha,NOUN - Animal,Ibex (A)
-mâpka,NOUN - Animal,Goat (A)
+prâlchan,NOUN - Animal,Ibex (A)
+mâpkan,NOUN - Animal,Goat (A)
 mapmâpki,NOUN - Animal,Goat run (I)
 
-hresfa,NOUN - Animal,Wolf (A)
-hrôtlo,NOUN - Animal,Coyote (A)
-fipomla,NOUN - Animal,Dog (A)
+hresfan,NOUN - Animal,Wolf (A)
+hrôtlan,NOUN - Animal,Coyote (A)
+fipomlan,NOUN - Animal,Dog (A)
 
-xuzñe,NOUN - Animal,Bee (A)
+xuzñen,NOUN - Animal,Bee (A)
 xuzzuzñi,NOUN - Animal,Bee Hive (I)
 
-ñêka,NOUN - Food,Meat (to eat) (A)
+hoghjalen,NOUN - Animal,Insect (I)
+
+ñêka,NOUN - Food,Meat (to eat) (I)
 êvñêka,NOUN - Food,Blood (I)
-talaka,NOUN - Food,Bone (A)
+talaka,NOUN - Food,Bone (I)
 kehuma,NOUN - Food,Egg (I)
 metêzta,NOUN - Food,Salt (I)
 juêta,NOUN - Food,Honey (I)
 pregêema,NOUN - Food,Mustard Sauce (I)
 preprea,NOUN - Food,Ground Chilli (I)
-gezpea,NOUN - Plant,Olive Oil (I)
+gezpea,NOUN - Food,Olive Oil (I)
 
 uplêa,NOUN - Food,Drinking Water (I)
 amêa,NOUN - Food,Milk (human and animal) (I)
@@ -412,9 +407,3 @@ pêlañ,NOUN - Food,Meat Stew (I)
 hañêka,NOUN - Food,Roast Meat (I)
 ottoe,NOUN - Food,Flour (I)
 hâkma,NOUN - Food,Bread (I)
-
-
-
-
-gezpitsala,NOUN - Plant,Olive Tree (I)
-tûchimak,NOUN - Plant,Sorghum (plant) (I)

@@ -80,11 +80,11 @@ def grammatify(word, word_type, desc, root2):
     elif word[0] == 'uː':
         neg = ['uː', 's', 'w', 'iː'] + neg[1:]
     elif word[0] in VUHINKAM_NASALS:
-        neg = ['a'] + neg
+        neg = ['ʕ', 'a'] + neg
     elif word[0] in VUHINKAM_STOPS_AFS:
         neg = ['eː'] + neg
     elif word[0] in VUHINKAM_FRICS:
-        neg = ['iː'] + neg
+        neg = ['j', 'iː'] + neg
     elif word[0] in VUHINKAM_APPXS_R:
         neg = ['q', 'i'] + neg
     else:
@@ -94,11 +94,6 @@ def grammatify(word, word_type, desc, root2):
     verb_root = list(word)
     if word_type == 'VERB-IM':
         verb_root = list(root2)
-    
-    if verb_root[0] in VUHINKAM_VOWELS:
-        verb_root = ['q', 'eː', 'j'] + verb_root
-    else:
-        verb_root = ['q', 'eː'] + verb_root
 
     # Perfective: PF: qê-, IM: qê-2-af, PT: N/A
     if word_type == 'VERB-PF':
