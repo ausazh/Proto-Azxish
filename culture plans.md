@@ -28,54 +28,56 @@ Inhabiting the West River Valley.
     - Domestication
       - Domesticated crops
         - Common crops in Neolithic - ícca /ˈiccæ/
-          - Barley - ícce /ˈiccɛ/ (river plains)
-          - Soybean - núomo /ˈnuo̯mɔ/(river plains)
-          - Sorghum - túgo /ˈtugɔ/ (south)
+          - Barley - jite > ˈjit̚tɐ > ícce /ˈiccɛ/ (river plains)
+          - Soybean - nûe > ˈnũːɐ > núomo /ˈnuo̯mɔ/(river plains)
+          - Sorghum - tûche > ˈtũːd͡ʒɐ > túgo /ˈtugɔ/ (south)
           - Brassicacaea - primitive forms (north)
         - 'New' crops in Bronze Age
           - Brassicacaea
             - Brassica oleracea
-              - Leaf Brass. (Kale) - ǵàřéam /ˈɟæˌr̥eæm̥/ (river plains, esp. upper)
-              - Head Brass. (Cabbage) - vèřtfa /ˈʋɛr̥tfæ/  (river plains, esp. upper)
-              - Tree Brass. (Jersey) Cabbage - vèřtfàśśa /ˈʋɛr̥ˌtfæɕɕæ/ (south coastal)
+              - Leaf Brass. (Kale) - ergêam > ˈʔɛr̥ˌxiːæm̥ > ǵàřéam /ˈɟæˌr̥eæm̥/ (river plains, esp. upper)
+              - Head Brass. (Cabbage) - wertsa > ˈwɛr̥t͡θæ > vèřtfa /ˈʋɛr̥tfæ/  (river plains, esp. upper)
+              - Tree Brass. (Jersey) Cabbage - wertsala > ˈwɛr̥t͡θɬæ > vèřtfśa /ˈʋɛr̥tfɕæ/ (south coastal)
             - Brassica rapa
-              - Leaf Brass., (Bok Choy) - vèřtfe /ˈʋɛr̥tfɛ/ (river plains, esp. lower)
+              - Leaf Brass., (Bok Choy) - wertse > ˈwɛr̥t͡θɐ > vèřtfe /ˈʋɛr̥tfɛ/ (river plains, esp. lower)
                 - often confused and conflated with cabbage, esp as each predominates in a different area
-              - Root Brass., (Turnip) - qàorduńa /ˈɢæo̯rduɲæ/ (north)
+              - Root Brass., (Turnip) - ârtsna > ˈʔaːrd͡ðnæ > qàorduńa /ˈɢæo̯rduɲæ/ (north)
             - Raphanus
-              - Red Raph., (Radish) - óřřóo /ˈor̥ˌr̥oɔ/ (west coast)
-              - White Raph., (Daikon) - páemvaʔúo /ˈpɑe̯mʋæˌʔuɔ/ (river plains)
+              - Red Raph., (Radish) - vuguqke > ˈvuxˌxuq̚kɐ > óřřóo /ˈor̥ˌr̥oɔ/ (west coast)
+              - White Raph., (Daikon) - pâmvauqke > ˈpaːmvæʔˌuq̚kɐ > páemvaʔúo /ˈpɑe̯mʋæˌʔuɔ/ (river plains)
             - Brassica juncaea: Hot Brassica
-              - Mustard - pàřeàmtfe /ˈpær̥ɛˌæm̥tfɛ/ (highlands, north and upper river plains)
-          - Gourds and Melons - ía /ˈiæ/ (south and riverplains)
-            - Sweet melons - źéaréa /ˈʑeɐ̯ˌreæ/ - watermelon, rockmelon, etc
-            - Bitter melons - qúñońogía /ˈɢuɴɔɲɔˌgiæ/ - bitter melon
-            - Clear melons - wéźiía /ˈɣeʑiˌiæ/ - cucumber, luffa
-            - Thick-skinned melons - fříía /ˈfr̥iˌiæ/ - pumpkin
-          - Peppers, Capsicum, Chilli - řéřä /ˈr̥er̥a/ (south)
-            - Sweet peppers (Capsicum) - źéarbréřä /ˈʑeɐ̯rˌbrer̥a/
-            - Hot peppers (Chilli) - řèpřéřä /ˈr̥ɛpˌr̥er̥a/
+              - Mustard - pergêamte > ˈpɛr̥xɘːˌæm̥tɐ > pàřeàmce /ˈpær̥ɛˌæm̥cɛ/ (highlands, north and upper river plains)
+          - Gourds and Melons - kêa > ˈkiːæ > ía /ˈiæ/ (south and riverplains)
+            - Sweet melons - zigkêa > ˈziːɣˌgiːæ > źéaréa /ˈʑeɐ̯ˌreæ/ - watermelon, rockmelon, etc
+            - Bitter melons - ûkânkêa > ˈʔũːg̚ɑːnˌgiːæ > qúñońía /ˈɢuɴɔɲˌiæ/ - bitter melon
+            - Clear melons - êvzikêa > ˈjeːvzik̚ˌkiːæ > jéźiía /ˈjeʑiˌiæ/ - cucumber, luffa
+            - Thick-skinned melons - fritkêa > ˈfr̥it̚ˌkiːæ > fříía /ˈfr̥iˌiæ/ - pumpkin
+          - Peppers, Capsicum, Chilli - prixka > ˈpr̥ixkæ > řéřä /ˈr̥er̥a/ (south)
+            - Sweet peppers (Capsicum) - zigprixka > ˈziːɣˌbrixkæ > źéarbréřä /ˈʑeɐ̯rˌbrer̥a/
+            - Hot peppers (Chilli) - preprixka > ˈpr̥ɛp̚ˌr̥ixkæ > řèʔřéřä /ˈr̥ɛʔˌr̥er̥a/
           - Hemp and Flax
-            - Active Cannabis
-            - Hemp
-            - Flax
+            - Active Cannabis -- merêka > ˈmɛr̥ˌr̥iːg̚æ > mèřříeña /ˈmɛr̥ˌr̥ie̯ɴæ/
+            - Hemp - merêlrwa > ˈmɛr̥ˌr̥iːɭwæ > mèřříelva /ˈmɛr̥ˌr̥ie̯lʋæ/
+            - Flax -- lêruwa > ˈliːrwæ > ľíerva /ˈʎie̯rʋæ/
 
       - Domesticated trees
-        - Olive - arràźba /ærˈræʑbæ/ (from the medit coast)
-        - Pears - úruva /ˈuruʋæ/ (from the medit coast)
-        - Peach - múqqaś /ˈmuɢɢæɕ/ (from the continental>desert Mountains)
-        - Almond - còñońa /ˈcɔɴ̥ɔɲ̊æ/ (from the continental>desert Mountains)
+        - Olive - gezpa > ˈɣɛːzbæ > arràźba /ærˈræʑbæ/ (from the medit coast)
+        - Pears - vrûva > ˈvrũːvæ > úruva /ˈuruʋæ/ (from the medit coast)
+        - Peach - muqas > ˈmuq̚qæs > múqqaś /ˈmuɢɢæɕ/ (from the continental>desert Mountains)
+        - Almond - tokna > ˈtɔk̚n̥æ > tòʔńa /ˈtɔʔɲ̊æ/ (from the continental>desert Mountains)
+
       - Domesticated animals
-        - Boar - vóɹa /ˈʋoɹæ/
-          - => Pig - héia /ˈħei̯æ/ (central riverplains)
-        - Waterfowl - wébvèñaś /ˈɣebˌʋɛɴæɕ/
-          - => Duck - qéia /ˈɢei̯æ/ (northern lake/upper riverplains)
-        - Wolf - hřèsha /ˈħr̥ɛsħæ/ and Coyote - hřúońľo /ˈħr̥uo̯ɲʎɔ/
-          - => Dog - fíppòmśa /ˈfipˌpɔm̥ɕæ/ (throughout)
-        - Ibex - řáuga /ˈr̥ɑʊ̯gæ/
-          - => Goat - màoa /ˈmæo̯æ/ (mountains)
-        - Bee - âřřóaźño /ʌr̥ˈr̥oɐ̯ʑɴɔ/
+        - Boar - ôrza > ˈwoːʐæ > vóɹa /ˈʋoɹæ/
+          - => Pig - hêkka > ˈħɨːg̚gæ > héia /ˈħei̯æ/ (central riverplains)
+        - Waterfowl - êvpûhal > ˈjeːvˌbwɐ̃æɬ > wébvèñaś /ˈɣebˌʋɛɴæɕ/
+          - => Duck - qêpka > ˈqɨːb̚gæ > qéia /ˈɢei̯æ/ (northern lake/upper riverplains)
+        - Wolf - hresfa > ˈħr̥ɛsfæ > hřèsha /ˈħr̥ɛsħæ/ and Coyote - hrôtlo > ˈħr̥uːd̚lɐ > hřúońľo /ˈħr̥uo̯ɲʎɔ/
+          - => Dog - fipomla > ˈfip̚m̥ɬæ > fíʔmśa /ˈfiʔm̥ɕæ/ (throughout)
+        - Ibex - prâlcha > ˈpr̥aːld͡ʒæ > řáuga /ˈr̥ɑʊ̯gæ/
+          - => Goat - mâpka > ˈmaːb̚gæ > màoa /ˈmæo̯æ/ (mountains)
+        - Bee - xuzñe > ˈxuːzŋɐ > âřřóaźño /ʌr̥ˈr̥oɐ̯ʑɴɔ/
           - Small-Medium scale Beekeeping
+          - Honey - juêta > ˈjuʔˌiːd̚æ > wúʔíeńa /ˈɣuʔˌie̯ɲæ/
 
 - Things to develop
   - Agriculture, Food

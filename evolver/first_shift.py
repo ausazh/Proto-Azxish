@@ -119,6 +119,19 @@ def grammatify(word, word_type, desc, root2):
 
     return words
 
+def get_inits_fols(s):
+    inits = []
+    fols = []
+    vowel = None
+    for l in s:
+        if l in VUHINKAM_VOWELS:
+            vowel = l
+        elif vowel:
+            fols.append(l)
+        else:
+            inits.append(l)
+    return inits, fols, vowel in VUHINKAM_SHORT_VOWELS
+
 # Apply stress and separate into syllables
 def syllabify(word):
     # split first based on vowels
@@ -135,7 +148,50 @@ def syllabify(word):
     # Add to the end of final syllable
     if (len(syl) > 0):
         syllables[-1] += syl
-    
+
+    # delete short vowels if the resultant cluster is legal (final C and initial CL, where CL is not homorganic Stop+Nas)
+    # only occurs in non-initial and non-final clusters
+    # do this in a greedy manner - the first allowable deletion from the left will be deleted
+    # cannot delete two vowels in a row also
+    # also do not do this is a vowel is first in hiatus with either side
+    # print(syllables)
+    for i in range(len(syllables) - 1):
+        if i == 0:
+            continue
+        prev, s, fol = syllables[i-1 : i+2]
+        if not prev:
+            continue
+        inits, fols, short_vowel = get_inits_fols(s)
+        if not short_vowel:
+            continue
+
+        _, prev_fols, _ = get_inits_fols(prev)
+        fol_inits, _, _ = get_inits_fols(fol)
+        total = prev_fols + inits + fols + fol_inits
+        # print(prev, s, fol, total)
+        
+        if len(total) > 3:
+            continue # max length cluster is 3 (C.CL)
+        if (len(total) == 3 and (total[2] not in VUHINKAM_LIQUIDS or (
+            total[1] in ILLEGAL_STOPNAS and ILLEGAL_STOPNAS[total[1]] == total[2]
+        ))):
+            continue # third of cluster must be a liquid; hom stop-nas also illegal 
+        if len(prev_fols) + len(inits) == 0 or len(fols) + len(fol_inits) == 0:
+            continue # in hiatus; don't delete
+        
+        # print('getting rid of a syllable')
+        # Now get rid of this syllable; just assign all consonants to following for now as they will be rectified later
+        cons = inits + fols
+        cons.reverse()
+        for l in cons:
+            syllables[i+1].insert(0, l)
+        syllables[i] = None
+
+    # remove empty syllables
+    syllables = [x for x in syllables if x]
+    print(syllables)
+
+
     # Assign stress to first and (in >2 syl words) penultimate
     syllables[0].stress = True
     if len(syllables) > 2:

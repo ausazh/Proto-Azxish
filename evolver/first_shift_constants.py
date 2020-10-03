@@ -13,6 +13,7 @@ IPA_VUHINKAM = {'m': 'm', 'n': 'n', 'ñ': 'ŋ',
 
 IRREG_GEMINATE = {'t͡s': 't', 't͡ʃ': 't', 'd͡z': 'd', 'd͡ʒ': 'd', 'xʷ': 'x'}
 
+VUHINKAM_SHORT_VOWELS = ['a', 'e', 'i', 'o', 'u']
 VUHINKAM_VOWELS = ['a', 'e', 'i', 'o', 'u', 'aː', 'eː', 'iː', 'oː', 'uː']
 VUHINKAM_LIQUIDS = ['r', 'w', 'l', 'j', 'm', 'n', 'ŋ']
 VUHINKAM_NASALS = ['m', 'n', 'ŋ']

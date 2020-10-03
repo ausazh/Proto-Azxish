@@ -250,14 +250,14 @@ def shift_place(word):
     for i, s in word.range():
         if not s.is_sound or s == '':
             continue
-
+        # print(s, marks, sign)
         # re-fix gh > j
-        if s.rep in ['e', 'eː']:
+        if s.rep[0] == 'e':
             prev = word.get_prev(i)
-            if prev and prev == 'ɣ': # it really should be!
+            print(s, prev)
+            if prev and prev == 'ɣ':
                 prev.mutate('j')
-            else:
-                warnings.warn('how did we get an e without a J?')
+                print('now', s, prev)
 
         # SIGNS
         # see sign assignments below for details on the shift
@@ -271,8 +271,10 @@ def shift_place(word):
             elif s.rep in PALATAL_BLOCKS:
                 sign = 'alv'
                 marks.append(s)
+                continue
             elif s.rep in ALVEOLAR_PLACE_SHIFT:
                 marks.append(s)
+                continue
             else:
                 if s.rep in ALVEOLAR_SHIFT_BLOCKS:
                     s_to_mutate = ALVEOLAR_SHIFT_BLOCKS[s]
@@ -283,6 +285,7 @@ def shift_place(word):
         elif sign == 'alv':
             if s.rep in ALVEOLAR_PLACE_SHIFT:
                 marks.append(s)
+                continue
             else:
                 if s.rep in ALVEOLAR_SHIFT_BLOCKS:
                     s_to_mutate = ALVEOLAR_SHIFT_BLOCKS[s]
@@ -309,11 +312,25 @@ def shift_place(word):
             s.mutate(s_to_mutate)
             s_to_mutate = None
         elif s == 't͡θ':
-            s.mutate('t')
-            s.add('f')
+            prev, fol = word.get_adjacent(i)
+            if not fol or fol.rep not in TF_BLOCKS:
+                s.mutate('t')
+                s.add('f')
+            elif not prev or prev.rep not in TF_BLOCKS:
+                s.mutate('t')
+                s.insert('f')
+            else:
+                s.mutate('f')
         elif s == 'd͡ð':
-            s.mutate('d')
-            s.add('ʋ')
+            prev, fol = word.get_adjacent(i)
+            if not fol or fol.rep not in TF_BLOCKS:
+                s.mutate('d')
+                s.add('ʋ')
+            elif not prev or prev.rep not in TF_BLOCKS:
+                s.mutate('d')
+                s.insert('ʋ')
+            else:
+                s.mutate('ʋ')
 
         # retroflex > alveolar
         # simple place shift.  affricates and geminates shift regularly
