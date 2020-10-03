@@ -60,25 +60,25 @@ def grammatify(word, word_type, desc, root2):
     # Negative Participle: first element + negative pre-/infix
     neg = list(word)
     if word[0] == 'a':
-        neg = ['a', 'k', 'a'] + neg
+        neg = ['a', 'k', 'a'] + neg[1:]
     elif word[0] == 'aː':
-        neg = ['aː', 'x', 'aː'] + neg
+        neg = ['aː', 'x', 'aː'] + neg[1:]
     elif word[0] == 'e':
-        neg = ['e', 'ç', 'e'] + neg
+        neg = ['e', 'ç', 'e'] + neg[1:]
     elif word[0] == 'eː':
-        neg = ['eː', 'ç', 'eː'] + neg
+        neg = ['eː', 'ç', 'eː'] + neg[1:]
     elif word[0] == 'i':
-        neg = ['i', 't', 'i'] + neg
+        neg = ['i', 't', 'i'] + neg[1:]
     elif word[0] == 'iː':
-        neg = ['iː', 's', 'iː'] + neg
+        neg = ['iː', 's', 'iː'] + neg[1:]
     elif word[0] == 'o':
-        neg = ['o', 'ç', 'w', 'e'] + neg
+        neg = ['o', 'ç', 'w', 'e'] + neg[1:]
     elif word[0] == 'oː':
-        neg = ['oː', 'ç', 'w', 'eː'] + neg
+        neg = ['oː', 'ç', 'w', 'eː'] + neg[1:]
     elif word[0] == 'u':
-        neg = ['u', 't', 'w', 'i'] + neg
+        neg = ['u', 't', 'w', 'i'] + neg[1:]
     elif word[0] == 'uː':
-        neg = ['uː', 's', 'w', 'iː'] + neg
+        neg = ['uː', 's', 'w', 'iː'] + neg[1:]
     elif word[0] in VUHINKAM_NASALS:
         neg = ['a'] + neg
     elif word[0] in VUHINKAM_STOPS_AFS:

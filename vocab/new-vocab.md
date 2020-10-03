@@ -244,9 +244,7 @@ Auto-derived from original
 |ârrwáeñ|ʌrˈrɣɑe̯ɴ|PART|To prevent/deter (Participle)|gjâñ|ˈɣjaːŋ|
 |ârrwúʔfaʔ|ʌrˈrɣuʔfæʔ|PART|To spit (Participle)|gjupvat|ˈɣjup̚fæt̚|
 |càmhe|ˈcæm̥ħɛ|PART|To remain (Participle)|tamhe|ˈtæm̥ħɐ|
-|ǵàaʔarràomea|ˈɟææʔærˌræo̯meɐ̯|PART|To part (Negative Participle)|arâmhe|ˈʔæk̚kæʔærˌraːmɐː|
-|ǵàaʔàñřê|ˈɟææʔˌæɴ̥r̥e|PART|To hear (Negative Participle)|añagi|ˈʔæk̚kæʔˌæŋ̊xi|
-|ǵàaʔàtfa|ˈɟææʔˌætfæ|PART|To laugh > To be laughing (Negative Participle)|atsa|ˈʔæk̚kæʔˌæt̚t͡θæ|
+|ǵàiørym|ˈɟæɪ̯ørym|PART|To disagree (Negative Participle)|evrûp|ˈʔɛʝvruːb̚|
 |ǵàmčwèñaʔ|ˈɟæm̥ˌc͡ɕɣɛɴæʔ|PART|To squeeze (Negative Participle)|metlîhaq|ˈʔæm̥ˌtɬjɐ̃æq̚|
 |ǵàmfoń|ˈɟæm̥fɔɲ|PART|To dig (Negative Participle)|mewân|ˈʔæm̥ɸɑːn|
 |ǵàmpàońare|ˈɟæm̥ˌpæo̯ɲærɛ|PART|To come (Negative Participle)|mângê|ˈʔæm̥ˌm̥aːnɣɘː|
@@ -256,9 +254,11 @@ Auto-derived from original
 |ǵàorym|ˈɟæo̯rym|PART|To disagree (Participle)|evrûp|ˈʔɛːvruːb̚|
 |ǵàřřàomea|ˈɟær̥ˌr̥æo̯meɐ̯|PART|To part (Participle)|arâmhe|ˈʔær̥ˌr̥aːmɐː|
 |ǵàtfa|ˈɟætfæ|PART|To laugh > To be laughing (Participle)|atsa|ˈʔæt̚t͡θæ|
+|ǵàtfa|ˈɟætfæ|PART|To laugh > To be laughing (Negative Participle)|atsa|ˈʔæk̚t͡θæ|
+|ǵàʔñàrrê|ˈɟæʔˌɴ̥ærre|PART|To hear (Negative Participle)|añagi|ˈʔæk̚ˌŋ̊æːɣɣi|
+|ǵàʔřàomea|ˈɟæʔˌr̥æo̯meɐ̯|PART|To part (Negative Participle)|arâmhe|ˈʔæk̚ˌr̥aːmɐː|
 |ǵèccyàʔfo|ˈɟɛccyˌæʔfɔ|PART|To boast > To be boastful (Participle)|etîvatfâ|ˈʔɛt̚tiːˌvæt̚fɑː|
-|ǵèxxeʔàorym|ˈɟɛxxɛʔˌæo̯rym|PART|To disagree (Negative Participle)|evrûp|ˈʔɛççɐʔˌɛːvruːb̚|
-|ǵèxxeʔeccyàʔfo|ˈɟɛxxɛʔɛccyˌæʔfɔ|PART|To boast > To be boastful (Negative Participle)|etîvatfâ|ˈʔɛççɐʔɐt̚tiːˌvæt̚fɑː|
+|ǵèxecyàʔfo|ˈɟɛxɛcyˌæʔfɔ|PART|To boast > To be boastful (Negative Participle)|etîvatfâ|ˈʔɛçtiːˌvæt̚fɑː|
 |ǵéaraľàńi|ˈɟeɐ̯ræˌʎæɲ̊i|PART|To adore/love (Negative Participle)|glankî|ˈʔĩːɣˌlæn̥kiː|
 |ǵéaraľàńi|ˈɟeɐ̯ræˌʎæɲ̊i|PART|To give (Negative Participle)|glankî|ˈʔĩːɣˌlæn̥kiː|
 |ǵéaràonêraʔ|ˈɟeɐ̯rˌæo̯neræʔ|PART|To push (Negative Participle)|gjalîxeq|ˈʔĩːɣˌjlĩɣɐq̚|
@@ -275,13 +275,13 @@ Auto-derived from original
 |ǵére|ˈɟerɛ|PART|To follow (Participle)|îxegh|ˈʔĩɣɘː|
 |ǵérê|ˈɟere|PART|To stand > To be standing (Negative Participle)|xeki|ˈʔĩɣgi|
 |ǵérreń|ˈɟerrɛɲ|PART|To pass/go by (Negative Participle)|xexên|ˈʔĩɣɣɘːn|
-|ǵícciʔiʔhémpê|ˈɟicciʔiʔˌħem̥pe|PART|To die (not live) > To be dead (Negative Participle)|itihimê|ˈʔit̚tiʔit̚ˌħɨm̥m̥ɘː|
-|ǵícciʔwèmê|ˈɟicciʔˌɣɛme|PART|To live (Negative Participle)|ihemê|ˈʔit̚tiʔˌjɐmɘː|
+|ǵíccèwemê|ˈɟicˌcɛɣɛme|PART|To die (not live) > To be dead (Negative Participle)|itihimê|ˈʔit̚ˌtjɐmɘː|
 |ǵíeńàolqe|ˈɟie̯ˌɲæo̯lɢɛ|PART|To become (Negative Participle)|ghôlqe|ˈʔĩːˌɐʊ̯lɢɐ|
 |ǵíeńàomińʔ|ˈɟie̯ˌɲæo̯miɲʔ|PART|To count (Negative Participle)|hûint|ˈʔĩːˌɐʊ̯̃int̚|
 |ǵíeńáeřpə|ˈɟie̯ˌɲɑe̯r̥pɤ|PART|To prosper > To be prosperous (Negative Participle)|herpô|ˈʔĩːˌɑɛ̯r̥pɘː|
-|ǵíźinéräm|ˈɟiʑiˌneram̥|PART|To help (Negative Participle)|îxam|ˈʔĩziːˌĩɣæm̥|
-|ǵíźinére|ˈɟiʑiˌnerɛ|PART|To follow (Negative Participle)|îxegh|ˈʔĩziːˌĩɣɘː|
+|ǵíźéräm|ˈɟiˌʑeram̥|PART|To help (Negative Participle)|îxam|ˈʔĩːˌzĩɣæm̥|
+|ǵíźére|ˈɟiˌʑerɛ|PART|To follow (Negative Participle)|îxegh|ˈʔĩːˌzĩɣɘː|
+|ǵíʔhèmpê|ˈɟiʔˌħɛm̥pe|PART|To live (Negative Participle)|ihemê|ˈʔit̚ˌħɜm̥m̥ɘː|
 |ǵíʔhémpê|ˈɟiʔˌħem̥pe|PART|To die (not live) > To be dead (Participle)|itihimê|ˈʔit̚ˌħɨm̥m̥ɘː|
 |ǵýdvań|ˈɟydʋæɲ̊|PART|To breathe > To be alive (Negative Participle)|vatsan|ˈʔĩːvd͡ðæn̥|
 |ǵýdveń|ˈɟydʋɛɲ̊|PART|To blow (Negative Participle)|vatsen|ˈʔĩːvd͡ðɐn̥|
@@ -311,7 +311,7 @@ Auto-derived from original
 |jéqáuań|ˈjeˌɢɑʊ̯æɲ̊|PART|To think (Negative Participle)|qâlan|ˈjeːˌqaːlæn̥|
 |jéqáuwa|ˈjeˌɢɑʊ̯ɣæ|PART|To know (Negative Participle)|qâlkja|ˈjeːˌqaːlgjæ|
 |jéqáuwoś|ˈjeˌɢɑʊ̯ɣɔɕ|PART|To realize (Negative Participle)|qâlkjes|ˈjeːˌqaːlgjɐs|
-|jéxêíeñwaʔ|ˈjexeˌie̯ɴɣæʔ|PART|To see (Negative Participle)|êkjap|ˈjeçɘːˌiːg̚jæp̚|
+|jéxíeñwaʔ|ˈjeˌxie̯ɴɣæʔ|PART|To see (Negative Participle)|êkjap|ˈjeːˌçiːg̚jæp̚|
 |ľàńci|ˈʎæɲ̊ci|PART|To turn (Participle)|lanti|ˈlæn̥ti|
 |ľàńi|ˈʎæɲ̊i|PART|To take (Participle)|lankî|ˈlæn̥kiː|
 |ľérao|ˈʎeræo̯|PART|To wash  (Participle)|lîxêv|ˈlĩɣɘːv|
@@ -340,7 +340,7 @@ Auto-derived from original
 |qéśśi|ˈɢeɕɕi|PART|To wipe (Negative Participle)|lîn|ˈqɨɬɬĩː|
 |qéśśwèñaʔ|ˈɢeɕˌɕɣɛɴæʔ|PART|To hold (Negative Participle)|lîhaq|ˈqɨɬˌɬjɐ̃æq̚|
 |qòmpəñ|ˈɢɔm̥pɤɴ|PART|To eat (Participle)|omôq|ˈʔɔm̥m̥ɘːɢ̚|
-|qòxfoʔòmpəñ|ˈɢɔxfɔʔˌɔm̥pɤɴ|PART|To eat (Negative Participle)|omôq|ˈʔɔçɸɐʔˌɔm̥m̥ɘːɢ̚|
+|qòxfməñ|ˈɢɔxfmɤɴ|PART|To eat (Negative Participle)|omôq|ˈʔɔçɸmɘːɢ̚|
 |qúcčo|ˈɢucc͡ɕɔ|PART|To drink (Participle)|uple|ˈʔup̚ɬɐ|
 |qúhhúońəʔ|ˈɢuħˌħuo̯ɲɤʔ|PART|To cut (Negative Participle)|wôtiq|ˈqɨxˌxʷuːd̚iq̚|
 |qúľo|ˈɢuʎɔ|PART|To lose > To be lost (Participle)|ûle|ˈʔũːlɐ|
@@ -356,22 +356,22 @@ Auto-derived from original
 |qúśřâ|ˈɢuɕr̥ʌ|PART|To go  (Participle)|ulogê|ˈʔuɬxɘː|
 |qúśśiúńco|ˈɢuɕɕiˌuɲ̊cɔ|PART|To make (Negative Participle)|lîuntâ|ˈqɨɬɬiːˌun̥tɑː|
 |qúttúomoa|ˈɢutˌtuo̯moɐ̯|PART|To join/attach (Participle)|utûmhe|ˈʔut̚ˌtũːɐː|
-|qúźjimúľo|ˈɢuʑjiˌmuʎɔ|PART|To lose > To be lost (Negative Participle)|ûle|ˈʔũzɥiːˌũːlɐ|
-|qúźjimúńľar|ˈɢuʑjiˌmuɲʎær|PART|To fight (Negative Participle)|ûtilag|ˈʔũzɥiːˌũːd̚læːɣ|
-|qúźjimúñoń|ˈɢuʑjiˌmuɴɔɲ|PART|To bite  (Negative Participle)|ûkân|ˈʔũzɥiːˌũːg̚ɑːn|
-|qúźjiucowârǿmaś|ˈɢuʑjiucɔɣʌˌrømæɕ|PART|To kill (Negative Participle)|ûtihgîlas|ˈʔũzɥiːuːtjɐˌɣĩːlæs|
+|qúźjíńľar|ˈɢuʑˌjiɲʎær|PART|To fight (Negative Participle)|ûtilag|ˈʔũzˌɥĩːd̚læːɣ|
+|qúźjíñoń|ˈɢuʑˌjiɴɔɲ|PART|To bite  (Negative Participle)|ûkân|ˈʔũzˌɥĩːg̚ɑːn|
+|qúźjýme|ˈɢuʑˌjymɛ|PART|To lose > To be lost (Negative Participle)|ûle|ˈʔũzˌɥĩːlɐ|
+|qúźjəcowârǿmaś|ˈɢuʑjɤcɔɣʌˌrømæɕ|PART|To kill (Negative Participle)|ûtihgîlas|ˈʔũzɥiːtjɐˌɣĩːlæs|
 |qúʔfaʔ|ˈɢuʔfæʔ|PART|To suck (Participle)|upvat|ˈʔup̚fæt̚|
-|qúʔfəʔuppvòñaś|ˈɢuʔfɤʔupˌpʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Negative Participle)|uqpûhal|ˈʔut̚ɸiʔuq̚ˌpwɐ̃æɬ|
-|qúʔfəʔuqqaʔúccou|ˈɢuʔfɤʔuɢɢæʔˌuccou̯|PART|To freeze > To be frozen (Negative Participle)|uqautêv|ˈʔut̚ɸiʔuq̚qæʔˌut̚tɘːv|
-|qúʔfəʔuqqúoźľa|ˈɢuʔfɤʔuɢˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Negative Participle)|uqêzla|ˈʔut̚ɸiʔuq̚ˌqɨːzlæ|
-|qúʔfəʔuříha|ˈɢuʔfɤʔuˌr̥iħæ|PART|To float (Negative Participle)|uqkrêha|ˈʔut̚ɸiʔuq̚ˌkr̥iħæ|
-|qúʔfəʔuttúomoa|ˈɢuʔfɤʔutˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|utûmhe|ˈʔut̚ɸiʔut̚ˌtũːɐː|
-|qúʔfəʔúcčo|ˈɢuʔfɤʔˌucc͡ɕɔ|PART|To drink (Negative Participle)|uple|ˈʔut̚ɸiʔˌup̚ɬɐ|
-|qúʔfəʔúqqo|ˈɢuʔfɤʔˌuɢɢɔ|PART|To be  (Negative Participle)|uqâ|ˈʔut̚ɸiʔˌuq̚qɑː|
-|qúʔfəʔúqqəź|ˈɢuʔfɤʔˌuɢɢɤʑ|PART|To flow (Negative Participle)|uqêz|ˈʔut̚ɸiʔˌuq̚qɘːz|
-|qúʔfəʔúśřâ|ˈɢuʔfɤʔˌuɕr̥ʌ|PART|To go  (Negative Participle)|ulogê|ˈʔut̚ɸiʔˌuɬxɘː|
-|qúʔfəʔúʔfaʔ|ˈɢuʔfɤʔˌuʔfæʔ|PART|To suck (Negative Participle)|upvat|ˈʔut̚ɸiʔˌup̚fæt̚|
-|qúʔfəʔúʔñə|ˈɢuʔfɤʔˌuʔɴ̥ɤ|PART|To swell (Negative Participle)|uqñî|ˈʔut̚ɸiʔˌuq̚ŋ̊iː|
+|qúʔfícče|ˈɢuʔˌficc͡ɕɛ|PART|To drink (Negative Participle)|uple|ˈʔut̚ˌɸip̚ɬɐ|
+|qúʔfíqqêź|ˈɢuʔˌfiɢɢeʑ|PART|To flow (Negative Participle)|uqêz|ˈʔut̚ˌɸiq̚qɘːz|
+|qúʔfíqqo|ˈɢuʔˌfiɢɢɔ|PART|To be  (Negative Participle)|uqâ|ˈʔut̚ˌɸiq̚qɑː|
+|qúʔfíʔfaʔ|ˈɢuʔˌfiʔfæʔ|PART|To suck (Negative Participle)|upvat|ˈʔut̚ˌɸip̚fæt̚|
+|qúʔfíʔñi|ˈɢuʔˌfiʔɴ̥i|PART|To swell (Negative Participle)|uqñî|ˈʔut̚ˌɸiq̚ŋ̊iː|
+|qúʔflárrâ|ˈɢuʔˌflʌrrʌ|PART|To go  (Negative Participle)|ulogê|ˈʔut̚ˌɸlɔːɣɣɘː|
+|qúʔfəppvòñaś|ˈɢuʔfɤpˌpʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Negative Participle)|uqpûhal|ˈʔut̚ɸiq̚ˌpwɐ̃æɬ|
+|qúʔfəqqaʔúccou|ˈɢuʔfɤɢɢæʔˌuccou̯|PART|To freeze > To be frozen (Negative Participle)|uqautêv|ˈʔut̚ɸiq̚qæʔˌut̚tɘːv|
+|qúʔfəqqúoźľa|ˈɢuʔfɤɢˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Negative Participle)|uqêzla|ˈʔut̚ɸiq̚ˌqɨːzlæ|
+|qúʔfəříha|ˈɢuʔfɤˌr̥iħæ|PART|To float (Negative Participle)|uqkrêha|ˈʔut̚ɸiq̚ˌkr̥iħæ|
+|qúʔfəttúomoa|ˈɢuʔfɤtˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|utûmhe|ˈʔut̚ɸit̚ˌtũːɐː|
 |qúʔñə|ˈɢuʔɴ̥ɤ|PART|To swell (Participle)|uqñî|ˈʔuq̚ŋ̊iː|
 |qwèñanhàome|ˈɢɣɛɴæn̥ˌħæo̯mɛ|PART|To burn (something) (Negative Participle)|hanhâme|ˈʔjɐ̃æn̥ˌħaːmɐ|
 |qwèñeʔíścêń|ˈɢɣɛɴɛʔˌiɕceɲ|PART|To sew (Negative Participle)|hoistên|ˈʔjɐ̃ɐʔˌistɘːn|
@@ -396,10 +396,10 @@ Auto-derived from original
 |vónlúmu|ˈʋonˌlumu|PART|To break (Participle)|ôtlukîn|ˈwoːd̚ˌluk̚kĩː|
 |vónvə|ˈʋonʋɤ|PART|To split (Participle)|ôtwô|ˈwoːd̚wɘː|
 |vóuu|ˈʋou̯u|PART|To stab (Participle)|ôlu|ˈwoːlu|
-|vóxfəúolu|ˈʋoxfɤˌuo̯lu|PART|To stab (Negative Participle)|ôlu|ˈwoçɸɘːˌuːlu|
-|vóxfəúonluń|ˈʋoxfɤˌuo̯nluɲ̊|PART|To hit (Negative Participle)|ôtlun|ˈwoçɸɘːˌuːd̚lun̥|
-|vóxfəúonvə|ˈʋoxfɤˌuo̯nʋɤ|PART|To split (Negative Participle)|ôtwô|ˈwoçɸɘːˌuːd̚wɘː|
-|vóxfəəčúmu|ˈʋoxfɤɤˌc͡ɕumu|PART|To break (Negative Participle)|ôtlukîn|ˈwoçɸɘːɘːˌtɬuk̚kĩː|
+|vóxfíenlyń|ˈʋoxˌfie̯nlyɲ̊|PART|To hit (Negative Participle)|ôtlun|ˈwoçˌɸiːd̚lun̥|
+|vóxfíenvê|ˈʋoxˌfie̯nʋe|PART|To split (Negative Participle)|ôtwô|ˈwoçˌɸiːd̚wɘː|
+|vóxfýy|ˈʋoxˌfyy|PART|To stab (Negative Participle)|ôlu|ˈwoçˌɸiːlu|
+|vóxfəčúmu|ˈʋoxfɤˌc͡ɕumu|PART|To break (Negative Participle)|ôtlukîn|ˈwoçɸɘːˌtɬuk̚kĩː|
 |èʔiř|ˈɛʔir̥|PREP|Of|keir|ˈkɛʔir̥|
 |fèś|ˈfɛɕ|PREP|Like/As|fes|ˈfɛs|
 |ǵíñ|ˈɟiɴ|PREP|Before|îk|ˈʔĩːg̚|
