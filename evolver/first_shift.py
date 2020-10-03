@@ -48,6 +48,77 @@ def ipaify(word):
             i += 1
     return ipa_word    
 
+# Apply regular grammatical affixes (verbs)
+def grammatify(word, word_type, desc, root2):
+    if 'VERB' not in word_type:
+        return [(word, word_type, desc)]
+    # Affixify verbs!
+    words = []
+    # Participle: first element, as is
+    words.append([word, 'PART', desc + ' (Participle)'])
+
+    # Negative Participle: first element + negative pre-/infix
+    neg = list(word)
+    if word[0] == 'a':
+        neg = ['a', 'k', 'a'] + neg
+    elif word[0] == 'aː':
+        neg = ['aː', 'x', 'aː'] + neg
+    elif word[0] == 'e':
+        neg = ['e', 'ç', 'e'] + neg
+    elif word[0] == 'eː':
+        neg = ['eː', 'ç', 'eː'] + neg
+    elif word[0] == 'i':
+        neg = ['i', 't', 'i'] + neg
+    elif word[0] == 'iː':
+        neg = ['iː', 's', 'iː'] + neg
+    elif word[0] == 'o':
+        neg = ['o', 'ç', 'w', 'e'] + neg
+    elif word[0] == 'oː':
+        neg = ['oː', 'ç', 'w', 'eː'] + neg
+    elif word[0] == 'u':
+        neg = ['u', 't', 'w', 'i'] + neg
+    elif word[0] == 'uː':
+        neg = ['uː', 's', 'w', 'iː'] + neg
+    elif word[0] in VUHINKAM_NASALS:
+        neg = ['a'] + neg
+    elif word[0] in VUHINKAM_STOPS_AFS:
+        neg = ['eː'] + neg
+    elif word[0] in VUHINKAM_FRICS:
+        neg = ['iː'] + neg
+    elif word[0] in VUHINKAM_APPXS_R:
+        neg = ['q', 'i'] + neg
+    else:
+        raise KeyError('unsupported letter in verb ' + word)
+    words.append([neg, 'PART', desc + ' (Negative Participle)'])
+
+    verb_root = list(word)
+    if word_type == 'VERB-IM':
+        verb_root = list(root2)
+    
+    if verb_root[0] in VUHINKAM_VOWELS:
+        verb_root = ['q', 'eː', 'j'] + verb_root
+    else:
+        verb_root = ['q', 'eː'] + verb_root
+
+    # Perfective: PF: qê-, IM: qê-2-af, PT: N/A
+    if word_type == 'VERB-PF':
+        words.append([verb_root, 'VERB', desc + ' (Perfective)'])
+    elif word_type == 'VERB-IM':
+        new_root = list(verb_root)
+        if len(new_root) > 2 and new_root[-3:] == ['k', 'a', 'n']:
+            new_root = new_root[:-3] + ['k', 'n', 'e', 'f']
+        else:
+            new_root += ['e', 'f']
+        words.append([new_root, 'VERB', desc + ' (Perfective)'])
+
+    # Imperfective: PF: qê-ka, IM: qê-2, PT: N/A
+    if word_type == 'VERB-PF':
+        words.append([verb_root + ['k', 'e'], 'VERB', desc + ' (Imperfective)'])
+    elif word_type == 'VERB-IM':
+        words.append([verb_root, 'VERB', desc + ' (Imperfective)'])
+
+    return words
+
 # Apply stress and separate into syllables
 def syllabify(word):
     # split first based on vowels
@@ -73,9 +144,18 @@ def syllabify(word):
     for i in range(len(syllables)):
         s = syllables[i]
         # stress pulls when not final or preceding another stress
-        if (s.stress and len(syllables) > i+1 and
-            not syllables[i+1].stress and syllables[i+1][0] not in VUHINKAM_VOWELS):
+        if (s.stress and len(syllables) > i+1
+                     and not syllables[i+1].stress
+                     and syllables[i+1][0] not in VUHINKAM_VOWELS):
             syllables[i].append(syllables[i+1].pop(0))
+        # V-final syllable pulls when following is CC and first is equal or more stressed than second
+        if (len(syllables) > i+1
+                     and (s.stress or not syllables[i+1].stress)
+                     and s[-1] in VUHINKAM_VOWELS
+                     and len(syllables[i+1]) > 2
+                     and syllables[i+1][0] not in VUHINKAM_VOWELS
+                     and syllables[i+1][1] not in VUHINKAM_VOWELS):
+            syllables[i].append(syllables[i+1].pop(0))        
         # Any remaining CCC split as (V)C.CCV
         # note: if this isn't possible, then throw an error - illegal word!
         if len(s) > 3 and all([x not in VUHINKAM_VOWELS for x in s[:3]]):
@@ -84,10 +164,20 @@ def syllabify(word):
             else:
                 warnings.warn('Illegal consonant cluster: unresolvable CCC: ' +str(word))
         # Illegal CC clusters (where second C is not a liquid) split as (V)C.CV
+        # also includes CC clusters of homorganic stop + nasal
         if (len(s) > 2 and s[0] not in VUHINKAM_VOWELS
-            and s[1] not in VUHINKAM_VOWELS and s[1] not in VUHINKAM_LIQUIDS):
+                and s[1] not in VUHINKAM_VOWELS
+                and (s[1] not in VUHINKAM_LIQUIDS
+                    or (s[0] in ILLEGAL_STOPNAS
+                        and s[1] == ILLEGAL_STOPNAS[s[0]]
+                    )
+                )
+            ):
             if i > 0 and syllables[i-1][-1] in VUHINKAM_VOWELS:
                 syllables[i-1].append(syllables[i].pop(0))
+            # CC homorganic clusters broken by deleting the nasal
+            elif s[0] in ILLEGAL_STOPNAS and s[1] in ILLEGAL_STOPNAS[s[0]]:
+                syllables[i].pop(1)
             else:
                 warnings.warn('Illegal consonant cluster: unresolvable CC: ' +str(word))
         s.set_vowel()
@@ -348,17 +438,23 @@ def desyllabify(word):
         phones = phones[:-1]
     return desyl, phones
 
-def first_shift(word):
+def first_shift(word, word_type, desc, root2):
     print('---old word: ' + str(word) + ' ---')
     word = ipaify(word)
-    word = syllabify(word)
-    word = agree_vowel_voicing(word)
-    word = shift_vowel_first(word)
-    word = assimilate_voicing(word)
-    word = shift_laryngeal_vowel(word)
-    word = shift_cons_first(word)
-    word = vocalise_gh(word)
-    word = derelease_stops(word)
-    word, phones = desyllabify(word)
-    print('>>>shift 1: ' + str(word) + ' <<<')
-    return word, phones
+    if root2:
+        root2 = ipaify(root2)
+    words = grammatify(word, word_type, desc, root2)
+    new_words = []
+    for word, new_type, new_desc in words:
+        word = syllabify(word)
+        word = agree_vowel_voicing(word)
+        word = shift_vowel_first(word)
+        word = assimilate_voicing(word)
+        word = shift_laryngeal_vowel(word)
+        word = shift_cons_first(word)
+        word = vocalise_gh(word)
+        word = derelease_stops(word)
+        word, phones = desyllabify(word)
+        print('>>>shift 1: ' + str(word) + ' <<<')
+        new_words.append((word, phones, new_type, new_desc))
+    return new_words

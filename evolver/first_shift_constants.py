@@ -17,6 +17,9 @@ VUHINKAM_VOWELS = ['a', 'e', 'i', 'o', 'u', 'aː', 'eː', 'iː', 'oː', 'uː']
 VUHINKAM_LIQUIDS = ['r', 'w', 'l', 'j', 'm', 'n', 'ŋ']
 VUHINKAM_NASALS = ['m', 'n', 'ŋ']
 VUHINKAM_FRICS = ['f', 's', 'x', 'ħ', 'v', 'z', 'ɣ', 'ç', 'ʕ']
+VUHINKAM_STOPS_AFS = ['p', 't', 'k', 'q', 'ts', 'ch']
+VUHINKAM_APPXS_R = ['w', 'l', 'j', 'r']
+ILLEGAL_STOPNAS = {'p': 'm', 't': 'n', 'k': 'ŋ', 'q': 'ŋ'}
 
 # First Shift changes
 # Short and long vars given to all these due to fricatives

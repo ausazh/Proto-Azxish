@@ -1,88 +1,147 @@
-uple,VERB,To drink
-omôq,VERB,To eat
-ihemê,VERB,To live
-uqâ,VERB,To be 
-mângê,VERB,To come
-ulogê,VERB,To go 
-xekan,VERB,To walk
-ûkân,VERB,To bite 
-êkjap,VERB,To see
-añagi,VERB,To hear
-qâlkja,VERB,To know
-pefithê,VERB,To sleep
-itihimê,VERB,To die (not live)
+xê,VERB-PT,To stand > To be standing
+xeki,VERB-PT,To stand > To be standing
 
-uqêzla,VERB,To swim
-uqpûhal,VERB,To fly
-pefa,VERB,To lie (on your side)
-gjekan,VERB,To sit
-xeki,VERB,To stand
-glankî,VERB,To give
-vatakas,VERB,To say
-hanhâme,VERB,To burn
-upvat,VERB,To suck
-gjupvat,VERB,To spit
-vatsenakan,VERB,To vomit
-vatsen,VERB,To blow
+lîhaq,V-DEMO-PT,Holding
+qilîhaq,V-DEMO-PT-N,Not holding
+qêlîhaqkan,V-DEMO-IM-0IN,To be holding / To hold
+mûlîhaqkan,V-DEMO-IM-1PR,Is holding here
+vâlîhaqkan,V-DEMO-IM-2ME,Is holding there
+mîlîhaqkan,V-DEMO-IM-3DI,Is holding over there
+êqlîhaqkan,V-DEMO-IM-N-0IN,To not be holding / To not hold
+twimûlîhaqkan,V-DEMO-IM-N-1PR,Is not holding here
+xâvâlîhaqkan,V-DEMO-IM-N-2ME,Is not holding there
+îmîlîhaqkan,V-DEMO-IM-N-3DI,Is not holding over there
+huqêlîhaqkan,V-DEMO-IM-E-0IN,To be holding / To hold (emphatic)
+hûmûlîhaqkan,V-DEMO-IM-E-1PR,Is holding here (emphatic)
+vâlîhaqkan,V-DEMO-IM-E-2ME,Is holding there (emphatic)
+hefmîlîhaqkan,V-DEMO-IM-E-3DI,Is holding over there (emphatic)
+qêlîhaqknef,V-DEMO-PF-0IN,To grab / To hold
+mûlîhaqknef,V-DEMO-PF-1PR,Grabs here
+vâlîhaqknef,V-DEMO-PF-2ME,Grabs there
+mîlîhaqknef,V-DEMO-PF-3DI,Grabs over there
+êqlîhaqknef,V-DEMO-PF-N-0IN,To not grab / To not hold
+twimûlîhaqknef,V-DEMO-PF-N-1PR,Doesn't grab here
+xâvâlîhaqknef,V-DEMO-PF-N-2ME,Doesn't grab there
+îmîlîhaqknef,V-DEMO-PF-N-3DI,Doesn't grab over there
+huqêlîhaqknef,V-DEMO-PF-E-0IN,To grab / To hold (emphatic)
+hûmûlîhaqknef,V-DEMO-PF-E-1PR,Grabs here (emphatic)
+hâvelîhaqknef,V-DEMO-PF-E-2ME,Grabs there (emphatic)
+hefmîlîhaqknef,V-DEMO-PF-E-3DI,Grabs over there (emphatic)
 
-qâlan,VERB,To think
-vatsete,VERB,To smell
-qâithim,VERB,To fear
-ûtilg,VERB,To fight
-varhati,VERB,To hunt
-ôtlun,VERB,To hit
-wôtiq,VERB,To cut
-ôtwô,VERB,To split
-ôlu,VERB,To stab
-wana,VERB,To scratch
-mewân,VERB,To dig
-xê,VERB,To stand 
-lanti,VERB,To turn
-gjaxê,VERB,To fall
-lankî,VERB,To take
-lîhaq,VERB,To hold
-metlîhaq,VERB,To squeeze
-haqop,VERB,To have
-lîxil,VERB,To rub
-lîxêv,VERB,To wash 
-lîn,VERB,To wipe
-lîxeq,VERB,To pull
-gjalîxeq,VERB,To push
-mântlî,VERB,To throw
-hôiten,VERB,To tie
-hoistên,VERB,To sew
-hûint,VERB,To count
-vanhânfri,VERB,To sing
-veranmen,VERB,To play (games)
-uqêz,VERB,To flow
-uqautêv,VERB,To freeze
-uqñî,VERB,To swell
-kînal,VERB,To bring
-lîuntâ,VERB,To make
-ñaxug,VERB,To meet
-pivâh,VERB,To argue
+uqñî,V-DEMO-PT,Swelling
+utwiqñî,V-DEMO-PT-N,Not swelling
+qêjuqñî,V-DEMO-PF-0IN,To swell
+mêwuqñî,V-DEMO-PF-1PR,Swells here
+âvuqñî,V-DEMO-PF-2ME,Swells there
+mîtuqñî,V-DEMO-PF-3DI,Swells over there
+êqjuqñî,V-DEMO-PF-N-0IN,To not swell
+twimêwuqñî,V-DEMO-PF-N-1PR,Doesn't swell here
+âxâvuqñî,V-DEMO-PF-N-2ME,Doesn't swell there
+îmîtuqñî,V-DEMO-PF-N-3DI,Doesn't swell over there
+huqêjuqñî,V-DEMO-PF-E-0IN,To swell (emphatic)
+hûmêwuqñî,V-DEMO-PF-E-1PR,Swells here (emphatic)
+hevâvuqñî,V-DEMO-PF-E-2ME,Swells there (emphatic)
+hefmîtuqñî,V-DEMO-PF-E-3DI,Swells over there (emphatic)
+qêjuqñîke,V-DEMO-IM-0IN,To be swelling / To be swollen
+mêwuqñîke,V-DEMO-IM-1PR,Is swollen here
+âvuqñîke,V-DEMO-IM-2ME,Is swollen there
+mîtuqñîke,V-DEMO-IM-3DI,Is swollen over there
+êqjuqñîke,V-DEMO-IM-N-0IN,To not be swelling / To not be swollen
+twimêwuqñîke,V-DEMO-IM-N-1PR,Is not swollen here
+âxâvuqñîke,V-DEMO-IM-N-2ME,Is not swollen there
+îmîtuqñîke,V-DEMO-IM-N-3DI,Is not swollen over there
+huqêjuqñîke,V-DEMO-IM-E-0IN,To be swelling / To be swollen (emphatic)
+hûmêwuqñîke,V-DEMO-IM-E-1PR,Is swollen here (emphatic)
+hevâvuqñîke,V-DEMO-IM-E-2ME,Is swollen there (emphatic)
+hefmîtuqñîke,V-DEMO-IM-E-3DI,Is swollen over there (emphatic)
 
-herpô,VERB,To prosper
-evrûp,VERB,To disagree
-arâmhe,VERB,To part
 
-xexên,VERB,To pass/go by
-vahâq,VERB,To ask
-utûmhe,VERB,To join/attach
-tamhe,VERB,To remain
-vahâq,VERB,To ask
-gjâñ,VERB,To prevent/deter
-îxam,VERB,To help
-vatvân,VERB,To shout
-glankîkan,VERB,To adore/love
-etîvatfâ,VERB,To boast
-xekakân,VERB,To march
-ôtlukîn,VERB,To break
-xelkan,VERB,To arrive
-vâo,VERB,To be shocked
-ûle,VERB,To loose
-qâlkjes,VERB,To realize
-gjaxexan,VERB,To wait
+ihemê,ihemêñ,VERB-IM,To live
+uqâ,uqâñ,VERB-IM,To be 
+añagi,añagkan,VERB-IM,To hear
+êkjap,êkjapkan,VERB-IM,To see
+qâlkja,qâlkjañ,VERB-IM,To know
+pefithê,pefithêñ,VERB-IM,To sleep
+itihimê,itihimêñ,VERB-IM,To die (not live) > To be dead
+xekan,xekan,VERB-IM,To walk/To stand > To be standing / To be (travelling) on the ground
+uqêzla,uqêzlakan,VERB-IM,To swim > To be (travelling) in water
+uqpûhal,uqpûhalkan,VERB-IM,To fly > To be (travelling) in the air
+pefa,pefakan,VERB-IM,To lie (on your side)
+gjekan,gjekan,VERB-IM,To sit
+vatakas,vatakan,VERB-IM,To say > To mean/To intend
+vatsen,vatsenkan,VERB-IM,To blow
+vatsenakan,vatsenakan,VERB-IM,To vomit > To be sick
+qâlan,qâlkan,VERB-IM,To think
+vatsete,vatseteñ,VERB-IM,To smell
+qâithim,qâithimkan,VERB-IM,To fear
+ûtilag,ûtilkan,VERB-IM,To fight
+varhati,varhatiñ,VERB-IM,To hunt
+lîhaq,lîhaqkan,VERB-IM,To hold
+haqop,haqopkan,VERB-IM,To have
+vanhânfri,vanhânfrikan,VERB-IM,To sing
+veranmen,veranmenkan,VERB-IM,To play (games)
+uqêz,uqêzkan,VERB-IM,To flow
+uqautêv,uqautêvkan,VERB-IM,To freeze > To be frozen
+herpô,herpôñ,VERB-IM,To prosper > To be prosperous
+tamhe,tamheñ,VERB-IM,To remain
+glankî,glankîkan,VERB-IM,To adore/love
+etîvatfâ,etîvatfâñ,VERB-IM,To boast > To be boastful
+xekakân,xekakan,VERB-IM,To march
+vâo,vâokan,VERB-IM,To be shocked
+ûle,ûlekan,VERB-IM,To lose > To be lost
+gjaxexan,gjaxexkan,VERB-IM,To wait
+îxegh,îxeghkan,VERB-IM,To follow
+vatsan,vatsañ,VERB-IM,To breathe > To be alive
+atsa,atsakan,VERB-IM,To laugh > To be laughing
+
+uple,VERB-PF,To drink
+omôq,VERB-PF,To eat
+mângê,VERB-PF,To come
+ulogê,VERB-PF,To go 
+ûkân,VERB-PF,To bite 
+glankî,VERB-PF,To give
+hanhâme,VERB-PF,To burn (something)
+upvat,VERB-PF,To suck
+gjupvat,VERB-PF,To spit
+ôtlun,VERB-PF,To hit
+wôtiq,VERB-PF,To cut
+ôtwô,VERB-PF,To split
+ôlu,VERB-PF,To stab
+wana,VERB-PF,To scratch
+mewân,VERB-PF,To dig
+lanti,VERB-PF,To turn
+gjaxê,VERB-PF,To fall
+lankî,VERB-PF,To take
+metlîhaq,VERB-PF,To squeeze
+lîxil,VERB-PF,To rub
+lîxêv,VERB-PF,To wash 
+lîn,VERB-PF,To wipe
+lîxeq,VERB-PF,To pull
+gjalîxeq,VERB-PF,To push
+mântlî,VERB-PF,To throw
+hôiten,VERB-PF,To tie
+hoistên,VERB-PF,To sew
+hûint,VERB-PF,To count
+uqñî,VERB-PF,To swell
+kînal,VERB-PF,To bring
+lîuntâ,VERB-PF,To make
+ñaxug,VERB-PF,To meet
+pivâh,VERB-PF,To argue
+evrûp,VERB-PF,To disagree
+arâmhe,VERB-PF,To part
+xexên,VERB-PF,To pass/go by
+vahâq,VERB-PF,To ask > To say
+utûmhe,VERB-PF,To join/attach
+gjâñ,VERB-PF,To prevent/deter
+îxam,VERB-PF,To help
+vatvân,VERB-PF,To shout
+ôtlukîn,VERB-PF,To break
+xelkan,VERB-PF,To arrive
+qâlkjes,VERB-PF,To realize
+ghôlqe,VERB-PF,To become
+ûtihgîlas,VERB-PF,To kill
+uqkrêha,VERB-PF,To float
+
 etî,PRN,I 
 utû,PRN,You (sg)
 utôt,PRN,You (dul)
@@ -103,18 +162,12 @@ hû,PREP,From
 pre,NUM,One (I)
 qôt,NUM,Two (I)
 ghûma,NUM,Three (I)
+
 giheam,NOUN,Woman (A)
 choam,NOUN,Man (A)
 xelak,NOUN,Person (A)
-êzvla,NOUN,Fish (A)
-pûhal,NOUN,Bird (A)
-fipomla,NOUN,Dog (A)
 puat,NOUN,Skin (I)
 ñaka,NOUN,Flesh (I)
-ñêka,NOUN,Meat (to eat) (A)
-êvñêka,NOUN,Blood (I)
-talaka,NOUN,Bone (A)
-kehuma,NOUN,Egg (I)
 grâmpan,NOUN,Horn (I)
 lupax,NOUN,Tail (I)
 krêhan,NOUN,Feather (I)
@@ -135,7 +188,7 @@ qômah,NOUN,Neck (I)
 val,NOUN,Moon (E)
 jâwta,NOUN,God (E)
 tixêka,NOUN,Star (E)
-êvza,NOUN,Water (E)
+êvza,NOUN,Water > Water (in the world) (E)
 verja,NOUN,Rain (A)
 reqa,NOUN,Stone (I)
 êvreqa,NOUN,Sand (I)
@@ -154,7 +207,6 @@ arfax,NOUN,Child (A)
 washîa,NOUN,Wife (A)
 zimaq,NOUN,Husband (A)
 chaqam,NOUN,Mother (A)
-oga,NOUN,Animal (A)
 
 
 xukâmal,NOUN,Wing (A)
@@ -162,7 +214,6 @@ lijam,NOUN,Back (I)
 ukêza,NOUN,River (A)
 metêza,NOUN,Lake (A)
 metugêza,NOUN,Ocean (A)
-metêzta,NOUN,Salt (I)
 taita,NOUN,Dust (I)
 valanât,NOUN,Sky (A)
 hautêvat,NOUN,Snow (I)
@@ -249,32 +300,26 @@ verto,DET,More
 kertop,ADJ,New
 kigertar,ADJ,Heavy
 
-îxegh,VERB,To follow
+
 mughet,ADJ,Straight
 mwîgegh,ADJ,Hard/Difficult
 ighêmpi,ADV,Left
-ghôlqe,VERB,To become
 hoghjal,NOUN,Insect (I)
 goghta,NOUN,Flow (A)
 hrêpgha,NOUN,Father (A)
 uqsiagh,NOUN,Heart (A)
-ûtihgîlas,VERB,To kill
 
 uktramak,NOUN,Rope (I)
 ugane,ADJ,Wide
 
-vatsan,VERB,To breathe
-atsa,VERB,To laugh
 
 hôktsal,NOUN,Forest (I)
 tsal,NOUN,Stick (I)
 
 pre,ADJ,Hot
-uqkrêha,VERB,To float
 qrêa,NOUN,Sun (E)
 
 asqrôla,NOUN,Example (I)
-ôrza,NOUN,Boar (A)
 
 tsala,NOUN - Plant,Tree (I)
 tsale,NOUN - Plant,Plant (I) (small tree)
@@ -287,7 +332,13 @@ etermak,NOUN - Plant,Grass (I)
 
 gezpa,NOUN - Plant,Olive (I)
 gezpitsala,NOUN - Plant,Olive Tree (I)
-gezpâvñêka,NOUN - Plant,Olive Oil (I)
+
+vrûva,NOUN - Plant,Pear (I)
+vrûvitsala,NOUN - Plant,Pear Tree (I)
+muqas,NOUN - Plant,Peach (I)
+muqisla,NOUN - Plant,Peach Tree (I)
+tokna,NOUN - Plant,Almond (I)
+toknitsala,NOUN - Plant,Almond Tree (I)
 
 jita,NOUN - Plant,Crop (any kind) (I)
 jitimak,NOUN - Plant,Barley (plant) (I)
@@ -296,10 +347,18 @@ tûchimak,NOUN - Plant,Sorghum (plant) (I)
 tûche,NOUN - Plant,Sorghum (grain) (I)
 nûimak,NOUN - Plant,Soybean (plant) (I)
 nûe,NOUN - Plant,Soybean (bean) (I)
+
+ergêam,NOUN - Plant,Kale (I)
 wertsa,NOUN - Plant,Cabbage (I)
 wertse,NOUN - Plant,Bok Choy/Small Cabbage (I)
-uqñîma,NOUN - Plant,Radish (I)
-makmok,NOUN - Plant,Broccoli (I)
+wertsala,NOUN - Plant,Tree/Jersey Cabbage (I)
+ârtsna,NOUN - Plant,Turnip (I)
+vuguqke,NOUN - Plant,Radish (I)
+pâmvauqke,NOUN - Plant,Daikon (I)
+vuguqñîke,NOUN - Plant,Radish (dialectal) (I)
+pâmvauqñîke,NOUN - Plant,Daikon (dialectal) (I)
+pergêam,NOUN - Plant,Mustard (plant/leaves) (I)
+pergêamte,NOUN - Plant,Mustard Seed (I)
 
 kêa,NOUN - Plant,Gourd (any kind) (I)
 fritkêa,NOUN - Plant,Pumpkin (I)
@@ -309,3 +368,48 @@ zigkêa,NOUN - Plant,Sweet Melon (I)
 prixka,NOUN - Plant,Pepper (any kind) (I)
 zigprixka,NOUN - Plant,'Sweet Pepper' (capsicum) (I)
 preprixka,NOUN - Plant,'Hot Pepper' (chilli) (I)
+
+lêruwa,NOUN - Plant,Flax Fibre (I)
+lêruwmak,NOUN - Plant,Flax Plant (I)
+merêka,NOUN - Plant,Cannabis (Drug) (I)
+merekmak,NOUN - Plant,Cannabis/Hemp Plant (I)
+merêlrwa,NOUN - Plant,Hemp Fibre (I)
+
+êzvla,NOUN - Animal,Fish (A)
+pûhal,NOUN - Animal,Bird (A)
+oga,NOUN - Animal,Animal (A)
+
+ôrza,NOUN - Animal,Boar (A)
+hêkka,NOUN - Animal,Pig (A)
+hekhêkki,NOUN - Animal,Pigsty (I)
+êvpûhal,NOUN - Animal,Waterfowl (A)
+qêpka,NOUN - Animal,Duck (A)
+qepqêpki,NOUN - Animal,Duck farm (I)
+prâlcha,NOUN - Animal,Ibex (A)
+mâpka,NOUN - Animal,Goat (A)
+mapmâpki,NOUN - Animal,Goat run (I)
+
+hresfa,NOUN - Animal,Wolf (A)
+hrôtlo,NOUN - Animal,Coyote (A)
+fipomla,NOUN - Animal,Dog (A)
+
+xuzñe,NOUN - Animal,Bee (A)
+xuzzuzñi,NOUN - Animal,Bee Hive (I)
+
+ñêka,NOUN - Food,Meat (to eat) (A)
+êvñêka,NOUN - Food,Blood (I)
+talaka,NOUN - Food,Bone (A)
+kehuma,NOUN - Food,Egg (I)
+metêzta,NOUN - Food,Salt (I)
+juêta,NOUN - Food,Honey (I)
+pregêema,NOUN - Food,Mustard Sauce (I)
+preprea,NOUN - Food,Ground Chilli (I)
+gezpea,NOUN - Plant,Olive Oil (I)
+
+uplêa,NOUN - Food,Drinking Water (I)
+amêa,NOUN - Food,Milk (human and animal) (I)
+pêlañ,NOUN - Food,Meat Stew (I)
+êgêmañ,NOUN - Food,Vegetable Soup (I)
+hañêka,NOUN - Food,Roast Meat (I)
+ottoe,NOUN - Food,Flour (I)
+hâkma,NOUN - Food,Bread (I)

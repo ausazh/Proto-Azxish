@@ -25,24 +25,62 @@ Inhabiting the West River Valley.
     - Basic copperworking
   
   - Concrete Developments
-    - Domesticated crops
-      - Barley (river plans)
-      - Cabbage (north)
-      - Gourds and Melons (south and riverplains)
-        - Sweet melons - watermelon, rockmelon, etc
-        - Bitter melons - bitter melon
-        - Clear melons - cucumber, luffa
-        - Thick-skinned melons - pumpkin
-      - Soybean (south)
-      - Peppers, Capsicum, Chilli (south)
+    - Domestication
+      - Domesticated crops
+        - Common crops in Neolithic - ícca /ˈiccæ/
+          - Barley - ícce /ˈiccɛ/ (river plains)
+          - Soybean - núomo /ˈnuo̯mɔ/(river plains)
+          - Sorghum - túgo /ˈtugɔ/ (south)
+          - Brassicacaea - primitive forms (north)
+        - 'New' crops in Bronze Age
+          - Brassicacaea
+            - Brassica oleracea
+              - Leaf Brass. (Kale) - ǵàřéam /ˈɟæˌr̥eæm̥/ (river plains, esp. upper)
+              - Head Brass. (Cabbage) - vèřtfa /ˈʋɛr̥tfæ/  (river plains, esp. upper)
+              - Tree Brass. (Jersey) Cabbage - vèřtfàśśa /ˈʋɛr̥ˌtfæɕɕæ/ (south coastal)
+            - Brassica rapa
+              - Leaf Brass., (Bok Choy) - vèřtfe /ˈʋɛr̥tfɛ/ (river plains, esp. lower)
+                - often confused and conflated with cabbage, esp as each predominates in a different area
+              - Root Brass., (Turnip) - qàorduńa /ˈɢæo̯rduɲæ/ (north)
+            - Raphanus
+              - Red Raph., (Radish) - óřřóo /ˈor̥ˌr̥oɔ/ (west coast)
+              - White Raph., (Daikon) - páemvaʔúo /ˈpɑe̯mʋæˌʔuɔ/ (river plains)
+            - Brassica juncaea: Hot Brassica
+              - Mustard - pàřeàmtfe /ˈpær̥ɛˌæm̥tfɛ/ (highlands, north and upper river plains)
+          - Gourds and Melons - ía /ˈiæ/ (south and riverplains)
+            - Sweet melons - źéaréa /ˈʑeɐ̯ˌreæ/ - watermelon, rockmelon, etc
+            - Bitter melons - qúñońogía /ˈɢuɴɔɲɔˌgiæ/ - bitter melon
+            - Clear melons - wéźiía /ˈɣeʑiˌiæ/ - cucumber, luffa
+            - Thick-skinned melons - fříía /ˈfr̥iˌiæ/ - pumpkin
+          - Peppers, Capsicum, Chilli - řéřä /ˈr̥er̥a/ (south)
+            - Sweet peppers (Capsicum) - źéarbréřä /ˈʑeɐ̯rˌbrer̥a/
+            - Hot peppers (Chilli) - řèpřéřä /ˈr̥ɛpˌr̥er̥a/
+          - Hemp and Flax
+            - Active Cannabis
+            - Hemp
+            - Flax
+
+      - Domesticated trees
+        - Olive - arràźba /ærˈræʑbæ/ (from the medit coast)
+        - Pears - úruva /ˈuruʋæ/ (from the medit coast)
+        - Peach - múqqaś /ˈmuɢɢæɕ/ (from the continental>desert Mountains)
+        - Almond - còñońa /ˈcɔɴ̥ɔɲ̊æ/ (from the continental>desert Mountains)
+      - Domesticated animals
+        - Boar - vóɹa /ˈʋoɹæ/
+          - => Pig - héia /ˈħei̯æ/ (central riverplains)
+        - Waterfowl - wébvèñaś /ˈɣebˌʋɛɴæɕ/
+          - => Duck - qéia /ˈɢei̯æ/ (northern lake/upper riverplains)
+        - Wolf - hřèsha /ˈħr̥ɛsħæ/ and Coyote - hřúońľo /ˈħr̥uo̯ɲʎɔ/
+          - => Dog - fíppòmśa /ˈfipˌpɔm̥ɕæ/ (throughout)
+        - Ibex - řáuga /ˈr̥ɑʊ̯gæ/
+          - => Goat - màoa /ˈmæo̯æ/ (mountains)
+        - Bee - âřřóaźño /ʌr̥ˈr̥oɐ̯ʑɴɔ/
+          - Small-Medium scale Beekeeping
 
 - Things to develop
   - Agriculture, Food
-    - Tree domestication
-      - Fruit trees
-      - Olive trees
+    - Olive pressing > Beer
     - Winemaking and Beer Brewing
-    - Honey gathering > Apiculture
     - Domestication
       - Boar > Pig (central riverplains) > Smoking
       - Wildfowl > Duck (northern lakes, brought south)

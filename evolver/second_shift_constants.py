@@ -6,11 +6,12 @@ FRONT_VOWELS = ['iː', 'i', 'ĩː', 'ĩ', 'ɛː', 'ɛ', 'eː', 'e', 'æː', '�
 # unreleased stop mutation
 STOP_CONS = ['p', 'b', 't', 'd', 'ʈ', 'ɖ', 'k', 'g',
              'q', 'ɢ', 't͡ʃ', 'd͡ʒ', 't͡θ', 'd͡z']
-GEMINATE_STOP = {'t͡ʃ': 't', 'd͡ʒ': 'd', 't͡θ': 't', 'd͡z': 'd'}
+GEMINATE_STOP = {'t͡ʃ': 't', 'd͡ʒ': 'd', 't͡θ': 't', 'd͡z': 'd', 'q': 'ɢ'}
 AFFRICATISE = {'s': 't͡s', 'z': 'd͡z', 'ʂ': 'ʈ͡ʂ', 'ʐ': 'ɖ͡ʐ', 
                'ç': 't͡ʃ', 'ʝ': 'd͡ʒ', 'ɬ': 't͡ɬ'}
 PREFRICATE = {'s': 't', 'z': 'd', 'ʂ': 'ʈ', 'ʐ': 'ɖ', 
               'ç': 't', 'ʝ': 'd', 'ɬ': 't'}
+STOPS_TO_NAS = ['b', 'd', 'ɖ', 'g', 'ɢ']
 NASALISE_STOP = {
     'p': 'm̥', 'b': 'm', 't': 'n̥', 'd': 'n',
     'ʈ': 'ɳ̊', 'ɖ': 'ɳ', 'k': 'ŋ̊', 'g': 'ŋ',
@@ -35,15 +36,15 @@ VOWELS = [
     'ʊ', 'ɪ', 'ʌ', # this line of vowels only introduced here though
 ] 
 VOCALISE_CCC_FRIC = {'v': 'ʊ', 'w': 'ʊ', 'l': 'ʊ',
-                    'ʐ': 'ʌ', 'j': 'ɪ', 'ʝ': 'ɪ'}
+                    'r': 'ʌ', 'ʐ': 'ʌ', 'j': 'ɪ', 'ʝ': 'ɪ'}
 OFFGLIDE_VC_FRIC = {'v': 'ʊ̯', 'w': 'ʊ̯', 'l': 'ʊ̯', 'j': 'ɪ̯', 'ʝ': 'ɪ̯'}
-DISALLOW_OFFGLIDE_BACK = ['u', 'uː', 'ũ', 'ũː', 'ʊ']
-DISALLOW_OFFGLIDE_FRONT = ['i', 'iː', 'ĩ', 'ĩː', 'ɪ']
-DISALLOW_OFFGLIDE = {'v': DISALLOW_OFFGLIDE_BACK,
-                     'w': DISALLOW_OFFGLIDE_BACK,
-                     'l': DISALLOW_OFFGLIDE_BACK,
-                     'j': DISALLOW_OFFGLIDE_FRONT,
-                     'ʝ': DISALLOW_OFFGLIDE_FRONT}
+_DISALLOW_OFFGLIDE_BACK = ['u', 'uː', 'ũ', 'ũː', 'ʊ']
+_DISALLOW_OFFGLIDE_FRONT = ['i', 'iː', 'ĩ', 'ĩː', 'ɪ']
+DISALLOW_OFFGLIDE = {'v': _DISALLOW_OFFGLIDE_BACK,
+                     'w': _DISALLOW_OFFGLIDE_BACK,
+                     'l': _DISALLOW_OFFGLIDE_BACK,
+                     'j': _DISALLOW_OFFGLIDE_FRONT,
+                     'ʝ': _DISALLOW_OFFGLIDE_FRONT}
 BACK_ELIDES = ['v', 'w']
 FRONT_ELIDES = ['j', 'ʝ']
 ELIDE_BACK_FRIC = ['uɐ̯̃', 'uɐ̯', 'u', 'uː', 'ũ', 'ũː']
@@ -60,6 +61,7 @@ ALVEOLAR_PLACE_SHIFT = {'t': 'c', 'd': 'ɟ', 'n̥': 'ɲ̊', 'n': 'ɲ',
 ALVEOLAR_SHIFT_BLOCKS = {'ʋ': '', 'f': 'ħ', 'ʊ': 'ʊ', 't͡θ': 'f', 'd͡ð': 'ʋ',
                          'u': 'u', 'uɐ̯̃': 'uɐ̯̃', 'uɐ̯': 'uɐ̯',
                          'uː': 'uː', 'ũ': 'ũ', 'ũː': 'ũː',
+                         'o': 'o', 'oː': 'oː', 'ɔ': 'ɔ', 'ɔɐ̯': 'ɔɐ̯', 'ɔː': 'ɔː', 
                          'ɢ': 'ɢ', 'ɴ̥': 'ɴ̥', 'ɴ': 'ɴ', 'ħ': 'ħ'}
 PALATAL_BLOCKS = ['t͡ɬ', 'ɬ']
 PALATAL_TRIGGERS = ['t͡ʃ', 'd͡ʒ', 'ç']
@@ -164,7 +166,7 @@ CENTRAL_VOWELS = [
 ]
 FRONT_VOWELS = [
     'æ', 'æː', 'æɪ̯', 'æːɪ̯', 'æʊ̯', 'æːʊ̯', 
-    'æo̯', 'øʊ̯', 'øʊ̯̃', 'ø',
+    'æo̯', 'øʊ̯', 'øʊ̯̃', 'ø', 'ø̃', 'øː', 'ø̃ː',
     'e', 'eː', 'ɛ', 'ɛː', 'ɛɐ̯', 'ei̯', 'eĩ̯', 'ɛ̃', 'eɐ̯', 'eɐ̯̃', 
     'i', 'iɐ̯̃', 'iɐ̯', 'iː', 'ĩ', 'ĩː', 'ɪ', 'ie̯', 
     'eɪ̯', 'eːɪ̯', 'ɛɪ̯', 'ɛːɪ̯', 
@@ -205,8 +207,8 @@ BOTH_INF_SHIFT = {
     'ɨ̃': ['ɛ̃', 'ũ'], 'ɨ̃ː': ['eĩ̯', 'ũː'],
     'ɨɪ̯': ['ei̯', 'uɪ̯'], 'ɨːɪ̯': ['ei̯', 'uɪ̯'],
     'ɨ̃ɪ̯': ['eĩ̯', 'uɪ̯̃'], 'ɨ̃ːɪ̯': ['ei̯', 'uɪ̯'],
-    'ɨʊ̯': ['y', 'u'], 'ɨːʊ̯': ['yː', 'uo̯'],
-    'ɨ̃ʊ̯': ['ỹ', 'u'], 'ɨ̃ːʊ̯': ['ỹː', 'ũː'], 
+    'ɨʊ̯': ['ø', 'u'], 'ɨːʊ̯': ['øː', 'uo̯'],
+    'ɨ̃ʊ̯': ['ø̃', 'u'], 'ɨ̃ːʊ̯': ['ø̃ː', 'ũː'], 
     'ɔɪ̯': ['ɤɪ̯', 'ɑe̯'], 'ɔːɪ̯': ['ɤɪ̯', 'ɑe̯'], 
     'oɪ̯': ['ɤɪ̯', 'uɪ̯'], 'oːɪ̯': ['ɤɪ̯', 'uɪ̯'],
     'ɛʊ̯': ['æo̯', 'øʊ̯'], 'ɛːʊ̯': ['æo̯', 'øʊ̯'], 
@@ -275,17 +277,17 @@ AFTER_SHIFT_VOWELS = [
     'ɛ', 'ɔ', 'ɛ̃', 'ɔ̃', 'ɛː', 'ɔː',
     'eɐ̯', 'oɐ̯', 'eɐ̯̃', 'oɐ̯̃',
     'e', 'eː', 'ɤ', 'ɤː',
-    'o', 'oː', 'ø',
+    'o', 'oː', 'ø', 'ø̃', 'øː', 'ø̃ː',
     'i', 'iː', 'ie̯', 'ĩ', 'ĩː',
     'u', 'uː', 'uo̯', 'ũ', 'ũː',
     'y', 'yː', 'ỹ', 'ỹː',
 ]
-AFTER_GUT_VOWELS = AFTER_SHIFT_VOWELS + [
-    'a', 'æɪ̯̃', 'æõ̯', 'ɑʊ̯̃', 'ɑẽ̯', 
-    'æ̃', 'ʌ̃', 'ẽ', 'ẽː', 'õ', 'õː',
-    'ø̃', 'øː', 'ø̃ː'
-    'æː', 'æ̃ː', 'ʌː', 'ʌ̃ː', 'ɤ̃ː',
-]
+# AFTER_GUT_VOWELS = AFTER_SHIFT_VOWELS + [
+#     'a', 'æɪ̯̃', 'æõ̯', 'ɑʊ̯̃', 'ɑẽ̯', 
+#     'æ̃', 'ʌ̃', 'ẽ', 'ẽː', 'õ', 'õː',
+#     'ø̃', 'øː', 'ø̃ː'
+#     'æː', 'æ̃ː', 'ʌː', 'ʌ̃ː', 'ɤ̃ː',
+# ]
 OPEN_ADJ_GUTR = {
     'æ': 'a', 'ʌ': 'a', 'æɪ̯': 'æɪ̯',
     'ei̯': 'æɪ̯', 'eĩ̯': 'æɪ̯̃',

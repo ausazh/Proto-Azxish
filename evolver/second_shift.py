@@ -112,9 +112,9 @@ class Word:
         return fol and self[pos].rep in ALL_VOWELS and fol.rep in ALL_VOWELS
 
 def shift_consonant(word):
-    mark = None
+    mark = Sound('')
     sign = None
-
+    # print('shifting')
     # syl = []
     # stress = None
     for i, s in word.range():
@@ -123,13 +123,60 @@ def shift_consonant(word):
             # syl = []
             continue
         # syl.append(s)
+        prev, fol = word.get_adjacent(i)
+        # print('analysing', s)
 
+        # SIGNS
+        if sign == 'unreleased':
+            # print('signed unreleased', s, mark)
+            if s.rep in STOP_CONS:
+                mark.mutate(GEMINATE_STOP.get(s, s.rep))
+                # print('stop geminated to',mark)
+            elif s.rep in AFFRICATISE:
+                mark.mutate(PREFRICATE[s])
+                s.mutate(AFFRICATISE[s])
+                # print('stop preffed to',mark)
+            elif mark.rep[:-1] in STOPS_TO_NAS:
+                # note that the keys of NASALISE_STOP don't have unreleased marks on them
+                mark.mutate(NASALISE_STOP[mark[:-1]])
+                # print('stop nased to',mark)
+            else:
+                mark.mutate('ʔ')
+                # print('stop glotted to',mark)
+            mark, sign = None, None
+        elif sign == 'backelides':
+            # print('signed backelides', s, mark)
+            if s.rep in ELIDE_BACK_FRIC:
+                # print('eliding', s, mark)
+                mark.delete()
+            elif mark.rep in APPROXIMISE_FRIC:
+                # print('approximising', s, mark)
+                mark.mutate(APPROXIMISE_FRIC[mark])
+            mark, sign = None, None
+        elif sign == 'frontelides':
+            if s.rep in ELIDE_FRONT_FRIC:
+                mark.delete()
+            elif mark.rep in APPROXIMISE_FRIC:
+                mark.mutate(APPROXIMISE_FRIC[mark])
+            mark, sign = None, None
+        elif sign == 'gemnas':
+            if s == mark:
+                c1, c2 = GEMINATE_NASAL[s]
+                mark.mutate(c1)
+                s.mutate(c2)
+            mark, sign = None, None
+
+        ## CONSONANTS
         ## Q > Q /ɢ/
         if s == 'q':
             s.mutate('ɢ')
+        # slight labial shift of /ɸ/ > /f/.  parallel /w/ > /ʋ/ handled above
+        elif s == 'ɸ':
+            s.mutate('f')
+
 
         ## Initial glottal stop > G/Q
-        if i < 2 and s == 'ʔ':
+        elif i < 2 and s == 'ʔ':
             mark, sign = s, 'ʔ'
         elif sign == 'ʔ':
             if s in FRONT_VOWELS:
@@ -139,50 +186,20 @@ def shift_consonant(word):
             mark, sign = None, None
 
         # Non-released stops
-        if sign == 'unreleased':
-            if s.rep in STOP_CONS:
-                mark.mutate(GEMINATE_STOP.get(s, s.rep))
-            elif s.rep in AFFRICATISE:
-                mark.mutate(PREFRICATE[s])
-                s.mutate(AFFRICATISE[s])
-            elif mark.rep[:-1] in NASALISE_STOP:
-                # note that the keys of NASALISE_STOP don't have unreleased marks on them
-                mark.mutate(NASALISE_STOP[mark[:-1]])
-            else:
-                mark.mutate('ʔ')
-            mark, sign = None, None
         elif '̚' in s:
+            # print('found unreleased', s)
             mark, sign = s, 'unreleased'
 
         # Geminate nasal > nasal + stop
-        if sign == 'gemnas':
-            if s == mark:
-                c1, c2 = GEMINATE_NASAL[s]
-                mark.mutate(c1)
-                s.mutate(c2)
-            mark, sign = None, None
         elif s.rep in GEMINATE_NASAL:
             mark, sign = s, 'gemnas'
 
         # Looser fricatives
-        if sign == 'backelides':
-            if s.rep in ELIDE_BACK_FRIC:
-                mark.delete()
-            elif mark.rep in APPROXIMISE_FRIC:
-                mark.mutate(APPROXIMISE_FRIC[mark])
-            mark, sign = None, None
-        elif sign == 'frontelides':
-            if s.rep in ELIDE_FRONT_FRIC:
-                mark.delete()
-            elif mark.rep in APPROXIMISE_FRIC:
-                mark.mutate(APPROXIMISE_FRIC[mark])
-            mark, sign = None, None
-
-        prev, fol = word.get_adjacent(i)
-        if (s.rep in VOCALISE_CCC_FRIC
+        elif (s.rep in VOCALISE_CCC_FRIC
                 and not (prev and prev.rep in VOWELS)
                 and not (fol and fol.rep in VOWELS)):
             s.mutate(VOCALISE_CCC_FRIC[s])
+            # print('voc fric', s)
             if word[i+1].is_sound:
                 s.add('.')
             else:
@@ -194,18 +211,32 @@ def shift_consonant(word):
             prev.append(OFFGLIDE_VC_FRIC[s])
             s.delete()
         elif s.rep in BACK_ELIDES:
+            # print('mark backelide', s)
             mark, sign = s, 'backelides'
         elif s.rep in FRONT_ELIDES:
             mark, sign = s, 'frontelides'
         elif s.rep in APPROXIMISE_FRIC:
+            # print('approximating', s)
             s.mutate(APPROXIMISE_FRIC[s])
 
     # final mark-clearing
     if sign == 'unreleased':
-        if mark.rep in NASALISE_STOP:
-            mark.mutate(NASALISE_STOP[mark])
+        # print('final unreleased', mark)
+        if mark.rep[:-1] in STOPS_TO_NAS:
+            # print('nasalising', mark)
+            # note that the keys of NASALISE_STOP don't have unreleased marks on them
+            mark.mutate(NASALISE_STOP[mark[:-1]])
         else:
+            # print('glotting', mark)
             mark.mutate('ʔ')
+    elif sign == 'backelides':
+        # print('final signed backelides', mark)
+        if mark.rep in APPROXIMISE_FRIC:
+            # print('approximising', s, mark)
+            mark.mutate(APPROXIMISE_FRIC[mark])
+    elif sign == 'frontelides':
+        if mark.rep in APPROXIMISE_FRIC:
+            mark.mutate(APPROXIMISE_FRIC[mark])
 
     word.clear()
     # print('shifted consonants', word)
@@ -214,10 +245,9 @@ def shift_consonant(word):
 def shift_place(word):
     marks = []
     sign = None
-    signed = None
+    s_to_mutate = None
 
     for i, s in word.range():
-        signed = sign
         if not s.is_sound or s == '':
             continue
 
@@ -229,14 +259,14 @@ def shift_place(word):
             else:
                 warnings.warn('how did we get an e without a J?')
 
-        # deal with signs first (no need to elif though, can coexist with sounds after)
+        # SIGNS
         # see sign assignments below for details on the shift
         if sign == 'alv-pal':
             if s.rep in PALATAL_TRIGGERS:
                 # print('trigger pal>vel!', marks, s)
                 for m in marks:
                     m.mutate(PALATAL_PLACE_SHIFT[m]) 
-                s.mutate(PALATAL_PLACE_SHIFT[s])
+                s_to_mutate = PALATAL_PLACE_SHIFT[s]
                 marks, sign = [], None
             elif s.rep in PALATAL_BLOCKS:
                 sign = 'alv'
@@ -245,7 +275,7 @@ def shift_place(word):
                 marks.append(s)
             else:
                 if s.rep in ALVEOLAR_SHIFT_BLOCKS:
-                    s.mutate(ALVEOLAR_SHIFT_BLOCKS[s])
+                    s_to_mutate = ALVEOLAR_SHIFT_BLOCKS[s]
                 else:
                     for m in marks:
                         m.mutate(ALVEOLAR_PLACE_SHIFT[m]) 
@@ -255,14 +285,14 @@ def shift_place(word):
                 marks.append(s)
             else:
                 if s.rep in ALVEOLAR_SHIFT_BLOCKS:
-                    s.mutate(ALVEOLAR_SHIFT_BLOCKS[s])
+                    s_to_mutate = ALVEOLAR_SHIFT_BLOCKS[s]
                 else:
                     for m in marks:
                         m.mutate(ALVEOLAR_PLACE_SHIFT[m]) 
                 marks, sign = [], None
         elif sign == 'x':
             if s.rep == 'xʷ':
-                s.mutate('ħ')
+                s_to_mutate = 'ħ'
                 marks[0].mutate('ħ')
             else:
                 prev = word.get_prev(i-1)
@@ -272,12 +302,12 @@ def shift_place(word):
                     s.delete()
                 marks[0].mutate('ʀ̥')
             marks, sign = [], None
-        # deal with sounds after (must elif through to prevent multiple shifts)
-        # slight labial shift of /ɸ/ > /f/.  parallel /w/ > /ʋ/ handled above
-        if s == 'ɸ':
-            s.mutate('f')
 
+        # deal with sounds after (must elif through to prevent multiple shifts)
         # dental TTH > TF, DDH > DV
+        if s_to_mutate:
+            s.mutate(s_to_mutate)
+            s_to_mutate = None
         elif s == 't͡θ':
             s.mutate('t')
             s.add('f')
@@ -294,7 +324,7 @@ def shift_place(word):
         # alveolar > alveolar with following V/F/U/TTH
         # alveolar > velar with following palatal, with some exceptions
         # note that both T-TTH and simple TTH evolve into simple TF
-        elif signed != 'alv' and signed != 'alv-pal' and s.rep in ALVEOLAR_PLACE_SHIFT:
+        elif s.rep in ALVEOLAR_PLACE_SHIFT:
             if s.rep in PALATAL_BLOCKS:
                 marks, sign = [s], 'alv'
             else:
@@ -305,11 +335,11 @@ def shift_place(word):
         # note that PALATAL_PLACE_SHIFT contains alveolar consonants
         # ALV_P_S is checked first however, they will have no effect on flow
         # Note that JE > JE
-        elif signed != 'alv' and signed != 'alv-pal' and s.rep in PALATAL_PLACE_SHIFT:
+        elif s.rep in PALATAL_PLACE_SHIFT:
             s.mutate(PALATAL_PLACE_SHIFT[s])
         
         # Simple velar changes
-        elif signed != 'alv' and signed != 'alv-pal' and s.rep in ['k', 'g']:
+        elif s.rep in ['k', 'g']:
             s.delete()
         elif s.rep in VELAR_NASAL_SHIFT:
             s.mutate(VELAR_NASAL_SHIFT[s])
@@ -327,8 +357,6 @@ def shift_place(word):
             marks, sign = [s], 'x'
         elif s.rep == 'xʷ':
             s.mutate('ħ')
-
-        signed = sign
 
     # Final mark cleanup
     if sign == 'alv-pal' or sign == 'alv':
@@ -485,6 +513,7 @@ def shift_vowel(word):
     p_stress = False
     s_stress = False
     influence = None
+    # print(word)
     for _, s in word.range():
         if s == 'ˈ':
             p_stress = True
@@ -532,6 +561,7 @@ def shift_vowel(word):
                     break
     else:
         front = p_stress_v.is_front()
+    # print('is front', p_stress_v.rep, front)
     do_shift_vowel(p_stress_v, front)
     # Note that all post-shift vowels are either front or back
     # So we always have primary stress as a backup influence from now
@@ -570,7 +600,7 @@ def open_guttural(word):
 
 def denasalise(word):
     was_bound = False
-    for i, s in word.range():
+    for _, s in word.range():
         if not s.is_sound or s == '':
             was_bound = True
         else:
@@ -623,7 +653,7 @@ def scriptify(sounds):
     stress = False
     ipa = ''
     word = ''
-    
+    # print(sounds)
     for _, s in sounds.range():
         if s == 'ˈ' or s == 'ˌ':
             ipa += s.rep
