@@ -89,6 +89,81 @@ The roots are:
 
 The vowel-initial negative affixes are modified with a semivowel: a > gha; î > ji
 
+### Sentence Tag
+
+- Tags are (common, formal):
+  - âq-, uqâ- - indicative tag, derived from uqâ 'is'
+  - an-, ahna- - interrogative tag, derived from ahna
+  - ń-, în- - conditional tag
+  - s-, al- - imperative tag, derived from al
+  - kas-, gjân- - prohibitive tag
+    - common form derived from a-ka-l (negative of al)
+    - formal form derived from gjân (prevent)
+  - qân-, n/a - speculative tag, derived from qânal (think)
+    - to use speculative formally, use the verb qêqâlkan with a subjunctive tag
+    - speculative is used only for events out of one's control, or events that have already happened (whose answer we don't know)
+  - man-, mâne- - potential tag, derived from mangê (come)
+    - used to predict abstract or indefinite future events
+  - ol-, ulog- - commissive tag, derived from ulogê (go)
+    - used to state future intentions or speak about future events which one has control over
+
+- Tags are agglutinative
+  - Tag endings never take stress
+- Tags take endings in this order:
+  - kan - habitual aspect
+  - personal inflections (optional)
+    - 1s - NOM: mo /mɔ/, ACC: fê /fe/
+    - 1p - NOM: wâ /ɣʌ/, ACC: pô /po/
+    - 2s - NOM: uʔ /uʔ/, ACC: čàř /c͡ɕær̥/
+    - 1+2 - NOM: ľař /ʎær̥/, ACC: râm /rʌm/
+    - 2p - NOM: me /mɛ/, ACC: źiñ /ʑiɴ/
+    - 3Is - NOM: qa /ɢʌ/, ACC: ǵêr /ɟer/
+    - 3As - NOM: qeń /ɢɛɲ̊/, ACC: ǵêń /ɟeɲ̊/
+    - 3Hs - NOM: qoń /ɢɔɲ/, ACC: ǵêń /ɟeɲ/
+    - 3Hd - NOM: rjoń /rjɔɲ/, ACC: woń /ɣɔɲ/
+    - 3As - NOM: ñeń /ɴɛɲ̊/, ACC: veń /ʋɛɲ̊/
+    - 3Hs - NOM: ñâń /ɢʌɲ/, ACC: voń /ʋɔɲ/
+    - 3Ds - NOM: ñix /ɴix/, ACC: veh /ʋɛħ/
+    - QIA - NOM: qun /ɢun/, ACC: qunu /ɢunu/
+    - QHD - NOM: qâř /ɢʌr̥/, ACC: qârô /ɢʌro/
+
+- The exact meanings of tag markings differ per tag
+  - Indicative
+    - Tense
+      - Non-Past - happening now
+      - Past - happened in the past
+      - Non-Past Habit - current habit
+      - Past Habit - past habit
+    - Personal - focus
+  - Conditional
+    - Tense
+      - Non-Past - the result of the condition
+      - Non-Past Habit - the condition
+      - Past - the result of the counterfactual condition
+      - Past Habit - counterfactual condition
+    - Personal - focus
+  - Interrogative
+    - Tense - as INDIC
+    - Personal - speech target
+  - Imperative/Prohibitive
+    - Tense - no tense/aspect inflections
+    - Personal - speech target
+  - Speculative
+    - Tense - no habit inflection
+      - Non-Past - something might be happening/might happen
+      - Past - something might have happened
+    - Personal - speculator
+  - Potential
+    - Tense - no past inflection
+      - Non-Past - something can happen
+      - Non-Past Habit - I can do something
+    - Personal - topic (or potential-holder for habit)
+  - Commissive
+    - Tense - no past inflection
+      - Non-Past - someone intends to do something
+      - Non-Past Habit - someone intends to do something regularly
+    - Personal - the 'intender'
+
 ## Nouns
 
 ### Noun classes
@@ -103,6 +178,38 @@ The new classes are thus:
 - Divine -- *-i/che* > **
 
 With the vowel system shifting drastically, ablaut derivation is no longer productive.  New suffixes are formed, these suffixes attach to evolved word forms.
+
+### Noun cases
+
+Noun cases are suffixed onto verbs without changing the stem
+
+Cases inflections differ slightly for each class
+Note that the Locative and Instrumental cases have merged; with Inan deriving the case suffix from Instrumental and the rest from Locative
+
+- Inanimate
+  - NOM - -te /tɛ/ or -to /tɔ/
+  - ACC - no ending
+  - DAT - -(e)ńêř /ɛɲer̥/ or -(o)nôř /ɔnor/
+  - GEN - -ix /ix/ or -ux /ux/
+  - LOC - -ira /iræ/
+- Animate
+  - NOM - -ań /æɲ̊/
+  - ACC - -añkøu /æɴ̥køʊ̯/
+  - DAT - -ańǵêř /æɲɟer̥/
+  - GEN - -ańix /æɲ̊ix/
+  - LOC - -ańah /æɲ̊æħ/
+- Human
+  - NOM - -oń /ɔɲ/
+  - ACC - -oñgou /ɔɴgou̯/
+  - DAT - -ońêř /ɔɲer̥/
+  - GEN - -ońəx /ɔɲɤx/
+  - LOC - -ońah /ɔɲæħ/
+- Divine
+  - NOM - -(ik)ke /ikkɛ/
+  - ACC - -(ik)køu /ikkøʊ̯/
+  - DAT - -(ik)kêńêř /keɲer̥/
+  - GEN - -(i)kix /ikix/
+  - LOC - -(i)kñah /ikɴ̥æħ/
 
 ## Pronouns
 
@@ -148,5 +255,15 @@ With the vowel system shifting drastically, ablaut derivation is no longer produ
     - NOM - They - ñiche > ñíkke /ˈɴikkɛ/
     - Acc - Them - vehiche > vèhke /ˈʋɛħkɛ/
 - Q
-  - Inanimate/Animate - What - qîu > qúonu /ˈɢuo̯nu/
-  - Human/Divine - Who - qer > qář /ˈɢʌr̥/
+  - Inanimate/Animate
+    - NOM - What - qîu > qúonu /ˈɢuo̯nu/
+    - ACC - What - qîôl > qúonou /ˈɢuo̯nou̯/
+    - DAT - To What - qîwêter > qéijíeńeř /ˈɢei̯ˌjie̯ɲɛr̥/ > qéińeř /ˈɢei̯ɲɛr̥/
+    - GEN - Of What - qîukish > qúonúəx /ˈɢuo̯ˌnuɤx/ > > qúonux /ˈɢuo̯nux/
+    - INSTR - By What - qîwîmexe > qéijéara /ˈɢei̯ˌjeɐ̯ræ/ > qéira /ˈɢei̯ræ/
+  - Human/Divine
+    - NOM - Who - qer > qář /ˈɢʌr̥/
+    - ACC - Whom - qerchôl > qářkou /ˈɢʌr̥kou̯/
+    - DAT - To Whom - qêter > qúońoř /ˈɢuo̯ɲɔr̥/
+    - GEN - Of Whom - qerkish > qèřix /ɢɛr̥ix/
+    - LOC - With Whom - qerñah > qèřñah /ˈɢɛr̥ɴ̥æħ/

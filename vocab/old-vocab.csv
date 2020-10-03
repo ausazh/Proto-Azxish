@@ -208,6 +208,22 @@ mêache,NOUN - Concept,Wisdom (D)
 xompaj,NOUN - Concept,Progress (I)
 wahra,NOUN - Concept,Mistake (I)
 
+xompajan,_DEMO-NOUN-A-1, A-NOM
+xompajanchôl,_DEMO-NOUN-A-2, A-ACC
+xompajanêter,_DEMO-NOUN-A-3, A-DAT
+xompajankish,_DEMO-NOUN-A-4, A-GEN
+xompajanñah,_DEMO-NOUN-A-5, A-LOC
+xompajân,_DEMO-NOUN-H-1, H-NOM
+xompajânchôl,_DEMO-NOUN-H-2, H-ACC
+xompajânêter,_DEMO-NOUN-H-3, H-DAT
+xompajânkish,_DEMO-NOUN-H-4, H-GEN
+xompajânñah,_DEMO-NOUN-H-5, H-LOC
+xompajiche,_DEMO-NOUN-D-1, D-NOM
+xompajichechôl,_DEMO-NOUN-D-2, D-ACC
+xompajicheêter,_DEMO-NOUN-D-3, D-DAT
+xompajichekish,_DEMO-NOUN-D-4, D-GEN
+xompajicheñah,_DEMO-NOUN-D-4, D-LOC
+
 ghuja,DET,This
 jâhap,DET,That
 mitja,DET,That over there
@@ -217,8 +233,16 @@ xi,DET,Few
 âjah,DET,Every
 verto,DET,More
 
-qer,PRN,Who
-qîu,PRN,What
+qer,PRN,Who (Nom)
+qerchôl,PRN,Who (Acc)
+qêter,PRN,To Who (Dat)
+qerkish,PRN,Of/From Who (Gen)
+qerñah,PRN,At/With Who (Loc-Instr)
+qîu,PRN,What (Nom)
+qîôl,PRN,What (Acc)
+qîwêter,PRN,To What (Dat)
+qîukish,PRN,Of/From What (Gen)
+qîwîmexe,PRN,By/Using What (Loc-Instr)
 
 mûh,PRN,1.s.Nom - I
 fêgha,PRN,1.s.Acc - Me
@@ -241,9 +265,14 @@ juân,PRN,3.H.d.Acc - Him/Her/It and I
 vehan,PRN,3.A.p.Nom - They
 ñen,PRN,3.A.p.Acc - Them
 vehân,PRN,3.H.p.Nom - They
-ñân,PRN,3.H.p.Nom - Them
+ñân,PRN,3.H.p.Acc - Them
 vehiche,PRN,3.D.Nom - He/She/It/They
-ñiche,PRN,3.D.Nom - Him/Her/It/Them
+ñiche,PRN,3.D.Acc - Him/Her/It/Them
+
+âq,TAG,indicative common
+âqox,TAG,indicative past common
+âqkan,TAG,indicative habitual common
+
 
 hêm,CONJ,And
 pru,CONJ,If 
