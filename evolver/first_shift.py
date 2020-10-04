@@ -29,6 +29,75 @@ def get_following(word, i, pos):
 def get_adjacent(word, i, pos):
     return (get_preceding(word, i, pos), get_following(word, i, pos))
 
+
+# Apply regular grammatical affixes (verbs)
+def grammatify(word, word_type, desc, root2):
+    orig_word = str(word)
+    if 'VERB' not in word_type:
+        return [(word, orig_word, word_type, desc)]
+    # Affixify verbs!
+    words = []
+    # Participle: first element, as is
+    words.append([word, orig_word, 'PART', desc + ' (Participle)'])
+
+    # Negative Participle: first element + negative pre-/infix
+    neg = str(word)
+    if word[0] == 'a':
+        neg = 'aka' + neg[1:]
+    elif word[0] == 'â':
+        neg = 'âxâ' + neg[1:]
+    elif word[0] == 'e':
+        neg = 'eshe' + neg[1:]
+    elif word[0] == 'ê':
+        neg = 'êshê' + neg[1:]
+    elif word[0] == 'i':
+        neg = 'iti' + neg[1:]
+    elif word[0] == 'î':
+        neg = 'îsî' + neg[1:]
+    elif word[0] == 'o':
+        neg = 'oshwe' + neg[1:]
+    elif word[0] == 'ô':
+        neg = 'ôshwê' + neg[1:]
+    elif word[0] == 'u':
+        neg = 'utwi' + neg[1:]
+    elif word[0] == 'û':
+        neg = 'ûswî' + neg[1:]
+    elif word[0] in VUH_ROM_NASALS:
+        neg = 'gha' + neg
+    elif word[0] in VUH_ROM_STOPS:
+        neg = 'ê' + neg
+    elif word[0] in VUH_ROM_FRICS:
+        neg = 'jî' + neg
+    elif word[0] in VUHINKAM_APPXS_R:
+        neg = 'qi' + neg
+    else:
+        raise KeyError('unsupported letter in verb ' + word)
+    words.append([neg, neg, 'PART', desc + ' (Negative Participle)'])
+
+    verb_root = word
+    if root2:
+        verb_root = root2
+
+    # Perfective: PF: qê-, IM: qê-2-af, PT: N/A
+    if word_type == 'VERB-PF':
+        words.append([verb_root, verb_root, 'VERB', desc + ' (Perfective)'])
+    elif word_type == 'VERB-IM':
+        new_root = verb_root
+        if len(new_root) > 2 and new_root[-3:] == 'kan':
+            new_root = new_root[:-3] + 'knef'
+        else:
+            new_root += 'ef'
+        words.append([new_root, new_root, 'VERB', desc + ' (Perfective)'])
+
+    # Imperfective: PF: qê-ka, IM: qê-2, PT: N/A
+    if word_type == 'VERB-PF':
+        new_root = verb_root + 'ke'
+        words.append([new_root, new_root, 'VERB', desc + ' (Imperfective)'])
+    elif word_type == 'VERB-IM':
+        words.append([verb_root, verb_root, 'VERB', desc + ' (Imperfective)'])
+
+    return words
+
 # Evolution steps: First Shift
 def ipaify(word):
     # retrieve corresponding IPA representation; otherwise is already correct
@@ -47,72 +116,6 @@ def ipaify(word):
             warnings.warn('Illegal letter used in word: ' + word)
             i += 1
     return ipa_word    
-
-# Apply regular grammatical affixes (verbs)
-def grammatify(word, word_type, desc, root2):
-    if 'VERB' not in word_type:
-        return [(word, word_type, desc)]
-    # Affixify verbs!
-    words = []
-    # Participle: first element, as is
-    words.append([word, 'PART', desc + ' (Participle)'])
-
-    # Negative Participle: first element + negative pre-/infix
-    neg = list(word)
-    if word[0] == 'a':
-        neg = ['a', 'k', 'a'] + neg[1:]
-    elif word[0] == 'aː':
-        neg = ['aː', 'x', 'aː'] + neg[1:]
-    elif word[0] == 'e':
-        neg = ['e', 'ç', 'e'] + neg[1:]
-    elif word[0] == 'eː':
-        neg = ['eː', 'ç', 'eː'] + neg[1:]
-    elif word[0] == 'i':
-        neg = ['i', 't', 'i'] + neg[1:]
-    elif word[0] == 'iː':
-        neg = ['iː', 's', 'iː'] + neg[1:]
-    elif word[0] == 'o':
-        neg = ['o', 'ç', 'w', 'e'] + neg[1:]
-    elif word[0] == 'oː':
-        neg = ['oː', 'ç', 'w', 'eː'] + neg[1:]
-    elif word[0] == 'u':
-        neg = ['u', 't', 'w', 'i'] + neg[1:]
-    elif word[0] == 'uː':
-        neg = ['uː', 's', 'w', 'iː'] + neg[1:]
-    elif word[0] in VUHINKAM_NASALS:
-        neg = ['ʕ', 'a'] + neg
-    elif word[0] in VUHINKAM_STOPS_AFS:
-        neg = ['eː'] + neg
-    elif word[0] in VUHINKAM_FRICS:
-        neg = ['j', 'iː'] + neg
-    elif word[0] in VUHINKAM_APPXS_R:
-        neg = ['q', 'i'] + neg
-    else:
-        raise KeyError('unsupported letter in verb ' + word)
-    words.append([neg, 'PART', desc + ' (Negative Participle)'])
-
-    verb_root = list(word)
-    if word_type == 'VERB-IM':
-        verb_root = list(root2)
-
-    # Perfective: PF: qê-, IM: qê-2-af, PT: N/A
-    if word_type == 'VERB-PF':
-        words.append([verb_root, 'VERB', desc + ' (Perfective)'])
-    elif word_type == 'VERB-IM':
-        new_root = list(verb_root)
-        if len(new_root) > 2 and new_root[-3:] == ['k', 'a', 'n']:
-            new_root = new_root[:-3] + ['k', 'n', 'e', 'f']
-        else:
-            new_root += ['e', 'f']
-        words.append([new_root, 'VERB', desc + ' (Perfective)'])
-
-    # Imperfective: PF: qê-ka, IM: qê-2, PT: N/A
-    if word_type == 'VERB-PF':
-        words.append([verb_root + ['k', 'e'], 'VERB', desc + ' (Imperfective)'])
-    elif word_type == 'VERB-IM':
-        words.append([verb_root, 'VERB', desc + ' (Imperfective)'])
-
-    return words
 
 def get_inits_fols(s):
     inits = []
@@ -510,12 +513,10 @@ def desyllabify(word):
 
 def first_shift(word, word_type, desc, root2):
     print('---old word: ' + str(word) + ' ---')
-    word = ipaify(word)
-    if root2:
-        root2 = ipaify(root2)
     words = grammatify(word, word_type, desc, root2)
     new_words = []
-    for word, new_type, new_desc in words:
+    for word, orig_word, new_type, new_desc in words:
+        word = ipaify(word)
         word = syllabify(word)
         word = agree_vowel_voicing(word)
         word = shift_vowel_first(word)
@@ -527,5 +528,5 @@ def first_shift(word, word_type, desc, root2):
         word = derelease_stops(word)
         word, phones = desyllabify(word)
         print('>>>shift 1: ' + str(word) + ' <<<')
-        new_words.append((word, phones, new_type, new_desc))
+        new_words.append((word, phones, orig_word, new_type, new_desc))
     return new_words

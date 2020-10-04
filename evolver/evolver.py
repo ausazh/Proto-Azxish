@@ -82,9 +82,9 @@ def evolve_word(line):
 
     mid_words = first_shift(word, word_type, translation, root_2)
     new_words = []
-    for first_word, phones, new_type, new_desc in mid_words:
+    for first_word, phones, orig_word, new_type, new_desc in mid_words:
         second_word, ipa = second_shift(phones)
-        new_words.append([second_word, ipa, new_type, new_desc, word, first_word])
+        new_words.append([second_word, ipa, new_type, new_desc, orig_word, first_word])
 
     return new_words
 

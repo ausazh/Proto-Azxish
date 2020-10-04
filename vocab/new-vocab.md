@@ -9,353 +9,353 @@ Auto-derived from original
 |arrhai|ær̥ˈr̥æi|NOUN|To stand > Stance (I)|xeki|ˈxɛk̚ki|
 |uqqo|ˈuɢɢɔ|NOUN|To be > Existence (I)|wuqâ|ˈwuq̚qɑː|
 |qghomë|ˈɢɣɔmɤ|PART|To live (Participle)|ihemê|ˈʔjɐmɘː|
-|yi'ħempê|ˈɟiʔˌħɛm̥pe|PART|To live (Negative Participle)|ihemê|ˈʔit̚ˌħɜm̥m̥ɘː|
-|qghemieñef|ˈɢɣɛˌmie̯ɴɛf|VERB|To live (Perfective)|ihemê|ˈʔjɐˌmiːŋɐf|
-|qghomëñ|ˈɢɣɔmɤɴ|VERB|To live (Imperfective)|ihemê|ˈʔjɐmɘːŋ|
+|yi'ħempê|ˈɟiʔˌħɛm̥pe|PART|To live (Negative Participle)|itihemê|ˈʔit̚ˌħɜm̥m̥ɘː|
+|qghemieñef|ˈɢɣɛˌmie̯ɴɛf|VERB|To live (Perfective)|ihemêñef|ˈʔjɐˌmiːŋɐf|
+|qghomëñ|ˈɢɣɔmɤɴ|VERB|To live (Imperfective)|ihemêñ|ˈʔjɐmɘːŋ|
 |qâe|ˈɢɑe̯|PART|To be  (Participle)|qâ|ˈqaː|
-|jêño|ˈjeɴɔ|PART|To be  (Negative Participle)|qâ|ˈjeːɢ̚ɑː|
-|qâeñof|ˈɢɑe̯ɴɔf|VERB|To be  (Perfective)|qâ|ˈqaːŋɐf|
-|qâeñ|ˈɢɑe̯ɴ|VERB|To be  (Imperfective)|qâ|ˈqaːŋ|
+|jêño|ˈjeɴɔ|PART|To be  (Negative Participle)|êqâ|ˈjeːɢ̚ɑː|
+|qâeñof|ˈɢɑe̯ɴɔf|VERB|To be  (Perfective)|qâñef|ˈqaːŋɐf|
+|qâeñ|ˈɢɑe̯ɴ|VERB|To be  (Imperfective)|qâñ|ˈqaːŋ|
 |yañrhê|ˈɟæɴ̥r̥e|PART|To hear (Participle)|añagi|ˈʔæŋ̊xi|
-|ya'ñarrê|ˈɟæʔˌɴ̥ærre|PART|To hear (Negative Participle)|añagi|ˈʔæk̚ˌŋ̊æːɣɣi|
-|yañqaranjef|ˈɟæɴˌɢæræɲɛf|VERB|To hear (Perfective)|añagi|ˈʔæŋ̊ˌŋ̊æːɣgnɐf|
-|yañqarênj|ˈɟæɴˌɢæreɲ̊|VERB|To hear (Imperfective)|añagi|ˈʔæŋ̊ˌŋ̊æːɣgin̥|
+|ya'ñarrê|ˈɟæʔˌɴ̥ærre|PART|To hear (Negative Participle)|akañagi|ˈʔæk̚ˌŋ̊æːɣɣi|
+|yañqaranjef|ˈɟæɴˌɢæræɲɛf|VERB|To hear (Perfective)|añagkinef|ˈʔæŋ̊ˌŋ̊æːɣgnɐf|
+|yañqarênj|ˈɟæɴˌɢæreɲ̊|VERB|To hear (Imperfective)|añagkin|ˈʔæŋ̊ˌŋ̊æːɣgin̥|
 |jêñgha'|ˈjeɴɣæʔ|PART|To see (Participle)|êkjap|ˈjeːg̚jæp̚|
-|jêxieñgha'|ˈjeˌxie̯ɴɣæʔ|PART|To see (Negative Participle)|êkjap|ˈjeːˌçiːg̚jæp̚|
-|jêñghanjef|ˈjeɴˌɣæɲ̊ɛf|VERB|To see (Perfective)|êkjap|ˈjeːg̚ˌjæp̚kn̥ɐf|
-|jêñghaanj|ˈjeɴˌɣææɲ̊|VERB|To see (Imperfective)|êkjap|ˈjeːg̚ˌjæp̚kæn̥|
+|jêxieñgha'|ˈjeˌxie̯ɴɣæʔ|PART|To see (Negative Participle)|êshêkjap|ˈjeːˌçiːg̚jæp̚|
+|jêñghanjef|ˈjeɴˌɣæɲ̊ɛf|VERB|To see (Perfective)|êkjapknef|ˈjeːg̚ˌjæp̚kn̥ɐf|
+|jêñghaanj|ˈjeɴˌɣææɲ̊|VERB|To see (Imperfective)|êkjapkan|ˈjeːg̚ˌjæp̚kæn̥|
 |qâuga|ˈɢɑʊ̯gæ|PART|To know (Participle)|qâlkja|ˈqaːld͡ʒæ|
-|jêqâuga|ˈjeˌɢɑʊ̯gæ|PART|To know (Negative Participle)|qâlkja|ˈjeːˌqaːld͡ʒæ|
-|qâugancef|ˈɢɑʊ̯ˌgæɲ̊cɛf|VERB|To know (Perfective)|qâlkja|ˈqaːlˌd͡ʒæn̥n̥ɐf|
-|qâuganj|ˈɢɑʊ̯gæɲ̊|VERB|To know (Imperfective)|qâlkja|ˈqaːld͡ʒæn̥|
+|jêqâuga|ˈjeˌɢɑʊ̯gæ|PART|To know (Negative Participle)|êqâlkja|ˈjeːˌqaːld͡ʒæ|
+|qâugancef|ˈɢɑʊ̯ˌgæɲ̊cɛf|VERB|To know (Perfective)|qâlkjanef|ˈqaːlˌd͡ʒæn̥n̥ɐf|
+|qâuganj|ˈɢɑʊ̯gæɲ̊|VERB|To know (Imperfective)|qâlkjan|ˈqaːld͡ʒæn̥|
 |peffi'ħê|ˈpɛfˌfiʔħe|PART|To sleep (Participle)|pefithê|ˈpɛfˌfit̚ħɘː|
-|jêmvi'ħê|ˈjemˌʋiʔħe|PART|To sleep (Negative Participle)|pefithê|ˈjeːb̚ˌvit̚ħɘː|
-|peffi'ħeiñef|ˈpɛffiʔˌħei̯ɴɛf|VERB|To sleep (Perfective)|pefithê|ˈpɛffit̚ˌħɨːŋɐf|
-|peffi'ħêñ|ˈpɛfˌfiʔħeɴ|VERB|To sleep (Imperfective)|pefithê|ˈpɛfˌfit̚ħɘːŋ|
+|jêmvi'ħê|ˈjemˌʋiʔħe|PART|To sleep (Negative Participle)|êpefithê|ˈjeːb̚ˌvit̚ħɘː|
+|peffi'ħeiñef|ˈpɛffiʔˌħei̯ɴɛf|VERB|To sleep (Perfective)|pefithêñef|ˈpɛffit̚ˌħɨːŋɐf|
+|peffi'ħêñ|ˈpɛfˌfiʔħeɴ|VERB|To sleep (Imperfective)|pefithêñ|ˈpɛfˌfit̚ħɘːŋ|
 |yi'ħêmpê|ˈɟiʔˌħem̥pe|PART|To die (not live) > To be dead (Participle)|itihimê|ˈʔit̚ˌħɨm̥m̥ɘː|
-|yicceghemê|ˈɟicˌcɛɣɛme|PART|To die (not live) > To be dead (Negative Participle)|itihimê|ˈʔit̚ˌtjɐmɘː|
-|yi'ħêmbieñef|ˈɟiʔħemˌbie̯ɴɛf|VERB|To die (not live) > To be dead (Perfective)|itihimê|ˈʔit̚ħɨmˌmiːŋɐf|
-|yi'ħêmpêñ|ˈɟiʔˌħem̥peɴ|VERB|To die (not live) > To be dead (Imperfective)|itihimê|ˈʔit̚ˌħɨm̥m̥ɘːŋ|
+|yicceghemê|ˈɟicˌcɛɣɛme|PART|To die (not live) > To be dead (Negative Participle)|ititihimê|ˈʔit̚ˌtjɐmɘː|
+|yi'ħêmbieñef|ˈɟiʔħemˌbie̯ɴɛf|VERB|To die (not live) > To be dead (Perfective)|itihimêñef|ˈʔit̚ħɨmˌmiːŋɐf|
+|yi'ħêmpêñ|ˈɟiʔˌħem̥peɴ|VERB|To die (not live) > To be dead (Imperfective)|itihimêñ|ˈʔit̚ˌħɨm̥m̥ɘːŋ|
 |arrhaanj|ær̥ˈr̥ææɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Participle)|xekan|ˈxɛk̚kæn̥|
-|nêränj|ˈneraɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Negative Participle)|xekan|ˈjĩɣgæn̥|
-|arrha'njef|ær̥ˈr̥æʔɲ̊ɛf|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Perfective)|xekan|ˈxɛk̚n̥ɐf|
+|nêränj|ˈneraɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Negative Participle)|jîxekan|ˈjĩɣgæn̥|
+|arrha'njef|ær̥ˈr̥æʔɲ̊ɛf|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Perfective)|xeknef|ˈxɛk̚n̥ɐf|
 |arrhaanj|ær̥ˈr̥ææɲ̊|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Imperfective)|xekan|ˈxɛk̚kæn̥|
 |ququoźlja|ˈɢuˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Participle)|ûqêzla|ˈʔũːˌɢɨːzlæ|
-|quźjëquoźlja|ˈɢuʑjɤˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Negative Participle)|ûqêzla|ˈʔũzɥiːˌqɨːzlæ|
-|quñëźljancef|ˈɢuɴɤʑˌʎæɲ̊cɛf|VERB|To swim > To be (travelling) in water (Perfective)|ûqêzla|ˈʔũːɢ̚ɘːzˌglæn̥n̥ɐf|
-|ququoźljanj|ˈɢuˌɢuo̯ʑʎæɲ̊|VERB|To swim > To be (travelling) in water (Imperfective)|ûqêzla|ˈʔũːˌɢɨːzglæn̥|
+|quźjëquoźlja|ˈɢuʑjɤˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Negative Participle)|ûswîqêzla|ˈʔũzɥiːˌqɨːzlæ|
+|quñëźljancef|ˈɢuɴɤʑˌʎæɲ̊cɛf|VERB|To swim > To be (travelling) in water (Perfective)|ûqêzklanef|ˈʔũːɢ̚ɘːzˌglæn̥n̥ɐf|
+|ququoźljanj|ˈɢuˌɢuo̯ʑʎæɲ̊|VERB|To swim > To be (travelling) in water (Imperfective)|ûqêzklan|ˈʔũːˌɢɨːzglæn̥|
 |qumbbvoñaś|ˈɢumbˌbʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Participle)|ûqpûhal|ˈʔũːɢ̚ˌbwɐ̃æɬ|
-|quźjëbbvoñaś|ˈɢuʑjɤbˌbʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Negative Participle)|ûqpûhal|ˈʔũzɥiːɢ̚ˌbwɐ̃æɬ|
-|qumbbuħśancef|ˈɢumbbuħˌɕæɲ̊cɛf|VERB|To fly > To be (travelling) in the air (Perfective)|ûqpûhal|ˈʔũːɢ̚buħˌkɬæn̥n̥ɐf|
-|qumbbvoljanj|ˈɢumbˌbʋɔʎæɲ̊|VERB|To fly > To be (travelling) in the air (Imperfective)|ûqpûhal|ˈʔũːɢ̚ˌbwɐ̃glæn̥|
+|quźjëbbvoñaś|ˈɢuʑjɤbˌbʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Negative Participle)|ûswîqpûhal|ˈʔũzɥiːɢ̚ˌbwɐ̃æɬ|
+|qumbbuħśancef|ˈɢumbbuħˌɕæɲ̊cɛf|VERB|To fly > To be (travelling) in the air (Perfective)|ûqpûhklanef|ˈʔũːɢ̚buħˌkɬæn̥n̥ɐf|
+|qumbbvoljanj|ˈɢumbˌbʋɔʎæɲ̊|VERB|To fly > To be (travelling) in the air (Imperfective)|ûqpûhklan|ˈʔũːɢ̚ˌbwɐ̃glæn̥|
 |peffa|ˈpɛffæ|PART|To lie (on your side) (Participle)|pefa|ˈpɛffæ|
-|jêmva|ˈjemʋæ|PART|To lie (on your side) (Negative Participle)|pefa|ˈjeːb̚væ|
-|pefnjef|ˈpɛfɲ̊ɛf|VERB|To lie (on your side) (Perfective)|pefa|ˈpɛfkn̥ɐf|
-|pefanj|ˈpɛfæɲ̊|VERB|To lie (on your side) (Imperfective)|pefa|ˈpɛfkæn̥|
+|jêmva|ˈjemʋæ|PART|To lie (on your side) (Negative Participle)|êpefa|ˈjeːb̚væ|
+|pefnjef|ˈpɛfɲ̊ɛf|VERB|To lie (on your side) (Perfective)|pefknef|ˈpɛfkn̥ɐf|
+|pefanj|ˈpɛfæɲ̊|VERB|To lie (on your side) (Imperfective)|pefkan|ˈpɛfkæn̥|
 |gheanj|ˈɣɛæɲ̊|PART|To sit (Participle)|gjekan|ˈʝɛk̚kæn̥|
-|neargheanj|ˈneɐ̯rˌɣɛæɲ̊|PART|To sit (Negative Participle)|gjekan|ˈjĩːɣˌjɛk̚kæn̥|
-|ghe'njef|ˈɣɛʔɲ̊ɛf|VERB|To sit (Perfective)|gjekan|ˈʝɛk̚n̥ɐf|
+|neargheanj|ˈneɐ̯rˌɣɛæɲ̊|PART|To sit (Negative Participle)|jîgjekan|ˈjĩːɣˌjɛk̚kæn̥|
+|ghe'njef|ˈɣɛʔɲ̊ɛf|VERB|To sit (Perfective)|gjeknef|ˈʝɛk̚n̥ɐf|
 |gheanj|ˈɣɛæɲ̊|VERB|To sit (Imperfective)|gjekan|ˈʝɛk̚kæn̥|
 |vaaś|ˈʋææɕ|PART|To say > To mean/To intend (Participle)|vatakas|ˈvæt̚kæs|
-|ünyaaś|ˈyɲˌɟææɕ|PART|To say > To mean/To intend (Negative Participle)|vatakas|ˈjĩːvˌdæk̚kæs|
-|vanjef|ˈʋæɲ̊ɛf|VERB|To say > To mean/To intend (Perfective)|vatakas|ˈvæt̚kn̥ɐf|
-|vaanj|ˈʋææɲ̊|VERB|To say > To mean/To intend (Imperfective)|vatakas|ˈvæt̚kæn̥|
+|ünyaaś|ˈyɲˌɟææɕ|PART|To say > To mean/To intend (Negative Participle)|jîvatakas|ˈjĩːvˌdæk̚kæs|
+|vanjef|ˈʋæɲ̊ɛf|VERB|To say > To mean/To intend (Perfective)|vataknef|ˈvæt̚kn̥ɐf|
+|vaanj|ˈʋææɲ̊|VERB|To say > To mean/To intend (Imperfective)|vatakan|ˈvæt̚kæn̥|
 |vatfenj|ˈʋætfɛɲ̊|PART|To blow (Participle)|vatsen|ˈvæt̚t͡θɐn̥|
-|ündvenj|ˈyndʋɛɲ̊|PART|To blow (Negative Participle)|vatsen|ˈjĩːvd͡ðɐn̥|
-|vaftnjef|ˈʋæftɲ̊ɛf|VERB|To blow (Perfective)|vatsen|ˈvæt͡θkn̥ɐf|
-|vaftenj|ˈʋæftɛɲ̊|VERB|To blow (Imperfective)|vatsen|ˈvæt͡θkɐn̥|
+|ündvenj|ˈyndʋɛɲ̊|PART|To blow (Negative Participle)|jîvatsen|ˈjĩːvd͡ðɐn̥|
+|vaftnjef|ˈʋæftɲ̊ɛf|VERB|To blow (Perfective)|vatskenef|ˈvæt͡θkn̥ɐf|
+|vaftenj|ˈʋæftɛɲ̊|VERB|To blow (Imperfective)|vatsken|ˈvæt͡θkɐn̥|
 |vatfnjaanj|ˈʋætfˌɲ̊ææɲ̊|PART|To vomit > To be sick (Participle)|vatsenakan|ˈvæt͡θˌn̥æk̚kæn̥|
-|ündvenjanj|ˈynˌdʋɛɲ̊æɲ̊|PART|To vomit > To be sick (Negative Participle)|vatsenakan|ˈjĩːvˌd͡ðɛn̥kæn̥|
-|vatfnja'njef|ˈʋætfˌɲ̊æʔɲ̊ɛf|VERB|To vomit > To be sick (Perfective)|vatsenakan|ˈvæt͡θˌn̥æk̚n̥ɐf|
+|ündvenjanj|ˈynˌdʋɛɲ̊æɲ̊|PART|To vomit > To be sick (Negative Participle)|jîvatsenakan|ˈjĩːvˌd͡ðɛn̥kæn̥|
+|vatfnja'njef|ˈʋætfˌɲ̊æʔɲ̊ɛf|VERB|To vomit > To be sick (Perfective)|vatsenaknef|ˈvæt͡θˌn̥æk̚n̥ɐf|
 |vatfnjaanj|ˈʋætfˌɲ̊ææɲ̊|VERB|To vomit > To be sick (Imperfective)|vatsenakan|ˈvæt͡θˌn̥æk̚kæn̥|
 |qâuanj|ˈɢɑʊ̯æɲ̊|PART|To think (Participle)|qâlan|ˈqaːlæn̥|
-|jêqâuanj|ˈjeˌɢɑʊ̯æɲ̊|PART|To think (Negative Participle)|qâlan|ˈjeːˌqaːlæn̥|
-|qâunjof|ˈɢɑʊ̯ɲɔf|VERB|To think (Perfective)|qâlan|ˈqaːlgnɐf|
-|qâuanj|ˈɢɑʊ̯æɲ̊|VERB|To think (Imperfective)|qâlan|ˈqaːlgæn̥|
+|jêqâuanj|ˈjeˌɢɑʊ̯æɲ̊|PART|To think (Negative Participle)|êqâlan|ˈjeːˌqaːlæn̥|
+|qâunjof|ˈɢɑʊ̯ɲɔf|VERB|To think (Perfective)|qâlknef|ˈqaːlgnɐf|
+|qâuanj|ˈɢɑʊ̯æɲ̊|VERB|To think (Imperfective)|qâlkan|ˈqaːlgæn̥|
 |vaftce|ˈʋæftcɛ|PART|To smell (Participle)|vatsete|ˈvæt͡θtɐ|
-|ündvecce|ˈynˌdʋɛccɛ|PART|To smell (Negative Participle)|vatsete|ˈjĩːvˌd͡ðɛt̚tɐ|
-|vatfenjef|ˈʋætˌfɛɲ̊ɛf|VERB|To smell (Perfective)|vatsete|ˈvæt̚ˌt͡θɛt̚kn̥ɐf|
-|vatfeenj|ˈʋætˌfɛɛɲ̊|VERB|To smell (Imperfective)|vatsete|ˈvæt̚ˌt͡θɛt̚kɐn̥|
+|ündvecce|ˈynˌdʋɛccɛ|PART|To smell (Negative Participle)|jîvatsete|ˈjĩːvˌd͡ðɛt̚tɐ|
+|vatfenjef|ˈʋætˌfɛɲ̊ɛf|VERB|To smell (Perfective)|vatsetkenef|ˈvæt̚ˌt͡θɛt̚kn̥ɐf|
+|vatfeenj|ˈʋætˌfɛɛɲ̊|VERB|To smell (Imperfective)|vatsetken|ˈvæt̚ˌt͡θɛt̚kɐn̥|
 |qaoi'ħêm|ˈɢæo̯ˌiʔħem̥|PART|To fear (Participle)|qâithim|ˈqaːˌit̚ħɨm̥|
-|jêñoi'ħêm|ˈjeɴɔˌiʔħem̥|PART|To fear (Negative Participle)|qâithim|ˈjeːɢ̚ɑːˌit̚ħɨm̥|
-|qaoi'ħêñenjef|ˈɢæo̯iʔˌħeɴ̥ɛɲ̊ɛf|VERB|To fear (Perfective)|qâithim|ˈqaːit̚ˌħɨŋ̊kn̥ɐf|
-|qaoi'ħêñanj|ˈɢæo̯iʔˌħeɴ̥æɲ̊|VERB|To fear (Imperfective)|qâithim|ˈqaːit̚ˌħɨŋ̊kæn̥|
+|jêñoi'ħêm|ˈjeɴɔˌiʔħem̥|PART|To fear (Negative Participle)|êqâithim|ˈjeːɢ̚ɑːˌit̚ħɨm̥|
+|qaoi'ħêñenjef|ˈɢæo̯iʔˌħeɴ̥ɛɲ̊ɛf|VERB|To fear (Perfective)|qâithiñknef|ˈqaːit̚ˌħɨŋ̊kn̥ɐf|
+|qaoi'ħêñanj|ˈɢæo̯iʔˌħeɴ̥æɲ̊|VERB|To fear (Imperfective)|qâithiñkan|ˈqaːit̚ˌħɨŋ̊kæn̥|
 |qunljar|ˈɢuɲʎær|PART|To fight (Participle)|ûtilag|ˈʔũːd̚læːɣ|
-|quźjinljar|ˈɢuʑˌjiɲʎær|PART|To fight (Negative Participle)|ûtilag|ˈʔũzˌɥĩːd̚læːɣ|
-|qunyiśnjef|ˈɢuɲˌɟiɕɲ̊ɛf|VERB|To fight (Perfective)|ûtilag|ˈʔũːˌdiɬkn̥ɐf|
-|qunyiśanj|ˈɢuɲˌɟiɕæɲ̊|VERB|To fight (Imperfective)|ûtilag|ˈʔũːˌdiɬkæn̥|
+|quźjinljar|ˈɢuʑˌjiɲʎær|PART|To fight (Negative Participle)|ûswîtilag|ˈʔũzˌɥĩːd̚læːɣ|
+|qunyiśnjef|ˈɢuɲˌɟiɕɲ̊ɛf|VERB|To fight (Perfective)|ûtilknef|ˈʔũːˌdiɬkn̥ɐf|
+|qunyiśanj|ˈɢuɲˌɟiɕæɲ̊|VERB|To fight (Imperfective)|ûtilkan|ˈʔũːˌdiɬkæn̥|
 |varħacci|ˈʋær̥ˌħæcci|PART|To hunt (Participle)|varhati|ˈvær̥ˌħæt̚ti|
-|ümarħacci|ˈymær̥ˌħæcci|PART|To hunt (Negative Participle)|varhati|ˈjĩːvær̥ˌħæt̚ti|
-|varħanjef|ˈʋær̥ˌħæɲ̊ɛf|VERB|To hunt (Perfective)|varhati|ˈvær̥ˌħæt̚kn̥ɐf|
-|varħainj|ˈʋær̥ˌħæiɲ̊|VERB|To hunt (Imperfective)|varhati|ˈvær̥ˌħæt̚kin̥|
+|ümarħacci|ˈymær̥ˌħæcci|PART|To hunt (Negative Participle)|jîvarhati|ˈjĩːvær̥ˌħæt̚ti|
+|varħanjef|ˈʋær̥ˌħæɲ̊ɛf|VERB|To hunt (Perfective)|varhatkinef|ˈvær̥ˌħæt̚kn̥ɐf|
+|varħainj|ˈʋær̥ˌħæiɲ̊|VERB|To hunt (Imperfective)|varhatkin|ˈvær̥ˌħæt̚kin̥|
 |uioña'|ˈuɪ̯ɔɴæʔ|PART|To hold (Participle)|lîhaq|ˈljɐ̃æq̚|
-|qêśśgheña'|ˈɢeɕˌɕɣɛɴæʔ|PART|To hold (Negative Participle)|lîhaq|ˈqɨɬˌɬjɐ̃æq̚|
-|ljienjâenjof|ˈʎie̯ˌɲɑe̯ɲ̊ɔf|VERB|To hold (Perfective)|lîhaq|ˈlĩːˌɑɛ̯q̚kn̥ɐf|
-|ljienjâeanj|ˈʎie̯ˌɲɑe̯æɲ̊|VERB|To hold (Imperfective)|lîhaq|ˈlĩːˌɑɛ̯q̚kæn̥|
+|qêśśgheña'|ˈɢeɕˌɕɣɛɴæʔ|PART|To hold (Negative Participle)|qilîhaq|ˈqɨɬˌɬjɐ̃æq̚|
+|ljienjâenjof|ˈʎie̯ˌɲɑe̯ɲ̊ɔf|VERB|To hold (Perfective)|lîhaqknef|ˈlĩːˌɑɛ̯q̚kn̥ɐf|
+|ljienjâeanj|ˈʎie̯ˌɲɑe̯æɲ̊|VERB|To hold (Imperfective)|lîhaqkan|ˈlĩːˌɑɛ̯q̚kæn̥|
 |ħaqqe'|ˈħæɢɢɛʔ|PART|To have (Participle)|haqop|ˈħæq̚qɐp̚|
-|igheqe'|ˈiɣɛɢɛʔ|PART|To have (Negative Participle)|haqop|ˈjjɐ̃ɢɐp̚|
-|ħaqqonjof|ˈħæɢˌɢɔɲ̊ɔf|VERB|To have (Perfective)|haqop|ˈħæq̚ˌqɔp̚kn̥ɐf|
-|ħaqqoanj|ˈħæɢˌɢɔæɲ̊|VERB|To have (Imperfective)|haqop|ˈħæq̚ˌqɔp̚kæn̥|
+|igheqe'|ˈiɣɛɢɛʔ|PART|To have (Negative Participle)|jîhaqop|ˈjjɐ̃ɢɐp̚|
+|ħaqqonjof|ˈħæɢˌɢɔɲ̊ɔf|VERB|To have (Perfective)|haqopknef|ˈħæq̚ˌqɔp̚kn̥ɐf|
+|ħaqqoanj|ˈħæɢˌɢɔæɲ̊|VERB|To have (Imperfective)|haqopkan|ˈħæq̚ˌqɔp̚kæn̥|
 |vanħaonöri|ˈʋæn̥ˌħæo̯nøri|PART|To sing (Participle)|vanhânfri|ˈvæn̥ˌħaːnvri|
-|ümanħaonöri|ˈymæn̥ˌħæo̯nøri|PART|To sing (Negative Participle)|vanhânfri|ˈjĩːvæn̥ˌħaːnvri|
-|vanħonurëñqof|ˈʋæn̥ħɔnˌurɤɴɢɔf|VERB|To sing (Perfective)|vanhânfri|ˈvæn̥ħɑːnˌvriŋ̊ŋ̊ɐf|
-|vanħaonöriñ|ˈʋæn̥ˌħæo̯nøriɴ̥|VERB|To sing (Imperfective)|vanhânfri|ˈvæn̥ˌħaːnvriŋ̊|
+|ümanħaonöri|ˈymæn̥ˌħæo̯nøri|PART|To sing (Negative Participle)|jîvanhânfri|ˈjĩːvæn̥ˌħaːnvri|
+|vanħonurëñqof|ˈʋæn̥ħɔnˌurɤɴɢɔf|VERB|To sing (Perfective)|vanhânfriñef|ˈvæn̥ħɑːnˌvriŋ̊ŋ̊ɐf|
+|vanħaonöriñ|ˈʋæn̥ˌħæo̯nøriɴ̥|VERB|To sing (Imperfective)|vanhânfriñ|ˈvæn̥ˌħaːnvriŋ̊|
 |venmenj|ˈʋɛn̥m̥ɛɲ̊|PART|To play (games) (Participle)|veranmen|ˈvɛɳ̊m̥ɐn̥|
-|nüranjmenj|ˈnyˌræɲ̊m̥ɛɲ̊|PART|To play (games) (Negative Participle)|veranmen|ˈjĩːvˌræn̥m̥ɐn̥|
-|verrhanjmencef|ˈʋɛr̥r̥æɲ̊ˌm̥ɛɲ̊cɛf|VERB|To play (games) (Perfective)|veranmen|ˈvɛr̥r̥æn̥ˌkm̥ɛn̥n̥ɐf|
-|verrhanjmenj|ˈʋɛr̥ˌr̥æɲ̊m̥ɛɲ̊|VERB|To play (games) (Imperfective)|veranmen|ˈvɛr̥ˌr̥æn̥km̥ɐn̥|
+|nüranjmenj|ˈnyˌræɲ̊m̥ɛɲ̊|PART|To play (games) (Negative Participle)|jîveranmen|ˈjĩːvˌræn̥m̥ɐn̥|
+|verrhanjmencef|ˈʋɛr̥r̥æɲ̊ˌm̥ɛɲ̊cɛf|VERB|To play (games) (Perfective)|verankmenef|ˈvɛr̥r̥æn̥ˌkm̥ɛn̥n̥ɐf|
+|verrhanjmenj|ˈʋɛr̥ˌr̥æɲ̊m̥ɛɲ̊|VERB|To play (games) (Imperfective)|verankmen|ˈvɛr̥ˌr̥æn̥km̥ɐn̥|
 |quñëź|ˈɢuɴɤʑ|PART|To flow (Participle)|ûqêz|ˈʔũːɢ̚ɘːz|
-|quźjiñêź|ˈɢuʑˌjiɴeʑ|PART|To flow (Negative Participle)|ûqêz|ˈʔũzˌɥĩːɢ̚ɘːz|
-|ququoźnjof|ˈɢuˌɢuo̯ʑɲɔf|VERB|To flow (Perfective)|ûqêz|ˈʔũːˌɢɨːzgnɐf|
-|ququoźanj|ˈɢuˌɢuo̯ʑæɲ̊|VERB|To flow (Imperfective)|ûqêz|ˈʔũːˌɢɨːzgæn̥|
+|quźjiñêź|ˈɢuʑˌjiɴeʑ|PART|To flow (Negative Participle)|ûswîqêz|ˈʔũzˌɥĩːɢ̚ɘːz|
+|ququoźnjof|ˈɢuˌɢuo̯ʑɲɔf|VERB|To flow (Perfective)|ûqêzknef|ˈʔũːˌɢɨːzgnɐf|
+|ququoźanj|ˈɢuˌɢuo̯ʑæɲ̊|VERB|To flow (Imperfective)|ûqêzkan|ˈʔũːˌɢɨːzgæn̥|
 |quña'uccou|ˈɢuɴæʔˌuccou̯|PART|To freeze > To be frozen (Participle)|ûqautêv|ˈʔũːɢ̚æʔˌut̚tɘːv|
-|quźjëqa'uccou|ˈɢuʑjɤɢæʔˌuccou̯|PART|To freeze > To be frozen (Negative Participle)|ûqautêv|ˈʔũzɥiːqæʔˌut̚tɘːv|
-|quña'uccünjef|ˈɢuɴæʔucˌcyɲɛf|VERB|To freeze > To be frozen (Perfective)|ûqautêv|ˈʔũːɢ̚æʔut̚ˌtiːvgnɐf|
-|quña'uccüanj|ˈɢuɴæʔucˌcyæɲ̊|VERB|To freeze > To be frozen (Imperfective)|ûqautêv|ˈʔũːɢ̚æʔut̚ˌtiːvgæn̥|
+|quźjëqa'uccou|ˈɢuʑjɤɢæʔˌuccou̯|PART|To freeze > To be frozen (Negative Participle)|ûswîqautêv|ˈʔũzɥiːqæʔˌut̚tɘːv|
+|quña'uccünjef|ˈɢuɴæʔucˌcyɲɛf|VERB|To freeze > To be frozen (Perfective)|ûqautêvknef|ˈʔũːɢ̚æʔut̚ˌtiːvgnɐf|
+|quña'uccüanj|ˈɢuɴæʔucˌcyæɲ̊|VERB|To freeze > To be frozen (Imperfective)|ûqautêvkan|ˈʔũːɢ̚æʔut̚ˌtiːvgæn̥|
 |ħârpë|ˈħʌr̥pɤ|PART|To prosper > To be prosperous (Participle)|herpô|ˈħɜr̥pɘː|
-|ienjâerpë|ˈie̯ˌɲɑe̯r̥pɤ|PART|To prosper > To be prosperous (Negative Participle)|herpô|ˈjĩːˌɑɛ̯r̥pɘː|
-|ħârpuoñof|ˈħʌr̥ˌpuo̯ɴɔf|VERB|To prosper > To be prosperous (Perfective)|herpô|ˈħɜr̥ˌpuːŋɐf|
-|ħârpëñ|ˈħʌr̥pɤɴ|VERB|To prosper > To be prosperous (Imperfective)|herpô|ˈħɜr̥pɘːŋ|
+|ienjâerpë|ˈie̯ˌɲɑe̯r̥pɤ|PART|To prosper > To be prosperous (Negative Participle)|jîherpô|ˈjĩːˌɑɛ̯r̥pɘː|
+|ħârpuoñof|ˈħʌr̥ˌpuo̯ɴɔf|VERB|To prosper > To be prosperous (Perfective)|herpôñef|ˈħɜr̥ˌpuːŋɐf|
+|ħârpëñ|ˈħʌr̥pɤɴ|VERB|To prosper > To be prosperous (Imperfective)|herpôñ|ˈħɜr̥pɘːŋ|
 |camħe|ˈcæm̥ħɛ|PART|To remain (Participle)|tamhe|ˈtæm̥ħɐ|
-|jêcamħe|ˈjeˌcæm̥ħɛ|PART|To remain (Negative Participle)|tamhe|ˈjeːˌtæm̥ħɐ|
-|camñef|ˈcæmɴɛf|VERB|To remain (Perfective)|tamhe|ˈtæmŋɐf|
-|camħeñ|ˈcæm̥ħɛɴ̥|VERB|To remain (Imperfective)|tamhe|ˈtæm̥ħɐŋ̊|
+|jêcamħe|ˈjeˌcæm̥ħɛ|PART|To remain (Negative Participle)|êtamhe|ˈjeːˌtæm̥ħɐ|
+|camñef|ˈcæmɴɛf|VERB|To remain (Perfective)|tamheñef|ˈtæmŋɐf|
+|camħeñ|ˈcæm̥ħɛɴ̥|VERB|To remain (Imperfective)|tamheñ|ˈtæm̥ħɐŋ̊|
 |arraljanji|ærˈræʎæɲ̊i|PART|To adore/love (Participle)|glankî|ˈɣlæn̥kiː|
-|nearaljanji|ˈneɐ̯ræˌʎæɲ̊i|PART|To adore/love (Negative Participle)|glankî|ˈjĩːɣˌlæn̥kiː|
-|arraljanjienjef|ærˈræʎæɲ̊ˌie̯ɲɛf|VERB|To adore/love (Perfective)|glankî|ˈɣlæn̥ˌkĩːɐf|
-|arraljanjin|ærˈræʎæɲ̊in|VERB|To adore/love (Imperfective)|glankî|ˈɣlæn̥kĩː|
+|nearaljanji|ˈneɐ̯ræˌʎæɲ̊i|PART|To adore/love (Negative Participle)|jîglankî|ˈjĩːɣˌlæn̥kiː|
+|arraljanjienjef|ærˈræʎæɲ̊ˌie̯ɲɛf|VERB|To adore/love (Perfective)|glankîñef|ˈɣlæn̥ˌkĩːɐf|
+|arraljanjin|ærˈræʎæɲ̊in|VERB|To adore/love (Imperfective)|glankîñ|ˈɣlæn̥kĩː|
 |yeccüa'fo|ˈɟɛccyˌæʔfɔ|PART|To boast > To be boastful (Participle)|etîvatfâ|ˈʔɛt̚tiːˌvæt̚fɑː|
-|yexecüa'fo|ˈɟɛxɛcyˌæʔfɔ|PART|To boast > To be boastful (Negative Participle)|etîvatfâ|ˈʔɛçtiːˌvæt̚fɑː|
-|yeccüa'faoñef|ˈɟɛccyæʔˌfæo̯ɴɛf|VERB|To boast > To be boastful (Perfective)|etîvatfâ|ˈʔɛt̚tiːvæt̚ˌfaːŋɐf|
-|yeccüa'foñ|ˈɟɛccyˌæʔfɔɴ|VERB|To boast > To be boastful (Imperfective)|etîvatfâ|ˈʔɛt̚tiːˌvæt̚fɑːŋ|
+|yexecüa'fo|ˈɟɛxɛcyˌæʔfɔ|PART|To boast > To be boastful (Negative Participle)|eshetîvatfâ|ˈʔɛçtiːˌvæt̚fɑː|
+|yeccüa'faoñef|ˈɟɛccyæʔˌfæo̯ɴɛf|VERB|To boast > To be boastful (Perfective)|etîvatfâñef|ˈʔɛt̚tiːvæt̚ˌfaːŋɐf|
+|yeccüa'foñ|ˈɟɛccyˌæʔfɔɴ|VERB|To boast > To be boastful (Imperfective)|etîvatfâñ|ˈʔɛt̚tiːˌvæt̚fɑːŋ|
 |arrhaonj|ær̥ˈr̥æɔɲ|PART|To march (Participle)|xekakân|ˈxɛk̚kɑːn|
-|nêräonj|ˈnerˌaɔɲ|PART|To march (Negative Participle)|xekakân|ˈjĩɣˌgæk̚kɑːn|
-|arrhanjef|ær̥ˈr̥æɲ̊ɛf|VERB|To march (Perfective)|xekakân|ˈxɛk̚kn̥ɐf|
-|arrhaanj|ær̥ˈr̥ææɲ̊|VERB|To march (Imperfective)|xekakân|ˈxɛk̚kæn̥|
+|nêräonj|ˈnerˌaɔɲ|PART|To march (Negative Participle)|jîxekakân|ˈjĩɣˌgæk̚kɑːn|
+|arrhanjef|ær̥ˈr̥æɲ̊ɛf|VERB|To march (Perfective)|xekaknef|ˈxɛk̚kn̥ɐf|
+|arrhaanj|ær̥ˈr̥ææɲ̊|VERB|To march (Imperfective)|xekakan|ˈxɛk̚kæn̥|
 |vâeo|ˈʋɑe̯ɔ|PART|To be shocked (Participle)|vâo|ˈvaːɐ|
-|ümaoe|ˈyˌmæo̯ɛ|PART|To be shocked (Negative Participle)|vâo|ˈjĩːˌvaːɐ|
-|vâeoñqof|ˈʋɑe̯ˌɔɴɢɔf|VERB|To be shocked (Perfective)|vâo|ˈvaːˌɔŋ̊ŋ̊ɐf|
-|vâeoñ|ˈʋɑe̯ɔɴ̥|VERB|To be shocked (Imperfective)|vâo|ˈvaːɐŋ̊|
+|ümaoe|ˈyˌmæo̯ɛ|PART|To be shocked (Negative Participle)|jîvâo|ˈjĩːˌvaːɐ|
+|vâeoñqof|ˈʋɑe̯ˌɔɴɢɔf|VERB|To be shocked (Perfective)|vâoñef|ˈvaːˌɔŋ̊ŋ̊ɐf|
+|vâeoñ|ˈʋɑe̯ɔɴ̥|VERB|To be shocked (Imperfective)|vâoñ|ˈvaːɐŋ̊|
 |quljo|ˈɢuʎɔ|PART|To lose > To be lost (Participle)|ûle|ˈʔũːlɐ|
-|quźjüme|ˈɢuʑˌjymɛ|PART|To lose > To be lost (Negative Participle)|ûle|ˈʔũzˌɥĩːlɐ|
-|quljnjof|ˈɢuʎɲɔf|VERB|To lose > To be lost (Perfective)|ûle|ˈʔũːlgnɐf|
-|quljonj|ˈɢuʎɔɲ̊|VERB|To lose > To be lost (Imperfective)|ûle|ˈʔũːlgɐn̥|
+|quźjüme|ˈɢuʑˌjymɛ|PART|To lose > To be lost (Negative Participle)|ûswîle|ˈʔũzˌɥĩːlɐ|
+|quljnjof|ˈɢuʎɲɔf|VERB|To lose > To be lost (Perfective)|ûlkenef|ˈʔũːlgnɐf|
+|quljonj|ˈɢuʎɔɲ̊|VERB|To lose > To be lost (Imperfective)|ûlken|ˈʔũːlgɐn̥|
 |ghärrhänj|ˈɣar̥r̥aɲ̊|PART|To wait (Participle)|gjaxexan|ˈʝæxxæn̥|
-|nearghärrhänj|ˈneɐ̯rˌɣar̥r̥aɲ̊|PART|To wait (Negative Participle)|gjaxexan|ˈjĩːɣˌjæxxæn̥|
-|ghärrharhanjef|ˈɣar̥ˌr̥ær̥æɲ̊ɛf|VERB|To wait (Perfective)|gjaxexan|ˈʝæxˌxɛxkn̥ɐf|
-|ghärrharhänj|ˈɣar̥ˌr̥ær̥aɲ̊|VERB|To wait (Imperfective)|gjaxexan|ˈʝæxˌxɛxkæn̥|
+|nearghärrhänj|ˈneɐ̯rˌɣar̥r̥aɲ̊|PART|To wait (Negative Participle)|jîgjaxexan|ˈjĩːɣˌjæxxæn̥|
+|ghärrharhanjef|ˈɣar̥ˌr̥ær̥æɲ̊ɛf|VERB|To wait (Perfective)|gjaxexknef|ˈʝæxˌxɛxkn̥ɐf|
+|ghärrharhänj|ˈɣar̥ˌr̥ær̥aɲ̊|VERB|To wait (Imperfective)|gjaxexkan|ˈʝæxˌxɛxkæn̥|
 |yêre|ˈɟerɛ|PART|To follow (Participle)|îxegh|ˈʔĩɣɘː|
-|yiźêre|ˈɟiˌʑerɛ|PART|To follow (Negative Participle)|îxegh|ˈʔĩːˌzĩɣɘː|
-|yearainjef|ˈɟeɐ̯ˌræɪ̯ɲɛf|VERB|To follow (Perfective)|îxegh|ˈʔĩːˌɣæːgnɐf|
-|yearaianj|ˈɟeɐ̯ˌræɪ̯æɲ̊|VERB|To follow (Imperfective)|îxegh|ˈʔĩːˌɣæːgæn̥|
+|yiźêre|ˈɟiˌʑerɛ|PART|To follow (Negative Participle)|îsîxegh|ˈʔĩːˌzĩɣɘː|
+|yearainjef|ˈɟeɐ̯ˌræɪ̯ɲɛf|VERB|To follow (Perfective)|îxeghknef|ˈʔĩːˌɣæːgnɐf|
+|yearaianj|ˈɟeɐ̯ˌræɪ̯æɲ̊|VERB|To follow (Imperfective)|îxeghkan|ˈʔĩːˌɣæːgæn̥|
 |vatfanj|ˈʋætfæɲ̊|PART|To breathe > To be alive (Participle)|vatsan|ˈvæt̚t͡θæn̥|
-|ündvanj|ˈyndʋæɲ̊|PART|To breathe > To be alive (Negative Participle)|vatsan|ˈjĩːvd͡ðæn̥|
-|vatfñef|ˈʋætfɴ̥ɛf|VERB|To breathe > To be alive (Perfective)|vatsan|ˈvæt͡θŋ̊ɐf|
-|vatfañ|ˈʋætfæɴ̥|VERB|To breathe > To be alive (Imperfective)|vatsan|ˈvæt̚t͡θæŋ̊|
+|ündvanj|ˈyndʋæɲ̊|PART|To breathe > To be alive (Negative Participle)|jîvatsan|ˈjĩːvd͡ðæn̥|
+|vatfñef|ˈʋætfɴ̥ɛf|VERB|To breathe > To be alive (Perfective)|vatsañef|ˈvæt͡θŋ̊ɐf|
+|vatfañ|ˈʋætfæɴ̥|VERB|To breathe > To be alive (Imperfective)|vatsañ|ˈvæt̚t͡θæŋ̊|
 |yatfa|ˈɟætfæ|PART|To laugh > To be laughing (Participle)|atsa|ˈʔæt̚t͡θæ|
-|yatfa|ˈɟætfæ|PART|To laugh > To be laughing (Negative Participle)|atsa|ˈʔæk̚t͡θæ|
-|yaftnjef|ˈɟæftɲ̊ɛf|VERB|To laugh > To be laughing (Perfective)|atsa|ˈʔæt͡θkn̥ɐf|
-|yaftanj|ˈɟæftæɲ̊|VERB|To laugh > To be laughing (Imperfective)|atsa|ˈʔæt͡θkæn̥|
+|yatfa|ˈɟætfæ|PART|To laugh > To be laughing (Negative Participle)|akatsa|ˈʔæk̚t͡θæ|
+|yaftnjef|ˈɟæftɲ̊ɛf|VERB|To laugh > To be laughing (Perfective)|atsknef|ˈʔæt͡θkn̥ɐf|
+|yaftanj|ˈɟæftæɲ̊|VERB|To laugh > To be laughing (Imperfective)|atskan|ˈʔæt͡θkæn̥|
 |quttśo|ˈɢucc͡ɕɔ|PART|To drink (Participle)|uple|ˈʔup̚ɬɐ|
-|qu'fittśe|ˈɢuʔˌficc͡ɕɛ|PART|To drink (Negative Participle)|uple|ˈʔut̚ˌɸip̚ɬɐ|
+|qu'fittśe|ˈɢuʔˌficc͡ɕɛ|PART|To drink (Negative Participle)|utwiple|ˈʔut̚ˌɸip̚ɬɐ|
 |quttśo|ˈɢucc͡ɕɔ|VERB|To drink (Perfective)|uple|ˈʔup̚ɬɐ|
-|quttśee|ˈɢucˌc͡ɕɛɛ|VERB|To drink (Imperfective)|uple|ˈʔup̚ˌɬɛk̚kɐ|
+|quttśee|ˈɢucˌc͡ɕɛɛ|VERB|To drink (Imperfective)|upleke|ˈʔup̚ˌɬɛk̚kɐ|
 |qompëñ|ˈɢɔm̥pɤɴ|PART|To eat (Participle)|omôq|ˈʔɔm̥m̥ɘːɢ̚|
-|qoxfmëñ|ˈɢɔxfmɤɴ|PART|To eat (Negative Participle)|omôq|ˈʔɔçɸmɘːɢ̚|
+|qoxfmëñ|ˈɢɔxfmɤɴ|PART|To eat (Negative Participle)|oshwemôq|ˈʔɔçɸmɘːɢ̚|
 |qompëñ|ˈɢɔm̥pɤɴ|VERB|To eat (Perfective)|omôq|ˈʔɔm̥m̥ɘːɢ̚|
-|qompuo|ˈɢɔm̥ˌpuɔ|VERB|To eat (Imperfective)|omôq|ˈʔɔm̥ˌm̥uːɢ̚gɐ|
+|qompuo|ˈɢɔm̥ˌpuɔ|VERB|To eat (Imperfective)|omôqke|ˈʔɔm̥ˌm̥uːɢ̚gɐ|
 |mâenjârâ|ˈmɑe̯ɲʌrʌ|PART|To come (Participle)|mângê|ˈmaːnɣɘː|
-|âempâenjârâ|ˈɑe̯m̥ˌpɑe̯ɲʌrʌ|PART|To come (Negative Participle)|mângê|ˈɑɛ̯m̥ˌm̥aːnɣɘː|
+|âempâenjârâ|ˈɑe̯m̥ˌpɑe̯ɲʌrʌ|PART|To come (Negative Participle)|ghamângê|ˈɑɛ̯m̥ˌm̥aːnɣɘː|
 |mâenjârâ|ˈmɑe̯ɲʌrʌ|VERB|To come (Perfective)|mângê|ˈmaːnɣɘː|
-|maonjareañe|ˈmæo̯ɲæˌreɐ̯ɴɛ|VERB|To come (Imperfective)|mângê|ˈmaːnˌɣiːg̚ɐ|
+|maonjareañe|ˈmæo̯ɲæˌreɐ̯ɴɛ|VERB|To come (Imperfective)|mângêke|ˈmaːnˌɣiːg̚ɐ|
 |quljârâ|ˈɢuʎʌrʌ|PART|To go  (Participle)|ûlogê|ˈʔũːlɣɘː|
-|quźjöre|ˈɢuʑˌjørɛ|PART|To go  (Negative Participle)|ûlogê|ˈʔũzˌɥĩːlɣɘː|
+|quźjöre|ˈɢuʑˌjørɛ|PART|To go  (Negative Participle)|ûswîlogê|ˈʔũzˌɥĩːlɣɘː|
 |quljârâ|ˈɢuʎʌrʌ|VERB|To go  (Perfective)|ûlogê|ˈʔũːlɣɘː|
-|quljâreañe|ˈɢuʎʌˌreɐ̯ɴɛ|VERB|To go  (Imperfective)|ûlogê|ˈʔũːlˌɣiːg̚ɐ|
+|quljâreañe|ˈɢuʎʌˌreɐ̯ɴɛ|VERB|To go  (Imperfective)|ûlogêke|ˈʔũːlˌɣiːg̚ɐ|
 |quñonj|ˈɢuɴɔɲ|PART|To bite  (Participle)|ûkân|ˈʔũːg̚ɑːn|
-|quźjiñonj|ˈɢuʑˌjiɴɔɲ|PART|To bite  (Negative Participle)|ûkân|ˈʔũzˌɥĩːg̚ɑːn|
+|quźjiñonj|ˈɢuʑˌjiɴɔɲ|PART|To bite  (Negative Participle)|ûswîkân|ˈʔũzˌɥĩːg̚ɑːn|
 |quñonj|ˈɢuɴɔɲ|VERB|To bite  (Perfective)|ûkân|ˈʔũːg̚ɑːn|
-|quomâenjo|ˈɢuo̯ˌmɑe̯ɲɔ|VERB|To bite  (Imperfective)|ûkân|ˈʔũːˌgaːngɐ|
+|quomâenjo|ˈɢuo̯ˌmɑe̯ɲɔ|VERB|To bite  (Imperfective)|ûkânke|ˈʔũːˌgaːngɐ|
 |arraljanji|ærˈræʎæɲ̊i|PART|To give (Participle)|glankî|ˈɣlæn̥kiː|
-|nearaljanji|ˈneɐ̯ræˌʎæɲ̊i|PART|To give (Negative Participle)|glankî|ˈjĩːɣˌlæn̥kiː|
+|nearaljanji|ˈneɐ̯ræˌʎæɲ̊i|PART|To give (Negative Participle)|jîglankî|ˈjĩːɣˌlæn̥kiː|
 |arraljanji|ærˈræʎæɲ̊i|VERB|To give (Perfective)|glankî|ˈɣlæn̥kiː|
-|arraljanjiñe|ærˈræʎæɲ̊ˌiɴɛ|VERB|To give (Imperfective)|glankî|ˈɣlæn̥ˌkĩːg̚ɐ|
+|arraljanjiñe|ærˈræʎæɲ̊ˌiɴɛ|VERB|To give (Imperfective)|glankîke|ˈɣlæn̥ˌkĩːg̚ɐ|
 |ħanħaome|ˈħæn̥ˌħæo̯mɛ|PART|To burn (something) (Participle)|hanhâme|ˈħæn̥ˌħaːmɐ|
-|igheñanħaome|ˈiɣɛɴæn̥ˌħæo̯mɛ|PART|To burn (something) (Negative Participle)|hanhâme|ˈjjɐ̃æn̥ˌħaːmɐ|
+|igheñanħaome|ˈiɣɛɴæn̥ˌħæo̯mɛ|PART|To burn (something) (Negative Participle)|jîhanhâme|ˈjjɐ̃æn̥ˌħaːmɐ|
 |ħanħaome|ˈħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Perfective)|hanhâme|ˈħæn̥ˌħaːmɐ|
-|ħanħaome|ˈħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Imperfective)|hanhâme|ˈħæn̥ˌħaːmgɐ|
+|ħanħaome|ˈħæn̥ˌħæo̯mɛ|VERB|To burn (something) (Imperfective)|hanhâmeke|ˈħæn̥ˌħaːmgɐ|
 |qu'fa'|ˈɢuʔfæʔ|PART|To suck (Participle)|upvat|ˈʔup̚fæt̚|
-|qu'fi'fa'|ˈɢuʔˌfiʔfæʔ|PART|To suck (Negative Participle)|upvat|ˈʔut̚ˌɸip̚fæt̚|
+|qu'fi'fa'|ˈɢuʔˌfiʔfæʔ|PART|To suck (Negative Participle)|utwipvat|ˈʔut̚ˌɸip̚fæt̚|
 |qu'fa'|ˈɢuʔfæʔ|VERB|To suck (Perfective)|upvat|ˈʔup̚fæt̚|
-|qu'fae|ˈɢuʔˌfæɛ|VERB|To suck (Imperfective)|upvat|ˈʔup̚ˌfæt̚kɐ|
+|qu'fae|ˈɢuʔˌfæɛ|VERB|To suck (Imperfective)|upvatke|ˈʔup̚ˌfæt̚kɐ|
 |ghu'fa'|ˈɣuʔfæʔ|PART|To spit (Participle)|gjupvat|ˈʝup̚fæt̚|
-|nearghu'fa'|ˈneɐ̯rˌɣuʔfæʔ|PART|To spit (Negative Participle)|gjupvat|ˈjĩːɣˌjup̚fæt̚|
+|nearghu'fa'|ˈneɐ̯rˌɣuʔfæʔ|PART|To spit (Negative Participle)|jîgjupvat|ˈjĩːɣˌjup̚fæt̚|
 |ghu'fa'|ˈɣuʔfæʔ|VERB|To spit (Perfective)|gjupvat|ˈʝup̚fæt̚|
-|ghu'fae|ˈɣuʔˌfæɛ|VERB|To spit (Imperfective)|gjupvat|ˈʝup̚ˌfæt̚kɐ|
+|ghu'fae|ˈɣuʔˌfæɛ|VERB|To spit (Imperfective)|gjupvatke|ˈʝup̚ˌfæt̚kɐ|
 |vônlunj|ˈʋonluɲ̊|PART|To hit (Participle)|ôtlun|ˈwoːd̚lun̥|
-|vôxfienlünj|ˈʋoxˌfie̯nlyɲ̊|PART|To hit (Negative Participle)|ôtlun|ˈwoçˌɸiːd̚lun̥|
+|vôxfienlünj|ˈʋoxˌfie̯nlyɲ̊|PART|To hit (Negative Participle)|ôshwêtlun|ˈwoçˌɸiːd̚lun̥|
 |vônlunj|ˈʋonluɲ̊|VERB|To hit (Perfective)|ôtlun|ˈwoːd̚lun̥|
-|vônlunjo|ˈʋonˌluɲ̊ɔ|VERB|To hit (Imperfective)|ôtlun|ˈwoːd̚ˌlun̥kɐ|
+|vônlunjo|ˈʋonˌluɲ̊ɔ|VERB|To hit (Imperfective)|ôtlunke|ˈwoːd̚ˌlun̥kɐ|
 |uonjë'|ˈuo̯ɲɤʔ|PART|To cut (Participle)|wôtiq|ˈwuːd̚iq̚|
-|quħħuonjë'|ˈɢuħˌħuo̯ɲɤʔ|PART|To cut (Negative Participle)|wôtiq|ˈqɨxˌxʷuːd̚iq̚|
+|quħħuonjë'|ˈɢuħˌħuo̯ɲɤʔ|PART|To cut (Negative Participle)|qiwôtiq|ˈqɨxˌxʷuːd̚iq̚|
 |uonjë'|ˈuo̯ɲɤʔ|VERB|To cut (Perfective)|wôtiq|ˈwuːd̚iq̚|
-|uocie|ˈuo̯ˌciɛ|VERB|To cut (Imperfective)|wôtiq|ˈwuːˌtiq̚kɐ|
+|uocie|ˈuo̯ˌciɛ|VERB|To cut (Imperfective)|wôtiqke|ˈwuːˌtiq̚kɐ|
 |vônvë|ˈʋonʋɤ|PART|To split (Participle)|ôtwô|ˈwoːd̚wɘː|
-|vôxfienvê|ˈʋoxˌfie̯nʋe|PART|To split (Negative Participle)|ôtwô|ˈwoçˌɸiːd̚wɘː|
+|vôxfienvê|ˈʋoxˌfie̯nʋe|PART|To split (Negative Participle)|ôshwêtwô|ˈwoçˌɸiːd̚wɘː|
 |vônvë|ˈʋonʋɤ|VERB|To split (Perfective)|ôtwô|ˈwoːd̚wɘː|
-|vônuoño|ˈʋonˌuo̯ɴɔ|VERB|To split (Imperfective)|ôtwô|ˈwoːd̚ˌwuːg̚ɐ|
+|vônuoño|ˈʋonˌuo̯ɴɔ|VERB|To split (Imperfective)|ôtwôke|ˈwoːd̚ˌwuːg̚ɐ|
 |vouu|ˈʋou̯u|PART|To stab (Participle)|ôlu|ˈwoːlu|
-|vôxfüü|ˈʋoxˌfyy|PART|To stab (Negative Participle)|ôlu|ˈwoçˌɸiːlu|
+|vôxfüü|ˈʋoxˌfyy|PART|To stab (Negative Participle)|ôshwêlu|ˈwoçˌɸiːlu|
 |vouu|ˈʋou̯u|VERB|To stab (Perfective)|ôlu|ˈwoːlu|
-|vouo|ˈʋou̯ɔ|VERB|To stab (Imperfective)|ôlu|ˈwoːlgɐ|
+|vouo|ˈʋou̯ɔ|VERB|To stab (Imperfective)|ôluke|ˈwoːlgɐ|
 |vanca|ˈʋæɲ̊cæ|PART|To scratch (Participle)|wana|ˈwæn̥n̥æ|
-|qêħnja|ˈɢeħɲ̊æ|PART|To scratch (Negative Participle)|wana|ˈqɨxʷn̥æ|
+|qêħnja|ˈɢeħɲ̊æ|PART|To scratch (Negative Participle)|qiwana|ˈqɨxʷn̥æ|
 |vanca|ˈʋæɲ̊cæ|VERB|To scratch (Perfective)|wana|ˈwæn̥n̥æ|
-|vanje|ˈʋæɲ̊ɛ|VERB|To scratch (Imperfective)|wana|ˈwæn̥kɐ|
+|vanje|ˈʋæɲ̊ɛ|VERB|To scratch (Imperfective)|wanake|ˈwæn̥kɐ|
 |meħħonj|ˈmɛħħɔɲ|PART|To dig (Participle)|mewân|ˈmɛxxʷɑːn|
-|âemfonj|ˈɑe̯m̥fɔɲ|PART|To dig (Negative Participle)|mewân|ˈɑɛ̯m̥ɸɑːn|
+|âemfonj|ˈɑe̯m̥fɔɲ|PART|To dig (Negative Participle)|ghamewân|ˈɑɛ̯m̥ɸɑːn|
 |meħħonj|ˈmɛħħɔɲ|VERB|To dig (Perfective)|mewân|ˈmɛxxʷɑːn|
-|meħħaonje|ˈmɛħˌħæo̯ɲɛ|VERB|To dig (Imperfective)|mewân|ˈmɛxˌxʷaːngɐ|
+|meħħaonje|ˈmɛħˌħæo̯ɲɛ|VERB|To dig (Imperfective)|mewânke|ˈmɛxˌxʷaːngɐ|
 |ljanci|ˈʎæɲ̊ci|PART|To turn (Participle)|lanti|ˈlæn̥ti|
-|qêśśanci|ˈɢeɕˌɕæɲ̊ci|PART|To turn (Negative Participle)|lanti|ˈqɨɬˌɬæn̥ti|
+|qêśśanci|ˈɢeɕˌɕæɲ̊ci|PART|To turn (Negative Participle)|qilanti|ˈqɨɬˌɬæn̥ti|
 |ljanci|ˈʎæɲ̊ci|VERB|To turn (Perfective)|lanti|ˈlæn̥ti|
-|ljancie|ˈʎæɲ̊ˌciɛ|VERB|To turn (Imperfective)|lanti|ˈlæn̥ˌtik̚kɐ|
+|ljancie|ˈʎæɲ̊ˌciɛ|VERB|To turn (Imperfective)|lantike|ˈlæn̥ˌtik̚kɐ|
 |ghärrhe|ˈɣar̥r̥ɛ|PART|To fall (Participle)|gjaxê|ˈʝæxxɘː|
-|nearghärrhe|ˈneɐ̯rˌɣar̥r̥ɛ|PART|To fall (Negative Participle)|gjaxê|ˈjĩːɣˌjæxxɘː|
+|nearghärrhe|ˈneɐ̯rˌɣar̥r̥ɛ|PART|To fall (Negative Participle)|jîgjaxê|ˈjĩːɣˌjæxxɘː|
 |ghärrhe|ˈɣar̥r̥ɛ|VERB|To fall (Perfective)|gjaxê|ˈʝæxxɘː|
-|ghärrheañe|ˈɣar̥ˌr̥eɐ̯ɴɛ|VERB|To fall (Imperfective)|gjaxê|ˈʝæxˌxiːg̚ɐ|
+|ghärrheañe|ˈɣar̥ˌr̥eɐ̯ɴɛ|VERB|To fall (Imperfective)|gjaxêke|ˈʝæxˌxiːg̚ɐ|
 |ljanji|ˈʎæɲ̊i|PART|To take (Participle)|lankî|ˈlæn̥kiː|
-|qêśśanji|ˈɢeɕˌɕæɲ̊i|PART|To take (Negative Participle)|lankî|ˈqɨɬˌɬæn̥kiː|
+|qêśśanji|ˈɢeɕˌɕæɲ̊i|PART|To take (Negative Participle)|qilankî|ˈqɨɬˌɬæn̥kiː|
 |ljanji|ˈʎæɲ̊i|VERB|To take (Perfective)|lankî|ˈlæn̥kiː|
-|ljanjiñe|ˈʎæɲ̊ˌiɴɛ|VERB|To take (Imperfective)|lankî|ˈlæn̥ˌkĩːg̚ɐ|
+|ljanjiñe|ˈʎæɲ̊ˌiɴɛ|VERB|To take (Imperfective)|lankîke|ˈlæn̥ˌkĩːg̚ɐ|
 |mettśgheña'|ˈmɛcˌc͡ɕɣɛɴæʔ|PART|To squeeze (Participle)|metlîhaq|ˈmɛt̚ˌɬjɐ̃æq̚|
-|âemtśghoña'|ˈɑe̯m̥ˌc͡ɕɣɔɴæʔ|PART|To squeeze (Negative Participle)|metlîhaq|ˈɑɛ̯m̥ˌtɬjɐ̃æq̚|
+|âemtśghoña'|ˈɑe̯m̥ˌc͡ɕɣɔɴæʔ|PART|To squeeze (Negative Participle)|ghametlîhaq|ˈɑɛ̯m̥ˌtɬjɐ̃æq̚|
 |mettśgheña'|ˈmɛcˌc͡ɕɣɛɴæʔ|VERB|To squeeze (Perfective)|metlîhaq|ˈmɛt̚ˌɬjɐ̃æq̚|
-|mettśiħae|ˈmɛcc͡ɕiˌħæɛ|VERB|To squeeze (Imperfective)|metlîhaq|ˈmɛt̚ɬiːˌħæq̚kɐ|
+|mettśiħae|ˈmɛcc͡ɕiˌħæɛ|VERB|To squeeze (Imperfective)|metlîhaqke|ˈmɛt̚ɬiːˌħæq̚kɐ|
 |ljêrêś|ˈʎereɕ|PART|To rub (Participle)|lîxil|ˈlĩɣiɬ|
-|qêśśêrêś|ˈɢeɕˌɕereɕ|PART|To rub (Negative Participle)|lîxil|ˈqɨɬˌɬĩɣiɬ|
+|qêśśêrêś|ˈɢeɕˌɕereɕ|PART|To rub (Negative Participle)|qilîxil|ˈqɨɬˌɬĩɣiɬ|
 |ljêrêś|ˈʎereɕ|VERB|To rub (Perfective)|lîxil|ˈlĩɣiɬ|
-|ljearêśe|ˈʎeɐ̯ˌreɕɛ|VERB|To rub (Imperfective)|lîxil|ˈlĩːˌɣiɬkɐ|
+|ljearêśe|ˈʎeɐ̯ˌreɕɛ|VERB|To rub (Imperfective)|lîxilke|ˈlĩːˌɣiɬkɐ|
 |ljêrao|ˈʎeræo̯|PART|To wash  (Participle)|lîxêv|ˈlĩɣɘːv|
-|qêśśêrao|ˈɢeɕˌɕeræo̯|PART|To wash  (Negative Participle)|lîxêv|ˈqɨɬˌɬĩɣɘːv|
+|qêśśêrao|ˈɢeɕˌɕeræo̯|PART|To wash  (Negative Participle)|qilîxêv|ˈqɨɬˌɬĩɣɘːv|
 |ljêrao|ˈʎeræo̯|VERB|To wash  (Perfective)|lîxêv|ˈlĩɣɘːv|
-|ljearöe|ˈʎeɐ̯ˌrøɛ|VERB|To wash  (Imperfective)|lîxêv|ˈlĩːˌɣiːvgɐ|
+|ljearöe|ˈʎeɐ̯ˌrøɛ|VERB|To wash  (Imperfective)|lîxêvke|ˈlĩːˌɣiːvgɐ|
 |ljin|ˈʎin|PART|To wipe (Participle)|lîn|ˈlĩː|
-|qêśśin|ˈɢeɕɕin|PART|To wipe (Negative Participle)|lîn|ˈqɨɬɬĩː|
+|qêśśin|ˈɢeɕɕin|PART|To wipe (Negative Participle)|qilîn|ˈqɨɬɬĩː|
 |ljin|ˈʎin|VERB|To wipe (Perfective)|lîn|ˈlĩː|
-|ljienje|ˈʎie̯ɲɛ|VERB|To wipe (Imperfective)|lîn|ˈlĩːgɐ|
+|ljienje|ˈʎie̯ɲɛ|VERB|To wipe (Imperfective)|lînke|ˈlĩːgɐ|
 |ljêra'|ˈʎeræʔ|PART|To pull (Participle)|lîxeq|ˈlĩɣɐq̚|
-|qêśśêra'|ˈɢeɕˌɕeræʔ|PART|To pull (Negative Participle)|lîxeq|ˈqɨɬˌɬĩɣɐq̚|
+|qêśśêra'|ˈɢeɕˌɕeræʔ|PART|To pull (Negative Participle)|qilîxeq|ˈqɨɬˌɬĩɣɐq̚|
 |ljêra'|ˈʎeræʔ|VERB|To pull (Perfective)|lîxeq|ˈlĩɣɐq̚|
-|ljearae|ˈʎeɐ̯ˌræɛ|VERB|To pull (Imperfective)|lîxeq|ˈlĩːˌɣɛq̚kɐ|
+|ljearae|ˈʎeɐ̯ˌræɛ|VERB|To pull (Imperfective)|lîxeqke|ˈlĩːˌɣɛq̚kɐ|
 |ghaśśêra'|ˈɣæɕˌɕeræʔ|PART|To push (Participle)|gjalîxeq|ˈʝæɬˌɬĩɣɐq̚|
-|nearaonêra'|ˈneɐ̯rˌæo̯neræʔ|PART|To push (Negative Participle)|gjalîxeq|ˈjĩːɣˌjlĩɣɐq̚|
+|nearaonêra'|ˈneɐ̯rˌæo̯neræʔ|PART|To push (Negative Participle)|jîgjalîxeq|ˈjĩːɣˌjlĩɣɐq̚|
 |ghaśśêra'|ˈɣæɕˌɕeræʔ|VERB|To push (Perfective)|gjalîxeq|ˈʝæɬˌɬĩɣɐq̚|
-|ghaśśearhae|ˈɣæɕɕeɐ̯ˌr̥æɛ|VERB|To push (Imperfective)|gjalîxeq|ˈʝæɬɬiːˌxɛq̚kɐ|
+|ghaśśearhae|ˈɣæɕɕeɐ̯ˌr̥æɛ|VERB|To push (Imperfective)|gjalîxeqke|ˈʝæɬɬiːˌxɛq̚kɐ|
 |maonylji|ˈmæo̯ɲɟʎi|PART|To throw (Participle)|mântlî|ˈmaːndliː|
-|âempâenyljë|ˈɑe̯m̥ˌpɑe̯ɲɟʎɤ|PART|To throw (Negative Participle)|mântlî|ˈɑɛ̯m̥ˌm̥aːndliː|
+|âempâenyljë|ˈɑe̯m̥ˌpɑe̯ɲɟʎɤ|PART|To throw (Negative Participle)|ghamântlî|ˈɑɛ̯m̥ˌm̥aːndliː|
 |maonylji|ˈmæo̯ɲɟʎi|VERB|To throw (Perfective)|mântlî|ˈmaːndliː|
-|maonyljiñe|ˈmæo̯ɲˌɟʎiɴɛ|VERB|To throw (Imperfective)|mântlî|ˈmaːnˌdlĩːg̚ɐ|
+|maonyljiñe|ˈmæo̯ɲˌɟʎiɴɛ|VERB|To throw (Imperfective)|mântlîke|ˈmaːnˌdlĩːg̚ɐ|
 |ħuiccenj|ˈħuˌiccɛɲ̊|PART|To tie (Participle)|hôiten|ˈħuːˌit̚tɐn̥|
-|igheñêiccenj|ˈiɣɛɴeˌiccɛɲ̊|PART|To tie (Negative Participle)|hôiten|ˈjjɐ̃ɘːˌit̚tɐn̥|
+|igheñêiccenj|ˈiɣɛɴeˌiccɛɲ̊|PART|To tie (Negative Participle)|jîhôiten|ˈjjɐ̃ɘːˌit̚tɐn̥|
 |ħuiccenj|ˈħuˌiccɛɲ̊|VERB|To tie (Perfective)|hôiten|ˈħuːˌit̚tɐn̥|
-|ħuëccenje|ˈħuɤcˌcɛɲ̊ɛ|VERB|To tie (Imperfective)|hôiten|ˈħuːit̚ˌtɛn̥kɐ|
+|ħuëccenje|ˈħuɤcˌcɛɲ̊ɛ|VERB|To tie (Imperfective)|hôitenke|ˈħuːit̚ˌtɛn̥kɐ|
 |ħo'iścênj|ˈħɔʔˌiɕceɲ|PART|To sew (Participle)|hoistên|ˈħɔʔˌistɘːn|
-|igheñe'iścênj|ˈiɣɛɴɛʔˌiɕceɲ|PART|To sew (Negative Participle)|hoistên|ˈjjɐ̃ɐʔˌistɘːn|
+|igheñe'iścênj|ˈiɣɛɴɛʔˌiɕceɲ|PART|To sew (Negative Participle)|jîhoistên|ˈjjɐ̃ɐʔˌistɘːn|
 |ħo'iścênj|ˈħɔʔˌiɕceɲ|VERB|To sew (Perfective)|hoistên|ˈħɔʔˌistɘːn|
-|ħo'ëścienje|ˈħɔʔɤɕˌcie̯ɲɛ|VERB|To sew (Imperfective)|hoistên|ˈħɔʔisˌtiːngɐ|
+|ħo'ëścienje|ˈħɔʔɤɕˌcie̯ɲɛ|VERB|To sew (Imperfective)|hoistênke|ˈħɔʔisˌtiːngɐ|
 |ħuomënj'|ˈħuo̯mɤɲʔ|PART|To count (Participle)|hûint|ˈħũːint̚|
-|ienjaominj'|ˈie̯ˌɲæo̯miɲʔ|PART|To count (Negative Participle)|hûint|ˈjĩːˌɐʊ̯̃int̚|
+|ienjaominj'|ˈie̯ˌɲæo̯miɲʔ|PART|To count (Negative Participle)|jîhûint|ˈjĩːˌɐʊ̯̃int̚|
 |ħuomënj'|ˈħuo̯mɤɲʔ|VERB|To count (Perfective)|hûint|ˈħũːint̚|
-|ħuomince|ˈħuo̯ˌmiɲ̊cɛ|VERB|To count (Imperfective)|hûint|ˈħũːˌin̥tkɐ|
+|ħuomince|ˈħuo̯ˌmiɲ̊cɛ|VERB|To count (Imperfective)|hûintke|ˈħũːˌin̥tkɐ|
 |qu'ñë|ˈɢuʔɴ̥ɤ|PART|To swell (Participle)|uqñî|ˈʔuq̚ŋ̊iː|
-|qu'fi'ñi|ˈɢuʔˌfiʔɴ̥i|PART|To swell (Negative Participle)|uqñî|ˈʔut̚ˌɸiq̚ŋ̊iː|
+|qu'fi'ñi|ˈɢuʔˌfiʔɴ̥i|PART|To swell (Negative Participle)|utwiqñî|ˈʔut̚ˌɸiq̚ŋ̊iː|
 |qu'ñë|ˈɢuʔɴ̥ɤ|VERB|To swell (Perfective)|uqñî|ˈʔuq̚ŋ̊iː|
-|qu'ñiñe|ˈɢuʔˌɴ̥iɴɛ|VERB|To swell (Imperfective)|uqñî|ˈʔuq̚ˌŋ̊ĩːg̚ɐ|
+|qu'ñiñe|ˈɢuʔˌɴ̥iɴɛ|VERB|To swell (Imperfective)|uqñîke|ˈʔuq̚ˌŋ̊ĩːg̚ɐ|
 |ienjaś|ˈie̯ɲæɕ|PART|To bring (Participle)|kînal|ˈkĩːæɬ|
-|jêienjaś|ˈjeˌie̯ɲæɕ|PART|To bring (Negative Participle)|kînal|ˈjeːˌkĩːæɬ|
+|jêienjaś|ˈjeˌie̯ɲæɕ|PART|To bring (Negative Participle)|êkînal|ˈjeːˌkĩːæɬ|
 |ienjaś|ˈie̯ɲæɕ|VERB|To bring (Perfective)|kînal|ˈkĩːæɬ|
-|ninjaśe|ˈniˌɲæɕɛ|VERB|To bring (Imperfective)|kînal|ˈkĩːˌnæɬkɐ|
+|ninjaśe|ˈniˌɲæɕɛ|VERB|To bring (Imperfective)|kînalke|ˈkĩːˌnæɬkɐ|
 |ljienjunco|ˈʎie̯ˌɲuɲ̊cɔ|PART|To make (Participle)|lîuntâ|ˈlĩːˌun̥tɑː|
-|quśśiunco|ˈɢuɕɕiˌuɲ̊cɔ|PART|To make (Negative Participle)|lîuntâ|ˈqɨɬɬiːˌun̥tɑː|
+|quśśiunco|ˈɢuɕɕiˌuɲ̊cɔ|PART|To make (Negative Participle)|qilîuntâ|ˈqɨɬɬiːˌun̥tɑː|
 |ljienjunco|ˈʎie̯ˌɲuɲ̊cɔ|VERB|To make (Perfective)|lîuntâ|ˈlĩːˌun̥tɑː|
-|ljienjüncaoñe|ˈʎie̯ɲyɲ̊ˌcæo̯ɴɛ|VERB|To make (Imperfective)|lîuntâ|ˈlĩːun̥ˌtaːg̚ɐ|
+|ljienjüncaoñe|ˈʎie̯ɲyɲ̊ˌcæo̯ɴɛ|VERB|To make (Imperfective)|lîuntâke|ˈlĩːun̥ˌtaːg̚ɐ|
 |ñärrhör|ˈɴar̥r̥ør|PART|To meet (Participle)|ñaxug|ˈŋæxxuːɣ|
-|âeñrhoar|ˈɑe̯ɴ̥r̥oɐ̯r|PART|To meet (Negative Participle)|ñaxug|ˈɑɛ̯ŋ̊xuːɣ|
+|âeñrhoar|ˈɑe̯ɴ̥r̥oɐ̯r|PART|To meet (Negative Participle)|ghañaxug|ˈɑɛ̯ŋ̊xuːɣ|
 |ñärrhör|ˈɴar̥r̥ør|VERB|To meet (Perfective)|ñaxug|ˈŋæxxuːɣ|
-|ñärrhoarâ|ˈɴar̥ˌr̥oɐ̯rʌ|VERB|To meet (Imperfective)|ñaxug|ˈŋæxˌxuːɣgɐ|
+|ñärrhoarâ|ˈɴar̥ˌr̥oɐ̯rʌ|VERB|To meet (Imperfective)|ñaxugke|ˈŋæxˌxuːɣgɐ|
 |püvoħ|ˈpyʋɔħ|PART|To argue (Participle)|pivâh|ˈpiːvvɑħ|
-|jêmvoħ|ˈjemʋɔħ|PART|To argue (Negative Participle)|pivâh|ˈjeːb̚vɑħ|
+|jêmvoħ|ˈjemʋɔħ|PART|To argue (Negative Participle)|êpivâh|ˈjeːb̚vɑħ|
 |püvoħ|ˈpyʋɔħ|VERB|To argue (Perfective)|pivâh|ˈpiːvvɑħ|
-|piffaħe|ˈpifˌfæħɛ|VERB|To argue (Imperfective)|pivâh|ˈpifˌfaħkɐ|
+|piffaħe|ˈpifˌfæħɛ|VERB|To argue (Imperfective)|pivâhke|ˈpifˌfaħkɐ|
 |yaorüm|ˈɟæo̯rym|PART|To disagree (Participle)|evrûp|ˈʔɛːvruːb̚|
-|yaiörüm|ˈɟæɪ̯ørym|PART|To disagree (Negative Participle)|evrûp|ˈʔɛʝvruːb̚|
+|yaiörüm|ˈɟæɪ̯ørym|PART|To disagree (Negative Participle)|eshevrûp|ˈʔɛʝvruːb̚|
 |yaorüm|ˈɟæo̯rym|VERB|To disagree (Perfective)|evrûp|ˈʔɛːvruːb̚|
-|yaoruomo|ˈɟæo̯ˌruo̯mɔ|VERB|To disagree (Imperfective)|evrûp|ˈʔɛːvˌrũːb̚gɐ|
+|yaoruomo|ˈɟæo̯ˌruo̯mɔ|VERB|To disagree (Imperfective)|evrûpke|ˈʔɛːvˌrũːb̚gɐ|
 |yarrhaomea|ˈɟær̥ˌr̥æo̯meɐ̯|PART|To part (Participle)|arâmhe|ˈʔær̥ˌr̥aːmɐː|
-|ya'rhaomea|ˈɟæʔˌr̥æo̯meɐ̯|PART|To part (Negative Participle)|arâmhe|ˈʔæk̚ˌr̥aːmɐː|
+|ya'rhaomea|ˈɟæʔˌr̥æo̯meɐ̯|PART|To part (Negative Participle)|akarâmhe|ˈʔæk̚ˌr̥aːmɐː|
 |yarrhaomea|ˈɟær̥ˌr̥æo̯meɐ̯|VERB|To part (Perfective)|arâmhe|ˈʔær̥ˌr̥aːmɐː|
-|yarrhomâeo|ˈɟær̥r̥ɔmˌɑe̯ɔ|VERB|To part (Imperfective)|arâmhe|ˈʔær̥r̥ɑːmˌɑɛ̯k̚kɐ|
+|yarrhomâeo|ˈɟær̥r̥ɔmˌɑe̯ɔ|VERB|To part (Imperfective)|arâmheke|ˈʔær̥r̥ɑːmˌɑɛ̯k̚kɐ|
 |arrharrhenj|ær̥ˈr̥ær̥r̥ɛɲ|PART|To pass/go by (Participle)|xexên|ˈxɛxxɘːn|
-|nêrrenj|ˈnerrɛɲ|PART|To pass/go by (Negative Participle)|xexên|ˈjĩɣɣɘːn|
+|nêrrenj|ˈnerrɛɲ|PART|To pass/go by (Negative Participle)|jîxexên|ˈjĩɣɣɘːn|
 |arrharrhenj|ær̥ˈr̥ær̥r̥ɛɲ|VERB|To pass/go by (Perfective)|xexên|ˈxɛxxɘːn|
-|arrharrheanje|ær̥ˈr̥ær̥ˌr̥eɐ̯ɲɛ|VERB|To pass/go by (Imperfective)|xexên|ˈxɛxˌxiːngɐ|
+|arrharrheanje|ær̥ˈr̥ær̥ˌr̥eɐ̯ɲɛ|VERB|To pass/go by (Imperfective)|xexênke|ˈxɛxˌxiːngɐ|
 |vaħħoñ|ˈʋæħħɔɴ|PART|To ask > To say (Participle)|vahâq|ˈvæħħɑːɢ̚|
-|ümoñ|ˈymɔɴ|PART|To ask > To say (Negative Participle)|vahâq|ˈjĩːvɑːɢ̚|
+|ümoñ|ˈymɔɴ|PART|To ask > To say (Negative Participle)|jîvahâq|ˈjĩːvɑːɢ̚|
 |vaħħoñ|ˈʋæħħɔɴ|VERB|To ask > To say (Perfective)|vahâq|ˈvæħħɑːɢ̚|
-|vaħħaoe|ˈʋæħˌħæo̯ɛ|VERB|To ask > To say (Imperfective)|vahâq|ˈvæħˌħaːɢ̚gɐ|
+|vaħħaoe|ˈʋæħˌħæo̯ɛ|VERB|To ask > To say (Imperfective)|vahâqke|ˈvæħˌħaːɢ̚gɐ|
 |qunduomoa|ˈɢunˌduo̯moɐ̯|PART|To join/attach (Participle)|ûtûmhe|ˈʔũːˌdũːɐː|
-|quźjëtuomoa|ˈɢuʑjɤˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|ûtûmhe|ˈʔũzɥiːˌtũːɐː|
+|quźjëtuomoa|ˈɢuʑjɤˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|ûswîtûmhe|ˈʔũzɥiːˌtũːɐː|
 |qunduomoa|ˈɢunˌduo̯moɐ̯|VERB|To join/attach (Perfective)|ûtûmhe|ˈʔũːˌdũːɐː|
-|qunumâeo|ˈɢunuˌmɑe̯ɔ|VERB|To join/attach (Imperfective)|ûtûmhe|ˈʔũːd̚ũːˌɑɛ̯k̚kɐ|
+|qunumâeo|ˈɢunuˌmɑe̯ɔ|VERB|To join/attach (Imperfective)|ûtûmheke|ˈʔũːd̚ũːˌɑɛ̯k̚kɐ|
 |ghâeñ|ˈɣɑe̯ɴ|PART|To prevent/deter (Participle)|gjâñ|ˈʝaːŋ|
-|nearghoñ|ˈneɐ̯rɣɔɴ|PART|To prevent/deter (Negative Participle)|gjâñ|ˈjĩːɣjɑːŋ|
+|nearghoñ|ˈneɐ̯rɣɔɴ|PART|To prevent/deter (Negative Participle)|jîgjâñ|ˈjĩːɣjɑːŋ|
 |ghâeñ|ˈɣɑe̯ɴ|VERB|To prevent/deter (Perfective)|gjâñ|ˈʝaːŋ|
-|ghâeño|ˈɣɑe̯ɴɔ|VERB|To prevent/deter (Imperfective)|gjâñ|ˈʝaːŋgɐ|
+|ghâeño|ˈɣɑe̯ɴɔ|VERB|To prevent/deter (Imperfective)|gjâñke|ˈʝaːŋgɐ|
 |yêräm|ˈɟeram̥|PART|To help (Participle)|îxam|ˈʔĩɣæm̥|
-|yiźêräm|ˈɟiˌʑeram̥|PART|To help (Negative Participle)|îxam|ˈʔĩːˌzĩɣæm̥|
+|yiźêräm|ˈɟiˌʑeram̥|PART|To help (Negative Participle)|îsîxam|ˈʔĩːˌzĩɣæm̥|
 |yêräm|ˈɟeram̥|VERB|To help (Perfective)|îxam|ˈʔĩɣæm̥|
-|yearäme|ˈɟeɐ̯ˌram̥ɛ|VERB|To help (Imperfective)|îxam|ˈʔĩːˌɣæm̥kɐ|
+|yearäme|ˈɟeɐ̯ˌram̥ɛ|VERB|To help (Imperfective)|îxamke|ˈʔĩːˌɣæm̥kɐ|
 |va'fonj|ˈʋæʔfɔɲ|PART|To shout (Participle)|vatvân|ˈvæt̚fɑːn|
-|üma'fonj|ˈyˌmæʔfɔɲ|PART|To shout (Negative Participle)|vatvân|ˈjĩːˌvæt̚fɑːn|
+|üma'fonj|ˈyˌmæʔfɔɲ|PART|To shout (Negative Participle)|jîvatvân|ˈjĩːˌvæt̚fɑːn|
 |va'fonj|ˈʋæʔfɔɲ|VERB|To shout (Perfective)|vatvân|ˈvæt̚fɑːn|
-|va'faonje|ˈʋæʔˌfæo̯ɲɛ|VERB|To shout (Imperfective)|vatvân|ˈvæt̚ˌfaːngɐ|
+|va'faonje|ˈʋæʔˌfæo̯ɲɛ|VERB|To shout (Imperfective)|vatvânke|ˈvæt̚ˌfaːngɐ|
 |vônluum|ˈʋonˌluum|PART|To break (Participle)|ôtlukîn|ˈwoːd̚ˌluk̚kĩː|
-|vôxfëtśuum|ˈʋoxfɤˌc͡ɕuum|PART|To break (Negative Participle)|ôtlukîn|ˈwoçɸɘːˌtɬuk̚kĩː|
+|vôxfëtśuum|ˈʋoxfɤˌc͡ɕuum|PART|To break (Negative Participle)|ôshwêtlukîn|ˈwoçɸɘːˌtɬuk̚kĩː|
 |vônluum|ˈʋonˌluum|VERB|To break (Perfective)|ôtlukîn|ˈwoːd̚ˌluk̚kĩː|
-|vônluienje|ˈʋonluˌie̯ɲɛ|VERB|To break (Imperfective)|ôtlukîn|ˈwoːd̚luk̚ˌkĩːgɐ|
+|vônluienje|ˈʋonluˌie̯ɲɛ|VERB|To break (Imperfective)|ôtlukînke|ˈwoːd̚luk̚ˌkĩːgɐ|
 |arrhaśanj|ær̥ˈr̥æɕæɲ̊|PART|To arrive (Participle)|xelkan|ˈxɛɬkæn̥|
-|nearaśanj|ˈneɐ̯ˌræɕæɲ̊|PART|To arrive (Negative Participle)|xelkan|ˈjĩːˌɣɛɬkæn̥|
+|nearaśanj|ˈneɐ̯ˌræɕæɲ̊|PART|To arrive (Negative Participle)|jîxelkan|ˈjĩːˌɣɛɬkæn̥|
 |arrhaśanj|ær̥ˈr̥æɕæɲ̊|VERB|To arrive (Perfective)|xelkan|ˈxɛɬkæn̥|
-|arrhaśanje|ær̥ˈr̥æɕˌæɲ̊ɛ|VERB|To arrive (Imperfective)|xelkan|ˈxɛɬˌkæn̥kɐ|
+|arrhaśanje|ær̥ˈr̥æɕˌæɲ̊ɛ|VERB|To arrive (Imperfective)|xelkanke|ˈxɛɬˌkæn̥kɐ|
 |qâugoś|ˈɢɑʊ̯gɔɕ|PART|To realize (Participle)|qâlkjes|ˈqaːld͡ʒɐs|
-|jêqâugoś|ˈjeˌɢɑʊ̯gɔɕ|PART|To realize (Negative Participle)|qâlkjes|ˈjeːˌqaːld͡ʒɐs|
+|jêqâugoś|ˈjeˌɢɑʊ̯gɔɕ|PART|To realize (Negative Participle)|êqâlkjes|ˈjeːˌqaːld͡ʒɐs|
 |qâugoś|ˈɢɑʊ̯gɔɕ|VERB|To realize (Perfective)|qâlkjes|ˈqaːld͡ʒɐs|
-|qâugeśe|ˈɢɑʊ̯ˌgɛɕɛ|VERB|To realize (Imperfective)|qâlkjes|ˈqaːlˌd͡ʒɛskɐ|
+|qâugeśe|ˈɢɑʊ̯ˌgɛɕɛ|VERB|To realize (Imperfective)|qâlkjeske|ˈqaːlˌd͡ʒɛskɐ|
 |âulqo|ˈɑʊ̯lɢɔ|PART|To become (Participle)|ghôlqe|ˈɐʊ̯lɢɐ|
-|ienjaolqe|ˈie̯ˌɲæo̯lɢɛ|PART|To become (Negative Participle)|ghôlqe|ˈjĩːˌɐʊ̯lɢɐ|
+|ienjaolqe|ˈie̯ˌɲæo̯lɢɛ|PART|To become (Negative Participle)|jîghôlqe|ˈjĩːˌɐʊ̯lɢɐ|
 |âulqo|ˈɑʊ̯lɢɔ|VERB|To become (Perfective)|ghôlqe|ˈɐʊ̯lɢɐ|
-|âulqâo|ˈɑʊ̯lˌɢʌɔ|VERB|To become (Imperfective)|ghôlqe|ˈɐʊ̯lˌɢɜk̚kɐ|
+|âulqâo|ˈɑʊ̯lˌɢʌɔ|VERB|To become (Imperfective)|ghôlqeke|ˈɐʊ̯lˌɢɜk̚kɐ|
 |qunjoghârömaś|ˈɢuɲɔɣʌˌrømæɕ|PART|To kill (Participle)|ûtihgîlas|ˈʔũːd̚jɐˌɣĩːlæs|
-|quźjëcoghârömaś|ˈɢuʑjɤcɔɣʌˌrømæɕ|PART|To kill (Negative Participle)|ûtihgîlas|ˈʔũzɥiːtjɐˌɣĩːlæs|
+|quźjëcoghârömaś|ˈɢuʑjɤcɔɣʌˌrømæɕ|PART|To kill (Negative Participle)|ûswîtihgîlas|ˈʔũzɥiːtjɐˌɣĩːlæs|
 |qunjoghârömaś|ˈɢuɲɔɣʌˌrømæɕ|VERB|To kill (Perfective)|ûtihgîlas|ˈʔũːd̚jɐˌɣĩːlæs|
-|qunjoghârâaśe|ˈɢuɲɔɣʌrʌˌæɕɛ|VERB|To kill (Imperfective)|ûtihgîlas|ˈʔũːd̚jɐɣiːˌlæskɐ|
+|qunjoghârâaśe|ˈɢuɲɔɣʌrʌˌæɕɛ|VERB|To kill (Imperfective)|ûtihgîlaske|ˈʔũːd̚jɐɣiːˌlæskɐ|
 |qurhiħa|ˈɢuˌr̥iħæ|PART|To float (Participle)|uqkrêha|ˈʔuq̚ˌkr̥iħæ|
-|qu'fërhiħa|ˈɢuʔfɤˌr̥iħæ|PART|To float (Negative Participle)|uqkrêha|ˈʔut̚ɸiq̚ˌkr̥iħæ|
+|qu'fërhiħa|ˈɢuʔfɤˌr̥iħæ|PART|To float (Negative Participle)|utwiqkrêha|ˈʔut̚ɸiq̚ˌkr̥iħæ|
 |qurhiħa|ˈɢuˌr̥iħæ|VERB|To float (Perfective)|uqkrêha|ˈʔuq̚ˌkr̥iħæ|
-|qurhiħe|ˈɢuˌr̥iħɛ|VERB|To float (Imperfective)|uqkrêha|ˈʔuq̚ˌkr̥iħkɐ|
+|qurhiħe|ˈɢuˌr̥iħɛ|VERB|To float (Imperfective)|uqkrêhake|ˈʔuq̚ˌkr̥iħkɐ|
 |quttunj|ˈɢuttuɲ̊|PART|To place/To put (Participle)|qutun|ˈqut̚tun̥|
-|jêddünj|ˈjeddyɲ̊|PART|To place/To put (Negative Participle)|qutun|ˈjeːɢ̚dun̥|
+|jêddünj|ˈjeddyɲ̊|PART|To place/To put (Negative Participle)|êqutun|ˈjeːɢ̚dun̥|
 |quttunj|ˈɢuttuɲ̊|VERB|To place/To put (Perfective)|qutun|ˈqut̚tun̥|
-|quttunjo|ˈɢutˌtuɲ̊ɔ|VERB|To place/To put (Imperfective)|qutun|ˈqut̚ˌtun̥kɐ|
+|quttunjo|ˈɢutˌtuɲ̊ɔ|VERB|To place/To put (Imperfective)|qutunke|ˈqut̚ˌtun̥kɐ|
 |erremfonj|ɛrˈrɛm̥fɔɲ|PART|To mine (Participle)|remewân|ˈrɛm̥ɸɑːn|
-|qêrhmeħħonj|ˈɢer̥ˌm̥ɛħħɔɲ|PART|To mine (Negative Participle)|remewân|ˈqɨr̥ˌm̥ɛxxʷɑːn|
+|qêrhmeħħonj|ˈɢer̥ˌm̥ɛħħɔɲ|PART|To mine (Negative Participle)|qiremewân|ˈqɨr̥ˌm̥ɛxxʷɑːn|
 |erremfonj|ɛrˈrɛm̥fɔɲ|VERB|To mine (Perfective)|remewân|ˈrɛm̥ɸɑːn|
-|erremfaonje|ɛrˈrɛm̥ˌfæo̯ɲɛ|VERB|To mine (Imperfective)|remewân|ˈrɛm̥ˌɸaːngɐ|
+|erremfaonje|ɛrˈrɛm̥ˌfæo̯ɲɛ|VERB|To mine (Imperfective)|remewânke|ˈrɛm̥ˌɸaːngɐ|
 |erreħħuonjë'|ɛrˈrɛħˌħuo̯ɲɤʔ|PART|To quarry (Participle)|rewôtiq|ˈrɛxˌxʷuːd̚iq̚|
-|qurhfuonjë'|ˈɢur̥ˌfuo̯ɲɤʔ|PART|To quarry (Negative Participle)|rewôtiq|ˈqɨr̥ˌɸuːd̚iq̚|
+|qurhfuonjë'|ˈɢur̥ˌfuo̯ɲɤʔ|PART|To quarry (Negative Participle)|qirewôtiq|ˈqɨr̥ˌɸuːd̚iq̚|
 |erreħħuonjë'|ɛrˈrɛħˌħuo̯ɲɤʔ|VERB|To quarry (Perfective)|rewôtiq|ˈrɛxˌxʷuːd̚iq̚|
-|erreħħêcie|ɛrˈrɛħħeˌciɛ|VERB|To quarry (Imperfective)|rewôtiq|ˈrɛxxʷɘːˌtiq̚kɐ|
+|erreħħêcie|ɛrˈrɛħħeˌciɛ|VERB|To quarry (Imperfective)|rewôtiqke|ˈrɛxxʷɘːˌtiq̚kɐ|
 |e'irh|ˈɛʔir̥|PREP|Of|keir|ˈkɛʔir̥|
 |ulo|ˈulɔ|PREP|With |vlo|ˈvlɔ|
 |feś|ˈfɛɕ|PREP|Like/As|fes|ˈfɛs|
@@ -714,4 +714,3 @@ Auto-derived from original
 |ħañqieña|ˈħæɴˌɢie̯ɴæ|NOUN - Food|Roast Meat (I)|hañêka|ˈħæŋ̊ˌŋ̊iːg̚æ|
 |qotto'o|ˈɢɔtˌtɔʔɔ|NOUN - Food|Flour (I)|ottoe|ˈʔɔt̚ˌtɔʔɐ|
 |ħaoñma|ˈħæo̯ɴmæ|NOUN - Food|Bread (I)|hâkma|ˈħaːg̚mæ|
-|ghomonj|ˈɣɔmɔɲ|NOUN - People|Woman (H)|gihemân|ˈʝɐmɑːn|
