@@ -2,27 +2,83 @@
 
 Example sentences
 
-- I see a tree over there
+- I see a tree over there.
   - vocab
-    - I - mvò /ˈmʋɔ/
-    - over there - míń /ˈmiɲ/
-    - seeing - jéñwàań /ˈjeɴˌɣææɲ̊/
+    - be seeing - jéñwàań /ˈjeɴˌɣææɲ̊/
     - tree - tfàśśa /ˈtfæɕɕæ/
-      - tree DAT - tfàśśa-ńêř /ˈtfæɕɕæɲer̥/
-    - indicative - qáeñ /ˈɢɑe̯ɴ/
-      - indic 1st - qáeñmo /ˈɢɑe̯ɴmɔ/
-  - míń jéñwàań tfàśśa-ńêř qáeñmo
-  - /ˈmiɲ ˈjeɴˌɣææɲ̊ ˈtfæɕɕæɲer̥ ˈɢɑe̯ɴmɔ/
+  - grammar
+    - over there - míń /ˈmiɲ/
+    - tree DAT - tfàśśa-ńêř /ˈtfæɕɕæɲer̥/
+    - indicative - qâ /ɢʌ/
+      - indic 1st - qmo /ɢmɔ/
+  - translation
+    - Jéñwàań míń tfàśśa-ńêř qmo.
+    - Jêñghaänh minh tfassha-nhêr qmo.
+    - /ˈjeɴˌɣæ.æɲ̊ ˈmiɲ ˈtfæɕɕæɲer̥ ɢmɔ/
+    - 'seeing over.there tree-to am I'
+    - see.IM DIST tree=DAT IND-1s.NOM
 
-- I was eating (here) cabbage with olive oil
+- I was eating (there) cabbage with olive oil.
   - vocab
-    - over there - mú /ˈmu/
-    - eating - qòmpúo /ˈɢɔm̥ˌpuɔ/
+    - be eating - qòmpúo /ˈɢɔm̥ˌpuɔ/
     - cabbage - vèřtfa /ˈʋɛr̥tfæ/
-      - cabbage ACC - vèřtfa /ˈʋɛr̥tfæ/
     - olive oil - arràźbèʔa /ærˈræʑˌbɛʔæ/
-      - olive oil LOC - arràźbèʔa-ira /ærˈræʑˌbɛʔæiræ/
-    - indivative past - qáeñâř /ˈɢɑe̯ɴʌr̥/
-      - indic past 1st - qáeñâřmo /ˈɢɑe̯ɴʌr̥mɔ/
-  - mú qòmpúo vèřtfa arràźbèʔa qáeñâřmo
-  - /ˈmu ˈɢɔm̥ˌpuɔ ˈʋɛr̥tfæ ærˈræʑˌbɛʔæiræ ˈɢɑe̯ɴʌr̥mɔ/
+  - grammar
+    - there - váe /ˈʋɑe̯/
+    - cabbage ACC - vèřtfa /ˈʋɛr̥tfæ/
+    - olive oil LOC - arràźbèʔa-ira /ærˈræʑˌbɛʔæ iræ/
+    - indicative past - qář /ˈɢʌr̥/
+      - indic past 1st - qářmo /ˈɢʌr̥mɔ/
+  - translation
+    - Qòmpúo váe vèřtfa arràźbèʔa-ira qářmo.
+    - Qompuo vae verhtfa arrazhbe'a-ira qârhmo
+    - /ˈɢɔm̥ˌpuɔ ˈʋɑe̯ ˈʋɛr̥tfæ ærˈræʑˌbɛʔæ iræ ˈɢʌr̥mɔ/
+    - 'eating there cabbage olive.oil-with was I'
+    - eat.IM MED cabbage olive.oil=LOC IND.pst-1s.NOM
+
+- (You), who is the person (there) with the horn?
+  - vocab
+    - who NOM - qář /ˈɢʌr̥/
+    - be being - qáeñ /ˈɢɑe̯ɴ/
+    - person - ařřàśoń /ær̥ˈr̥æɕɔɲ/
+    - horn - arràombań /ærˈræo̯mbæɲ̊/
+  - grammar
+    - there - váe /ˈʋɑe̯/
+    - horn LOC - arràombań-ira /ærˈræo̯mbæɲ̊ iræ/
+    - interrogative - áeń(c) /ˈɑe̯ɲ̊c/
+      - inter L:2nd sing Q:who - áeńqřôuʔ /ˈɑe̯ɲ̊ɢr̥o.uʔ/
+  - translation
+    - Qáeñ váe qář ařřàśoń arràombań-ira áeńqřôuʔ?
+    - Qaeñ vae qarh arrhashonh arraombanh-ira aenhqrhôü'?
+    - /ˈɢɑe̯ɴ ˈʋɑe̯ ˈɢʌr̥ ær̥ˈr̥æɕɔɲ ærˈræo̯mbæɲ̊ iræ ˈɑe̯ɲ̊ɢr̥o.uʔ/
+    - 'being there who person horn-with is who? *you*'
+    - be.IM MED who.NOM person horn=LOC INT-who.TOP-2s.LST
+
+- Where does the sun go at night?  Why can't we see it anymore?
+  - vocab
+    - go PF - qúľârâ /ˈɢuʎʌrʌ/
+    - over there - míń /ˈmiɲ/
+    - sun - řííkke /ˈr̥iˌikkɛ/
+    - to where (what-DAT) - qéińeř /ˈɢei̯ɲɛr̥/
+    - night - arréño /ærˈreɴɔ/
+    - see IM - jéñwàań /ˈjeɴˌɣææɲ̊/
+    - indeterminate loc - qúo /ˈɢuo̯/
+    - why (what-GEN) - qúonux /ˈɢuo̯nux/
+  - grammar
+    - night LOC - arréño-ira /ærˈreɴɔ iræ/
+    - interrogative - áeń(c) /ˈɑe̯ɲ̊c/
+      - inter L:none Q:what - áeńqnu /ˈɑe̯ɲ̊ɢnu/
+      - inter TER L:none Q:what - áeńfäqnu /ˈɑe̯ɲ̊faɢnu/
+    - 3.DIV DAT - vèhkêř /ˈʋɛħker̥/
+  - translation A
+    - Qúľârâ míń řííkke qéińeř arréño-ira áeńqnu?
+    - Qulhârâ minh rhiïkke qeinherh arrêño-ira aenhqnu?
+    - /ˈɢuʎʌrʌ ˈmiɲ ˈr̥iˌikkɛ ˈɢei̯ɲɛr̥ ærˈreɴɔ iræ ˈɑe̯ɲ̊ɢnu/
+    - 'go over.there sun to.where night-at does where?'
+    - go-PF DIST sun what.DAT night=LOC INT-what.TOP?
+  - translation B
+    - Jéñwàań qúo qúonux vèhkêř áeńfäqnu?
+    - Jêñghaänh quo quonux veqhkêrh aenhfàqnu?
+    - /ˈjeɴˌɣææɲ̊ ˈɢuo̯ ˈɢuo̯nux ˈʋɛħker̥ ˈɑe̯ɲ̊faɢnu/
+    - 'seeing _ from.where it-to does stop where?
+    - see-IM INDET what.GEN 3.D-DAT INT-TER-what.TOP?

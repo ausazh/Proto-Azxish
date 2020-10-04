@@ -1,16 +1,17 @@
 xê,NOUN,To stand > Status/State (I)
 xeki,NOUN,To stand > Stance (I)
+wuqâ,NOUN,To be > Existence (I)
 
 ihemê,ihemêñ,VERB-IM,To live
-uqâ,uqâñ,VERB-IM,To be 
+qâ,qâñ,VERB-IM,To be 
 añagi,añagkin,VERB-IM,To hear
 êkjap,êkjapkan,VERB-IM,To see
 qâlkja,qâlkjan,VERB-IM,To know
 pefithê,pefithêñ,VERB-IM,To sleep
 itihimê,itihimêñ,VERB-IM,To die (not live) > To be dead
 xekan,xekan,VERB-IM,To walk/To stand > To be standing / To be (travelling) on the ground
-uqêzla,uqêzklan,VERB-IM,To swim > To be (travelling) in water
-uqpûhal,uqpûhklan,VERB-IM,To fly > To be (travelling) in the air
+ûqêzla,ûqêzklan,VERB-IM,To swim > To be (travelling) in water
+ûqpûhal,ûqpûhklan,VERB-IM,To fly > To be (travelling) in the air
 pefa,pefkan,VERB-IM,To lie (on your side)
 gjekan,gjekan,VERB-IM,To sit
 vatakas,vatakan,VERB-IM,To say > To mean/To intend
@@ -25,8 +26,8 @@ lîhaq,lîhaqkan,VERB-IM,To hold
 haqop,haqopkan,VERB-IM,To have
 vanhânfri,vanhânfriñ,VERB-IM,To sing
 veranmen,verankmen,VERB-IM,To play (games)
-uqêz,uqêzkan,VERB-IM,To flow
-uqautêv,uqautêvkan,VERB-IM,To freeze > To be frozen
+ûqêz,ûqêzkan,VERB-IM,To flow
+ûqautêv,ûqautêvkan,VERB-IM,To freeze > To be frozen
 herpô,herpôñ,VERB-IM,To prosper > To be prosperous
 tamhe,tamheñ,VERB-IM,To remain
 glankî,glankîñ,VERB-IM,To adore/love
@@ -42,7 +43,7 @@ atsa,atskan,VERB-IM,To laugh > To be laughing
 uple,VERB-PF,To drink
 omôq,VERB-PF,To eat
 mângê,VERB-PF,To come
-ulogê,VERB-PF,To go 
+ûlogê,VERB-PF,To go 
 ûkân,VERB-PF,To bite 
 glankî,VERB-PF,To give
 hanhâme,VERB-PF,To burn (something)
@@ -76,7 +77,7 @@ evrûp,VERB-PF,To disagree
 arâmhe,VERB-PF,To part
 xexên,VERB-PF,To pass/go by
 vahâq,VERB-PF,To ask > To say
-utûmhe,VERB-PF,To join/attach
+ûtûmhe,VERB-PF,To join/attach
 gjâñ,VERB-PF,To prevent/deter
 îxam,VERB-PF,To help
 vatvân,VERB-PF,To shout
@@ -269,10 +270,24 @@ vehân,PRN,3.H.p.Nom - They
 vehiche,PRN,3.D.Nom - He/She/It/They
 ñiche,PRN,3.D.Acc - Him/Her/It/Them
 
-âq,TAG,indicative common
-âqox,TAG,indicative past common
-âqkan,TAG,indicative habitual common
-
+qâ,TAG,indicative formal
+qâx,TAG,indicative past
+ghan,TAG,interrogative
+ghana,TAG,interrogative formal
+ghanox,TAG,interrogative past
+nix,TAG,conditional past
+jîn,TAG,conditional formal
+jînox,TAG,conditional past formal
+al,TAG,imperative formal
+san,TAG,imperative polite
+alahna,TAG,imperative polite formal
+kas,TAG,prohibitive
+jân,TAG,prohibitive formal
+qân,TAG,speculative
+mag,TAG,potential
+mâge,TAG,potential formal
+wolg,TAG,commissive
+wûlog,TAG,commissive formal
 
 hêm,CONJ,And
 pru,CONJ,If 

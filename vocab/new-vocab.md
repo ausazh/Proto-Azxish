@@ -77,6 +77,7 @@ Auto-derived from original
 |ařřài|ær̥ˈr̥æi|NOUN|To stand > Stance (I)|xeki|ˈxɛk̚ki|
 |ařřéa|ær̥ˈr̥eɐ̯|NOUN|To stand > Status/State (I)|xê|ˈxiː|
 |kúińaś|ˈkuɪ̯ɲæɕ|NOUN|Size (I)|chûjas|ˈt͡ʃũːjæs|
+|úqqo|ˈuɢɢɔ|NOUN|To be > Existence (I)|wuqâ|ˈwuq̚qɑː|
 |arràombań|ærˈræo̯mbæɲ̊|NOUN - Anatomy|Horn (I)|grâmpan|ˈɣraːmbæn̥|
 |arrǿmañ|ærˈrømæɴ̥|NOUN - Anatomy|Ear (I)|gîlmañ|ˈɣĩːlmæŋ̊|
 |âřřóáemľań|ʌr̥ˈr̥oˌɑe̯mʎæɲ̊|NOUN - Anatomy|Wing (A)|xukâmalan|ˈxuk̚ˌkaːmlæn̥|
@@ -313,6 +314,7 @@ Auto-derived from original
 |jémva|ˈjemʋæ|PART|To lie (on your side) (Negative Participle)|pefa|ˈjeːb̚væ|
 |jémvíʔhê|ˈjemˌʋiʔħe|PART|To sleep (Negative Participle)|pefithê|ˈjeːb̚ˌvit̚ħɘː|
 |jémvoh|ˈjemʋɔħ|PART|To argue (Negative Participle)|pivâh|ˈjeːb̚vɑħ|
+|jéño|ˈjeɴɔ|PART|To be  (Negative Participle)|qâ|ˈjeːɢ̚ɑː|
 |jéñoíʔhêm|ˈjeɴɔˌiʔħem̥|PART|To fear (Negative Participle)|qâithim|ˈjeːɢ̚ɑːˌit̚ħɨm̥|
 |jéñwaʔ|ˈjeɴɣæʔ|PART|To see (Participle)|êkjap|ˈjeːg̚jæp̚|
 |jéqáuań|ˈjeˌɢɑʊ̯æɲ̊|PART|To think (Negative Participle)|qâlan|ˈjeːˌqaːlæn̥|
@@ -353,6 +355,7 @@ Auto-derived from original
 |pèffíʔhê|ˈpɛfˌfiʔħe|PART|To sleep (Participle)|pefithê|ˈpɛfˌfit̚ħɘː|
 |pývoh|ˈpyʋɔħ|PART|To argue (Participle)|pivâh|ˈpiːvvɑħ|
 |qàoíʔhêm|ˈɢæo̯ˌiʔħem̥|PART|To fear (Participle)|qâithim|ˈqaːˌit̚ħɨm̥|
+|qáe|ˈɢɑe̯|PART|To be  (Participle)|qâ|ˈqaː|
 |qáuań|ˈɢɑʊ̯æɲ̊|PART|To think (Participle)|qâlan|ˈqaːlæn̥|
 |qáuwa|ˈɢɑʊ̯ɣæ|PART|To know (Participle)|qâlkja|ˈqaːlgjæ|
 |qáuwoś|ˈɢɑʊ̯ɣɔɕ|PART|To realize (Participle)|qâlkjes|ˈqaːlgjɐs|
@@ -366,37 +369,35 @@ Auto-derived from original
 |qéśśwèñaʔ|ˈɢeɕˌɕɣɛɴæʔ|PART|To hold (Negative Participle)|lîhaq|ˈqɨɬˌɬjɐ̃æq̚|
 |qòmpəñ|ˈɢɔm̥pɤɴ|PART|To eat (Participle)|omôq|ˈʔɔm̥m̥ɘːɢ̚|
 |qòxfməñ|ˈɢɔxfmɤɴ|PART|To eat (Negative Participle)|omôq|ˈʔɔçɸmɘːɢ̚|
+|qúbbvòñaś|ˈɢubˌbʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Participle)|ûqpûhal|ˈʔũːɢ̚ˌbwɐ̃æɬ|
 |qúcčo|ˈɢucc͡ɕɔ|PART|To drink (Participle)|uple|ˈʔup̚ɬɐ|
+|qúdúomoa|ˈɢuˌduo̯moɐ̯|PART|To join/attach (Participle)|ûtûmhe|ˈʔũːˌdũːɐː|
 |qúhhúońəʔ|ˈɢuħˌħuo̯ɲɤʔ|PART|To cut (Negative Participle)|wôtiq|ˈqɨxˌxʷuːd̚iq̚|
+|qúľârâ|ˈɢuʎʌrʌ|PART|To go  (Participle)|ûlogê|ˈʔũːlɣɘː|
 |qúľo|ˈɢuʎɔ|PART|To lose > To be lost (Participle)|ûle|ˈʔũːlɐ|
 |qúńľar|ˈɢuɲʎær|PART|To fight (Participle)|ûtilag|ˈʔũːd̚læːɣ|
 |qúńowârǿmaś|ˈɢuɲɔɣʌˌrømæɕ|PART|To kill (Participle)|ûtihgîlas|ˈʔũːd̚jɐˌɣĩːlæs|
+|qúñaʔúccou|ˈɢuɴæʔˌuccou̯|PART|To freeze > To be frozen (Participle)|ûqautêv|ˈʔũːɢ̚æʔˌut̚tɘːv|
 |qúñoń|ˈɢuɴɔɲ|PART|To bite  (Participle)|ûkân|ˈʔũːg̚ɑːn|
-|qúppvòñaś|ˈɢupˌpʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Participle)|uqpûhal|ˈʔuq̚ˌpwɐ̃æɬ|
-|qúqqaʔúccou|ˈɢuɢɢæʔˌuccou̯|PART|To freeze > To be frozen (Participle)|uqautêv|ˈʔuq̚qæʔˌut̚tɘːv|
-|qúqqo|ˈɢuɢɢɔ|PART|To be  (Participle)|uqâ|ˈʔuq̚qɑː|
-|qúqqúoźľa|ˈɢuɢˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Participle)|uqêzla|ˈʔuq̚ˌqɨːzlæ|
-|qúqqəź|ˈɢuɢɢɤʑ|PART|To flow (Participle)|uqêz|ˈʔuq̚qɘːz|
+|qúñəź|ˈɢuɴɤʑ|PART|To flow (Participle)|ûqêz|ˈʔũːɢ̚ɘːz|
+|qúqúoźľa|ˈɢuˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Participle)|ûqêzla|ˈʔũːˌɢɨːzlæ|
 |qúříha|ˈɢuˌr̥iħæ|PART|To float (Participle)|uqkrêha|ˈʔuq̚ˌkr̥iħæ|
-|qúśřâ|ˈɢuɕr̥ʌ|PART|To go  (Participle)|ulogê|ˈʔuɬxɘː|
 |qúśśiúńco|ˈɢuɕɕiˌuɲ̊cɔ|PART|To make (Negative Participle)|lîuntâ|ˈqɨɬɬiːˌun̥tɑː|
-|qúttúomoa|ˈɢutˌtuo̯moɐ̯|PART|To join/attach (Participle)|utûmhe|ˈʔut̚ˌtũːɐː|
 |qúźjíńľar|ˈɢuʑˌjiɲʎær|PART|To fight (Negative Participle)|ûtilag|ˈʔũzˌɥĩːd̚læːɣ|
+|qúźjíñêź|ˈɢuʑˌjiɴeʑ|PART|To flow (Negative Participle)|ûqêz|ˈʔũzˌɥĩːɢ̚ɘːz|
 |qúźjíñoń|ˈɢuʑˌjiɴɔɲ|PART|To bite  (Negative Participle)|ûkân|ˈʔũzˌɥĩːg̚ɑːn|
 |qúźjýme|ˈɢuʑˌjymɛ|PART|To lose > To be lost (Negative Participle)|ûle|ˈʔũzˌɥĩːlɐ|
+|qúźjǿre|ˈɢuʑˌjørɛ|PART|To go  (Negative Participle)|ûlogê|ˈʔũzˌɥĩːlɣɘː|
+|qúźjəbbvòñaś|ˈɢuʑjɤbˌbʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Negative Participle)|ûqpûhal|ˈʔũzɥiːɢ̚ˌbwɐ̃æɬ|
 |qúźjəcowârǿmaś|ˈɢuʑjɤcɔɣʌˌrømæɕ|PART|To kill (Negative Participle)|ûtihgîlas|ˈʔũzɥiːtjɐˌɣĩːlæs|
+|qúźjəqaʔúccou|ˈɢuʑjɤɢæʔˌuccou̯|PART|To freeze > To be frozen (Negative Participle)|ûqautêv|ˈʔũzɥiːqæʔˌut̚tɘːv|
+|qúźjəqúoźľa|ˈɢuʑjɤˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Negative Participle)|ûqêzla|ˈʔũzɥiːˌqɨːzlæ|
+|qúźjətúomoa|ˈɢuʑjɤˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|ûtûmhe|ˈʔũzɥiːˌtũːɐː|
 |qúʔfaʔ|ˈɢuʔfæʔ|PART|To suck (Participle)|upvat|ˈʔup̚fæt̚|
 |qúʔfícče|ˈɢuʔˌficc͡ɕɛ|PART|To drink (Negative Participle)|uple|ˈʔut̚ˌɸip̚ɬɐ|
-|qúʔfíqqêź|ˈɢuʔˌfiɢɢeʑ|PART|To flow (Negative Participle)|uqêz|ˈʔut̚ˌɸiq̚qɘːz|
-|qúʔfíqqo|ˈɢuʔˌfiɢɢɔ|PART|To be  (Negative Participle)|uqâ|ˈʔut̚ˌɸiq̚qɑː|
 |qúʔfíʔfaʔ|ˈɢuʔˌfiʔfæʔ|PART|To suck (Negative Participle)|upvat|ˈʔut̚ˌɸip̚fæt̚|
 |qúʔfíʔñi|ˈɢuʔˌfiʔɴ̥i|PART|To swell (Negative Participle)|uqñî|ˈʔut̚ˌɸiq̚ŋ̊iː|
-|qúʔflárrâ|ˈɢuʔˌflʌrrʌ|PART|To go  (Negative Participle)|ulogê|ˈʔut̚ˌɸlɔːɣɣɘː|
-|qúʔfəppvòñaś|ˈɢuʔfɤpˌpʋɔɴæɕ|PART|To fly > To be (travelling) in the air (Negative Participle)|uqpûhal|ˈʔut̚ɸiq̚ˌpwɐ̃æɬ|
-|qúʔfəqqaʔúccou|ˈɢuʔfɤɢɢæʔˌuccou̯|PART|To freeze > To be frozen (Negative Participle)|uqautêv|ˈʔut̚ɸiq̚qæʔˌut̚tɘːv|
-|qúʔfəqqúoźľa|ˈɢuʔfɤɢˌɢuo̯ʑʎæ|PART|To swim > To be (travelling) in water (Negative Participle)|uqêzla|ˈʔut̚ɸiq̚ˌqɨːzlæ|
 |qúʔfəříha|ˈɢuʔfɤˌr̥iħæ|PART|To float (Negative Participle)|uqkrêha|ˈʔut̚ɸiq̚ˌkr̥iħæ|
-|qúʔfəttúomoa|ˈɢuʔfɤtˌtuo̯moɐ̯|PART|To join/attach (Negative Participle)|utûmhe|ˈʔut̚ɸit̚ˌtũːɐː|
 |qúʔñə|ˈɢuʔɴ̥ɤ|PART|To swell (Participle)|uqñî|ˈʔuq̚ŋ̊iː|
 |qwòmə|ˈɢɣɔmɤ|PART|To live (Participle)|ihemê|ˈʔjɐmɘː|
 |úioñaʔ|ˈuɪ̯ɔɴæʔ|PART|To hold (Participle)|lîhaq|ˈljɐ̃æq̚|
@@ -466,9 +467,24 @@ Auto-derived from original
 |wáu|ˈɣɑʊ̯|PRN|1.p.Nom - We|jâl|ˈjaːl|
 |wúʔoń|ˈɣuʔɔɲ|PRN|3.H.d.Acc - Him/Her/It and I|juân|ˈjuʔɑːn|
 |źíeñe|ˈʑie̯ɴɛ|PRN|2.p.Acc - Ye|zêñko|ˈziːŋgɐ|
-|qàoań|ˈɢæo̯æɲ̊|TAG|indicative habitual common|âqkan|ˈʔaːɢ̚gæn̥|
-|qáeñ|ˈɢɑe̯ɴ|TAG|indicative common|âq|ˈʔaːɢ̚|
-|qáeñâř|ˈɢɑe̯ɴʌr̥|TAG|indicative past common|âqox|ˈʔaːɢ̚ɐx|
+|àś|ˈæɕ|TAG|prohibitive|kas|ˈkæs|
+|áeń|ˈɑe̯ɲ̊|TAG|interrogative|ghan|ˈɑɛ̯n̥|
+|áeńca|ˈɑe̯ɲ̊cæ|TAG|interrogative formal|ghana|ˈɑɛ̯n̥n̥æ|
+|áeńcâř|ˈɑe̯ɲ̊cʌr̥|TAG|interrogative past|ghanox|ˈɑɛ̯n̥n̥ɐx|
+|ǵàońa|ˈɟæo̯ɲæ|TAG|imperative polite formal|alahna|ˈʔælnæ|
+|ǵàś|ˈɟæɕ|TAG|imperative formal|al|ˈʔæɬ|
+|íeńař|ˈie̯ɲær̥|TAG|conditional past formal|jînox|ˈjĩːɐx|
+|màr|ˈmær|TAG|potential|mag|ˈmæːɣ|
+|márâ|ˈmʌrʌ|TAG|potential formal|mâge|ˈmaːɣɐ|
+|múľâr|ˈmuʎʌr|TAG|commissive formal|wûlog|ˈwũːlɘːɣ|
+|ní|ˈni|TAG|conditional formal|jîn|ˈjĩː|
+|ńéř|ˈɲer̥|TAG|conditional past|nix|ˈnix|
+|qáe|ˈɢɑe̯|TAG|indicative formal|qâ|ˈqaː|
+|qáeń|ˈɢɑe̯ɲ|TAG|speculative|qân|ˈqaːn|
+|qář|ˈɢʌr̥|TAG|indicative past|qâx|ˈqax|
+|śàń|ˈɕæɲ̊|TAG|imperative polite|san|ˈsæn̥|
+|váur|ˈʋɑʊ̯r|TAG|commissive|wolg|ˈwɔːlɣ|
+|wáeń|ˈɣɑe̯ɲ|TAG|prohibitive formal|jân|ˈjaːn|
 |arràľańi|ærˈræʎæɲ̊i|VERB|To give (Perfective)|glankî|ˈɣlæn̥kiː|
 |arràľańíeńef|ærˈræʎæɲ̊ˌie̯ɲɛf|VERB|To adore/love (Perfective)|glankî|ˈɣlæn̥ˌkĩːɐf|
 |arràľańni|ærˈræʎæɲ̊ni|VERB|To adore/love (Imperfective)|glankî|ˈɣlæn̥kĩː|
@@ -563,6 +579,8 @@ Auto-derived from original
 |pývoh|ˈpyʋɔħ|VERB|To argue (Perfective)|pivâh|ˈpiːvvɑħ|
 |qàoiʔhéñań|ˈɢæo̯iʔˌħeɴ̥æɲ̊|VERB|To fear (Imperfective)|qâithim|ˈqaːit̚ˌħɨŋ̊kæn̥|
 |qàoiʔhéñeńef|ˈɢæo̯iʔˌħeɴ̥ɛɲ̊ɛf|VERB|To fear (Perfective)|qâithim|ˈqaːit̚ˌħɨŋ̊kn̥ɐf|
+|qáeñ|ˈɢɑe̯ɴ|VERB|To be  (Imperfective)|qâ|ˈqaːŋ|
+|qáeñof|ˈɢɑe̯ɴɔf|VERB|To be  (Perfective)|qâ|ˈqaːŋɐf|
 |qáuań|ˈɢɑʊ̯æɲ̊|VERB|To think (Imperfective)|qâlan|ˈqaːlgæn̥|
 |qáuńof|ˈɢɑʊ̯ɲɔf|VERB|To think (Perfective)|qâlan|ˈqaːlgnɐf|
 |qáuwań|ˈɢɑʊ̯ɣæɲ̊|VERB|To know (Imperfective)|qâlkja|ˈqaːlgjæn̥|
@@ -571,32 +589,30 @@ Auto-derived from original
 |qáuwoś|ˈɢɑʊ̯ɣɔɕ|VERB|To realize (Perfective)|qâlkjes|ˈqaːlgjɐs|
 |qòmpúo|ˈɢɔm̥ˌpuɔ|VERB|To eat (Imperfective)|omôq|ˈʔɔm̥ˌm̥uːɢ̚gɐ|
 |qòmpəñ|ˈɢɔm̥pɤɴ|VERB|To eat (Perfective)|omôq|ˈʔɔm̥m̥ɘːɢ̚|
+|qúbbuhśàńcef|ˈɢubbuħˌɕæɲ̊cɛf|VERB|To fly > To be (travelling) in the air (Perfective)|ûqpûhal|ˈʔũːɢ̚buħˌkɬæn̥n̥ɐf|
+|qúbbvòľań|ˈɢubˌbʋɔʎæɲ̊|VERB|To fly > To be (travelling) in the air (Imperfective)|ûqpûhal|ˈʔũːɢ̚ˌbwɐ̃glæn̥|
 |qúcčèe|ˈɢucˌc͡ɕɛɛ|VERB|To drink (Imperfective)|uple|ˈʔup̚ˌɬɛk̚kɐ|
 |qúcčo|ˈɢucc͡ɕɔ|VERB|To drink (Perfective)|uple|ˈʔup̚ɬɐ|
+|qúdúomoa|ˈɢuˌduo̯moɐ̯|VERB|To join/attach (Perfective)|ûtûmhe|ˈʔũːˌdũːɐː|
 |qúǵíśań|ˈɢuˌɟiɕæɲ̊|VERB|To fight (Imperfective)|ûtilag|ˈʔũːˌdiɬkæn̥|
 |qúǵíśńef|ˈɢuˌɟiɕɲ̊ɛf|VERB|To fight (Perfective)|ûtilag|ˈʔũːˌdiɬkn̥ɐf|
+|qúľârâ|ˈɢuʎʌrʌ|VERB|To go  (Perfective)|ûlogê|ˈʔũːlɣɘː|
+|qúľâréañe|ˈɢuʎʌˌreɐ̯ɴɛ|VERB|To go  (Imperfective)|ûlogê|ˈʔũːlˌɣiːg̚ɐ|
 |qúľńof|ˈɢuʎɲɔf|VERB|To lose > To be lost (Perfective)|ûle|ˈʔũːlgnɐf|
 |qúľoń|ˈɢuʎɔɲ̊|VERB|To lose > To be lost (Imperfective)|ûle|ˈʔũːlgɐn̥|
+|qúnumáeo|ˈɢunuˌmɑe̯ɔ|VERB|To join/attach (Imperfective)|ûtûmhe|ˈʔũːd̚ũːˌɑɛ̯k̚kɐ|
 |qúńowârâàśe|ˈɢuɲɔɣʌrʌˌæɕɛ|VERB|To kill (Imperfective)|ûtihgîlas|ˈʔũːd̚jɐɣiːˌlæskɐ|
 |qúńowârǿmaś|ˈɢuɲɔɣʌˌrømæɕ|VERB|To kill (Perfective)|ûtihgîlas|ˈʔũːd̚jɐˌɣĩːlæs|
+|qúñaʔuccýań|ˈɢuɴæʔucˌcyæɲ̊|VERB|To freeze > To be frozen (Imperfective)|ûqautêv|ˈʔũːɢ̚æʔut̚ˌtiːvgæn̥|
+|qúñaʔuccýńef|ˈɢuɴæʔucˌcyɲɛf|VERB|To freeze > To be frozen (Perfective)|ûqautêv|ˈʔũːɢ̚æʔut̚ˌtiːvgnɐf|
 |qúñoń|ˈɢuɴɔɲ|VERB|To bite  (Perfective)|ûkân|ˈʔũːg̚ɑːn|
+|qúñəźľàńcef|ˈɢuɴɤʑˌʎæɲ̊cɛf|VERB|To swim > To be (travelling) in water (Perfective)|ûqêzla|ˈʔũːɢ̚ɘːzˌglæn̥n̥ɐf|
 |qúomáeńo|ˈɢuo̯ˌmɑe̯ɲɔ|VERB|To bite  (Imperfective)|ûkân|ˈʔũːˌgaːngɐ|
-|qúppuhśàńcef|ˈɢuppuħˌɕæɲ̊cɛf|VERB|To fly > To be (travelling) in the air (Perfective)|uqpûhal|ˈʔuq̚puħˌkɬæn̥n̥ɐf|
-|qúppvòľań|ˈɢupˌpʋɔʎæɲ̊|VERB|To fly > To be (travelling) in the air (Imperfective)|uqpûhal|ˈʔuq̚ˌpwɐ̃glæn̥|
-|qúqqaʔuccýań|ˈɢuɢɢæʔucˌcyæɲ̊|VERB|To freeze > To be frozen (Imperfective)|uqautêv|ˈʔuq̚qæʔut̚ˌtiːvgæn̥|
-|qúqqaʔuccýńef|ˈɢuɢɢæʔucˌcyɲɛf|VERB|To freeze > To be frozen (Perfective)|uqautêv|ˈʔuq̚qæʔut̚ˌtiːvgnɐf|
-|qúqqáeñof|ˈɢuɢˌɢɑe̯ɴɔf|VERB|To be  (Perfective)|uqâ|ˈʔuq̚ˌqaːŋɐf|
-|qúqqoñ|ˈɢuɢɢɔɴ|VERB|To be  (Imperfective)|uqâ|ˈʔuq̚qɑːŋ|
-|qúqqúoźań|ˈɢuɢˌɢuo̯ʑæɲ̊|VERB|To flow (Imperfective)|uqêz|ˈʔuq̚ˌqɨːzgæn̥|
-|qúqqúoźľań|ˈɢuɢˌɢuo̯ʑʎæɲ̊|VERB|To swim > To be (travelling) in water (Imperfective)|uqêzla|ˈʔuq̚ˌqɨːzglæn̥|
-|qúqqúoźńof|ˈɢuɢˌɢuo̯ʑɲɔf|VERB|To flow (Perfective)|uqêz|ˈʔuq̚ˌqɨːzgnɐf|
-|qúqqəźľàńcef|ˈɢuɢɢɤʑˌʎæɲ̊cɛf|VERB|To swim > To be (travelling) in water (Perfective)|uqêzla|ˈʔuq̚qɘːzˌglæn̥n̥ɐf|
+|qúqúoźań|ˈɢuˌɢuo̯ʑæɲ̊|VERB|To flow (Imperfective)|ûqêz|ˈʔũːˌɢɨːzgæn̥|
+|qúqúoźľań|ˈɢuˌɢuo̯ʑʎæɲ̊|VERB|To swim > To be (travelling) in water (Imperfective)|ûqêzla|ˈʔũːˌɢɨːzglæn̥|
+|qúqúoźńof|ˈɢuˌɢuo̯ʑɲɔf|VERB|To flow (Perfective)|ûqêz|ˈʔũːˌɢɨːzgnɐf|
 |qúříha|ˈɢuˌr̥iħæ|VERB|To float (Perfective)|uqkrêha|ˈʔuq̚ˌkr̥iħæ|
 |qúříhe|ˈɢuˌr̥iħɛ|VERB|To float (Imperfective)|uqkrêha|ˈʔuq̚ˌkr̥iħkɐ|
-|qúśřâ|ˈɢuɕr̥ʌ|VERB|To go  (Perfective)|ulogê|ˈʔuɬxɘː|
-|qúśřéañe|ˈɢuɕˌr̥eɐ̯ɴɛ|VERB|To go  (Imperfective)|ulogê|ˈʔuɬˌxiːg̚ɐ|
-|qúttumáeo|ˈɢuttuˌmɑe̯ɔ|VERB|To join/attach (Imperfective)|utûmhe|ˈʔut̚tũːˌɑɛ̯k̚kɐ|
-|qúttúomoa|ˈɢutˌtuo̯moɐ̯|VERB|To join/attach (Perfective)|utûmhe|ˈʔut̚ˌtũːɐː|
 |qúʔfaʔ|ˈɢuʔfæʔ|VERB|To suck (Perfective)|upvat|ˈʔup̚fæt̚|
 |qúʔfàe|ˈɢuʔˌfæɛ|VERB|To suck (Imperfective)|upvat|ˈʔup̚ˌfæt̚kɐ|
 |qúʔñíñe|ˈɢuʔˌɴ̥iɴɛ|VERB|To swell (Imperfective)|uqñî|ˈʔuq̚ˌŋ̊ĩːg̚ɐ|
