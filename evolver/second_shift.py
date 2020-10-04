@@ -16,6 +16,7 @@ class Sound:
         self.is_sound = rep not in MARKINGS
         self.to_add = []
         self.to_insert = []
+        self.to_insert_syl = []
         self.in_hiatus = False # used only between Break-Hiatus and Great Vowel Shift
     def mutate(self, new):
         warn_string(self.rep, new)
@@ -31,6 +32,9 @@ class Sound:
         # like add() but inserts *before* sound
         warn_string(self.rep, new)
         self.to_insert.append(new)
+    def insert_syl(self, new):
+        # inserts a sound which will create a new syllable
+        self.to_insert_syl.append(new)
     def delete(self):
         # this prepares a sound for deletion; it doesn't actually delete it
         # to delete properly, call container word.clear()
@@ -67,6 +71,8 @@ class Word:
             self.n += 1
             return sound
         raise StopIteration
+    def __len__(self):
+        return len(self.elements)
     def __getitem__(self, key):
         return self.elements[key]
     def range(self):
@@ -77,6 +83,8 @@ class Word:
         l = []
         for s in self.elements:
             s.to_insert.reverse()
+            # for x in s.to_insert_syl:
+            #     raise 
             for x in s.to_insert:
                 l.append(Sound(x))
             if s != '':
@@ -550,7 +558,7 @@ def shift_vowel(word):
             elif s_stress:
                 s_stress_v = v
             vowels.append(v)
-            # print(s.rep, p_stress, s_stress)
+            print(s.rep, p_stress, s_stress)
 
     # Update influence of vowels
     for v in vowels:
@@ -616,23 +624,26 @@ def open_guttural(word):
     return word
 
 def denasalise(word):
-    was_bound = False
-    for _, s in word.range():
+    for i, s in word.range():
         if not s.is_sound or s == '':
-            was_bound = True
-        else:
-            if '̃' in s.rep:
-                s.mutate(s.rep.replace('̃', ''))
-                if was_bound:
-                    if s.rep in BACK_VOWELS:
-                        s.insert('m')
-                    elif s.rep in CENTRAL_VOWELS:
-                        s.insert('ɴ')
-                    elif s.rep in FRONT_VOWELS:
-                        s.insert('n')
-
-            was_bound = False
-
+            continue
+        prev, fol = word.get_adjacent(i)
+        if '̃' in s.rep:
+            s.mutate(s.rep.replace('̃', ''))
+            nasal = ''
+            if s.rep in BACK_VOWELS:
+                nasal = 'm'
+            elif s.rep in CENTRAL_VOWELS:
+                nasal = 'ɴ'
+            elif s.rep in FRONT_VOWELS:
+                nasal = 'n'
+            
+            if fol and fol.rep in TO_PRENASALISE:
+                s.add(TO_PRENASALISE[fol.rep])
+            elif not fol or fol.rep in AFTER_GUT_VOWELS:
+                s.add(nasal)
+            elif not prev or prev.rep in AFTER_GUT_VOWELS:
+                s.insert(nasal)
     word.clear()
     # print('nasals deleted', word)
     return word
@@ -671,7 +682,8 @@ def scriptify(sounds):
     ipa = ''
     word = ''
     # print(sounds)
-    for _, s in sounds.range():
+    for i, s in sounds.range():
+        fol = sounds.get_fol(i)
         if s == 'ˈ' or s == 'ˌ':
             ipa += s.rep
             stress = True
@@ -682,6 +694,9 @@ def scriptify(sounds):
             index = 0
             if stress: index = 1
             word += FINAL_VOWELS[s][index]
+        elif fol and (s.rep, fol.rep) in FINAL_ALT_GEMS:
+            ipa += s.rep
+            word += FINAL_ALT_GEMS[(s.rep, fol.rep)] 
         elif s.rep in FINAL_CONS:
             ipa += s.rep
             word += FINAL_CONS[s] 

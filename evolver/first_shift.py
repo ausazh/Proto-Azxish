@@ -424,6 +424,7 @@ def shift_cons_first(word):
     return word    
 
 def vocalise_gh(word):
+    to_insert = []
     for i in range(len(word)):
         s = word[i]
         if 'ʕ' not in s:
@@ -453,11 +454,29 @@ def vocalise_gh(word):
                     word[i-1].update_vowel(vowel)
             else: # C|GH-L-V > new vowel 'A'
                 s.remove_cons(pos)
-                s.add_cons(pos, 'ɐ')
+                to_insert.append(i)
         else:
             warnings.warn("uhh there's an error in GH voxing for " + str(word))
+    to_insert.reverse()
+    for i in to_insert:
+        syl = Syllable('ɐ')
+        syl.set_vowel()
+        word.insert(i, syl)
     #print('vocalised gh ', str(word))
     return word        
+
+def shift_vel_j(word):
+    for i in range(len(word)):
+        s = word[i]
+        print(s)
+        if len(s) < 2 or s[1] != 'j':
+            continue
+        print(s)
+        if s[0] in VELS_TO_J:
+            print(s)
+            s.swap_cons(0, VELS_TO_J[s[0]])
+            s.remove_cons(1)
+    return word
 
 def derelease_stops(word):
     for s in word:
@@ -504,6 +523,7 @@ def first_shift(word, word_type, desc, root2):
         word = shift_laryngeal_vowel(word)
         word = shift_cons_first(word)
         word = vocalise_gh(word)
+        word = shift_vel_j(word)
         word = derelease_stops(word)
         word, phones = desyllabify(word)
         print('>>>shift 1: ' + str(word) + ' <<<')

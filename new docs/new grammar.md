@@ -29,13 +29,13 @@ When a verb denotes directional movement, the location is the focus/topic
 - Verbal-Location Pronouns
   - Affirmation
     - Positive
-    - Negative - various
-    - Emphatic - *hev- > hu
+    - Negative
+    - Emphatic
   - Location
-    - Here - *umêw- > mû
-    - There - *âve- > vâ
-    - Over there/unseen/unknown - *homît- > mît
-    - Where (root) - *qe > qê-
+    - Proximal: Here, Now, This
+    - Medial: There, Then, That
+    - Distal: Over there, Distant past/future, That over there
+    - Indeterminate: Where/Anywhere/Nowhere/Somewhere unknown, etc
 
 - Locational Pronouns
   - Positive
@@ -234,49 +234,83 @@ Noun classes continue Vuhinkam tradition.  A new class is created to distinguish
 The new classes are thus:
 
 - Inanimate -- no ending
-- Animate -- *-a/n* > **
-- Human -- *-ân* > **
-- Divine -- *-i/che* > **
+- Animate -- *(a)n* > *njh*
+- Human -- *(â)n* > *nj*
+- Divine -- *(i)che* > *kke/kko*
 
 With the vowel system shifting drastically, ablaut derivation is no longer productive.  New suffixes are formed, these suffixes attach to evolved word forms.
 
-### Noun cases
+### Noun inflection
 
-Noun cases are suffixed onto verbs without changing the stem
+Noun inflections are suffixed onto verbs without changing the stem stress
+Some noun inflections add their own stress; such nouns then have 3 stressed syllables
 
-Cases inflections differ slightly for each class
+Nouns inflect for Case and Number; both these both combining into a singular fused inflection
+Inflections differ slightly for each class
 Note that the Locative and Instrumental cases have merged; with Inan deriving the case suffix from Instrumental and the rest from Locative
+Inanimate and Divine do not inflect for number
+Animate inflects for singular and plural
+Human inflects for singular, dual and plural
+
+Number inflection is never required, and is not commonly used when already specified by a number in front.  It is commonly used with adjectival nouns however.
 
 - Inanimate
   - NOM - -te /tɛ/ or -to /tɔ/
   - ACC - no ending
   - DAT - -(e)ńêř /ɛɲer̥/ or -(o)nôř /ɔnor/
-  - GEN - -ix /ix/ or -ux /ux/
-  - LOC - -ira /iræ/
-- Animate
-  - NOM - -ań /æɲ̊/ (or än /aɲ̊/)
-  - ACC - -añkøu /æɴ̥køʊ̯/
-  - DAT - -ańǵêř /æɲɟer̥/
-  - GEN - -ańix /æɲ̊ix/
-  - LOC - -ańah /æɲ̊æħ/
-- Human
-  - NOM - -oń /ɔɲ/ (or ân /ʌɲ/)
-  - ACC - -oñgou /ɔɴgou̯/
-  - DAT - -ońêř /ɔɲer̥/
-  - GEN - -ońəx /ɔɲɤx/
-  - LOC - -ońah /ɔɲæħ/
+  - GEN - -ix /ix/ or -ëx /ɤx/
+  - LOC - -êra /eræ/ or -ôra /oræ/
+- Animate Singular
+  - NOM - -njh /ɲ̊/
+  - ACC - -ñkeu /ɴ̥køʊ̯/ or -ñkou /ɴ̥kou̯/
+  - DAT - -ńcêř /ɲ̊cer̥/
+  - GEN - -ńix /ɲ̊ix/ or -ńëx /ɲ̊ɤx/
+  - LOC - -ñah /ɴ̥æħ/
+- Animate Plural
+  - NOM - -ncex /ɲ̊cɛx/ or -ncox /ɲ̊cɔx/
+  - ACC - -ntoxkou /n̥ˌtɔxkou̯/
+  - DAT - -ɲcienjerh /ɲ̊ˌcie̯ɲɛr̥/
+  - GEN - -ntoxëx /n̥ˌtɔxɤx/
+  - LOC - -ncâeñaħ /ɲ̊ˌcɑe̯ɴæħ/
+- Human Singular
+  - add nasal if no nasal present in cases and numbers (except Sing.NOM)
+  - exceptional DAT form derives from an inversion of suffixes from expected -ân-êter > -ântêr to -êter-ân > -êtrân
+  - NOM - -ń /ɲ/ or -(vowel)
+  - ACC - -ñgeu /ɴgøʊ̯/ or -ñgou /ɴgou̯/
+  - DAT - -noń /nɔɲ/ or -neń /nɛɲ/
+  - GEN - -ńëx /ɲɤx/ or -ńix /ɲix/
+  - LOC - -ñah /ɴæħ/
+- Human Dual
+  - NOM - -ñqênj /ɴɢeɲ/ or -ñqënj /ɴɢɤɲ/
+  - ACC - -ñquoggou /ɴˌɢuo̯ggou̯/
+  - DAT - -ñquoyyër /ɴˌɢuo̯ɟɟɤr/
+  - GEN - -ñquëx /ɴˌɢuɤx/
+  - LOC - -ñquoñqaħ /ɴˌɢuo̯ɴɢæħ/
+- Human Plural
+  - add nasal if no nasal present in cases (except NOM)
+  - NOM - -nyex /ɲɟɛx/ or -nyox /ɲɟɔx/
+  - ACC - -ndoxkou /nˌdɔxkou̯/
+  - DAT - -nyienjerh /ɲˌɟie̯ɲɛr̥/
+  - GEN - -ndoxëx /nˌdɔxɤx/
+  - LOC - -nyâeñaħ /ɲˌɟɑe̯ɴæħ/
 - Divine
-  - NOM - -(ik)ke /ikkɛ/
-  - ACC - -(ik)køu /ikkøʊ̯/
-  - DAT - -(ik)kêńêř /keɲer̥/
-  - GEN - -(i)kix /ikix/
-  - LOC - -(i)kñah /ikɴ̥æħ/
+  - replace k/g as necessary (or voiced nasal on LOC)
+  - NOM - -kke /kɛ/ or -gge /gɛ/ or -kko /kɔ/ or -ggo /gɔ/
+  - ACC - -kkeu /kkøʊ̯/ or -kkou
+  - DAT - -kkêř /ker̥/
+  - GEN - -kkix /kix/ or -kkëx
+  - LOC - -ñkah /ɴ̥kæħ/
 
 ## Pronouns
 
 ### Personal Pronouns
 
 Personal pronouns take case endings on a stem based on the Accusative
+As a pro-drop language, it is common to omit nominative and accusative pronouns; these can be added for emphasis (to promote to *comment*).  Personal tag-suffixes replace them in usage where possible (including in topicalising and vocative uses), though cases other than NOM/ACC are unavailable in suffix form (and not available for all tags).
+
+The relative rarity of these pronouns has caused a shift (middle of the language period) away from most NOM/ACC pronoun use.  As adjectives also inflect for person, when pronouns are otherwise required an inflected adjective takes its place in colloquial speech.
+
+Late in the language period, this became part of the normal speech register, with pronouns relegated to formal use only (used alongside Formal sentence tags).  Normal speech has replaced every pronoun with certain adjectives commonly used for each person.
 
 - 1s
   - NOM - I - mûh > mvò /ˈmʋɔ/
@@ -353,3 +387,39 @@ It is also possible to use the Human/Divine pronouns in Dative and Genitive case
   - DAT - To Whom - qêter > qúońoř /ˈɢuo̯ɲɔr̥/
   - GEN - Of Whom - qerkish > qèřix /ɢɛr̥ix/
   - LOC - With Whom - qerñah > qèřñah /ˈɢɛr̥ɴ̥æħ/
+
+## Adjectives
+
+### Attributive adjectives
+
+Adjectives come before the modified noun and inflect to agree with the noun in number.  If the adjective takes on number in this way, it is common to omit it on the noun itself, unless emphasising the number.  As there are only 3 non-singular (and thus marked) groups of words, these are the only ones requiring adjective agreement.
+
+- frhiccê iccete 'dry barley grain/s'
+- frhiccê qeianjh 'dry duck (animal)'
+  - frhiccêcex qeianjh 'dry ducks'
+  - frhiccêcex qeiancex 'dry duck**s**'
+- frhiccê arrhaśonj 'dry person'
+  - frhiccêqênj arrhaśonj 'two dry people'
+  - frhiccêqênj arrhaśoñqënj '**two** dry people'
+  - frhiccêyex arrhaśonj 'dry people'
+  - frhiccêyex arrhaśonyex 'dry **people**'
+- frhiccê qamke 'dry ancestor/s'
+
+### Adpronouns and Pronominal adjectives
+
+Adjectives can also modify pronouns, in which case they inflect for number and person.  The pronoun is often dropped in later usages, allowing adjectives to be used as pronominals, at least in the Nominative case (as adjectives don't inflect for case).  Even later; pronominal adjectives are allowed to take case inflections, while common adjectives have become fixed for certain persons, thereby taking over completely from the current pronoun system
+
+### Non-attributive uses
+
+Adjectives can be easily converted into nouns through use of noun class endings.
+Adjectives can also be used predicatively with a verbal suffix -qoñ
+
+- frhiccê 'dry'
+  - INAN - frhiccête 'dry thing'
+  - AN.s - frhiccênjh 'dry animal/animate thing'
+  - AN.p - frhiccêncex 'dry animals/animate things'
+  - HU.s - frhiccênh 'dry person'
+  - HU.s - frhiccêñqênj 'two dry people'
+  - HU.s - frhiccênyex 'dry people'
+  - DIVN - frhiccêkke 'dry gods/divine things'
+  - VERB - frhiccêqoñ 'to be dry'

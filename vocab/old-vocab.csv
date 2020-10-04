@@ -88,6 +88,10 @@ ghôlqe,VERB-PF,To become
 ûtihgîlas,VERB-PF,To kill
 uqkrêha,VERB-PF,To float
 
+qutun,VERB-PF,To place/To put
+remewân,VERB-PF,To mine
+rewôtiq,VERB-PF,To quarry
+
 keir,PREP,Of
 vlo,PREP,With 
 fes,PREP,Like/As
@@ -96,26 +100,46 @@ zo,PREP,After
 hû,PREP,From
 pre,NUM,One (I)
 qôt,NUM,Two (I)
-ghûma,NUM,Three (I)
+ghûm,NUM,Three (I)
+sreûs,NUM,Four (I)
+lîx,NUM,Five (I)
+zêv,NUM,Six (I)
+zôj,NUM,Seven (I)
+ghrêg,NUM,Eight (I)
+ghrôl,NUM,Nine (I)
+lîxqôt,NUM,Ten (I)
+lîxtoj,NUM,Twenty (I)
+ghûmlît,NUM,Thirty (I)
+sreûslît,NUM,Forty (I)
+lîxlît,NUM,Fifty (I)
 
 gihemân,NOUN - People,Woman (H)
 choamân,NOUN - People,Man (H)
 xelakân,NOUN - People,Person (H)
 arfaxân,NOUN - People,Child (H)
+erfexên,NOUN - People,Baby (H)
 washîân,NOUN - People,Wife (H)
 zimaqân,NOUN - People,Husband (H)
+washîên,NOUN - People,Female Consort/Concubine/Mistress (H)
+zimeqên,NOUN - People,Male Consort/Concubine/'Mistress' (H)
 chaqamân,NOUN - People,Mother (H)
 hrêpghân,NOUN - People,Father (H)
+choqomôn,NOUN - People,Grandmother (H)
+hrêpghôn,NOUN - People,Grandfather (H)
+lakiche,NOUN - People,Ancestor (in general) (D)
+qamiche,NOUN - People,Ancestor (personal) (D)
 
 qaqixahân,NOUN - Community,Team (H)
+mewânân,NOUN - Community,Camp (H)
+qutunân,NOUN - Community,Settlement (H)
 ehân,NOUN - Community,Land > Territory (H)
 
 uqsighan,NOUN - Anatomy,Heart (A)
 shichgan,NOUN - Anatomy,Tongue (A)
+vâkan,NOUN - Anatomy,Head (A)
 puat,NOUN - Anatomy,Skin (I)
 ñaka,NOUN - Anatomy,Flesh (I)
-xukla,NOUN - Anatomy,Hair (I)
-vâka,NOUN - Anatomy,Head (I)
+xukle,NOUN - Anatomy,Hair (I)
 gîlmañ,NOUN - Anatomy,Ear (I)
 êkjômap,NOUN - Anatomy,Eye (I)
 flezchâma,NOUN - Anatomy,Nose (I)
@@ -134,28 +158,36 @@ xukâmalan,NOUN - Anatomy,Wing (A)
 lijam,NOUN - Anatomy,Back (I)
 ponhen,NOUN - Anatomy,Side (of body) (I)
 
-apîtan,NOUN - Senses,Roar (A)
+epîten,NOUN - Senses,Whimper (A)
+apîtan,NOUN - Senses,Growl/Bark (A)
+opîton,NOUN - Senses,Roar (A)
 pamwêan,NOUN - Senses,Sound (A)
 
 qrêiche,NOUN - Sky,Sun (E)
 valiche,NOUN - Sky,Moon (E)
 tixêkiche,NOUN - Sky,Star (E)
 verjan,NOUN - Sky,Rain (A)
+verjon,NOUN - Sky,Heavy Rain (A)
 valjan,NOUN - Sky,Cloud (A)
-vatsenan,NOUN - Sky,To blow > Wind (A)
-valanâtan,NOUN - Sky,Sky (A)
+valjon,NOUN - Sky,Cloud Cover (A)
+vatsenan,NOUN - Sky,To blow > Wind/Weather (A)
+valanâton,NOUN - Sky,Sky (A)
 hautêvatan,NOUN - Sky,Snow > Snow (falling) (A)
 autêvatan,NOUN - Sky,Ice > Hail (A)
+hautêvoton,NOUN - Sky,Blizzard/Snowstorm (A)
+taiton,NOUN - Sky,Dust > Dust Storm (A)
 
 jâwtoche,NOUN - Mythos,God > Deity (D)
 gjîkâche,NOUN - Mythos,Night > God of the Night (D)
 îksâche,NOUN - Mythos,Day > Goddess of the Day (D)
 tsenaniche,NOUN - Mythos,Goddess of the Winds/Weather (D)
 ukhisiche,NOUN - Mythos,Year > God of the Seasons/Harvests (D)
+vâkutsiche,NOUN - Mythos,Road > Goddess of Travels (D)
 ôrzumosiche,NOUN - Mythos,Mammoth (D)
 talakiche,NOUN - Mythos,Enchanted Bone (D)
 juêtiche,NOUN - Mythos,Purifying Honey (D)
 îzmaxan,NOUN - Mythos,Ideal > Idol (A)
+valêviche,NOUN - Mythos,Period/Cleansing (D)
 
 êvziche,NOUN - Environment,Water > Water (in the world) (E)
 metireqiche,NOUN - Environment,Earth > Ground (E)
@@ -181,12 +213,23 @@ haneman,NOUN - Tools,Fire (A)
 hanvaljan,NOUN - Tools,Smoke (A)
 hauhâ,NOUN - Tools,Ashes (I)
 uktramak,NOUN - Tools,Rope (I)
+kuktrô,NOUN - Tools,Net (I)
+kuktrûn,NOUN - People,Netmaker (H)
+kuktrîn,NOUN - People,Net fisher (H)
+zñâxa,NOUN - Tools,Metal Ingot (I)
+zñâxô,NOUN - Tools,Metal Tool (I)
+zñâxûn,NOUN - People,(Metal) Toolsmith (H)
+zñâxîn,NOUN - People,Miner (H)
 
 vâkutsan,NOUN - Construction,Road (A)
+vâkutsîn,NOUN - People,Traveller/Wayfarer (H)
+vâkutsûn,NOUN - People,Pioneer/Trailblazer (H)
 
 pûrixân,NOUN - Rhetoric,Name (H)
+pûrixoche,NOUN - Rhetoric,Ruler Name (extra name chosen by ruler) (D)
 wahîan,NOUN - Rhetoric,Argument (A)
 zûman,NOUN - Rhetoric,Speech/Voice/Words (A)
+zûmûn,NOUN - Rhetoric,Orator (H)
 zûmiche,NOUN - Rhetoric,Words > Eulogy (D)
 
 sunam,NOUN - Function,Other (I)
@@ -199,7 +242,10 @@ asqrôlan,NOUN - Phenomena,Reflection/Image (A)
 goghtan,NOUN - Phenomena,Flow (A)
 lijaman,NOUN - Phenomena,Back > Shadow (A)
 ukhisa,NOUN - Phenomena,Year (I)
+valhisa,NOUN - Phenomena,Moon > Month (I)
 jarche,NOUN - Phenomena,Life (D)
+hisa,NOUN - Phenomena,Cycle (I)
+kersa,NOUN - Phenomena,Cyclical Phase/Season/Period of time (I)
 
 vifuche,NOUN - Concept,Victory (D)
 miûpariche,NOUN - Concept,Power (D)
@@ -208,22 +254,6 @@ gormêtache,NOUN - Concept,Freedom (D)
 mêache,NOUN - Concept,Wisdom (D)
 xompaj,NOUN - Concept,Progress (I)
 wahra,NOUN - Concept,Mistake (I)
-
-xompajan,_DEMO-NOUN-A-1, A-NOM
-xompajanchôl,_DEMO-NOUN-A-2, A-ACC
-xompajanêter,_DEMO-NOUN-A-3, A-DAT
-xompajankish,_DEMO-NOUN-A-4, A-GEN
-xompajanñah,_DEMO-NOUN-A-5, A-LOC
-xompajân,_DEMO-NOUN-H-1, H-NOM
-xompajânchôl,_DEMO-NOUN-H-2, H-ACC
-xompajânêter,_DEMO-NOUN-H-3, H-DAT
-xompajânkish,_DEMO-NOUN-H-4, H-GEN
-xompajânñah,_DEMO-NOUN-H-5, H-LOC
-xompajiche,_DEMO-NOUN-D-1, D-NOM
-xompajichechôl,_DEMO-NOUN-D-2, D-ACC
-xompajicheêter,_DEMO-NOUN-D-3, D-DAT
-xompajichekish,_DEMO-NOUN-D-4, D-GEN
-xompajicheñah,_DEMO-NOUN-D-4, D-LOC
 
 ghuja,DET,This
 jâhap,DET,That
@@ -411,6 +441,8 @@ merêka,NOUN - Plant,Cannabis (Drug) (I)
 merekmak,NOUN - Plant,Cannabis/Hemp Plant (I)
 merêlrwa,NOUN - Plant,Hemp Fibre (I)
 
+gîlmeñ,NOUN - Plant,Little Ear > Fungus (I)
+
 êzvlan,NOUN - Animal,Fish (A)
 pûhalan,NOUN - Animal,Bird (A)
 ogan,NOUN - Animal,Animal (A)
@@ -418,12 +450,15 @@ ogan,NOUN - Animal,Animal (A)
 ôrzan,NOUN - Animal,Boar (A)
 hêkkan,NOUN - Animal,Pig (A)
 hekhêkki,NOUN - Animal,Pigsty (I)
+hekñêka,NOUN - Food,Pork (I)
 êvpûhalan,NOUN - Animal,Waterfowl (A)
 qêpkan,NOUN - Animal,Duck (A)
-qepqêpki,NOUN - Animal,Duck farm (I)
+qepqêpki,NOUN - Animal,Duck Farm (I)
+qepñêka,NOUN - Food,Duck Meat (I)
 prâlchan,NOUN - Animal,Ibex (A)
 mâpkan,NOUN - Animal,Goat (A)
-mapmâpki,NOUN - Animal,Goat run (I)
+mapmâpki,NOUN - Animal,Goat Run (I)
+mâpñêka,NOUN - Food,Goat Meat (I)
 
 hresfan,NOUN - Animal,Wolf (A)
 hrôtlan,NOUN - Animal,Coyote (A)
@@ -433,6 +468,9 @@ xuzñen,NOUN - Animal,Bee (A)
 xuzzuzñi,NOUN - Animal,Bee Hive (I)
 
 hoghjalen,NOUN - Animal,Insect (I)
+ghrêgen,NOUN - Animal,Spider (A)
+opîton,NOUN - Animal,Bear (A)
+ksalêvxon,NOUN - Animal,Sea Dragon/Sea Monster (A)
 
 ñêka,NOUN - Food,Meat (to eat) (I)
 êvñêka,NOUN - Food,Blood (I)

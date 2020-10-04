@@ -100,5 +100,6 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False, md=False):
     export_vocab(dest, new_vc, sort, md)
     return new_vc
 
-vc = evolve(sort=True, md=True)
+# vc = evolve(sort=True, md=True)
+vc = evolve(md=True)
 # oriv = evolve('../vocab/text', '../vocab/text-ev')
