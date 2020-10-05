@@ -8,6 +8,10 @@ Auto-derived from original
 |arrhea|ær̥ˈr̥eɐ̯|NOUN|To stand > Status/State (I)|xê|ˈxiː|
 |arrhai|ær̥ˈr̥æi|NOUN|To stand > Stance (I)|xeki|ˈxɛk̚ki|
 |uqqo|ˈuɢɢɔ|NOUN|To be > Existence (I)|wuqâ|ˈwuq̚qɑː|
+|uiomë|ˈuɪ̯ɔmɤ|PART|To give birth /> To have as a child (Participle)|lihemê|ˈljɐmɘː|
+|quśħâmpë|ˈɢuɕˌħʌm̥pɤ|PART|To give birth /> To have as a child (Negative Participle)|qilihemê|ˈqɨɬˌħɜm̥m̥ɘː|
+|uiomieñef|ˈuɪ̯ɔˌmie̯ɴɛf|VERB|To give birth /> To have as a child (Perfective)|lihemêñef|ˈljɐˌmiːŋɐf|
+|uiomëñ|ˈuɪ̯ɔmɤɴ|VERB|To give birth /> To have as a child (Imperfective)|lihemêñ|ˈljɐmɘːŋ|
 |qghomë|ˈɢɣɔmɤ|PART|To live (Participle)|ihemê|ˈʔjɐmɘː|
 |yi'ħempê|ˈɟiʔˌħɛm̥pe|PART|To live (Negative Participle)|itihemê|ˈʔit̚ˌħɜm̥m̥ɘː|
 |qghemieñef|ˈɢɣɛˌmie̯ɴɛf|VERB|To live (Perfective)|ihemêñef|ˈʔjɐˌmiːŋɐf|
@@ -36,6 +40,10 @@ Auto-derived from original
 |yicceghemê|ˈɟicˌcɛɣɛme|PART|To die (not live) > To be dead (Negative Participle)|ititihimê|ˈʔit̚ˌtjɐmɘː|
 |yi'ħêmbieñef|ˈɟiʔħemˌbie̯ɴɛf|VERB|To die (not live) > To be dead (Perfective)|itihimêñef|ˈʔit̚ħɨmˌmiːŋɐf|
 |yi'ħêmpêñ|ˈɟiʔˌħem̥peɴ|VERB|To die (not live) > To be dead (Imperfective)|itihimêñ|ˈʔit̚ˌħɨm̥m̥ɘːŋ|
+|arrhea|ær̥ˈr̥eɐ̯|PART|To stand > To exist/There be (*) (Participle)|xê|ˈxiː|
+|nêre|ˈnerɛ|PART|To stand > To exist/There be (*) (Negative Participle)|jîxê|ˈjĩɣɘː|
+|arrheañef|ær̥ˈr̥eɐ̯ɴɛf|VERB|To stand > To exist/There be (*) (Perfective)|xêñef|ˈxiːŋɐf|
+|arrheañ|ær̥ˈr̥eɐ̯ɴ|VERB|To stand > To exist/There be (*) (Imperfective)|xêñ|ˈxiːŋ|
 |arrhaanjh|ær̥ˈr̥ææɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Participle)|xekan|ˈxɛk̚kæn̥|
 |nêränjh|ˈneraɲ̊|PART|To walk/To stand > To be standing / To be (travelling) on the ground (Negative Participle)|jîxekan|ˈjĩɣgæn̥|
 |arrha'njef|ær̥ˈr̥æʔɲ̊ɛf|VERB|To walk/To stand > To be standing / To be (travelling) on the ground (Perfective)|xeknef|ˈxɛk̚n̥ɐf|
@@ -116,10 +124,10 @@ Auto-derived from original
 |ienjâerpë|ˈie̯ˌɲɑe̯r̥pɤ|PART|To prosper > To be prosperous (Negative Participle)|jîherpô|ˈjĩːˌɑɛ̯r̥pɘː|
 |ħârpuoñof|ˈħʌr̥ˌpuo̯ɴɔf|VERB|To prosper > To be prosperous (Perfective)|herpôñef|ˈħɜr̥ˌpuːŋɐf|
 |ħârpëñ|ˈħʌr̥pɤɴ|VERB|To prosper > To be prosperous (Imperfective)|herpôñ|ˈħɜr̥pɘːŋ|
-|camħe|ˈcæm̥ħɛ|PART|To remain (Participle)|tamhe|ˈtæm̥ħɐ|
-|jêcamħe|ˈjeˌcæm̥ħɛ|PART|To remain (Negative Participle)|êtamhe|ˈjeːˌtæm̥ħɐ|
-|camñef|ˈcæmɴɛf|VERB|To remain (Perfective)|tamheñef|ˈtæmŋɐf|
-|camħeñh|ˈcæm̥ħɛɴ̥|VERB|To remain (Imperfective)|tamheñ|ˈtæm̥ħɐŋ̊|
+|camħe|ˈcæm̥ħɛ|PART|To remain /> To stay/To inhabit (Participle)|tamhe|ˈtæm̥ħɐ|
+|jêcamħe|ˈjeˌcæm̥ħɛ|PART|To remain /> To stay/To inhabit (Negative Participle)|êtamhe|ˈjeːˌtæm̥ħɐ|
+|camñef|ˈcæmɴɛf|VERB|To remain /> To stay/To inhabit (Perfective)|tamheñef|ˈtæmŋɐf|
+|camħeñh|ˈcæm̥ħɛɴ̥|VERB|To remain /> To stay/To inhabit (Imperfective)|tamheñ|ˈtæm̥ħɐŋ̊|
 |arraljanji|ærˈræʎæɲ̊i|PART|To adore/love (Participle)|glankî|ˈɣlæn̥kiː|
 |nearaljanji|ˈneɐ̯ræˌʎæɲ̊i|PART|To adore/love (Negative Participle)|jîglankî|ˈjĩːɣˌlæn̥kiː|
 |arraljanjienjef|ærˈræʎæɲ̊ˌie̯ɲɛf|VERB|To adore/love (Perfective)|glankîñef|ˈɣlæn̥ˌkĩːɐf|
@@ -344,6 +352,10 @@ Auto-derived from original
 |qu'fërhiħa|ˈɢuʔfɤˌr̥iħæ|PART|To float (Negative Participle)|utwiqkrêha|ˈʔut̚ɸiq̚ˌkr̥iħæ|
 |qurhiħa|ˈɢuˌr̥iħæ|VERB|To float (Perfective)|uqkrêha|ˈʔuq̚ˌkr̥iħæ|
 |qurhiħe|ˈɢuˌr̥iħɛ|VERB|To float (Imperfective)|uqkrêhake|ˈʔuq̚ˌkr̥iħkɐ|
+|tuolja|ˈtuo̯ʎæ|PART|To change (Participle)|tôla|ˈtuːlæ|
+|jêtuolja|ˈjeˌtuo̯ʎæ|PART|To change (Negative Participle)|êtôla|ˈjeːˌtuːlæ|
+|tuolja|ˈtuo̯ʎæ|VERB|To change (Perfective)|tôla|ˈtuːlæ|
+|tuoljo|ˈtuo̯ʎɔ|VERB|To change (Imperfective)|tôlake|ˈtuːlgɐ|
 |quttunjh|ˈɢuttuɲ̊|PART|To place/To put (Participle)|qutun|ˈqut̚tun̥|
 |jêddünjh|ˈjeddyɲ̊|PART|To place/To put (Negative Participle)|êqutun|ˈjeːɢ̚dun̥|
 |quttunjh|ˈɢuttuɲ̊|VERB|To place/To put (Perfective)|qutun|ˈqut̚tun̥|
@@ -362,6 +374,16 @@ Auto-derived from original
 |zo|ˈzɔ|PREP|After|zo|ˈzɔ|
 |yiñ|ˈɟiɴ|PREP|Before|îk|ˈʔĩːg̚|
 |ħum|ˈħum|PREP|From|hû|ˈħũː|
+|vae|ˈʋæɛ|NUM-ORD|Head-ish > First (I)|vakke|ˈvæk̚kɐ|
+|yêraorra|ˈɟerˌæo̯rræ|NUM-ORD|Follow-ing > Second (I)|îxeghuge|ˈʔĩɣˌɐʊ̯ɣɣɐ|
+|âumo|ˈɑʊ̯mɔ|NUM-ORD|Three-ish > Third (I)|ghûmke|ˈɐʊ̯̃gɐ|
+|se'uźo|ˈsɛʔˌuʑɔ|NUM-ORD|Four-ish > Fourth (I)|sreûske|ˈʂɛʔˌũzgɐ|
+|ljêra|ˈʎeræ|NUM-ORD|Five-ish > Fifth (I)|lîxke|ˈlĩɣgɐ|
+|iseu|ˈisøʊ̯|NUM-ORD|Of-Six > Sixth (I)|kirzêv|ˈkiʂɘːv|
+|isei|ˈisei̯|NUM-ORD|Of-Seven > Seventh (I)|kirzôj|ˈkiʂɘːj|
+|earer|ˈeɐ̯rɛr|NUM-ORD|Of-Eight > Eighth (I)|kighrêg|ˈkiɐ̯rɘːɣ|
+|eareu|ˈeɐ̯røʊ̯|NUM-ORD|Of-Nine > Ninth (I)|kighrôl|ˈkiɐ̯rɘːl|
+|irhêrqênj|ˈiˌr̥erɢeɲ|NUM-ORD|Ten-LOC > Tenth (I)|kirlîxqôt|ˈkiˌɭ̥ĩɣɢɘːd̚|
 |rhe|ˈr̥ɛ|NUM|One (I)|pre|ˈpr̥ɛ|
 |quonj|ˈɢuo̯ɲ|NUM|Two (I)|qôt|ˈquːd̚|
 |oum|ˈou̯m|NUM|Three (I)|ghûm|ˈɐʊ̯̃|
@@ -432,22 +454,35 @@ Auto-derived from original
 |vaśxanjh|ˈʋæɕxæɲ̊|NOUN - Sky|Cloud (A)|valjan|ˈvæɬçæn̥|
 |vaśxenjh|ˈʋæɕxɛɲ̊|NOUN - Sky|Cloud Cover (A)|valjon|ˈvæɬçɐn̥|
 |vatfnjanjh|ˈʋætfɲ̊æɲ̊|NOUN - Sky|To blow > Wind/Weather (A)|vatsenan|ˈvæt͡θn̥æn̥|
-|vaśnjaonjenjh|ˈʋæɕˌɲ̊æo̯ɲɛɲ̊|NOUN - Sky|Sky (A)|valanâton|ˈvæɬˌn̥aːd̚ɐn̥|
+|vaśnjaonjenjh|ˈʋæɕˌɲ̊æo̯ɲɛɲ̊|NOUN - Sky|Sky (A) (*)|valanâton|ˈvæɬˌn̥aːd̚ɐn̥|
+|vaśnjaogge|ˈʋæɕˌɲ̊æo̯ggɛ|NOUN - Sky|Sky (D) (*)|valanâtoche|ˈvæɬˌn̥aːd̚d͡ʒɐ|
 |ħa'üccüyanjh|ˈħæʔycˌcyɟæɲ̊|NOUN - Sky|Snow > Snow (falling) (A)|hautêvatan|ˈħæʔut̚ˌtiːvdæn̥|
 |ya'üccüyanjh|ˈɟæʔycˌcyɟæɲ̊|NOUN - Sky|Ice > Hail (A)|autêvatan|ˈʔæʔut̚ˌtiːvdæn̥|
 |ħa'üccüyenjh|ˈħæʔycˌcyɟɛɲ̊|NOUN - Sky|Blizzard/Snowstorm (A)|hautêvoton|ˈħæʔut̚ˌtiːvdɐn̥|
 |ca'iccenjh|ˈcæʔˌiccɛɲ̊|NOUN - Sky|Dust > Dust Storm (A)|taiton|ˈtæʔˌit̚tɐn̥|
 |ghâudokko|ˈɣɑʊ̯ˌdɔkkɔ|NOUN - Mythos|God > Deity (D)|jâwtoche|ˈjaːwˌdɔt̚t͡ʃɐ|
+|vaśnjoqquoggo|ˈʋæɕɲ̊ɔɢˌɢuo̯ggɔ|NOUN - Sky|Sky.dual > The Pair of the Sky (Ienjaoge and Yinddźaoge) (D)|valanâtqôtiche|ˈvæɬn̥ɑːd̚ˌɢuːd̚d͡ʒɐ|
 |ienjaoge|ˈie̯ˌɲæo̯gɛ|NOUN - Mythos|Night > God of the Night (D)|gjîkâche|ˈʝĩːˌgaːd͡ʒɐ|
 |yinddźaoge|ˈɟiɲɟˌɟ͡ʑæo̯gɛ|NOUN - Mythos|Day > Goddess of the Day (D)|îksâche|ˈʔĩːg̚ˌzaːd͡ʒɐ|
+|tośquoggo|ˈtɔɕˌɢuo̯ggɔ|NOUN - Mythos|Change.dual > The Pair of Change (Tfencikke and Qu'ħusko) (D)|tolaqôtiche|ˈtɔɬˌquːd̚d͡ʒɐ|
 |tfencikke|ˈtfɛɲ̊ˌcikkɛ|NOUN - Mythos|Goddess of the Winds/Weather (D)|tsenaniche|ˈt͡θɛn̥ˌn̥it̚t͡ʃɐ|
 |qu'ħusko|ˈɢuʔˌħuskɔ|NOUN - Mythos|Year > God of the Seasons/Harvests (D)|ukhisiche|ˈʔuk̚ˌħɨst͡ʃɐ|
-|vaoñdvikke|ˈʋæo̯ɴˌdʋikkɛ|NOUN - Mythos|Road > Goddess of Travels (D)|vâkutsiche|ˈvaːg̚ˌd͡ðit̚t͡ʃɐ|
+|camħeqquoggo|ˈcæm̥ħɛɢˌɢuo̯ggɔ|NOUN - Mythos|Remain.dual > The Pair of Constancy (D)|tamheqôtiche|ˈtæm̥ħɐq̚ˌquːd̚d͡ʒɐ|
+|arrhaqqêkke|ær̥ˈr̥æɢˌɢekkɛ|NOUN - Mythos|Mountain > God of the Earth/Mountains (D)|xetaqiche|ˈxɛt̚ˌqɨt̚t͡ʃɐ|
+|me'rheazge|ˈmɛʔˌr̥eɐ̯zgɛ|NOUN - Mythos|Ocean > God of the Seas (D)|metugêziche|ˈmɛt̚ˌxiːzd͡ʒɐ|
+|uħħuquoggo|ˈuħħuˌɢuo̯ggɔ|NOUN - Mythos|Tribe.dual > The Pair of Humanity/Human Worlds (D)|vuhîñqôtiche|ˈvuħħɨ̃ːˌɢuːd̚d͡ʒɐ|
+|vaoñdvikke|ˈʋæo̯ɴˌdʋikkɛ|NOUN - Mythos|Road > Goddess of Travels/Knowledge/The Living World (D)|vâkutsiche|ˈvaːg̚ˌd͡ðit̚t͡ʃɐ|
+|ljaearmikke|ˈʎæeɐ̯ˌrmikkɛ|NOUN - Mythos|Ancestor-Help > Goddess of the Dead/Ancestors/The Spirit World (D)|lakîxamiche|ˈlæk̚kiːˌɣmit̚t͡ʃɐ|
+|esakkxikke|ˈɛsækˌkxikkɛ|NOUN - Mythos|Cycle.plur > The Trio of Cycles (D)|kersatojiche|ˈkɛʂæt̚ˌtçit̚t͡ʃɐ|
+|ljiħħeimge|ˈʎiħˌħei̯mgɛ|NOUN - Mythos|Birth > Goddess of Creation/Birth (D)|lihêmiche|ˈliħˌħɨːmd͡ʒɐ|
+|qunljarge|ˈɢuɲˌʎærgɛ|NOUN - Mythos|Fight > God of Destruction/War (D)|ûtilagiche|ˈʔũːd̚ˌlæːɣd͡ʒɐ|
+|jêñghakke|ˈjeɴˌɣækkɛ|NOUN - Mythos|See > The Watcher/The Balancer/The Judge (D)|êkjapiche|ˈjeːg̚ˌjæp̚t͡ʃɐ|
 |vôŕmosko|ˈʋoˌɹmɔskɔ|NOUN - Mythos|Mammoth (D)|ôrzumosiche|ˈwoːˌʐmɔst͡ʃɐ|
 |caśikke|ˈcæɕˌikkɛ|NOUN - Mythos|Enchanted Bone (D)|talakiche|ˈtæɬˌkit̚t͡ʃɐ|
 |ghu'iegge|ˈɣuʔˌie̯ggɛ|NOUN - Mythos|Purifying Honey (D)|juêtiche|ˈjuʔˌiːd̚d͡ʒɐ|
 |yiźmärrhänjh|ˈɟiʑˌmar̥r̥aɲ̊|NOUN - Mythos|Ideal > Idol (A)|îzmaxan|ˈʔĩːzˌmæxxæn̥|
 |vaśśüge|ˈʋæɕˌɕygɛ|NOUN - Mythos|Period/Cleansing (D)|valêviche|ˈvæɬˌɬiːvd͡ʒɐ|
+|yeħke|ˈɟɛħkɛ|NOUN - Mythos|Land > The World (D)|ehoche|ˈʔɛħt͡ʃɐ|
 |jêźikke|ˈjeˌʑikkɛ|NOUN - Environment|Water > Water (in the world) (E)|êvziche|ˈjeːvˌzit̚t͡ʃɐ|
 |me'ekke|ˈmɛʔˌɛkkɛ|NOUN - Environment|Earth > Ground (E)|metireqiche|ˈmɛʈ̚ˌɛq̚t͡ʃɐ|
 |me'eqqa|ˈmɛʔˌɛɢɢæ|NOUN - Environment|Earth > Soil (I)|metireqa|ˈmɛʈ̚ˌɛq̚qæ|
@@ -481,6 +516,8 @@ Auto-derived from original
 |vaoñdvanjh|ˈʋæo̯ɴdʋæɲ̊|NOUN - Construction|Road (A)|vâkutsan|ˈvaːg̚d͡ðæn̥|
 |vaoñdvin|ˈʋæo̯ɴdʋin|NOUN - People|Traveller/Wayfarer (H)|vâkutsîn|ˈvaːg̚d͡ðĩː|
 |vâeñdvum|ˈʋɑe̯ɴdʋum|NOUN - People|Pioneer/Trailblazer (H)|vâkutsûn|ˈvaːg̚d͡ðũː|
+|aħak|ˈæħæk|NOUN - Construction|House/Hut (I)|kâhach|ˈkaħæt͡ʃ|
+|camħenjh|ˈcæm̥ħɛɲ̊|NOUN - Community|Home/Resting place (A)|tamhon|ˈtæm̥ħɐn̥|
 |poarânj|ˈpoɐ̯rʌɲ|NOUN - Rhetoric|Name (H)|pûrixân|ˈpũːrɣɑːn|
 |poarâkko|ˈpoɐ̯ˌrʌkkɔ|NOUN - Rhetoric|Ruler Name (extra name chosen by ruler) (D)|pûrixoche|ˈpũːrˌɣɔt̚t͡ʃɐ|
 |vaħħeinanjh|ˈʋæħˌħei̯næɲ̊|NOUN - Rhetoric|Argument (A)|wahîan|ˈwæħˌħɨ̃ːæn̥|
@@ -623,7 +660,7 @@ Auto-derived from original
 |gheħħemh|ˈɣɛħħɛm̥|ADJ|Proud|jewom|ˈjɛxxʷɐm̥|
 |arralji'|ærˈræʎiʔ|ADJ|Mighty|glip|ˈɣlip̚|
 |aśśo|ˈæɕɕɔ|ADJ|Smug/Priggish|kalâ|ˈkæɬɬɑː|
-|firrhêm|ˈfir̥r̥em|ADJ|Enternal|firêm|ˈfir̥r̥ɘːm|
+|firrhêm|ˈfir̥r̥em|ADJ|Eternal|firêm|ˈfir̥r̥ɘːm|
 |ete'|ˈɛtɛʔ|ADJ|New|kertop|ˈkɛʈɐp̚|
 |êrrhatarh|ˈer̥ˌr̥ætær̥|ADJ|Heavy|kigertar|ˈkixˌxɛʈær̥|
 |moaoa'|ˈmoɐ̯oɐ̯ʔ|ADJ|Straight|mughet|ˈmuɐ̯ɐːt̚|

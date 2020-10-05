@@ -2,8 +2,14 @@
 
 ## Word order
 
-VSOT transative / SVT intransative
+VLS(O)T main clause / LS(O)VT relative clauses or poetic nil-argument sentences / (L)(O)V participle clauses
 T denotes a phrasal Tag, which takes much of the former verbal conjuagtion for Tense, Aspect and Mood
+
+The word order derives from Vuhinkam VSO transitive and SV intransitive:
+The Locative Pronoun takes the place of the original 'subject', guaranteeing that as long as the verb has at least one complement, it can be treated as 'transitive'
+The SV structure is commonly in use in relative clauses, and is now mostly bound to it
+
+Locative pronoun is not required in infinitive relative clasues (with a verbal participle as the 'verb'), but they are required for finite relative clauses (with an actual verb as the 'verb')
 
 Head-last
 
@@ -89,15 +95,58 @@ The roots are:
 
 The vowel-initial negative affixes are modified with a semivowel: a > gha; î > ji
 
+### Verbal Participles
+
+Verbal participles can act as adjectives, coming before the noun they modify and agreeing in number and person when in attributive position, or taking predicative verbal or noun class endings to convert it into a verb/noun.  These participles constitute a participle-headed subordinate clause, accepting optional objects, adverbials and location pronouns.
+
+- qurhiħa 'floating'
+- qurhiħa mvò 'floating me'
+  - qurhiħa xaśonj 'floating person'
+  - qurhiħañênj xaśonj/xaśoñqënj 'two floating people'
+  - qurhiħanjex jâl 'floating us'
+  - qurhiħanjex xaśonj/xaśoñyox 'floating people'
+- qurhiħarä' úʔ 'floating thou'
+  - qurhiħaräqqênj ľàřa 'floating thou & I'
+  - qurhiħaräccex mè 'floating you'
+- qurhiħa'arh qáh/etc 'floating s/he/it/them'
+  - qurhiħa'arhqênj eríoń 'floating s/h/i & I'
+  - qurhiħa'arcex ñèń 'floating them'
+
+- qurhiħate 'floating thing/s'
+
+Verbal participles can also act as nouns themselves, forming an informal 5th Noun Class.  They are treated as an inanimate noun, but don't take the nominative -te ending.
+Cases on verbal participles can form a subordinate clause.  Participles are unique in having unmerged Instrumentative and Locative cases
+
+When used as a subordinating inflected noun, the 'subject' can equally be expressed as a Subject of the Verb, or as Owner of the Action (i.e. Nominative or Genitive).
+
+- qurhiħa '(the act of) floating' (NOM/ACC)
+- qurhiħanjêrh 'in order to float, that X float' (DAT)
+- qurhiħaix 'because of floating, from floating' (GEN)
+- qurhiħaêra 'by floating, using floating' (INS)
+- qurhiħañah 'when floating, upon floating, while floating' (LOC)
+
 ### Sentence Tag
 
 - Tags are (common, formal):
   - IND - indicative tag
     - derived from uqâ 'to be'
     - **normal - q(â)** /ɢʌ/ < q
-    - **formal - qáe** /ˈɢɑe̯/ < qâ
-    - **past - qář** /ˈɢʌr̥/ < qâx < qâox
+    - **formal - qâe** /ˈɢɑe̯/ < qâ
+    - **past - qârh** /ˈɢʌr̥/ < qâx < qâox
       - the *past normal* and *past formal* forms have merged
+    - Only when using the indicative tag, the copula 'qâeñ' may be omitted for 'X is Y' type sentences
+  - NAR - narrative tag
+    - present from añagi 'to hear'
+    - used when recounting stories from the recent past (including one's own experiences)
+    - **present - ñe /ˈɴɛ/** < ñe
+    - **present formal - jarh /ˈɟær̥/** < yañrhê < añagi
+    - past derived from lakiche 'ancestor/s'; without the use of a past suffix
+    - used when recounting stories from the ancient past, or stories passed down through generations
+    - also used (with a present/indeterminate tense meaning) for not easily observable 'world truths' when combined with the Gnomic modality
+      - For this usage, there is no specific past tense marking, relying instead on an adverbial phrase for time
+      - e.g. '**It is said that** birds fly south in winter'
+    - **past - lj(a) /ʎæ/** < lak
+    - **past - lja(k) /ˈʎæk/** < ljakke < lakiche
   - INT - interrogative tag
     - derived from ahna, the original interrogative tag
     - **normal - áeń(c)** /ˈɑe̯ɲ̊c/ < ghan < ahn
@@ -152,16 +201,24 @@ The vowel-initial negative affixes are modified with a semivowel: a > gha; î > 
 
 - Tags are agglutinative
   - Tag endings never take stress
-- Some suffixes change meaning depending on verb aspect:
+- Some suffixes change meaning depending on verb aspect
+  - lji/ljë:
+    - (either) > Causative - I make him run; I am making him run
+    - derived from lîuntâ > ljienjunco 'to make (do)'
   - (ʔ)ań:
     - Imperfective > Inchoative - I start running; I am now running
     - Perfective > Habitual - I run
   - fä:
     - Imperfective > Terminative - I stop/finish running; I am no longer running
     - Perfective > Delimitative - I run (just for a bit)
+  - (ʔ)ev/(ʔ)ov: Gnomic modality / Indefinite
+    - Imperfective - The world is flat
+    - Perfective - Birds migrate (combined with habitual)
 - Tags take endings in this order:
+  - Causative aspect - lji /ʎi/ ljë /ʎɤ/
   - Hab-Inc aspect - (ʔ)ań /(ʔ)æɲ̊/
   - Ter-Del aspect - fä /fa/
+  - Gnomic modality - (ʔ)ev/(ʔ)ov /(ʔ)ɛʋ/ or /(ʔ)ɔʋ/
   - personal inflections
     - These are optional, but commonly used
     - Up to 1 PRI and 1 SEC may be used (can be same person/number)
@@ -178,12 +235,12 @@ The vowel-initial negative affixes are modified with a semivowel: a > gha; î > 
     - 2s - PRI: uʔ /uʔ/, SEC: čàř /c͡ɕær̥/
     - 1+2 - PRI: ľař /ʎær̥/, SEC: râm /rʌm/
     - 2p - PRI: me /mɛ/, SEC: źiñ /ʑiɴ/
-    - 3Is - PRI: qa /ɢʌ/, SEC: ǵêr /ɟer/
+    - 3Is - PRI: qâ /ɢʌ/, SEC: ǵêr /ɟer/
     - 3As - PRI: qeń /ɢɛɲ̊/, SEC: ǵêń /ɟeɲ̊/
     - 3Hs - PRI: qoń /ɢɔɲ/, SEC: ǵêń /ɟeɲ/
     - 3Hd - PRI: rjoń /rjɔɲ/, SEC: woń /ɣɔɲ/
-    - 3As - PRI: ñeń /ɴɛɲ̊/, SEC: veń /ʋɛɲ̊/
-    - 3Hs - PRI: ñâń /ɢʌɲ/, SEC: voń /ʋɔɲ/
+    - 3Ap - PRI: ñeń /ɴɛɲ̊/, SEC: veń /ʋɛɲ̊/
+    - 3Hp - PRI: ñâń /ɢʌɲ/, SEC: voń /ʋɔɲ/
     - 3Ds - PRI: ñix /ɴix/, SEC: veh /ʋɛħ/
     - QIA - PRI: qun /ɢun/, SEC: q(u)nu /ɢunu/
     - QHD - PRI: qâř /ɢʌr̥/, SEC: q(â)rô /ɢʌro/
@@ -244,6 +301,7 @@ With the vowel system shifting drastically, ablaut derivation is no longer produ
 
 Noun inflections are suffixed onto verbs without changing the stem stress
 Some noun inflections add their own stress; such nouns then have 3 stressed syllables
+The noun root is mostly unchanged, except for final syllables which may assimilate (esp. glottal stop and nasals)
 
 Nouns inflect for Case and Number; both these both combining into a singular fused inflection
 Inflections differ slightly for each class
@@ -257,7 +315,7 @@ Number inflection is never required, and is not commonly used when already speci
 - Inanimate
   - NOM - -te /tɛ/ or -to /tɔ/
   - ACC - no ending
-  - DAT - -(e)ńêř /ɛɲer̥/ or -(o)nôř /ɔnor/
+  - DAT - -(e)njêrh /ɛɲer̥/ or -(o)nôř /ɔnor/
   - GEN - -ix /ix/ or -ëx /ɤx/
   - LOC - -êra /eræ/ or -ôra /oræ/
 - Animate Singular
@@ -347,18 +405,18 @@ Late in the language period, this became part of the normal speech register, wit
     - STEM - ǵérâń /ˈɟerʌɲ/ > ǵérâńêř; ǵérâńəx; ǵérâńah
 - 3d
   - Human
-    - NOM - H/S/I and I - rêtân > erríeńoń /ɛrˈrie̯ɲɔɲ/ > eríoń /ɛˈriɔɲ/
-    - Acc - H/S/I and Me - juân > wúʔoń /ˈɣuʔɔɲ/ > wúroń /ˈɣurɔɲ/
-    - STEM - wúroń /ˈɣurɔɲ/ > wúrońêř; wúrońəx; wúrońah
+    - NOM - H/S/I and I - rêtân > erríeńoń /ɛrˈrie̯ɲɔɲ/ > erionj /ɛˈriɔɲ/
+    - Acc - H/S/I and Me - juân > wúʔoń /ˈɣuʔɔɲ/ > ghuronj /ˈɣurɔɲ/
+    - STEM - ghuronj /ˈɣurɔɲ/ > ghuronjêrh; ghuronjëx; ghuronjaħ
 - 3p
   - Animate
     - NOM - They - ñen > ñèń /ˈɴɛɲ̊/
     - Acc - Them - vehan > vèhhań /ˈʋɛħħæɲ̊/
-    - STEM - vèhhańc /ˈʋɛħħæɲ̊c/ > vèhhańcêř; vèhhańcix; vèhhańcah
+    - STEM - veħħanc /ˈʋɛħħæɲ̊c/ > veħħancêrh; veħħancix; veħħancaħ
   - Human
-    - NOM - ñân > ñáeń /ˈɴɑe̯ɲ/
-    - Acc - Them - vehân > vèhhoń /ˈʋɛħħɔɲ/
-    - STEM -vèhhoń /ˈʋɛħħɔɲ/ > vèhhońêř; vèhhońəx; vèhhońah
+    - NOM - ñân > ñâenj /ˈɴɑe̯ɲ/
+    - Acc - Them - vehân > veħħonj /ˈʋɛħħɔɲ/
+    - STEM - veħħonj /ˈʋɛħħɔɲ/ > veħħonjêrh; veħħonjëx; veħħonjaħ
   - Divine (also singular)
     - NOM - They - ñiche > ñíkke /ˈɴikkɛ/
     - Acc - Them - vehiche > vèhke /ˈʋɛħkɛ/
@@ -391,6 +449,7 @@ It is also possible to use the Human/Divine pronouns in Dative and Genitive case
 ## Adjectives
 
 Like nouns, adjective inflections take the form of suffixes which do not alter the original word (except potentially the final consonant).  The suffix itself may be stressed if two syllables or more, potentially leading to words with 3 stressed syllables.
+Note that if the noun being agreed with doesn't need to take number due to a preceding numeral, the adjective can stay singular also.
 
 ### Adjective agreement suffixes
 
@@ -430,11 +489,11 @@ Adjectives come before the modified noun and inflect to agree with the noun in n
 - frhiccê / moaoa' qeianjh 'dry/straight duck (animal)'
   - frhiccênjex / moaoaccox qeianjh 'dry/straight ducks'
   - frhiccênjex / moaoaccox qeiancex 'dry/straight duck**s**'
-- frhiccê / moaoa' arrhaśonj 'dry/straight person'
-  - frhiccêñênj / moaoaqqënj arrhaśonj 'two dry/str people'
-  - frhiccêñênj / moaoaqqënj arrhaśoñqënj '**two** dry/str people'
-  - frhiccênjex / moaoaccox arrhaśonj 'dry/str people'
-  - frhiccênjex / moaoaccox arrhaśonyex 'dry/straight **people**'
+- frhiccê / moaoa' xaśonj 'dry/straight person'
+  - frhiccêñênj / moaoaqqënj xaśonj 'two dry/str people'
+  - frhiccêñênj / moaoaqqënj xaśoñqënj '**two** dry/str people'
+  - frhiccênjex / moaoaccox xaśonj 'dry/str people'
+  - frhiccênjex / moaoaccox xaśonyox 'dry/straight **people**'
 - frhiccê / moaoa' qamke 'dry/straight ancestor/s'
 
 ### Adpronouns and Pronominal adjectives
@@ -466,3 +525,51 @@ Adjectives can also be used predicatively with a verbal suffix -qoñ
   - HU.s - frhiccênyex 'dry people'
   - DIVN - frhiccêkke 'dry gods/divine things'
   - VERB - frhiccêqoñ 'to be dry'
+
+### Derivation
+
+The protolanguage forms of -ke from nouns and -uge from verbs has fallen into disuse since the role has been taken by other grammatical parts (-uge by participles) or due to sound changes (-ke > -e, too weak to form new words).  These affixes persist however in many already-derived words.
+
+New derivations are made through new prefixes derived from previous prepositions.
+
+## Pre- and Postpositions
+
+A few prepositions are inherited from Vuhinkam, however these are no longer used as such, instead shifting to adverbial or derivational use.
+Instead, a new system of postpositions arises through common use of certain directional words.
+
+### Postpositions
+
+Postpositions form the 'head' of the noun phrase and stem from common nouns, often irregularly derived due to common use.  The postposition itself is simply a noun however, and takes cases just like any other.  Postpositions are special however in that they don't require the original noun to take the genitive case (except pronouns) if the postposition immediately follows the noun.  In formal speech the genitive will still be used though.
+
+- ljix -- behind, back
+  - qeianjh ljix -- the back of the duck
+  - qeianjh ljixñaħ -- duck back.LOC -- behind the duck; lit. at the back of the duck
+  - qeiancix ljixñaħ -- duck.GEN back.LOC -- behind the duck (formal)
+  - fix ljixñaħ -- 1s.GEN back.LOC -- behind me; lit. at the back of me
+
+### Prepositional Derivation
+
+Prepositions turn into semi-productive prefixable elements.  They don't take stress and don't alter the stress of the original word
+
+- Of -- keir > ˈkɛʔir̥ > e'irh /ˈɛʔir̥/ >> irh /ir̥/ -- Adjective relating to Noun, '-ic, -ish, -y, -al'
+  - niño /ˈniɴɔ/ 'night' >> irhniño /ir̥ˈniɴɔ/ 'nocturnal'
+    - c.f. niñoëx 'night.GEN, of *the* night'
+  - źñärhä /ˈʑɴar̥a/ 'metal ingot' >> irhźñärhä /ir̥ˈʑɴar̥a/ 'metallic, forged from metal'
+    - c.f. źñärhäix 'metal ingot.GEN, of/from *the* metal ingot'
+- From -- hû > ˈħũː >> ħum /ħum/ -- Adjective relating to having an origin in Noun '-ic, -ish, -ese'; also relating to sharing a particular origin in Noun 'co-'
+  - arrhacca' /ær̥ˈr̥æccæʔ/ 'mountain' >> ħumarrhacca' /ħumær̥ˈr̥æccæʔ/ 'from (the) mountains'
+    - c.f. arrhacca'ix 'from the mountain' (a particular mountain)
+  - qamke /ˈɢæm̥kɛ/ 'personal ancestor' >> ħumqamke /ħumˈɢæm̥kɛ/ 'familial; sharing the same ancestors'
+- With  -- vlo > ˈvlɔ > ulo /ˈulɔ/ >> ul /ul/ -- Adjective relating to containing/having properties of Noun, '-ful'
+  - meccieźya /ˈmɛcˌcie̯ʑɟæ/ 'salt' >> ulmeccieźya /ulˈmɛcˌcie̯ʑɟæ/ 'salty'
+  - źimqonj /ˈʑim̥ɢɔɲ/ 'husband' >> ulźimqonj /ulˈʑim̥ɢɔɲ/ 'married (with a husband)'
+- Like/As -- fes > ˈfɛs >> feś /fɛɕ/ -- Adjective relating to role as a Noun (including a Adj>Noun and Part>Adj>Noun), '-y, -ly'
+  - ka'monj /ˈkæʔm̥ɔɲ/ 'mother' >> feśka'monj /fɛɕˈkæʔm̥ɔɲ/ 'motherly'
+  - ghâeñte /ˈɣɑe̯ɴte/ 'preventing thing' >> feśghâeñte /fɛɕˈɣɑe̯ɴte/ 'preventative', lit. acting as a preventing thing
+- After -- zo > ˈzɔ >> zo /zɔ/ -- word of same class relating to a period after/performing after/in response to; 'after-, post-'
+  - verxenjh /ˈʋɛr̥xɛɲ̊/ 'heavy rain' >> zoverxenjh /zɔˈʋɛr̥xɛɲ̊/ 'period after heavy rain'
+  - gharke /ˈɣær̥kɛ/ 'life' >> zogharke /zɔˈɣær̥kɛ/ 'afterlife'
+  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'fight' >> zoquźjinljar /zɔˈɢuʑˌjiɲʎær/ 'retaliate'
+- Before -- îk > ˈʔĩːg̚ >> yiñ /ɟiɴ/ -- word of the same class relating to a period before/performing before/causing; 'fore-, before-, pre-'
+  - quźjinljar /ˈɢuʑˌjiɲʎær/ 'fight' >> yiñquźjinljar /ɟiɴˈɢuʑˌjiɲʎær/ 'instigate; perform a preemptive strike'
+  - ħa'üccüa' /ˈħæʔycˌcyæʔ/ 'snow' >> yiñħa'üccüa' /ɟiɴˈħæʔycˌcyæʔ/ 'pre-winter: period before winter where preparations must be made'

@@ -35,6 +35,17 @@ from second_shift import second_shift
 DEFAULT_SRC = '../vocab/old-vocab'
 DEFAULT_DEST = '../vocab/new-vocab'
 
+TABLIFY_DEFAULT_SRC = '../vocab/irregular-vocab'
+TABLIFY_DEFAULT_DEST = '../vocab/irregular-vocab'
+
+'''
+CSV format (normal) --
+word,TYPE,meaning OR
+word,word2,TYPE,meaning
+
+certain verbs have a (semi-)irregularly derived root
+'''
+
 MD_HEADER = '''
 # New vocab
 
@@ -42,6 +53,21 @@ Auto-derived from original
 
 |Final form|IPA|Word type|Meaning|Original form|Middle Form|
 |---|---|---|---|---|---|
+'''
+
+'''
+CSV format (irregs) --
+word,ipa,TYPE,meaning,Original OR
+word,ipa,TYPE,meaning,Original,Middle,Regular 
+'''
+
+IRREG_MD_HEADER = '''
+# Irregular vocab
+
+Manually derived from auto-derived original OR 100% manually derived
+
+|Final form|IPA|Word type|Meaning|Original form|Middle Form|Regular Form|
+|---|---|---|---|---|---|---|
 '''
 
 # Import vocab list from source
@@ -100,6 +126,33 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False, md=False):
     export_vocab(dest, new_vc, sort, md)
     return new_vc
 
+def tablify (src=TABLIFY_DEFAULT_SRC, dest=TABLIFY_DEFAULT_DEST):
+    print('importing tablifying vocab from', src)
+    data = []
+    with open(src + '.csv', newline='', encoding='utf-8') as f:
+        reader = csv.reader(f)
+        data = list(reader)
+
+    print('tablifying vocab to', dest)
+    with open(dest + '.md', 'w', newline='', encoding='utf-8') as f:
+        f.write(IRREG_MD_HEADER)
+        for line in data:
+            if line == []:
+                continue
+            if len(line) == 5:
+                for w in line:
+                    f.write('|')
+                    f.write(w)
+                f.write('---|---|')
+            elif len(line) == 7:
+                for w in line:
+                    f.write('|')
+                    f.write(w)
+            else:
+                raise ValueError('input csv columns incorrect: needs 5 or 7, received', str(line))
+            f.write('|\n')
+
 # vc = evolve(sort=True, md=True)
 vc = evolve(md=True)
 # oriv = evolve('../vocab/text', '../vocab/text-ev')
+tablify()

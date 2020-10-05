@@ -2,6 +2,7 @@ xê,NOUN,To stand > Status/State (I)
 xeki,NOUN,To stand > Stance (I)
 wuqâ,NOUN,To be > Existence (I)
 
+lihemê,lihemêñ,VERB-IM,To give birth /> To have as a child
 ihemê,ihemêñ,VERB-IM,To live
 qâ,qâñ,VERB-IM,To be 
 añagi,añagkin,VERB-IM,To hear
@@ -9,6 +10,7 @@ añagi,añagkin,VERB-IM,To hear
 qâlkja,qâlkjan,VERB-IM,To know
 pefithê,pefithêñ,VERB-IM,To sleep
 itihimê,itihimêñ,VERB-IM,To die (not live) > To be dead
+xê,xêñ,VERB-IM,To stand > To exist/There be (*)
 xekan,xekan,VERB-IM,To walk/To stand > To be standing / To be (travelling) on the ground
 ûqêzla,ûqêzklan,VERB-IM,To swim > To be (travelling) in water
 ûqpûhal,ûqpûhklan,VERB-IM,To fly > To be (travelling) in the air
@@ -29,7 +31,7 @@ veranmen,verankmen,VERB-IM,To play (games)
 ûqêz,ûqêzkan,VERB-IM,To flow
 ûqautêv,ûqautêvkan,VERB-IM,To freeze > To be frozen
 herpô,herpôñ,VERB-IM,To prosper > To be prosperous
-tamhe,tamheñ,VERB-IM,To remain
+tamhe,tamheñ,VERB-IM,To remain /> To stay/To inhabit
 glankî,glankîñ,VERB-IM,To adore/love
 etîvatfâ,etîvatfâñ,VERB-IM,To boast > To be boastful
 xekakân,xekakan,VERB-IM,To march
@@ -87,6 +89,7 @@ qâlkjes,VERB-PF,To realize
 ghôlqe,VERB-PF,To become
 ûtihgîlas,VERB-PF,To kill
 uqkrêha,VERB-PF,To float
+tôla,VERB-PF,To change
 
 qutun,VERB-PF,To place/To put
 remewân,VERB-PF,To mine
@@ -98,6 +101,18 @@ fes,PREP,Like/As
 zo,PREP,After
 îk,PREP,Before
 hû,PREP,From
+
+vakke,NUM-ORD,Head-ish > First (I)
+îxeghuge,NUM-ORD,Follow-ing > Second (I)
+ghûmke,NUM-ORD,Three-ish > Third (I)
+sreûske,NUM-ORD,Four-ish > Fourth (I)
+lîxke,NUM-ORD,Five-ish > Fifth (I)
+kirzêv,NUM-ORD,Of-Six > Sixth (I)
+kirzôj,NUM-ORD,Of-Seven > Seventh (I)
+kighrêg,NUM-ORD,Of-Eight > Eighth (I)
+kighrôl,NUM-ORD,Of-Nine > Ninth (I)
+kirlîxqôt,NUM-ORD,Ten-LOC > Tenth (I)
+
 pre,NUM,One (I)
 qôt,NUM,Two (I)
 ghûm,NUM,Three (I)
@@ -173,23 +188,36 @@ verjon,NOUN - Sky,Heavy Rain (A)
 valjan,NOUN - Sky,Cloud (A)
 valjon,NOUN - Sky,Cloud Cover (A)
 vatsenan,NOUN - Sky,To blow > Wind/Weather (A)
-valanâton,NOUN - Sky,Sky (A)
+valanâton,NOUN - Sky,Sky (A) (*)
+valanâtoche,NOUN - Sky,Sky (D) (*)
 hautêvatan,NOUN - Sky,Snow > Snow (falling) (A)
 autêvatan,NOUN - Sky,Ice > Hail (A)
 hautêvoton,NOUN - Sky,Blizzard/Snowstorm (A)
 taiton,NOUN - Sky,Dust > Dust Storm (A)
 
 jâwtoche,NOUN - Mythos,God > Deity (D)
+valanâtqôtiche,NOUN - Sky,Sky.dual > The Pair of the Sky (Ienjaoge and Yinddźaoge) (D)
 gjîkâche,NOUN - Mythos,Night > God of the Night (D)
 îksâche,NOUN - Mythos,Day > Goddess of the Day (D)
+tolaqôtiche,NOUN - Mythos,Change.dual > The Pair of Change (Tfencikke and Qu'ħusko) (D)
 tsenaniche,NOUN - Mythos,Goddess of the Winds/Weather (D)
 ukhisiche,NOUN - Mythos,Year > God of the Seasons/Harvests (D)
-vâkutsiche,NOUN - Mythos,Road > Goddess of Travels (D)
+tamheqôtiche,NOUN - Mythos,Remain.dual > The Pair of Constancy (D)
+xetaqiche,NOUN - Mythos,Mountain > God of the Earth/Mountains (D)
+metugêziche,NOUN - Mythos,Ocean > God of the Seas (D)
+vuhîñqôtiche,NOUN - Mythos,Tribe.dual > The Pair of Humanity/Human Worlds (D)
+vâkutsiche,NOUN - Mythos,Road > Goddess of Travels/Knowledge/The Living World (D)
+lakîxamiche,NOUN - Mythos,Ancestor-Help > Goddess of the Dead/Ancestors/The Spirit World (D)
+kersatojiche,NOUN - Mythos,Cycle.plur > The Trio of Cycles (D)
+lihêmiche,NOUN - Mythos,Birth > Goddess of Creation/Birth (D)
+ûtilagiche,NOUN - Mythos,Fight > God of Destruction/War (D)
+êkjapiche,NOUN - Mythos,See > The Watcher/The Balancer/The Judge (D)
 ôrzumosiche,NOUN - Mythos,Mammoth (D)
 talakiche,NOUN - Mythos,Enchanted Bone (D)
 juêtiche,NOUN - Mythos,Purifying Honey (D)
 îzmaxan,NOUN - Mythos,Ideal > Idol (A)
 valêviche,NOUN - Mythos,Period/Cleansing (D)
+ehoche,NOUN - Mythos,Land > The World (D)
 
 êvziche,NOUN - Environment,Water > Water (in the world) (E)
 metireqiche,NOUN - Environment,Earth > Ground (E)
@@ -226,6 +254,8 @@ zñâxîn,NOUN - People,Miner (H)
 vâkutsan,NOUN - Construction,Road (A)
 vâkutsîn,NOUN - People,Traveller/Wayfarer (H)
 vâkutsûn,NOUN - People,Pioneer/Trailblazer (H)
+kâhach,NOUN - Construction,House/Hut (I)
+tamhon,NOUN - Community,Home/Resting place (A)
 
 pûrixân,NOUN - Rhetoric,Name (H)
 pûrixoche,NOUN - Rhetoric,Ruler Name (extra name chosen by ruler) (D)
@@ -380,7 +410,7 @@ gûtji,ADJ,Powerful
 jewom,ADJ,Proud
 glip,ADJ,Mighty
 kalâ,ADJ,Smug/Priggish
-firêm,ADJ,Enternal
+firêm,ADJ,Eternal
 kertop,ADJ,New
 kigertar,ADJ,Heavy
 mughet,ADJ,Straight
