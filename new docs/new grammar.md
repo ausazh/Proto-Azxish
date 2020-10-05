@@ -390,24 +390,67 @@ It is also possible to use the Human/Divine pronouns in Dative and Genitive case
 
 ## Adjectives
 
+Like nouns, adjective inflections take the form of suffixes which do not alter the original word (except potentially the final consonant).  The suffix itself may be stressed if two syllables or more, potentially leading to words with 3 stressed syllables.
+
+### Adjective agreement suffixes
+
+Each form has up to 6 variants
+These variants are all regularly derived from each other
+Note that not all endings have different back/front forms
+
+- When suffix begins with a nasal (1st/noun):
+  - Final (glottal) stops: ya'ü' > ya'ücce
+  - Final nasals:
+    - unvoiced ârroarom /ʌrˈroɐ̯rɔm̥/ > ârroaronce
+    - voiced firrhêm /ˈfir̥r̥em/ > firrhênye
+- When suffix begins with a rhotic (2nd):
+  - Final (glottal) stops and rhotics:
+    - ya'ü' > ya'ürrä'
+    - njarh > njarrä'
+- When suffix begins with a stop (3rd):
+  - Any final consonant - ignore the glottal stop:
+    - ya'ü' > ya'ü'arh
+    - firrhêm > firrhêmarh
+
+- Singular 1st/noun > none
+- Dual 1st/noun > -ñênj / -ñënj
+- Plural 1st/noun > -njex / -njox
+- Singular 2nd > -rä'
+- Dual 2nd > -räqqênj
+- Plural 2nd > -räccex
+- Singular 3rd > -'arh
+- Dual 3rd > -arhqênj
+- Plural 3rd > -arcex
+
 ### Attributive adjectives
 
 Adjectives come before the modified noun and inflect to agree with the noun in number.  If the adjective takes on number in this way, it is common to omit it on the noun itself, unless emphasising the number.  As there are only 3 non-singular (and thus marked) groups of words, these are the only ones requiring adjective agreement.
 
-- frhiccê iccete 'dry barley grain/s'
-- frhiccê qeianjh 'dry duck (animal)'
-  - frhiccêcex qeianjh 'dry ducks'
-  - frhiccêcex qeiancex 'dry duck**s**'
-- frhiccê arrhaśonj 'dry person'
-  - frhiccêqênj arrhaśonj 'two dry people'
-  - frhiccêqênj arrhaśoñqënj '**two** dry people'
-  - frhiccêyex arrhaśonj 'dry people'
-  - frhiccêyex arrhaśonyex 'dry **people**'
-- frhiccê qamke 'dry ancestor/s'
+- frhiccê / moaoa' iccete 'dry/straight barley grain/s'
+- frhiccê / moaoa' qeianjh 'dry/straight duck (animal)'
+  - frhiccênjex / moaoaccox qeianjh 'dry/straight ducks'
+  - frhiccênjex / moaoaccox qeiancex 'dry/straight duck**s**'
+- frhiccê / moaoa' arrhaśonj 'dry/straight person'
+  - frhiccêñênj / moaoaqqënj arrhaśonj 'two dry/str people'
+  - frhiccêñênj / moaoaqqënj arrhaśoñqënj '**two** dry/str people'
+  - frhiccênjex / moaoaccox arrhaśonj 'dry/str people'
+  - frhiccênjex / moaoaccox arrhaśonyex 'dry/straight **people**'
+- frhiccê / moaoa' qamke 'dry/straight ancestor/s'
 
 ### Adpronouns and Pronominal adjectives
 
-Adjectives can also modify pronouns, in which case they inflect for number and person.  The pronoun is often dropped in later usages, allowing adjectives to be used as pronominals, at least in the Nominative case (as adjectives don't inflect for case).  Even later; pronominal adjectives are allowed to take case inflections, while common adjectives have become fixed for certain persons, thereby taking over completely from the current pronoun system
+Adjectives can also modify pronouns (of all cases), in which case they inflect for number and person.  The pronoun is often dropped in later usages, allowing adjectives to be used as pronominals, at least in the Nominative case (as adjectives don't inflect for case).  
+
+Note that Inanimate 3rd person always takes singular agreement, while Divine 3rd person always takes plural agreement (as the Divine pronoun derives from the plural pronoun form - note that this is different from Divine Nouns, which take only singular/unmarked adjectives).  Animate and Human agree with whichever number the pronoun is.
+
+- frhiccê / moaoa' mvò/féa 'dry I/me'
+- frhiccênjex / moaoaccox jâl/póa 'dry we/us'
+- frhiccêrä' / moaoarrä' úʔ/čàř 'dry thou/thee'
+- frhiccêräqqênj / moaoarräqqênj ľàřa/âráem 'dry thou & I/thee & me'
+- frhiccêräccex / moaoaräccex mè/źíeñe 'dry ye/you'
+- frhiccê'arh / moaoa'ârh qáh/etc 'dry she/he/it/they'
+- frhiccê'arhqênj / moaoa'arhqênj eríoń/wúroń 'dry hsi & I'
+- frhiccê'arcex / moaoa'arcex ñèń/etc 'dry they/them'
 
 ### Non-attributive uses
 

@@ -593,9 +593,11 @@ Auto-derived from original
 |qâuo|ˈɢɑʊ̯ɔ|ADV|Near|âve|ˈʔaːvɐ|
 |erriemüħ|ɛrˈrie̯myħ|ADV|Far|rêmuh|ˈriːmuħ|
 |âur|ˈɑʊ̯r|ADV|Right|ghug|ˈɐʊ̯ɣ|
+|yiħħeimbi|ˈɟiħˌħei̯mbi|ADV|Left|ighêmpi|ˈʔiħˌħɨːmbi|
 |meccafe|ˈmɛcˌcæfɛ|ADJ|Big|metafke|ˈmɛt̚ˌtæfkɐ|
 |pefe|ˈpɛfɛ|ADJ|Small|pefke|ˈpɛfkɐ|
 |qu'ħa'e|ˈɢuʔˌħæʔɛ|ADJ|Long|ukhae|ˈʔuk̚ˌħæʔɐ|
+|rhe|ˈr̥ɛ|ADJ|Hot|pre|ˈpr̥ɛ|
 |ya'ü'|ˈɟæʔyʔ|ADJ|Cold|aut|ˈʔæʔut̚|
 |vif|ˈʋif|ADJ|Full|vêf|ˈvif|
 |vômvo|ˈʋomʋɔ|ADJ|Old|ômve|ˈwoːmvɐ|
@@ -604,6 +606,7 @@ Auto-derived from original
 |frhicce|ˈfr̥iccɛ|ADJ|Thick|frito|ˈfr̥it̚tɐ|
 |pumvljoñ|ˈpumʋʎɔɴ̥|ADJ|Short|pûvloñ|ˈpũːvlɐŋ̊|
 |njarh|ˈɲær̥|ADJ|Narrow|nex|ˈnɛx|
+|qoarânjo|ˈɢoɐ̯rʌɲɔ|ADJ|Wide|ugane|ˈʔuːɣnɐ|
 |ârroarom|ʌrˈroɐ̯rɔm̥|ADJ|Thin|gôrkem|ˈɣuːrgɐm̥|
 |ħou|ˈħou̯|ADJ|Good|hev|ˈħɜːv|
 |yirper|ˈɟir̥pɛr|ADJ|Bad|irpêg|ˈʔir̥pɘːɣ|
@@ -623,9 +626,9 @@ Auto-derived from original
 |êrrhatarh|ˈer̥ˌr̥ætær̥|ADJ|Heavy|kigertar|ˈkixˌxɛʈær̥|
 |moaoa'|ˈmoɐ̯oɐ̯ʔ|ADJ|Straight|mughet|ˈmuɐ̯ɐːt̚|
 |mjeare|ˈmjeɐ̯rɛ|ADJ|Hard/Difficult|mwîgegh|ˈmɥĩːɣɘː|
-|yiħħeimbi|ˈɟiħˌħei̯mbi|ADV|Left|ighêmpi|ˈʔiħˌħɨːmbi|
-|qoarânjo|ˈɢoɐ̯rʌɲɔ|ADJ|Wide|ugane|ˈʔuːɣnɐ|
-|rhe|ˈr̥ɛ|ADJ|Hot|pre|ˈpr̥ɛ|
+|pefśe|ˈpɛfɕɛ|ADJ|Humble|pefse|ˈpɛfsɐ|
+|yaśta|ˈɟæɕtæ|ADJ|Friendly/Friend-like|astra|ˈʔæsʈæ|
+|ħouźo|ˈħou̯ʑɔ|ADJ|Good-natured|hevse|ˈħɜːvzɐ|
 |tfaś|ˈtfæɕ|NOUN - Plant|Stick (I)|tsal|ˈt͡θæɬ|
 |tfaśśa|ˈtfæɕɕæ|NOUN - Plant|Tree (I)|tsala|ˈt͡θæɬɬæ|
 |tfaśśe|ˈtfæɕɕɛ|NOUN - Plant|Plant (I) (small tree)|tsale|ˈt͡θæɬɬɐ|

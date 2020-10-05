@@ -33,68 +33,70 @@ def get_adjacent(word, i, pos):
 # Apply regular grammatical affixes (verbs)
 def grammatify(word, word_type, desc, root2):
     orig_word = str(word)
-    if 'VERB' not in word_type:
-        return [(word, orig_word, word_type, desc)]
-    # Affixify verbs!
-    words = []
-    # Participle: first element, as is
-    words.append([word, orig_word, 'PART', desc + ' (Participle)'])
+    if 'VERB' in word_type:
+        # Affixify verbs!
+        words = []
+        # Participle: first element, as is
+        words.append([word, orig_word, 'PART', desc + ' (Participle)'])
 
-    # Negative Participle: first element + negative pre-/infix
-    neg = str(word)
-    if word[0] == 'a':
-        neg = 'aka' + neg[1:]
-    elif word[0] == 'â':
-        neg = 'âxâ' + neg[1:]
-    elif word[0] == 'e':
-        neg = 'eshe' + neg[1:]
-    elif word[0] == 'ê':
-        neg = 'êshê' + neg[1:]
-    elif word[0] == 'i':
-        neg = 'iti' + neg[1:]
-    elif word[0] == 'î':
-        neg = 'îsî' + neg[1:]
-    elif word[0] == 'o':
-        neg = 'oshwe' + neg[1:]
-    elif word[0] == 'ô':
-        neg = 'ôshwê' + neg[1:]
-    elif word[0] == 'u':
-        neg = 'utwi' + neg[1:]
-    elif word[0] == 'û':
-        neg = 'ûswî' + neg[1:]
-    elif word[0] in VUH_ROM_NASALS:
-        neg = 'gha' + neg
-    elif word[0] in VUH_ROM_STOPS:
-        neg = 'ê' + neg
-    elif word[0] in VUH_ROM_FRICS:
-        neg = 'jî' + neg
-    elif word[0] in VUHINKAM_APPXS_R:
-        neg = 'qi' + neg
-    else:
-        raise KeyError('unsupported letter in verb ' + word)
-    words.append([neg, neg, 'PART', desc + ' (Negative Participle)'])
-
-    verb_root = word
-    if root2:
-        verb_root = root2
-
-    # Perfective: PF: qê-, IM: qê-2-af, PT: N/A
-    if word_type == 'VERB-PF':
-        words.append([verb_root, verb_root, 'VERB', desc + ' (Perfective)'])
-    elif word_type == 'VERB-IM':
-        new_root = verb_root
-        if len(new_root) > 2 and new_root[-3:] == 'kan':
-            new_root = new_root[:-3] + 'knef'
+        # Negative Participle: first element + negative pre-/infix
+        neg = str(word)
+        if word[0] == 'a':
+            neg = 'aka' + neg[1:]
+        elif word[0] == 'â':
+            neg = 'âxâ' + neg[1:]
+        elif word[0] == 'e':
+            neg = 'eshe' + neg[1:]
+        elif word[0] == 'ê':
+            neg = 'êshê' + neg[1:]
+        elif word[0] == 'i':
+            neg = 'iti' + neg[1:]
+        elif word[0] == 'î':
+            neg = 'îsî' + neg[1:]
+        elif word[0] == 'o':
+            neg = 'oshwe' + neg[1:]
+        elif word[0] == 'ô':
+            neg = 'ôshwê' + neg[1:]
+        elif word[0] == 'u':
+            neg = 'utwi' + neg[1:]
+        elif word[0] == 'û':
+            neg = 'ûswî' + neg[1:]
+        elif word[0] in VUH_ROM_NASALS:
+            neg = 'gha' + neg
+        elif word[0] in VUH_ROM_STOPS:
+            neg = 'ê' + neg
+        elif word[0] in VUH_ROM_FRICS:
+            neg = 'jî' + neg
+        elif word[0] in VUHINKAM_APPXS_R:
+            neg = 'qi' + neg
         else:
-            new_root += 'ef'
-        words.append([new_root, new_root, 'VERB', desc + ' (Perfective)'])
+            raise KeyError('unsupported letter in verb ' + word)
+        words.append([neg, neg, 'PART', desc + ' (Negative Participle)'])
 
-    # Imperfective: PF: qê-ka, IM: qê-2, PT: N/A
-    if word_type == 'VERB-PF':
-        new_root = verb_root + 'ke'
-        words.append([new_root, new_root, 'VERB', desc + ' (Imperfective)'])
-    elif word_type == 'VERB-IM':
-        words.append([verb_root, verb_root, 'VERB', desc + ' (Imperfective)'])
+        verb_root = word
+        if root2:
+            verb_root = root2
+
+        # Perfective: PF: qê-, IM: qê-2-af, PT: N/A
+        if word_type == 'VERB-PF':
+            words.append([verb_root, verb_root, 'VERB', desc + ' (Perfective)'])
+        elif word_type == 'VERB-IM':
+            new_root = verb_root
+            if len(new_root) > 2 and new_root[-3:] == 'kan':
+                new_root = new_root[:-3] + 'knef'
+            else:
+                new_root += 'ef'
+            words.append([new_root, new_root, 'VERB', desc + ' (Perfective)'])
+
+        # Imperfective: PF: qê-ka, IM: qê-2, PT: N/A
+        if word_type == 'VERB-PF':
+            new_root = verb_root + 'ke'
+            words.append([new_root, new_root, 'VERB', desc + ' (Imperfective)'])
+        elif word_type == 'VERB-IM':
+            words.append([verb_root, verb_root, 'VERB', desc + ' (Imperfective)'])
+    else:
+        return [(word, orig_word, word_type, desc)]
+
 
     return words
 

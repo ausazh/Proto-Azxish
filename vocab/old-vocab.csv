@@ -350,10 +350,11 @@ qi,ADV,How
 âve,ADV,Near
 rêmuh,ADV,Far
 ghug,ADV,Right
-
+ighêmpi,ADV,Left
 metafke,ADJ,Big
 pefke,ADJ,Small
 ukhae,ADJ,Long
+pre,ADJ,Hot
 aut,ADJ,Cold
 vêf,ADJ,Full
 ômve,ADJ,Old
@@ -362,6 +363,7 @@ fritô,ADJ,Dry
 frito,ADJ,Thick
 pûvloñ,ADJ,Short
 nex,ADJ,Narrow
+ugane,ADJ,Wide
 gôrkem,ADJ,Thin
 hev,ADJ,Good
 irpêg,ADJ,Bad
@@ -381,10 +383,10 @@ kertop,ADJ,New
 kigertar,ADJ,Heavy
 mughet,ADJ,Straight
 mwîgegh,ADJ,Hard/Difficult
-ighêmpi,ADV,Left
-ugane,ADJ,Wide
-pre,ADJ,Hot
 
+pefse,ADJ,Humble
+astra,ADJ,Friendly/Friend-like
+hevse,ADJ,Good-natured
 
 tsal,NOUN - Plant,Stick (I)
 tsala,NOUN - Plant,Tree (I)
