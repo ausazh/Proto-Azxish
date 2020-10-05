@@ -694,6 +694,9 @@ def scriptify(sounds):
             index = 0
             if stress: index = 1
             word += FINAL_VOWELS[s][index]
+        elif i + 1 == len(sounds) and s.rep in FINAL_ALT_FINAL:
+            ipa += s.rep
+            word += FINAL_ALT_FINAL[s]
         elif fol and (s.rep, fol.rep) in FINAL_ALT_GEMS:
             ipa += s.rep
             word += FINAL_ALT_GEMS[(s.rep, fol.rep)] 

@@ -2,6 +2,11 @@
 
 ## Background
 
+- Vuhîñan '(the) tribe' > Vuhîñân > Uħħuononj
+  - /ˈvuˌħiːŋaːn/ > /ˈvuħˌħɨ̃ːɑːn/ > /ˈuħˌħuo̯nɔɲ/
+- Vuhîñkam '(the) tribal language' > Vuhîñkan > Uħħuonanjh
+  - /ˈvuˌħiːŋkan/ > /ˈvuħˌħɨ̃ːgæn̥/ > /ˈuħˌħuo̯næɲ̊/
+
 Inhabiting the West River Valley.
 
 - Climates

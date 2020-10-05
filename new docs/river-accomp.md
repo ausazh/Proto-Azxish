@@ -1,7 +1,10 @@
-# River Story Accompanying Document
+# River Story Detailed Document
 
-Lists all relevant vocab and grammar/random notes in order
-I've put them here to keep the river story doc free of random notes and stuff
+Detailed form for derivation and comparison with protolang
+
+Each Line will be given as:
+- *English*
+- *Vuhîñkam*
 
 ## Line 1
 
