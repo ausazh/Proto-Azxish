@@ -156,10 +156,15 @@ When used as a subordinating inflected noun, the 'subject' can equally be expres
       - the *past normal* and *past formal* forms have merged
   - CON - conditional tag
     - derived from în, originally a conditional mood verbal suffix
-    - **normal - ń(i)** /ɲi/ < n
-    - **formal - ní** /ni/ < (j)în
-    - **past - ńéř** /ˈɲer̥/ < nix < înox
-    - **past formal - íeńař** /ˈie̯ɲær̥/ < (j)înox
+    - **normal - nj(i)** /ɲi/ < n
+    - **formal - ni** /ni/ < (j)în
+    - **past - njêř** /ˈɲer̥/ < nix < înox
+    - **past formal - ienjarh** /ˈie̯ɲær̥/ < (j)înox
+  - NEC - necessitative tag
+    - derived from hev 'good' + conditional present ('it would be good if...')
+    - First pronoun is the Exhorted Party/listener; Second is the Topic
+    - **normal - ħâunjh(i)** /ˈħɑʊ̯ɲ̊/ < hevn
+    - **formal - ħeuvin** /ˈħøʊ̯ʋin/ < hevîn
   - IMP - imperative tag
     - derived from al, originally an imperative mood verbal suffix
     - polite forms (can you please X?) derived by combining with interrogative
@@ -233,9 +238,9 @@ When used as a subordinating inflected noun, the 'subject' can equally be expres
     - 1s - PRI: mo /mɔ/, SEC: fê /fe/
     - 1p - PRI: wâ /ɣʌ/, SEC: pô /po/
     - 2s - PRI: uʔ /uʔ/, SEC: čàř /c͡ɕær̥/
-    - 1+2 - PRI: ľař /ʎær̥/, SEC: râm /rʌm/
+    - 1+2 - PRI: ljarh /ʎær̥/, SEC: râm /rʌm/
     - 2p - PRI: me /mɛ/, SEC: źiñ /ʑiɴ/
-    - 3Is - PRI: qâ /ɢʌ/, SEC: ǵêr /ɟer/
+    - 3Is - PRI: qâ /ɢʌ/, SEC: yêr /ɟer/
     - 3As - PRI: qeń /ɢɛɲ̊/, SEC: ǵêń /ɟeɲ̊/
     - 3Hs - PRI: qoń /ɢɔɲ/, SEC: ǵêń /ɟeɲ/
     - 3Hd - PRI: rjoń /rjɔɲ/, SEC: woń /ɣɔɲ/
@@ -526,11 +531,23 @@ Adjectives can also be used predicatively with a verbal suffix -qoñ
   - DIVN - frhiccêkke 'dry gods/divine things'
   - VERB - frhiccêqoñ 'to be dry'
 
+### Comparison and Negation
+
+Comparison and Negation are done through unstressed affixes that come before the word
+
+- Superlative (most) - mef- /mɛf/ < mec-hef < metkafe-hev (big-good)
+- Comparative (more) - caf- /cæf/ < meccaf < metkafe (big)
+- Neg.Compar (less) - mui- /muɪ̯/ < mec-qui < metkafe-quljo (big-lose)
+- Neg.Super (least) - mea- /meɐ̯/ < mec-pea < metkafe-irpêg (big-bad)
+- Negative (not) - qui- /ɢuɪ̯/ < quljo (lose)
+
 ### Derivation
 
 The protolanguage forms of -ke from nouns and -uge from verbs has fallen into disuse since the role has been taken by other grammatical parts (-uge by participles) or due to sound changes (-ke > -e, too weak to form new words).  These affixes persist however in many already-derived words.
 
 New derivations are made through new prefixes derived from previous prepositions.
+
+Adverb derivation from adjectives done through suffix -(a)fa
 
 ## Pre- and Postpositions
 
@@ -563,7 +580,7 @@ Prepositions turn into semi-productive prefixable elements.  They don't take str
 - With  -- vlo > ˈvlɔ > ulo /ˈulɔ/ >> ul /ul/ -- Adjective relating to containing/having properties of Noun, '-ful'
   - meccieźya /ˈmɛcˌcie̯ʑɟæ/ 'salt' >> ulmeccieźya /ulˈmɛcˌcie̯ʑɟæ/ 'salty'
   - źimqonj /ˈʑim̥ɢɔɲ/ 'husband' >> ulźimqonj /ulˈʑim̥ɢɔɲ/ 'married (with a husband)'
-- Like/As -- fes > ˈfɛs >> feś /fɛɕ/ -- Adjective relating to role as a Noun (including a Adj>Noun and Part>Adj>Noun), '-y, -ly'
+- Like/As -- fes > ˈfɛs >> feś /fɛɕ/ -- Adjective relating to role/manner/method as a Noun (including a Adj>Noun and Part>Adj>Noun), '-y, -ly, -ed'
   - ka'monj /ˈkæʔm̥ɔɲ/ 'mother' >> feśka'monj /fɛɕˈkæʔm̥ɔɲ/ 'motherly'
   - ghâeñte /ˈɣɑe̯ɴte/ 'preventing thing' >> feśghâeñte /fɛɕˈɣɑe̯ɴte/ 'preventative', lit. acting as a preventing thing
 - After -- zo > ˈzɔ >> zo /zɔ/ -- word of same class relating to a period after/performing after/in response to; 'after-, post-'

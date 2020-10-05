@@ -96,10 +96,10 @@ Auto-derived from original
 |ümarħacci|ˈymær̥ˌħæcci|PART|To hunt (Negative Participle)|jîvarhati|ˈjĩːvær̥ˌħæt̚ti|
 |varħanjef|ˈʋær̥ˌħæɲ̊ɛf|VERB|To hunt (Perfective)|varhatkinef|ˈvær̥ˌħæt̚kn̥ɐf|
 |varħainjh|ˈʋær̥ˌħæiɲ̊|VERB|To hunt (Imperfective)|varhatkin|ˈvær̥ˌħæt̚kin̥|
-|uioña'|ˈuɪ̯ɔɴæʔ|PART|To hold (Participle)|lîhaq|ˈljɐ̃æq̚|
-|qêśśgheña'|ˈɢeɕˌɕɣɛɴæʔ|PART|To hold (Negative Participle)|qilîhaq|ˈqɨɬˌɬjɐ̃æq̚|
-|ljienjâenjof|ˈʎie̯ˌɲɑe̯ɲ̊ɔf|VERB|To hold (Perfective)|lîhaqknef|ˈlĩːˌɑɛ̯q̚kn̥ɐf|
-|ljienjâeanjh|ˈʎie̯ˌɲɑe̯æɲ̊|VERB|To hold (Imperfective)|lîhaqkan|ˈlĩːˌɑɛ̯q̚kæn̥|
+|uioña'|ˈuɪ̯ɔɴæʔ|PART|To hold /> To grab/get/obtain (Participle)|lîhaq|ˈljɐ̃æq̚|
+|qêśśgheña'|ˈɢeɕˌɕɣɛɴæʔ|PART|To hold /> To grab/get/obtain (Negative Participle)|qilîhaq|ˈqɨɬˌɬjɐ̃æq̚|
+|ljienjâenjof|ˈʎie̯ˌɲɑe̯ɲ̊ɔf|VERB|To hold /> To grab/get/obtain (Perfective)|lîhaqknef|ˈlĩːˌɑɛ̯q̚kn̥ɐf|
+|ljienjâeanjh|ˈʎie̯ˌɲɑe̯æɲ̊|VERB|To hold /> To grab/get/obtain (Imperfective)|lîhaqkan|ˈlĩːˌɑɛ̯q̚kæn̥|
 |ħaqqe'|ˈħæɢɢɛʔ|PART|To have (Participle)|haqop|ˈħæq̚qɐp̚|
 |igheqe'|ˈiɣɛɢɛʔ|PART|To have (Negative Participle)|jîhaqop|ˈjjɐ̃ɢɐp̚|
 |ħaqqonjof|ˈħæɢˌɢɔɲ̊ɔf|VERB|To have (Perfective)|haqopknef|ˈħæq̚ˌqɔp̚kn̥ɐf|
@@ -544,6 +544,9 @@ Auto-derived from original
 |miakke|ˈmiˌækkɛ|NOUN - Concept|Wisdom (D)|mêache|ˈmiːˌæt̚t͡ʃɐ|
 |ârrhâmpax|ʌr̥ˈr̥ʌm̥pæx|NOUN - Concept|Progress (I)|xompaj|ˈxɔm̥pæç|
 |vaħrha|ˈʋæħr̥æ|NOUN - Concept|Mistake (I)|wahra|ˈwæħr̥æ|
+|fiebbre|ˈfie̯bbrɛ|NOUN - Concept|All/Total (I)|fêkpre|ˈfiːg̚brɐ|
+|rhe'ikke|ˈr̥ɛʔˌikkɛ|NOUN - Concept|Completion/Wholeness (D)|preiche|ˈpr̥ɛʔˌit̚t͡ʃɐ|
+|qunumâekko|ˈɢunuˌmɑe̯kkɔ|NOUN - Concept|Unity/Joinedness (D)|ûtûmheche|ˈʔũːd̚ũːˌɑɛ̯t̚t͡ʃɐ|
 |aoxxa|ˈæo̯xxæ|DET|This|ghuja|ˈɐʊ̯ççæ|
 |ghaħa'|ˈɣæħæʔ|DET|That|jâhap|ˈjaħæp̚|
 |mikka|ˈmikkæ|DET|That over there|mitja|ˈmit̚çæ|
@@ -594,6 +597,8 @@ Auto-derived from original
 |njêrh|ˈɲer̥|TAG|conditional past|nix|ˈnix|
 |in|ˈin|TAG|conditional formal|jîn|ˈjĩː|
 |ienjarh|ˈie̯ɲær̥|TAG|conditional past formal|jînox|ˈjĩːɐx|
+|ħâunjh|ˈħɑʊ̯ɲ̊|TAG|necessitative|hevn|ˈħɜvn̥|
+|ħeuvin|ˈħøʊ̯ʋin|TAG|necessitative formal|hevîn|ˈħɜːvvĩː|
 |yaś|ˈɟæɕ|TAG|imperative formal|al|ˈʔæɬ|
 |śanjh|ˈɕæɲ̊|TAG|imperative polite|san|ˈsæn̥|
 |yaonja|ˈɟæo̯ɲæ|TAG|imperative polite formal|alahna|ˈʔælnæ|
@@ -623,7 +628,7 @@ Auto-derived from original
 |ħuomu|ˈħuo̯mu|LOC-PRN|LocPrn-Proximal-Emph - Here/This Well|hûmû|ˈħũːuː|
 |ħâuo|ˈħɑʊ̯ɔ|LOC-PRN|LocPrn-Medial-Emph - There/That Well|hâve|ˈħaːvɐ|
 |ħuomënj|ˈħuo̯mɤɲ|LOC-PRN|LocPrn-Distal-Emph - Over There Well|hûmît|ˈħũːiːd̚|
-|fieñe|ˈfie̯ɴɛ|ADV|All|fêke|ˈfiːg̚ɐ|
+|fieñe|ˈfie̯ɴɛ|ADV|All > In All/In Total|fêke|ˈfiːg̚ɐ|
 |qumpou|ˈɢum̥pou̯|ADV|Here|umêw|ˈʔum̥m̥ɘːw|
 |ħompënj|ˈħɔm̥pɤɲ|ADV|There|homît|ˈħɔm̥m̥iːd̚|
 |qâ|ˈɢʌ|ADV|Where|qe|ˈqɜ|
@@ -635,17 +640,17 @@ Auto-derived from original
 |yiħħeimbi|ˈɟiħˌħei̯mbi|ADV|Left|ighêmpi|ˈʔiħˌħɨːmbi|
 |meccafe|ˈmɛcˌcæfɛ|ADJ|Big|metafke|ˈmɛt̚ˌtæfkɐ|
 |pefe|ˈpɛfɛ|ADJ|Small|pefke|ˈpɛfkɐ|
-|qu'ħa'e|ˈɢuʔˌħæʔɛ|ADJ|Long|ukhae|ˈʔuk̚ˌħæʔɐ|
 |rhe|ˈr̥ɛ|ADJ|Hot|pre|ˈpr̥ɛ|
 |ya'ü'|ˈɟæʔyʔ|ADJ|Cold|aut|ˈʔæʔut̚|
 |vif|ˈʋif|ADJ|Full|vêf|ˈvif|
 |vômvo|ˈʋomʋɔ|ADJ|Old|ômve|ˈwoːmvɐ|
 |ñêra|ˈɴeræ|ADJ|Round|ñîxe|ˈŋĩɣɐ|
 |frhiccê|ˈfr̥icce|ADJ|Dry|fritô|ˈfr̥it̚tɘː|
-|frhicce|ˈfr̥iccɛ|ADJ|Thick|frito|ˈfr̥it̚tɐ|
+|qu'ħa'e|ˈɢuʔˌħæʔɛ|ADJ|Long|ukhae|ˈʔuk̚ˌħæʔɐ|
 |pumvljoñh|ˈpumʋʎɔɴ̥|ADJ|Short|pûvloñ|ˈpũːvlɐŋ̊|
 |njarh|ˈɲær̥|ADJ|Narrow|nex|ˈnɛx|
 |qoarânjo|ˈɢoɐ̯rʌɲɔ|ADJ|Wide|ugane|ˈʔuːɣnɐ|
+|frhicce|ˈfr̥iccɛ|ADJ|Thick|frito|ˈfr̥it̚tɐ|
 |ârroaromh|ʌrˈroɐ̯rɔm̥|ADJ|Thin|gôrkem|ˈɣuːrgɐm̥|
 |ħou|ˈħou̯|ADJ|Good|hev|ˈħɜːv|
 |yirper|ˈɟir̥pɛr|ADJ|Bad|irpêg|ˈʔir̥pɘːɣ|
@@ -665,9 +670,16 @@ Auto-derived from original
 |êrrhatarh|ˈer̥ˌr̥ætær̥|ADJ|Heavy|kigertar|ˈkixˌxɛʈær̥|
 |moaoa'|ˈmoɐ̯oɐ̯ʔ|ADJ|Straight|mughet|ˈmuɐ̯ɐːt̚|
 |mjeare|ˈmjeɐ̯rɛ|ADJ|Hard/Difficult|mwîgegh|ˈmɥĩːɣɘː|
+|yikkiś|ˈɟikkiɕ|ADJ|Great/Magnificent|ichis|ˈʔit̚t͡ʃis|
 |pefśe|ˈpɛfɕɛ|ADJ|Humble|pefse|ˈpɛfsɐ|
 |yaśta|ˈɟæɕtæ|ADJ|Friendly/Friend-like|astra|ˈʔæsʈæ|
 |ħouźo|ˈħou̯ʑɔ|ADJ|Good-natured|hevse|ˈħɜːvzɐ|
+|ħeffafa|ˈħɛfˌfæfæ|ADV|Well|hevâfa|ˈħɜfˌfafæ|
+|yirperäfa|ˈɟir̥pɛˌrafæ|ADV|Badly|irpêgâfa|ˈʔir̥pɘːˌɣafæ|
+|njarrhäfa|ˈɲær̥ˌr̥afæ|ADV|Narrowly/Just|nexâfa|ˈnɛxˌxafæ|
+|viefafa|ˈʋie̯ˌfæfæ|ADV|Fully/Completely|vêfâfa|ˈviːˌfafæ|
+|pumfofa|ˈpum̥ˌfɔfæ|ADV|Correctly/Well|pumwâfa|ˈpum̥ˌɸafæ|
+|firrhiemva|ˈfir̥ˌr̥ie̯mʋæ|ADJ|Always/Eternally|firêmfa|ˈfir̥ˌr̥iːmvæ|
 |tfaś|ˈtfæɕ|NOUN - Plant|Stick (I)|tsal|ˈt͡θæɬ|
 |tfaśśa|ˈtfæɕɕæ|NOUN - Plant|Tree (I)|tsala|ˈt͡θæɬɬæ|
 |tfaśśe|ˈtfæɕɕɛ|NOUN - Plant|Plant (I) (small tree)|tsale|ˈt͡θæɬɬɐ|

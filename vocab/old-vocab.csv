@@ -24,7 +24,7 @@ vatsete,vatsetken,VERB-IM,To smell
 qâithim,qâithiñkan,VERB-IM,To fear
 ûtilag,ûtilkan,VERB-IM,To fight
 varhati,varhatkin,VERB-IM,To hunt
-lîhaq,lîhaqkan,VERB-IM,To hold
+lîhaq,lîhaqkan,VERB-IM,To hold /> To grab/get/obtain
 haqop,haqopkan,VERB-IM,To have
 vanhânfri,vanhânfriñ,VERB-IM,To sing
 veranmen,verankmen,VERB-IM,To play (games)
@@ -286,6 +286,9 @@ gormêtache,NOUN - Concept,Freedom (D)
 mêache,NOUN - Concept,Wisdom (D)
 xompaj,NOUN - Concept,Progress (I)
 wahra,NOUN - Concept,Mistake (I)
+fêkpre,NOUN - Concept,All/Total (I)
+preiche,NOUN - Concept,Completion/Wholeness (D)
+ûtûmheche,NOUN - Concept,Unity/Joinedness (D)
 
 ghuja,DET,This
 jâhap,DET,That
@@ -340,6 +343,8 @@ ghanox,TAG,interrogative past
 nix,TAG,conditional past
 jîn,TAG,conditional formal
 jînox,TAG,conditional past formal
+hevn,TAG,necessitative
+hevîn,TAG,necessitative formal
 al,TAG,imperative formal
 san,TAG,imperative polite
 alahna,TAG,imperative polite formal
@@ -372,7 +377,7 @@ hûmû,LOC-PRN,LocPrn-Proximal-Emph - Here/This Well
 hâve,LOC-PRN,LocPrn-Medial-Emph - There/That Well
 hûmît,LOC-PRN,LocPrn-Distal-Emph - Over There Well
 
-fêke,ADV,All
+fêke,ADV,All > In All/In Total
 umêw,ADV,Here
 homît,ADV,There
 qe,ADV,Where
@@ -383,19 +388,20 @@ qi,ADV,How
 rêmuh,ADV,Far
 ghug,ADV,Right
 ighêmpi,ADV,Left
+
 metafke,ADJ,Big
 pefke,ADJ,Small
-ukhae,ADJ,Long
 pre,ADJ,Hot
 aut,ADJ,Cold
 vêf,ADJ,Full
 ômve,ADJ,Old
 ñîxe,ADJ,Round
 fritô,ADJ,Dry
-frito,ADJ,Thick
+ukhae,ADJ,Long
 pûvloñ,ADJ,Short
 nex,ADJ,Narrow
 ugane,ADJ,Wide
+frito,ADJ,Thick
 gôrkem,ADJ,Thin
 hev,ADJ,Good
 irpêg,ADJ,Bad
@@ -415,10 +421,19 @@ kertop,ADJ,New
 kigertar,ADJ,Heavy
 mughet,ADJ,Straight
 mwîgegh,ADJ,Hard/Difficult
+ichis,ADJ,Great/Magnificent
 
 pefse,ADJ,Humble
 astra,ADJ,Friendly/Friend-like
 hevse,ADJ,Good-natured
+
+hevâfa,ADV,Well
+irpêgâfa,ADV,Badly
+nexâfa,ADV,Narrowly/Just
+vêfâfa,ADV,Fully/Completely
+pumwâfa,ADV,Correctly/Well
+firêmfa,ADJ,Always/Eternally
+
 
 tsal,NOUN - Plant,Stick (I)
 tsala,NOUN - Plant,Tree (I)
