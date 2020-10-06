@@ -125,6 +125,16 @@ When used as a subordinating inflected noun, the 'subject' can equally be expres
 - qurhiħaêra 'by floating, using floating' (INS)
 - qurhiħañah 'when floating, upon floating, while floating' (LOC)
 
+To form a passive participle, use the Accusative case ending
+
+- qurhiħakeu 'being floated/made to float, (the act of) being floated' (NOM/ACC)
+- qurhiħakeu mvò 'me, who is being floated'
+- qurhiħakeuräqqênj ľàřa 'thou and I, who are being floated'
+- qurhiħakeunjêrh 'in order to be floated, that X be floated' (DAT)
+- qurhiħakeuix 'because of being flating'
+
+and etc
+
 ### Sentence Tag
 
 - Tags are (common, formal):
@@ -549,7 +559,7 @@ New derivations are made through new prefixes derived from previous prepositions
 
 Adverb derivation from adjectives done through suffix -(a)fa
 
-## Pre- and Postpositions
+## Pre-/Postpositions and Affix Derivation
 
 A few prepositions are inherited from Vuhinkam, however these are no longer used as such, instead shifting to adverbial or derivational use.
 Instead, a new system of postpositions arises through common use of certain directional words.
@@ -563,6 +573,10 @@ Postpositions form the 'head' of the noun phrase and stem from common nouns, oft
   - qeianjh ljixñaħ -- duck back.LOC -- behind the duck; lit. at the back of the duck
   - qeiancix ljixñaħ -- duck.GEN back.LOC -- behind the duck (formal)
   - fix ljixñaħ -- 1s.GEN back.LOC -- behind me; lit. at the back of me
+
+### Derivation Summary
+
+- a
 
 ### Prepositional Derivation
 
@@ -590,3 +604,10 @@ Prepositions turn into semi-productive prefixable elements.  They don't take str
 - Before -- îk > ˈʔĩːg̚ >> yiñ /ɟiɴ/ -- word of the same class relating to a period before/performing before/causing; 'fore-, before-, pre-'
   - quźjinljar /ˈɢuʑˌjiɲʎær/ 'fight' >> yiñquźjinljar /ɟiɴˈɢuʑˌjiɲʎær/ 'instigate; perform a preemptive strike'
   - ħa'üccüa' /ˈħæʔycˌcyæʔ/ 'snow' >> yiñħa'üccüa' /ɟiɴˈħæʔycˌcyæʔ/ 'pre-winter: period before winter where preparations must be made'
+
+### Other Derivation
+
+- To Split -- vônvë /ˈʋonʋɤ/ >> GEN, -x > -sħôn /sˈħon/ -- Countable (I) portion noun 'piece/portion/section of'
+  - yeħħa /ˈɟɛħħæ/ 'land (mass) (I)' > yeħħaisħôn /ˈɟɛħħæisˈħon/ 'a land, piece of land, region (I)'
+  - źñärhä /ˈʑɴar̥a/ 'metal (mass) (I)' > źñärhäisħôn /ˈʑɴar̥aisˈħon/ 'metal ingot (I)'
+  - quieźanjh /ˈɢuˌie̯ʑæɲ̊/ 'river (A)' > quieźanjisħôn /ˈɢuˌie̯ʑæɲ̊isˈħon/ 'section of a river (I)'

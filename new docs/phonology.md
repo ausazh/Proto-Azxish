@@ -1,6 +1,23 @@
-# Phonology
+# Phonology of Uħħuononj
 
-## Proto-language
+## Prosody
+
+Stress is noticeable but rarely phonemic; very few minimal pairs for stress.  Stress primarily exists as a marker of morphological separation.
+Each word has up to 2 stressed syllables by default, although certain affixes carry their own stress.  
+The first stress of a word root is the Primary Stress, this is realised with a high pitch and high volume.
+Every other stress is a Secondary Stress, this is realised with a mid-low pitch and high volume.
+Sentence final tags can sometimes contain long strings with no stress; instead stress is inserted wherever necessary, sometimes to emphasise certain points but often arbitrarily.  These 'informal stresses' are generally somewhat softer than secondary stress.
+Speech is primarily stress-timed.
+
+## Phonotactics
+
+The maximum syllable size is CLLVCL, with only the central V mandatory.  Most syllables are maximally CLVC, the extra CL occurs due to the split of Vuhinkam affricate TS into TF/DV.
+
+Front stressed syllables tend to lead to fronting of back vowels while Back stressed syllables tend to lead to backing of front vowels; but this is by no means 100% (more like 50%)
+
+Words generally cannot end in any stops or affricates other than the glottal stop.
+
+## Proto-Lang
 
 ### Proto Vowels
 

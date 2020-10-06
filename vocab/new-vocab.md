@@ -356,6 +356,10 @@ Auto-derived from original
 |jêtuolja|ˈjeˌtuo̯ʎæ|PART|To change (Negative Participle)|êtôla|ˈjeːˌtuːlæ|
 |tuolja|ˈtuo̯ʎæ|VERB|To change (Perfective)|tôla|ˈtuːlæ|
 |tuoljo|ˈtuo̯ʎɔ|VERB|To change (Imperfective)|tôlake|ˈtuːlgɐ|
+|rhü|ˈr̥y|PART|To melt (Participle)|qrêv|ˈqr̥iːv|
+|jêñreu|ˈjeɴrøʊ̯|PART|To melt (Negative Participle)|êqrêv|ˈjeːɢ̚rɘːv|
+|rhü|ˈr̥y|VERB|To melt (Perfective)|qrêv|ˈqr̥iːv|
+|rhüe|ˈr̥yɛ|VERB|To melt (Imperfective)|qrêvke|ˈqr̥iːvgɐ|
 |quttunjh|ˈɢuttuɲ̊|PART|To place/To put (Participle)|qutun|ˈqut̚tun̥|
 |jêddünjh|ˈjeddyɲ̊|PART|To place/To put (Negative Participle)|êqutun|ˈjeːɢ̚dun̥|
 |quttunjh|ˈɢuttuɲ̊|VERB|To place/To put (Perfective)|qutun|ˈqut̚tun̥|
@@ -413,12 +417,18 @@ Auto-derived from original
 |ħrhiemênj|ˈħr̥ie̯meɲ|NOUN - People|Grandfather (H)|hrêpghôn|ˈħr̥iːb̚ɘːn|
 |ljakke|ˈʎækkɛ|NOUN - People|Ancestor (in general) (D)|lakiche|ˈlæk̚t͡ʃɐ|
 |qamke|ˈɢæm̥kɛ|NOUN - People|Ancestor (personal) (D)|qamiche|ˈqæm̥t͡ʃɐ|
+|ħanħśikke|ˈħæn̥ˌħɕikkɛ|NOUN - People|Smoke > Spirit (D)|hanvaliche|ˈħæn̥ˌfɬit̚t͡ʃɐ|
 |qa'rhäħħonj|ˈɢæʔˌr̥aħħɔɲ|NOUN - Community|Team (H)|qaqixahân|ˈqæq̚ˌxæħħɑːn|
 |meħħaonjonj|ˈmɛħˌħæo̯ɲɔɲ|NOUN - Community|Camp (H)|mewânân|ˈmɛxˌxʷaːnɑːn|
 |qu'njonj|ˈɢuʔɲ̊ɔɲ|NOUN - Community|Settlement (H)|qutunân|ˈqut̚n̥ɑːn|
 |yeħħonj|ˈɟɛħħɔɲ|NOUN - Community|Land > Territory (H)|ehân|ˈʔɛħħɑːn|
 |uħħuononj|ˈuħˌħuo̯nɔɲ|NOUN - Community|Tribe/Group (H)|vuhîñân|ˈvuħˌħɨ̃ːɑːn|
 |uħħuonanjh|ˈuħˌħuo̯næɲ̊|NOUN - Community|Tribal Language (A)|vuhîñkan|ˈvuħˌħɨ̃ːgæn̥|
+|quëźo'âenqënj|ˈɢuɤʑɔʔˌɑe̯nɢɤɲ|NOUN - Region|The Two Rivers (H.d)|ukêzeânqôt|ˈʔuk̚kɘːzɐʔˌaːnɢɘːd̚|
+|moaëñdvljâenyox|ˈmoɐ̯ɤɴˌdʋʎɑe̯ɲɟɔx|NOUN - Region|Pine Forests (H.p)|mughhôktsalântoj|ˈmuɐ̯ɘːg̚ˌd͡ðlaːndɐç|
+|fienjatfrhienyex|ˈfie̯ɲætˌfr̥ie̯ɲɟɛx|NOUN - Region|The Foothills (H.p)|kwênaqtsirêntoj|ˈkɸiːnæq̚ˌt͡θr̥iːndɐç|
+|varħaccinjêñdvljaonyex|ˈʋær̥ħæcciɲeɴˌdʋʎæo̯ɲɟɛx|NOUN - Region|Hunter Forests (H.p)|varhatînhôktsalântoj|ˈvær̥ħæt̚tĩːɘːg̚ˌd͡ðlaːndɐç|
+|ghaoñeyappüħeśrhappaonyex|ˈɣæo̯ɴɛɟæppyħɛɕr̥æpˌpæo̯ɲɟɛx|NOUN - Region|Rockbird Mountains (H.p)|gjâñtaqpûholxetapântoj|ˈʝaːŋdæq̚puːħɐɬxɐt̚ˌpaːndɐç|
 |quttśeaâenjh|ˈɢucˌc͡ɕeɐ̯ɑe̯ɲ̊|NOUN - Anatomy|Heart (A)|uqsighan|ˈʔuq̚ˌsiɐ̯ɑɛ̯n̥|
 |xikrhänjh|ˈxikr̥aɲ̊|NOUN - Anatomy|Tongue (A)|shichgan|ˈçit͡ʃxæn̥|
 |vaoñanjh|ˈʋæo̯ɴæɲ̊|NOUN - Anatomy|Head (A)|vâkan|ˈvaːg̚æn̥|
@@ -446,6 +456,9 @@ Auto-derived from original
 |yappinjanjh|ˈɟæpˌpiɲæɲ̊|NOUN - Senses|Growl/Bark (A)|apîtan|ˈʔæp̚ˌpĩːd̚æn̥|
 |qoppinjenjh|ˈɢɔpˌpiɲɛɲ̊|NOUN - Senses|Roar (A)|opîton|ˈʔɔp̚ˌpĩːd̚ɐn̥|
 |pamfianjh|ˈpæm̥ˌfiæɲ̊|NOUN - Senses|Sound (A)|pamwêan|ˈpæm̥ˌɸiːæn̥|
+|paocaanjh|ˈpæo̯ˌcææɲ̊|NOUN - Senses|Thunderclap (A)|pâtakkan|ˈpaːˌtæk̚kæn̥|
+|rhuonjarrhänjh|ˈr̥uo̯ˌɲær̥r̥aɲ̊|NOUN - Senses|Thunder Rumble (A)|prônexxan|ˈpr̥uːˌnɛxxæn̥|
+|qaccaogge|ˈɢæcˌcæo̯ggɛ|NOUN - Senses|Lightning Flash (A)|qattâtiche|ˈqæt̚ˌtaːd̚d͡ʒɐ|
 |rhiikke|ˈr̥iˌikkɛ|NOUN - Sky|Sun (E)|qrêiche|ˈqr̥iːˌit̚t͡ʃɐ|
 |vaśke|ˈʋæɕkɛ|NOUN - Sky|Moon (E)|valiche|ˈvæɬt͡ʃɐ|
 |cêrrheagge|ˈcer̥ˌr̥eɐ̯ggɛ|NOUN - Sky|Star (E)|tixêkiche|ˈtixˌxiːg̚d͡ʒɐ|
@@ -469,7 +482,7 @@ Auto-derived from original
 |qu'ħusko|ˈɢuʔˌħuskɔ|NOUN - Mythos|Year > God of the Seasons/Harvests (D)|ukhisiche|ˈʔuk̚ˌħɨst͡ʃɐ|
 |camħeqquoggo|ˈcæm̥ħɛɢˌɢuo̯ggɔ|NOUN - Mythos|Remain.dual > The Pair of Constancy (D)|tamheqôtiche|ˈtæm̥ħɐq̚ˌquːd̚d͡ʒɐ|
 |arrhaqqêkke|ær̥ˈr̥æɢˌɢekkɛ|NOUN - Mythos|Mountain > God of the Earth/Mountains (D)|xetaqiche|ˈxɛt̚ˌqɨt̚t͡ʃɐ|
-|me'rheazge|ˈmɛʔˌr̥eɐ̯zgɛ|NOUN - Mythos|Ocean > God of the Seas (D)|metugêziche|ˈmɛt̚ˌxiːzd͡ʒɐ|
+|me'rheazge|ˈmɛʔˌr̥eɐ̯zgɛ|NOUN - Mythos|Sea > God of the Seas (D)|metugêziche|ˈmɛt̚ˌxiːzd͡ʒɐ|
 |uħħuquoggo|ˈuħħuˌɢuo̯ggɔ|NOUN - Mythos|Tribe.dual > The Pair of Humanity/Human Worlds (D)|vuhîñqôtiche|ˈvuħħɨ̃ːˌɢuːd̚d͡ʒɐ|
 |vaoñdvikke|ˈʋæo̯ɴˌdʋikkɛ|NOUN - Mythos|Road > Goddess of Travels/Knowledge/The Living World (D)|vâkutsiche|ˈvaːg̚ˌd͡ðit̚t͡ʃɐ|
 |ljaearmikke|ˈʎæeɐ̯ˌrmikkɛ|NOUN - Mythos|Ancestor-Help > Goddess of the Dead/Ancestors/The Spirit World (D)|lakîxamiche|ˈlæk̚kiːˌɣmit̚t͡ʃɐ|
@@ -483,6 +496,15 @@ Auto-derived from original
 |yiźmärrhänjh|ˈɟiʑˌmar̥r̥aɲ̊|NOUN - Mythos|Ideal > Idol (A)|îzmaxan|ˈʔĩːzˌmæxxæn̥|
 |vaśśüge|ˈʋæɕˌɕygɛ|NOUN - Mythos|Period/Cleansing (D)|valêviche|ˈvæɬˌɬiːvd͡ʒɐ|
 |yeħke|ˈɟɛħkɛ|NOUN - Mythos|Land > The World (D)|ehoche|ˈʔɛħt͡ʃɐ|
+|vônjoubuħośko|ˈʋoɲou̯buˌħɔɕkɔ|NOUN - Mythos|Frost Bird (D)|ôtêwpûholche|ˈwoːd̚ɘːwbuːˌħɔɬt͡ʃɐ|
+|ħanjmipüħośko|ˈħæɲ̊m̥ipyˌħɔɕkɔ|NOUN - Mythos|Flame Bird (D)|hanemîpûholche|ˈħæn̥m̥iːpuːˌħɔɬt͡ʃɐ|
+|verxopüħośko|ˈʋɛr̥xɔpyˌħɔɕkɔ|NOUN - Mythos|Rain Bird (D)|verjâpûholche|ˈvɛr̥çɑːpuːˌħɔɬt͡ʃɐ|
+|pâenjappuħośko|ˈpɑe̯ɲæppuˌħɔɕkɔ|NOUN - Mythos|Storm Bird (D)|pâtakpûholche|ˈpaːd̚æk̚puːˌħɔɬt͡ʃɐ|
+|ghâeñoyappuħośko|ˈɣɑe̯ɴɔɟæppuˌħɔɕkɔ|NOUN - Mythos|Mountain Bird (D)|gjâñtaqpûholche|ˈʝaːŋdæq̚puːˌħɔɬt͡ʃɐ|
+|niñâe|ˈniɴɑe̯|NOUN - Environment|Night-Land > North > Tundra (I)|gjîkeha|ˈʝĩːg̚ɑɛ̯|
+|yinddźoeħħa|ˈɟiɲɟɟ͡ʑɔˌɛħħæ|NOUN - Environment|Day-Land > South > Plains (I)|îksâeha|ˈʔĩːg̚zɑːˌɛħħæ|
+|ârrhâemâe|ʌr̥ˈr̥ɑe̯mɑe̯|NOUN - Environment|Up-Land > East > Highlands (I)|xâpeha|ˈxaːb̚ɑɛ̯|
+|marrhöâe|ˈmær̥ˌr̥øɑe̯|NOUN - Environment|Sea-Land > Lowlands (I)|megêveha|ˈmɛxˌxiːvɑɛ̯|
 |jêźikke|ˈjeˌʑikkɛ|NOUN - Environment|Water > Water (in the world) (E)|êvziche|ˈjeːvˌzit̚t͡ʃɐ|
 |me'ekke|ˈmɛʔˌɛkkɛ|NOUN - Environment|Earth > Ground (E)|metireqiche|ˈmɛʈ̚ˌɛq̚t͡ʃɐ|
 |me'eqqa|ˈmɛʔˌɛɢɢæ|NOUN - Environment|Earth > Soil (I)|metireqa|ˈmɛʈ̚ˌɛq̚qæ|
@@ -494,7 +516,8 @@ Auto-derived from original
 |xekka'|ˈxɛkkæʔ|NOUN - Environment|Path (esp. natural) (I)|shechaq|ˈçɛt̚t͡ʃæq̚|
 |quieźanjh|ˈɢuˌie̯ʑæɲ̊|NOUN - Environment|River (A)|ukêzan|ˈʔuk̚ˌkiːzæn̥|
 |meccieźanjh|ˈmɛcˌcie̯ʑæɲ̊|NOUN - Environment|Lake (A)|metêzan|ˈmɛt̚ˌtiːzæn̥|
-|me'rheaźanjh|ˈmɛʔˌr̥eɐ̯ʑæɲ̊|NOUN - Environment|Ocean (A)|metugêzan|ˈmɛt̚ˌxiːzæn̥|
+|ca'iccüźonj|ˈcæʔicˌcyʑɔɲ|NOUN - Region|Dust-Water > Oasis (I)|taitêvzân|ˈtæʔit̚ˌtiːvzɑːn|
+|me'rheaźanjh|ˈmɛʔˌr̥eɐ̯ʑæɲ̊|NOUN - Environment|Sea (A)|metugêzan|ˈmɛt̚ˌxiːzæn̥|
 |ca'icca|ˈcæʔˌiccæ|NOUN - Environment|Dust (I)|taita|ˈtæʔˌit̚tæ|
 |ħa'üccüa'|ˈħæʔycˌcyæʔ|NOUN - Environment|Snow (I)|hautêvat|ˈħæʔut̚ˌtiːvæt̚|
 |ya'üccüa'|ˈɟæʔycˌcyæʔ|NOUN - Environment|Ice (I)|autêvat|ˈʔæʔut̚ˌtiːvæt̚|
@@ -502,6 +525,10 @@ Auto-derived from original
 |tfirrha|ˈtfir̥r̥æ|NOUN - Environment|Hill (I)|tsira|ˈt͡θir̥r̥æ|
 |kixeź|ˈkixɛʑ|NOUN - Environment|Beach (I)|chêshaz|ˈt͡ʃiçæːz|
 |arrharrä|ær̥ˈr̥ærra|NOUN - Environment|Coast (I)|xaga|ˈxæːɣɣæ|
+|fienja'|ˈfie̯ɲæʔ|NOUN - Environment|Base/Foot/Bottom (I)|kwênaq|ˈkɸiːnæq̚|
+|vaoña'|ˈʋæo̯ɴæʔ|NOUN - Environment|Summit/Peak/Top (I)|vâkaq|ˈvaːg̚æq̚|
+|uoyyeħħa|ˈuo̯ɟˌɟɛħħæ|NOUN - Environment|Valley (I)|wôtteha|ˈwuːd̚ˌdɛħħæ|
+|üâe|ˈyɑe̯|NOUN - Environment|Knee > Island (I)|kêweha|ˈkiːwɑɛ̯|
 |ħanjmanjh|ˈħæɲ̊m̥æɲ̊|NOUN - Tools|Fire (A)|haneman|ˈħæn̥m̥æn̥|
 |ħanħaśxanjh|ˈħæn̥ˌħæɕxæɲ̊|NOUN - Tools|Smoke (A)|hanvaljan|ˈħæn̥ˌfæɬçæn̥|
 |ħa'uħħo|ˈħæʔˌuħħɔ|NOUN - Tools|Ashes (I)|hauhâ|ˈħæʔˌuħħɑː|
@@ -509,15 +536,18 @@ Auto-derived from original
 |uttë|ˈuttɤ|NOUN - Tools|Net (I)|kuktrô|ˈkuk̚ʈɘː|
 |uttum|ˈuttum|NOUN - People|Netmaker (H)|kuktrûn|ˈkuk̚ʈũː|
 |uttum|ˈuttum|NOUN - People|Net fisher (H)|kuktrîn|ˈkuk̚ʈĩː|
-|źñärhä|ˈʑɴar̥a|NOUN - Tools|Metal Ingot (I)|zñâxa|ˈzŋaxæ|
+|źñärhä|ˈʑɴar̥a|NOUN - Tools|Metal (I)|zñâxa|ˈzŋaxæ|
 |źñârhâ|ˈʑɴʌr̥ʌ|NOUN - Tools|Metal Tool (I)|zñâxô|ˈzŋaxɘː|
 |źñârhôm|ˈʑɴʌr̥om|NOUN - People|(Metal) Toolsmith (H)|zñâxûn|ˈzŋaxũː|
 |źñärhên|ˈʑɴar̥en|NOUN - People|Miner (H)|zñâxîn|ˈzŋaxĩː|
+|varħaccin|ˈʋær̥ˌħæccin|NOUN - People|Hunter (H)|varhatîn|ˈvær̥ˌħæt̚tĩː|
 |vaoñdvanjh|ˈʋæo̯ɴdʋæɲ̊|NOUN - Construction|Road (A)|vâkutsan|ˈvaːg̚d͡ðæn̥|
 |vaoñdvin|ˈʋæo̯ɴdʋin|NOUN - People|Traveller/Wayfarer (H)|vâkutsîn|ˈvaːg̚d͡ðĩː|
 |vâeñdvum|ˈʋɑe̯ɴdʋum|NOUN - People|Pioneer/Trailblazer (H)|vâkutsûn|ˈvaːg̚d͡ðũː|
 |aħak|ˈæħæk|NOUN - Construction|House/Hut (I)|kâhach|ˈkaħæt͡ʃ|
 |camħenjh|ˈcæm̥ħɛɲ̊|NOUN - Community|Home/Resting place (A)|tamhon|ˈtæm̥ħɐn̥|
+|vaoñüccamħenjh|ˈʋæo̯ɴycˌcæm̥ħɛɲ̊|NOUN - Community|Lodge/Caravanserai (A)|vâkuttamhon|ˈvaːg̚ut̚ˌtæm̥ħɐn̥|
+|erriemvaonjonj|ɛrˈrie̯mˌʋæo̯ɲɔɲ|NOUN - Community|Far-Camp > Outpost/Colony (H)|rêmhwânân|ˈriːmˌwaːnɑːn|
 |poarânj|ˈpoɐ̯rʌɲ|NOUN - Rhetoric|Name (H)|pûrixân|ˈpũːrɣɑːn|
 |poarâkko|ˈpoɐ̯ˌrʌkkɔ|NOUN - Rhetoric|Ruler Name (extra name chosen by ruler) (D)|pûrixoche|ˈpũːrˌɣɔt̚t͡ʃɐ|
 |vaħħeinanjh|ˈʋæħˌħei̯næɲ̊|NOUN - Rhetoric|Argument (A)|wahîan|ˈwæħˌħɨ̃ːæn̥|
@@ -537,6 +567,11 @@ Auto-derived from original
 |gharke|ˈɣær̥kɛ|NOUN - Phenomena|Life (D)|jarche|ˈjær̥t͡ʃɐ|
 |ħêśśa|ˈħeɕɕæ|NOUN - Phenomena|Cycle (I)|hisa|ˈħɨssæ|
 |esa|ˈɛsæ|NOUN - Phenomena|Cyclical Phase/Season/Period of time (I)|kersa|ˈkɛʂæ|
+|kusko|ˈkuskɔ|NOUN - Phenomena|Summer|chusache|ˈt͡ʃust͡ʃɐ|
+|ħusko|ˈħuskɔ|NOUN - Phenomena|Autumn|khisache|ˈkħɨst͡ʃɐ|
+|iske|ˈiskɛ|NOUN - Phenomena|Winter|gjisache|ˈʝist͡ʃɐ|
+|rhüźakke|ˈr̥yˌʑækkɛ|NOUN - Phenomena|Spring|qrêvsache|ˈqr̥iːvˌzæt̚t͡ʃɐ|
+|kusko|ˈkuskɔ|NOUN - Concept|Plentitude/Bounty (D)|chusoche|ˈt͡ʃust͡ʃɐ|
 |vifke|ˈʋifkɛ|NOUN - Concept|Victory (D)|vifuche|ˈvift͡ʃɐ|
 |mi'ürhikke|ˈmiʔyˌr̥ikkɛ|NOUN - Concept|Power (D)|miûpariche|ˈmiʔuːˌpr̥it̚t͡ʃɐ|
 |ârrârhmiegge|ʌrˈrʌr̥ˌm̥ie̯ggɛ|NOUN - Concept|Freedom (D)|gormêtache|ˈɣɔr̥ˌm̥iːd̚d͡ʒɐ|
@@ -547,6 +582,8 @@ Auto-derived from original
 |fiebbre|ˈfie̯bbrɛ|NOUN - Concept|All/Total (I)|fêkpre|ˈfiːg̚brɐ|
 |rhe'ikke|ˈr̥ɛʔˌikkɛ|NOUN - Concept|Completion/Wholeness (D)|preiche|ˈpr̥ɛʔˌit̚t͡ʃɐ|
 |qunumâekko|ˈɢunuˌmɑe̯kkɔ|NOUN - Concept|Unity/Joinedness (D)|ûtûmheche|ˈʔũːd̚ũːˌɑɛ̯t̚t͡ʃɐ|
+|qaoanjh|ˈɢæo̯æɲ̊|NOUN - Concept|Start (A)|âan|ˈʔaːæn̥|
+|färrhänjh|ˈfar̥r̥aɲ̊|NOUN - Concept|End (A)|faxan|ˈfæxxæn̥|
 |aoxxa|ˈæo̯xxæ|DET|This|ghuja|ˈɐʊ̯ççæ|
 |ghaħa'|ˈɣæħæʔ|DET|That|jâhap|ˈjaħæp̚|
 |mikka|ˈmikkæ|DET|That over there|mitja|ˈmit̚çæ|
@@ -643,6 +680,7 @@ Auto-derived from original
 |rhe|ˈr̥ɛ|ADJ|Hot|pre|ˈpr̥ɛ|
 |ya'ü'|ˈɟæʔyʔ|ADJ|Cold|aut|ˈʔæʔut̚|
 |vif|ˈʋif|ADJ|Full|vêf|ˈvif|
+|qmuś|ˈɢm̥uɕ|ADJ|Empty|qmul|ˈqm̥uɬ|
 |vômvo|ˈʋomʋɔ|ADJ|Old|ômve|ˈwoːmvɐ|
 |ñêra|ˈɴeræ|ADJ|Round|ñîxe|ˈŋĩɣɐ|
 |frhiccê|ˈfr̥icce|ADJ|Dry|fritô|ˈfr̥it̚tɘː|
@@ -652,6 +690,9 @@ Auto-derived from original
 |qoarânjo|ˈɢoɐ̯rʌɲɔ|ADJ|Wide|ugane|ˈʔuːɣnɐ|
 |frhicce|ˈfr̥iccɛ|ADJ|Thick|frito|ˈfr̥it̚tɐ|
 |ârroaromh|ʌrˈroɐ̯rɔm̥|ADJ|Thin|gôrkem|ˈɣuːrgɐm̥|
+|pur|ˈpur|ADJ|Low/Down|pûr|ˈpũːr|
+|ârrhâem|ʌr̥ˈr̥ɑe̯m|ADJ|High/Up|xâp|ˈxaːb̚|
+|qaoa|ˈɢæo̯æ|ADJ|Beginning/Initial/Starting|âa|ˈʔaːæ|
 |ħou|ˈħou̯|ADJ|Good|hev|ˈħɜːv|
 |yirper|ˈɟir̥pɛr|ADJ|Bad|irpêg|ˈʔir̥pɘːɣ|
 |quovjë|ˈɢuo̯ʋjɤ|ADJ|Rotten|uvewî|ˈʔuːvɥiː|
@@ -688,6 +729,11 @@ Auto-derived from original
 |yêrħa|ˈɟer̥ħæ|NOUN - Plant|Fruit (I)|ixeha|ˈʔixħæ|
 |ma'|ˈmæʔ|NOUN - Plant|Flower (I)|mak|ˈmæk̚|
 |ye'ma'|ˈɟɛʔm̥æʔ|NOUN - Plant|Grass (I)|etermak|ˈʔɛʈ̚m̥æk̚|
+|moaźlja|ˈmoɐ̯ʑʎæ|NOUN - Plant|Pine Tree (I)|mughosla|ˈmuɐ̯zlæ|
+|paccanśśa|ˈpæcˌcæɲ̊ɕɕæ|NOUN - Plant|Oak Tree (I)|patansla|ˈpæt̚ˌtæn̥sɬæ|
+|ve'njetfe|ˈʋɛʔˌɲ̊ɛtfɛ|NOUN - Plant|Juniper Tree (I)|vetnetse|ˈvɛt̚ˌn̥ɛt̚t͡θɐ|
+|ghoaâeħ|ˈɣoɐ̯ɑe̯ħ|NOUN - Plant| Fig (I)|jughaw|ˈjuɐ̯ɑɛ̯xʷ|
+|ghuħħaħśśa|ˈɣuħˌħæħɕɕæ|NOUN - Plant|Fig Tree (I)|jughawsla|ˈjuħˌħæxʷsɬæ|
 |arraźba|ærˈræʑbæ|NOUN - Plant|Olive (I)|gezpa|ˈɣɛːzbæ|
 |arraźbitfśa|ærˈræʑˌbitfɕæ|NOUN - Plant|Olive Tree (I)|gezpitsala|ˈɣɛːzˌbit͡θɬæ|
 |urumva|ˈurumʋæ|NOUN - Plant|Pear (I)|vrûva|ˈvrũːvæ|
@@ -731,6 +777,8 @@ Auto-derived from original
 |jêzöljanjh|ˈjezøʎæɲ̊|NOUN - Animal|Fish (A)|êzvlan|ˈjeːzvlæn̥|
 |pvaomanjh|ˈpʋæo̯mæɲ̊|NOUN - Animal|Bird (A)|pûhalan|ˈpwɐ̃læn̥|
 |qârränjh|ˈɢʌrraɲ̊|NOUN - Animal|Animal (A)|ogan|ˈʔɔːɣɣæn̥|
+|pfośśüenjh|ˈpfɔɕˌɕyɛɲ̊|NOUN - Animal|Albatross (A)|pwolêvon|ˈpɸɔɬˌɬiːvɐn̥|
+|me'fośtonjh|ˈmɛʔˌfɔɕtɔɲ̊|NOUN - Animal|Elephant (A)|metvostron|ˈmɛt̚ˌfɔsʈɐn̥|
 |vôŕanjh|ˈʋoɹæɲ̊|NOUN - Animal|Boar (A)|ôrzan|ˈwoːʐæn̥|
 |ħeianjh|ˈħei̯æɲ̊|NOUN - Animal|Pig (A)|hêkkan|ˈħɨːg̚gæn̥|
 |ħe'ħeii|ˈħɛʔˌħei̯i|NOUN - Animal|Pigsty (I)|hekhêkki|ˈħɜk̚ˌħɨːg̚gi|

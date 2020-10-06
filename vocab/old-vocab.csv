@@ -90,6 +90,7 @@ ghôlqe,VERB-PF,To become
 ûtihgîlas,VERB-PF,To kill
 uqkrêha,VERB-PF,To float
 tôla,VERB-PF,To change
+qrêv,VERB-PF,To melt
 
 qutun,VERB-PF,To place/To put
 remewân,VERB-PF,To mine
@@ -143,6 +144,7 @@ choqomôn,NOUN - People,Grandmother (H)
 hrêpghôn,NOUN - People,Grandfather (H)
 lakiche,NOUN - People,Ancestor (in general) (D)
 qamiche,NOUN - People,Ancestor (personal) (D)
+hanvaliche,NOUN - People,Smoke > Spirit (D)
 
 qaqixahân,NOUN - Community,Team (H)
 mewânân,NOUN - Community,Camp (H)
@@ -150,6 +152,12 @@ qutunân,NOUN - Community,Settlement (H)
 ehân,NOUN - Community,Land > Territory (H)
 vuhîñân,NOUN - Community,Tribe/Group (H)
 vuhîñkan,NOUN - Community,Tribal Language (A)
+
+ukêzeânqôt,NOUN - Region,The Two Rivers (H.d)
+mughhôktsalântoj,NOUN - Region,Pine Forests (H.p)
+kwênaqtsirêntoj,NOUN - Region,The Foothills (H.p)
+varhatînhôktsalântoj,NOUN - Region,Hunter Forests (H.p)
+gjâñtaqpûholxetapântoj,NOUN - Region,Rockbird Mountains (H.p)
 
 uqsighan,NOUN - Anatomy,Heart (A)
 shichgan,NOUN - Anatomy,Tongue (A)
@@ -179,6 +187,9 @@ epîten,NOUN - Senses,Whimper (A)
 apîtan,NOUN - Senses,Growl/Bark (A)
 opîton,NOUN - Senses,Roar (A)
 pamwêan,NOUN - Senses,Sound (A)
+pâtakkan,NOUN - Senses,Thunderclap (A)
+prônexxan,NOUN - Senses,Thunder Rumble (A)
+qattâtiche,NOUN - Senses,Lightning Flash (A)
 
 qrêiche,NOUN - Sky,Sun (E)
 valiche,NOUN - Sky,Moon (E)
@@ -204,7 +215,7 @@ tsenaniche,NOUN - Mythos,Goddess of the Winds/Weather (D)
 ukhisiche,NOUN - Mythos,Year > God of the Seasons/Harvests (D)
 tamheqôtiche,NOUN - Mythos,Remain.dual > The Pair of Constancy (D)
 xetaqiche,NOUN - Mythos,Mountain > God of the Earth/Mountains (D)
-metugêziche,NOUN - Mythos,Ocean > God of the Seas (D)
+metugêziche,NOUN - Mythos,Sea > God of the Seas (D)
 vuhîñqôtiche,NOUN - Mythos,Tribe.dual > The Pair of Humanity/Human Worlds (D)
 vâkutsiche,NOUN - Mythos,Road > Goddess of Travels/Knowledge/The Living World (D)
 lakîxamiche,NOUN - Mythos,Ancestor-Help > Goddess of the Dead/Ancestors/The Spirit World (D)
@@ -218,6 +229,16 @@ juêtiche,NOUN - Mythos,Purifying Honey (D)
 îzmaxan,NOUN - Mythos,Ideal > Idol (A)
 valêviche,NOUN - Mythos,Period/Cleansing (D)
 ehoche,NOUN - Mythos,Land > The World (D)
+ôtêwpûholche,NOUN - Mythos,Frost Bird (D)
+hanemîpûholche,NOUN - Mythos,Flame Bird (D)
+verjâpûholche,NOUN - Mythos,Rain Bird (D)
+pâtakpûholche,NOUN - Mythos,Storm Bird (D)
+gjâñtaqpûholche,NOUN - Mythos,Mountain Bird (D)
+
+gjîkeha,NOUN - Environment,Night-Land > North > Tundra (I)
+îksâeha,NOUN - Environment,Day-Land > South > Plains (I)
+xâpeha,NOUN - Environment,Up-Land > East > Highlands (I)
+megêveha,NOUN - Environment,Sea-Land > Lowlands (I)
 
 êvziche,NOUN - Environment,Water > Water (in the world) (E)
 metireqiche,NOUN - Environment,Earth > Ground (E)
@@ -230,7 +251,8 @@ hôktsal,NOUN - Environment,Forest (I)
 shechaq,NOUN - Environment,Path (esp. natural) (I)
 ukêzan,NOUN - Environment,River (A)
 metêzan,NOUN - Environment,Lake (A)
-metugêzan,NOUN - Environment,Ocean (A)
+taitêvzân,NOUN - Region,Dust-Water > Oasis (I)
+metugêzan,NOUN - Environment,Sea (A)
 taita,NOUN - Environment,Dust (I)
 hautêvat,NOUN - Environment,Snow (I)
 autêvat,NOUN - Environment,Ice (I)
@@ -238,6 +260,10 @@ eha,NOUN - Environment,Land (I)
 tsira,NOUN - Environment,Hill (I)
 chêshaz,NOUN - Environment,Beach (I)
 xaga,NOUN - Environment,Coast (I)
+kwênaq,NOUN - Environment,Base/Foot/Bottom (I)
+vâkaq,NOUN - Environment,Summit/Peak/Top (I)
+wôtteha,NOUN - Environment,Valley (I)
+kêweha,NOUN - Environment,Knee > Island (I)
 
 haneman,NOUN - Tools,Fire (A)
 hanvaljan,NOUN - Tools,Smoke (A)
@@ -246,16 +272,19 @@ uktramak,NOUN - Tools,Rope (I)
 kuktrô,NOUN - Tools,Net (I)
 kuktrûn,NOUN - People,Netmaker (H)
 kuktrîn,NOUN - People,Net fisher (H)
-zñâxa,NOUN - Tools,Metal Ingot (I)
+zñâxa,NOUN - Tools,Metal (I)
 zñâxô,NOUN - Tools,Metal Tool (I)
 zñâxûn,NOUN - People,(Metal) Toolsmith (H)
 zñâxîn,NOUN - People,Miner (H)
+varhatîn,NOUN - People,Hunter (H)
 
 vâkutsan,NOUN - Construction,Road (A)
 vâkutsîn,NOUN - People,Traveller/Wayfarer (H)
 vâkutsûn,NOUN - People,Pioneer/Trailblazer (H)
 kâhach,NOUN - Construction,House/Hut (I)
 tamhon,NOUN - Community,Home/Resting place (A)
+vâkuttamhon,NOUN - Community,Lodge/Caravanserai (A)
+rêmhwânân,NOUN - Community,Far-Camp > Outpost/Colony (H)
 
 pûrixân,NOUN - Rhetoric,Name (H)
 pûrixoche,NOUN - Rhetoric,Ruler Name (extra name chosen by ruler) (D)
@@ -278,7 +307,12 @@ valhisa,NOUN - Phenomena,Moon > Month (I)
 jarche,NOUN - Phenomena,Life (D)
 hisa,NOUN - Phenomena,Cycle (I)
 kersa,NOUN - Phenomena,Cyclical Phase/Season/Period of time (I)
+chusache,NOUN - Phenomena,Summer
+khisache,NOUN - Phenomena,Autumn
+gjisache,NOUN - Phenomena,Winter
+qrêvsache,NOUN - Phenomena,Spring
 
+chusoche,NOUN - Concept,Plentitude/Bounty (D)
 vifuche,NOUN - Concept,Victory (D)
 miûpariche,NOUN - Concept,Power (D)
 gormêtache,NOUN - Concept,Freedom (D)
@@ -289,6 +323,8 @@ wahra,NOUN - Concept,Mistake (I)
 fêkpre,NOUN - Concept,All/Total (I)
 preiche,NOUN - Concept,Completion/Wholeness (D)
 ûtûmheche,NOUN - Concept,Unity/Joinedness (D)
+âan,NOUN - Concept,Start (A)
+faxan,NOUN - Concept,End (A)
 
 ghuja,DET,This
 jâhap,DET,That
@@ -394,6 +430,7 @@ pefke,ADJ,Small
 pre,ADJ,Hot
 aut,ADJ,Cold
 vêf,ADJ,Full
+qmul,ADJ,Empty
 ômve,ADJ,Old
 ñîxe,ADJ,Round
 fritô,ADJ,Dry
@@ -403,6 +440,10 @@ nex,ADJ,Narrow
 ugane,ADJ,Wide
 frito,ADJ,Thick
 gôrkem,ADJ,Thin
+pûr,ADJ,Low/Down
+xâp,ADJ,High/Up
+âa,ADJ,Beginning/Initial/Starting
+
 hev,ADJ,Good
 irpêg,ADJ,Bad
 uvewî,ADJ,Rotten
@@ -445,9 +486,15 @@ ixeha,NOUN - Plant,Fruit (I)
 mak,NOUN - Plant,Flower (I)
 etermak,NOUN - Plant,Grass (I)
 
+
+mughosla,NOUN - Plant,Pine Tree (I)
+patansla,NOUN - Plant,Oak Tree (I)
+vetnetse,NOUN - Plant,Juniper Tree (I)
+
+jughaw,NOUN - Plant, Fig (I)
+jughawsla,NOUN - Plant,Fig Tree (I)
 gezpa,NOUN - Plant,Olive (I)
 gezpitsala,NOUN - Plant,Olive Tree (I)
-
 vrûva,NOUN - Plant,Pear (I)
 vrûvitsala,NOUN - Plant,Pear Tree (I)
 muqas,NOUN - Plant,Peach (I)
@@ -495,6 +542,8 @@ gîlmeñ,NOUN - Plant,Little Ear > Fungus (I)
 êzvlan,NOUN - Animal,Fish (A)
 pûhalan,NOUN - Animal,Bird (A)
 ogan,NOUN - Animal,Animal (A)
+pwolêvon,NOUN - Animal,Albatross (A)
+metvostron,NOUN - Animal,Elephant (A)
 
 ôrzan,NOUN - Animal,Boar (A)
 hêkkan,NOUN - Animal,Pig (A)

@@ -2,12 +2,51 @@
 
 ## Background
 
-- Vuhîñan '(the) tribe' > Vuhîñân > Uħħuononj
-  - /ˈvuˌħiːŋaːn/ > /ˈvuħˌħɨ̃ːɑːn/ > /ˈuħˌħuo̯nɔɲ/
-- Vuhîñkam '(the) tribal language' > Vuhîñkan > Uħħuonanjh
-  - /ˈvuˌħiːŋkan/ > /ˈvuħˌħɨ̃ːgæn̥/ > /ˈuħˌħuo̯næɲ̊/
+- Uħħuononj -- name of the people
+  - /ˈuħˌħuo̯nɔɲ/ < /ˈvuħˌħɨ̃ːɑːn/ < /ˈvuˌħiːŋaːn/
+  - ETY < Vuhîñân < Vuh. Vuhîñan '(the) tribe'
+- Uħħuonanjh -- name of the language
+  - /ˈuħˌħuo̯næɲ̊/ < /ˈvuħˌħɨ̃ːgæn̥/ < /ˈvuˌħiːŋkan/
+  - ETY Vuhîñkan < Vuh. Vuhîñkam '(the) tribal language'
 
-Inhabiting the West River Valley.
+- Vônvënjh -- name of the Major River
+  - /ˈʋonʋɤɲ̊/ < /ˈwoːd̚wɘː/ < /ˈoːtwoː/
+  - ETY 'splitter (A)' < vônvë 'splitting' < Vuh. ôtwô 'to split'
+- Uonjëkkouonj -- name of the River Valley / lands surrounding the River
+  - /ˈuo̯ɲɤkˌkou̯ɔɲ/ < /ˈuo̯ɲɤʔ/ < /ˈwuːd̚iq̚/ < /ˈwoːtiq/
+  - ETY 'cut thing (H)' < uonjë' 'cutting' < Vuh. wôtiq 'to cut'
+
+## Geography, Environment and Terrain
+
+- Lands/Regions -- Yeħħaisħôn
+  - Qamkonj / Ljiħħeimonj / Kuskonj -- The Homeland / Land of Plenty
+    - Uonjëkkouonj -- The River Valley
+      - Xärrhättśonj -- River Coast
+      - Puruttśonj -- Lower River Valley
+      - Xâeputtśonj -- Upper River Valley
+    - The Two Rivers
+  - Ienjeħħonj -- The Northlands
+    - Śaśśüħênj -- Seadragon Coast
+    - Meccêźeamonj -- Lake West
+    - Meccêźaorrânj -- Lake East
+  - Yinddźaħonj -- The Southlands
+    - Ghaźbêrrânj -- Olive Coast
+    - Meffeśteħħênj -- Elephant Plains
+    - Rhiemênj -- The Savannah
+    - Uttyvâencox -- Fisherman Islands
+  - Ârrhâfonj -- The Hinterlands
+    - Pine Forests
+    - Jêiśħeimonj -- Mountain Springs
+    - The Foothills
+    - Rockbird Mountains
+    - Hunter Forests
+  - Pfośħonj -- Albatross Island
+    - Śaśśüênj -- Seadragon Strait
+  - Ljanêrmonj -- Realm of the Dead
+    - Ħancśicceuźikke -- Oasis of Spirits
+    - Ħa'üħħercakke -- Ashen Mountains
+    - Firca'innjikke -- The Eternal Duststorm
+    - Färhemvaonjonj -- The Last Outpost
 
 - Climates
   - Hot Mediterranean - lower river valley and south of lower river
