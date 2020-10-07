@@ -585,68 +585,55 @@ Auto-derived from original
 |qunumâekko|ˈɢunuˌmɑe̯kkɔ|NOUN - Concept|Unity/Joinedness (D)|ûtûmheche|ˈʔũːd̚ũːˌɑɛ̯t̚t͡ʃɐ|
 |qaoanjh|ˈɢæo̯æɲ̊|NOUN - Concept|Start (A)|âan|ˈʔaːæn̥|
 |färrhänjh|ˈfar̥r̥aɲ̊|NOUN - Concept|End (A)|faxan|ˈfæxxæn̥|
-|aoxxa|ˈæo̯xxæ|DET|This|ghuja|ˈɐʊ̯ççæ|
-|ghaħa'|ˈɣæħæʔ|DET|That|jâhap|ˈjaħæp̚|
-|mikka|ˈmikkæ|DET|That over there|mitja|ˈmit̚çæ|
-|kuppa|ˈkuppæ|DET|Many|chupa|ˈt͡ʃup̚pæ|
-|xieña|ˈxie̯ɴæ|DET|Some|shêña|ˈçiːŋæ|
-|arrhê|ær̥ˈr̥e|DET|Few|xi|ˈxi|
-|qaiaħ|ˈɢæɪ̯æħ|DET|Every|âjah|ˈʔaːjæħ|
-|vete|ˈʋɛtɛ|DET|More|verto|ˈvɛʈɐ|
-|qârh|ˈɢʌr̥|PRN|Who (Nom)|qer|ˈqɜr̥|
-|qârkou|ˈɢʌr̥kou̯|PRN|Who (Acc)|qerchôl|ˈqɜr̥t͡ʃɘːl|
-|quonjorh|ˈɢuo̯ɲɔr̥|PRN|To Who (Dat)|qêter|ˈqɨːd̚ɐr̥|
-|qerhix|ˈɢɛr̥ix|PRN|Of/From Who (Gen)|qerkish|ˈqɜr̥kiç|
-|qerhñaħ|ˈɢɛr̥ɴ̥æħ|PRN|At/With Who (Loc-Instr)|qerñah|ˈqɜr̥ŋ̊æħ|
-|quonu|ˈɢuo̯nu|PRN|What (Nom)|qîu|ˈqɨ̃ːu|
-|quonou|ˈɢuo̯nou̯|PRN|What (Acc)|qîôl|ˈqɨ̃ːɘːl|
-|qeijienjerh|ˈɢei̯ˌjie̯ɲɛr̥|PRN|To What (Dat)|qîwêter|ˈqɨ̃ːˌɥiːd̚ɐr̥|
-|quonuëx|ˈɢuo̯ˌnuɤx|PRN|Of/From What (Gen)|qîukish|ˈqɨ̃ːˌuk̚kiç|
-|qeijeara|ˈɢei̯ˌjeɐ̯ræ|PRN|By/Using What (Loc-Instr)|qîwîmexe|ˈqɨ̃ːˌɥĩːɣɐ|
-|mvom|ˈmʋɔm|PRN|1.s.Nom - I|mûh|ˈmwɐ̃|
-|feaa|ˈfeɐ̯æ|PRN|1.s.Acc - Me|fêgha|ˈfiɐ̯æ|
-|ghâu|ˈɣɑʊ̯|PRN|1.p.Nom - We|jâl|ˈjaːl|
-|poa|ˈpoɐ̯|PRN|1.p.Acc - Us|pôgh|ˈpuɐ̯|
-|u'|ˈuʔ|PRN|2.s.Nom - Thou|kup|ˈkup̚|
-|tśarh|ˈc͡ɕær̥|PRN|2.s.Acc - Thee|plex|ˈpɬɛx|
-|ljarrha'|ˈʎær̥r̥æʔ|PRN|2.d.Nom - You & I|larap|ˈlær̥r̥æp̚|
-|ârrâem|ʌrˈrɑe̯m|PRN|2.d.Acc - You & Me|gâm|ˈɣaːm|
-|me|ˈmɛ|PRN|2.p.Nom - You|me|ˈmɛ|
-|źieñe|ˈʑie̯ɴɛ|PRN|2.p.Acc - Ye|zêñko|ˈziːŋgɐ|
-|qâħ|ˈɢʌħ|PRN|3.I.Nom - It/They|qeh|ˈqɜħ|
-|yêr|ˈɟer|PRN|3.I.Acc - It/Them|îx|ˈʔĩɣ|
-|qeħħanjh|ˈɢɛħħæɲ̊|PRN|3.A.s.Nom - It/He/She|qehan|ˈqɜħħæn̥|
-|yêränjh|ˈɟeraɲ̊|PRN|3.A.s.Acc - It/Him/Her|îxan|ˈʔĩɣæn̥|
-|qâħħonj|ˈɢʌħħɔɲ|PRN|3.H.s.Nom - He/She/It|qehân|ˈqɜħħɑːn|
-|yêrânj|ˈɟerʌɲ|PRN|3.H.s.Acc - Him/Her/It|îxân|ˈʔĩɣɑːn|
-|errienjonj|ɛrˈrie̯ɲɔɲ|PRN|3.H.d.Nom - He/She/It and I|rêtân|ˈriːd̚ɑːn|
-|ghu'onj|ˈɣuʔɔɲ|PRN|3.H.d.Acc - Him/Her/It and I|juân|ˈjuʔɑːn|
-|veħħanjh|ˈʋɛħħæɲ̊|PRN|3.A.p.Nom - They|vehan|ˈvɛħħæn̥|
-|ñenjh|ˈɴɛɲ̊|PRN|3.A.p.Acc - Them|ñen|ˈŋɛn̥|
-|veħħonj|ˈʋɛħħɔɲ|PRN|3.H.p.Nom - They|vehân|ˈvɛħħɑːn|
-|ñâenj|ˈɴɑe̯ɲ|PRN|3.H.p.Acc - Them|ñân|ˈŋaːn|
-|veħke|ˈʋɛħkɛ|PRN|3.D.Nom - He/She/It/They|vehiche|ˈvɛħt͡ʃɐ|
-|ñikke|ˈɴikkɛ|PRN|3.D.Acc - Him/Her/It/Them|ñiche|ˈŋit̚t͡ʃɐ|
-|qâe|ˈɢɑe̯|TAG|indicative formal|qâ|ˈqaː|
-|qârh|ˈɢʌr̥|TAG|indicative past|qâx|ˈqax|
-|âenjh|ˈɑe̯ɲ̊|TAG|interrogative|ghan|ˈɑɛ̯n̥|
-|âenca|ˈɑe̯ɲ̊cæ|TAG|interrogative formal|ghana|ˈɑɛ̯n̥n̥æ|
-|âencârh|ˈɑe̯ɲ̊cʌr̥|TAG|interrogative past|ghanox|ˈɑɛ̯n̥n̥ɐx|
-|njêrh|ˈɲer̥|TAG|conditional past|nix|ˈnix|
-|in|ˈin|TAG|conditional formal|jîn|ˈjĩː|
-|ienjarh|ˈie̯ɲær̥|TAG|conditional past formal|jînox|ˈjĩːɐx|
-|ħâunjh|ˈħɑʊ̯ɲ̊|TAG|necessitative|hevn|ˈħɜvn̥|
-|ħeuvin|ˈħøʊ̯ʋin|TAG|necessitative formal|hevîn|ˈħɜːvvĩː|
-|yaś|ˈɟæɕ|TAG|imperative formal|al|ˈʔæɬ|
-|śanjh|ˈɕæɲ̊|TAG|imperative polite|san|ˈsæn̥|
-|yaonja|ˈɟæo̯ɲæ|TAG|imperative polite formal|alahna|ˈʔælnæ|
-|aś|ˈæɕ|TAG|prohibitive|kas|ˈkæs|
-|ghâenj|ˈɣɑe̯ɲ|TAG|prohibitive formal|jân|ˈjaːn|
-|qâenj|ˈɢɑe̯ɲ|TAG|speculative|qân|ˈqaːn|
-|mar|ˈmær|TAG|potential|mag|ˈmæːɣ|
-|mârâ|ˈmʌrʌ|TAG|potential formal|mâge|ˈmaːɣɐ|
-|vâur|ˈʋɑʊ̯r|TAG|commissive|wolg|ˈwɔːlɣ|
-|muljâr|ˈmuʎʌr|TAG|commissive formal|wûlog|ˈwũːlɘːɣ|
+|aoxxa|ˈæo̯xxæ|DET|This/These (I)|ghuja|ˈɐʊ̯ççæ|
+|ejinjh|ɛˈjiɲ̊|DET|This (A)|ghwin|ɐˈɥin̥|
+|ejincex|ɛˈjiɲ̊cɛx|DET|These (A.pl)|ghwintoj|ɐˈɥin̥tɐç|
+|ejin|ɛˈjin|DET|This (H)|ghwîn|ɐˈɥĩː|
+|ejiqênj|ɛˈjiɢeɲ|DET|These two (H.d)|ghwînqôt|ɐˈɥĩːɢɘːd̚|
+|ejinyex|ɛˈjiɲɟɛx|DET|These (H.pl)|ghwîntoj|ɐˈɥĩːdɐç|
+|âuxko|ˈɑʊ̯xkɔ|DET|This/These (D)|ghujche|ˈɐʊ̯çt͡ʃɐ|
+|ghaħa'|ˈɣæħæʔ|DET|That/Those (I)|jâhap|ˈjaħæp̚|
+|ghaħamh|ˈɣæħæm̥|DET|That (A)|jâham|ˈjaħæm̥|
+|ghaoħamcex|ˈɣæo̯ˌħæm̥cɛx|DET|Those (A.pl)|jâhamtoj|ˈjaːˌħæm̥tɐç|
+|ghoħom|ˈɣɔħɔm|DET|That (H)|jâhâm|ˈjaħɑːm|
+|ghâeħâemqënj|ˈɣɑe̯ˌħɑe̯mɢɤɲ|DET|Those two (H.d)|jâhâmqôt|ˈjaːˌħaːmɢɘːd̚|
+|ghâeħâemyox|ˈɣɑe̯ˌħɑe̯mɟɔx|DET|Those (H.pl)|jâhâmtoj|ˈjaːˌħaːmdɐç|
+|ghaoħakke|ˈɣæo̯ˌħækkɛ|DET|That/Those (D)|jâhapche|ˈjaːˌħæp̚t͡ʃɐ|
+|mikka|ˈmikkæ|DET|That/Those (I) over there|mitja|ˈmit̚çæ|
+|mikkanjh|ˈmikkæɲ̊|DET|That (A) over there|mitjan|ˈmit̚çæn̥|
+|mikkancex|ˈmikˌkæɲ̊cɛx|DET|Those (A.pl) over there|mitjantoj|ˈmit̚ˌçæn̥tɐç|
+|mikkonj|ˈmikkɔɲ|DET|That (H) over there|mitjân|ˈmit̚çɑːn|
+|mikkaonqênj|ˈmikˌkæo̯nɢeɲ|DET|Those two (H.d) over there|mitjânqôt|ˈmit̚ˌçaːnɢɘːd̚|
+|mikkaonyex|ˈmikˌkæo̯ɲɟɛx|DET|Those (H.pl) over there|mitjântoj|ˈmit̚ˌçaːndɐç|
+|mikke|ˈmikkɛ|DET|That/Those (D) over there|mitiche|ˈmit̚t͡ʃɐ|
+|kuppa|ˈkuppæ|DET|Many (I)|chupa|ˈt͡ʃup̚pæ|
+|kfanjh|ˈkfæɲ̊|DET|Many (A)|chwan|ˈt͡ʃɸæn̥|
+|kfâenj|ˈkfɑe̯ɲ|DET|Many (H)|chwân|ˈt͡ʃɸaːn|
+|kukko|ˈkukkɔ|DET|Many (D)|chupche|ˈt͡ʃup̚t͡ʃɐ|
+|xieña|ˈxie̯ɴæ|DET|Some (I)|shêña|ˈçiːŋæ|
+|xeñh|ˈxɛɴ̥|DET|Some (A)|sheñ|ˈçɛŋ̊|
+|xieñ|ˈxie̯ɴ|DET|Some (H)|shêñ|ˈçiːŋ|
+|xieñge|ˈxie̯ɴgɛ|DET|Some (D)|shêñache|ˈçiːŋd͡ʒɐ|
+|arrhê|ær̥ˈr̥e|DET|Few (I)|xi|ˈxi|
+|arrhênjh|ær̥ˈr̥eɲ̊|DET|Few (A)|xin|ˈxin̥|
+|arrhên|ær̥ˈr̥en|DET|Few (H)|xîn|ˈxĩː|
+|arrhêkke|ær̥ˈr̥ekkɛ|DET|Few (D)|xiche|ˈxit̚t͡ʃɐ|
+|qaiaħ|ˈɢæɪ̯æħ|DET|Every (I)|âjah|ˈʔaːjæħ|
+|qaiâenjh|ˈɢæɪ̯ɑe̯ɲ̊|DET|Every (A)|âjahan|ˈʔaːjɑɛ̯n̥|
+|qaionj|ˈɢæɪ̯ɔɲ|DET|Every (H)|âjahân|ˈʔaːjɑːn|
+|qaiaikke|ˈɢæɪ̯ˌæɪ̯kkɛ|DET|Every (D)|âjahiche|ˈʔaːjˌɐɪ̯t̚t͡ʃɐ|
+|vete|ˈʋɛtɛ|DET|More (I)|verto|ˈvɛʈɐ|
+|vetenjh|ˈʋɛtɛɲ̊|DET|More (A)|verton|ˈvɛʈɐn̥|
+|vetênj|ˈʋɛteɲ|DET|More (H)|vertôn|ˈvɛʈɘːn|
+|vetokko|ˈʋɛˌtɔkkɔ|DET|More (D)|vertoche|ˈvɛˌʈɔt̚t͡ʃɐ|
+|quś|ˈɢuɕ|DET|None (I)|qul|ˈquɬ|
+|qfanjh|ˈɢfæɲ̊|DET|None (A)|qwan|ˈqɸæn̥|
+|qfâenj|ˈɢfɑe̯ɲ|DET|None (H)|qwân|ˈqɸaːn|
+|quśko|ˈɢuɕkɔ|DET|None (D)|quliche|ˈquɬt͡ʃɐ|
+|quto|ˈɢutɔ|DET|Less (I)|qurte|ˈquʈɐ|
+|qutonjh|ˈɢutɔɲ̊|DET|Less (A)|qurten|ˈquʈɐn̥|
+|qutënj|ˈɢutɤɲ|DET|Less (H)|qurtên|ˈquʈɘːn|
+|qutekke|ˈɢuˌtɛkkɛ|DET|Less (D)|qurteche|ˈquˌʈɛt̚t͡ʃɐ|
 |ħuom|ˈħuo̯m|CONJ|And|hêm|ˈħɨːm|
 |rhu|ˈr̥u|CONJ|If |pru|ˈpr̥u|
 |verh|ˈʋɛr̥|CONJ|Because|ver|ˈvɛr̥|
@@ -654,18 +641,6 @@ Auto-derived from original
 |oar|ˈoɐ̯r|COLOUR|Red|vug|ˈvuːɣ|
 |arräqqe|ærˈraɢɢɛ|COLOUR|Black|gaqo|ˈɣæq̚qɐ|
 |paomva|ˈpæo̯mʋæ|COLOUR|White|pâmva|ˈpaːmvæ|
-|quo|ˈɢuo̯|LOC-PRN|LocPrn-Indefinite - Somewhere|qê|ˈqɨː|
-|mum|ˈmum|LOC-PRN|LocPrn-Proximal - Here/This|mû|ˈmũː|
-|vâe|ˈʋɑe̯|LOC-PRN|LocPrn-Medial - There/That|vâ|ˈvaː|
-|minj|ˈmiɲ|LOC-PRN|LocPrn-Distal - Over There|mît|ˈmĩːd̚|
-|jêñ|ˈjeɴ|LOC-PRN|LocPrn-Indefinite-Neg - Somewhere Not|êq|ˈjeːɢ̚|
-|tħimpü|ˈtħim̥py|LOC-PRN|LocPrn-Proximal-Neg - Here/This Not|twimû|ˈtɸim̥m̥uː|
-|ârvo|ˈʌrʋɔ|LOC-PRN|LocPrn-Medial-Neg - There/That Not|ghâxvâ|ˈaːɣvɑː|
-|ienjinj|ˈie̯ɲiɲ|LOC-PRN|LocPrn-Distal-Neg - Over There Not|jîmît|ˈjĩːiːd̚|
-|ħuñë|ˈħuɴɤ|LOC-PRN|LocPrn-Indefinite-Emph - Somewhere Well|hûqê|ˈħũːɢ̚ɘː|
-|ħuomu|ˈħuo̯mu|LOC-PRN|LocPrn-Proximal-Emph - Here/This Well|hûmû|ˈħũːuː|
-|ħâuo|ˈħɑʊ̯ɔ|LOC-PRN|LocPrn-Medial-Emph - There/That Well|hâve|ˈħaːvɐ|
-|ħuomënj|ˈħuo̯mɤɲ|LOC-PRN|LocPrn-Distal-Emph - Over There Well|hûmît|ˈħũːiːd̚|
 |fieñe|ˈfie̯ɴɛ|ADV|All > In All/In Total|fêke|ˈfiːg̚ɐ|
 |qumpou|ˈɢum̥pou̯|ADV|Here|umêw|ˈʔum̥m̥ɘːw|
 |ħompënj|ˈħɔm̥pɤɲ|ADV|There|homît|ˈħɔm̥m̥iːd̚|

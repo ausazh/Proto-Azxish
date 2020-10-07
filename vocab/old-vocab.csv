@@ -327,71 +327,55 @@ preiche,NOUN - Concept,Completion/Wholeness (D)
 âan,NOUN - Concept,Start (A)
 faxan,NOUN - Concept,End (A)
 
-ghuja,DET,This
-jâhap,DET,That
-mitja,DET,That over there
-chupa,DET,Many
-shêña,DET,Some
-xi,DET,Few
-âjah,DET,Every
-verto,DET,More
-
-qer,PRN,Who (Nom)
-qerchôl,PRN,Who (Acc)
-qêter,PRN,To Who (Dat)
-qerkish,PRN,Of/From Who (Gen)
-qerñah,PRN,At/With Who (Loc-Instr)
-qîu,PRN,What (Nom)
-qîôl,PRN,What (Acc)
-qîwêter,PRN,To What (Dat)
-qîukish,PRN,Of/From What (Gen)
-qîwîmexe,PRN,By/Using What (Loc-Instr)
-
-mûh,PRN,1.s.Nom - I
-fêgha,PRN,1.s.Acc - Me
-jâl,PRN,1.p.Nom - We
-pôgh,PRN,1.p.Acc - Us
-kup,PRN,2.s.Nom - Thou
-plex,PRN,2.s.Acc - Thee
-larap,PRN,2.d.Nom - You & I
-gâm,PRN,2.d.Acc - You & Me
-me,PRN,2.p.Nom - You
-zêñko,PRN,2.p.Acc - Ye
-qeh,PRN,3.I.Nom - It/They
-îx,PRN,3.I.Acc - It/Them
-qehan,PRN,3.A.s.Nom - It/He/She
-îxan,PRN,3.A.s.Acc - It/Him/Her
-qehân,PRN,3.H.s.Nom - He/She/It
-îxân,PRN,3.H.s.Acc - Him/Her/It
-rêtân,PRN,3.H.d.Nom - He/She/It and I
-juân,PRN,3.H.d.Acc - Him/Her/It and I
-vehan,PRN,3.A.p.Nom - They
-ñen,PRN,3.A.p.Acc - Them
-vehân,PRN,3.H.p.Nom - They
-ñân,PRN,3.H.p.Acc - Them
-vehiche,PRN,3.D.Nom - He/She/It/They
-ñiche,PRN,3.D.Acc - Him/Her/It/Them
-
-qâ,TAG,indicative formal
-qâx,TAG,indicative past
-ghan,TAG,interrogative
-ghana,TAG,interrogative formal
-ghanox,TAG,interrogative past
-nix,TAG,conditional past
-jîn,TAG,conditional formal
-jînox,TAG,conditional past formal
-hevn,TAG,necessitative
-hevîn,TAG,necessitative formal
-al,TAG,imperative formal
-san,TAG,imperative polite
-alahna,TAG,imperative polite formal
-kas,TAG,prohibitive
-jân,TAG,prohibitive formal
-qân,TAG,speculative
-mag,TAG,potential
-mâge,TAG,potential formal
-wolg,TAG,commissive
-wûlog,TAG,commissive formal
+ghuja,DET,This/These (I)
+ghwin,DET,This (A)
+ghwintoj,DET,These (A.pl)
+ghwîn,DET,This (H)
+ghwînqôt,DET,These two (H.d)
+ghwîntoj,DET,These (H.pl)
+ghujche,DET,This/These (D)
+jâhap,DET,That/Those (I)
+jâham,DET,That (A)
+jâhamtoj,DET,Those (A.pl)
+jâhâm,DET,That (H)
+jâhâmqôt,DET,Those two (H.d)
+jâhâmtoj,DET,Those (H.pl)
+jâhapche,DET,That/Those (D)
+mitja,DET,That/Those (I) over there
+mitjan,DET,That (A) over there
+mitjantoj,DET,Those (A.pl) over there
+mitjân,DET,That (H) over there
+mitjânqôt,DET,Those two (H.d) over there
+mitjântoj,DET,Those (H.pl) over there
+mitiche,DET,That/Those (D) over there
+chupa,DET,Many (I)
+chwan,DET,Many (A)
+chwân,DET,Many (H)
+chupche,DET,Many (D)
+shêña,DET,Some (I)
+sheñ,DET,Some (A)
+shêñ,DET,Some (H)
+shêñache,DET,Some (D)
+xi,DET,Few (I)
+xin,DET,Few (A)
+xîn,DET,Few (H)
+xiche,DET,Few (D)
+âjah,DET,Every (I)
+âjahan,DET,Every (A)
+âjahân,DET,Every (H)
+âjahiche,DET,Every (D)
+verto,DET,More (I)
+verton,DET,More (A)
+vertôn,DET,More (H)
+vertoche,DET,More (D)
+qul,DET,None (I)
+qwan,DET,None (A)
+qwân,DET,None (H)
+quliche,DET,None (D)
+qurte,DET,Less (I)
+qurten,DET,Less (A)
+qurtên,DET,Less (H)
+qurteche,DET,Less (D)
 
 hêm,CONJ,And
 pru,CONJ,If 
@@ -401,25 +385,7 @@ vug,COLOUR,Red
 gaqo,COLOUR,Black
 pâmva,COLOUR,White
 
-qê,LOC-PRN,LocPrn-Indefinite - Somewhere
-mû,LOC-PRN,LocPrn-Proximal - Here/This
-vâ,LOC-PRN,LocPrn-Medial - There/That
-mît,LOC-PRN,LocPrn-Distal - Over There
-êq,LOC-PRN,LocPrn-Indefinite-Neg - Somewhere Not
-twimû,LOC-PRN,LocPrn-Proximal-Neg - Here/This Not
-ghâxvâ,LOC-PRN,LocPrn-Medial-Neg - There/That Not
-jîmît,LOC-PRN,LocPrn-Distal-Neg - Over There Not
-hûqê,LOC-PRN,LocPrn-Indefinite-Emph - Somewhere Well
-hûmû,LOC-PRN,LocPrn-Proximal-Emph - Here/This Well
-hâve,LOC-PRN,LocPrn-Medial-Emph - There/That Well
-hûmît,LOC-PRN,LocPrn-Distal-Emph - Over There Well
-
 fêke,ADV,All > In All/In Total
-umêw,ADV,Here
-homît,ADV,There
-qe,ADV,Where
-qo,ADV,When
-qi,ADV,How
 
 âve,ADV,Near
 rêmuh,ADV,Far

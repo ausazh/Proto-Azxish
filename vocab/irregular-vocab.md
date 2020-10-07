@@ -65,3 +65,69 @@ Manually derived from auto-derived original OR 100% manually derived
 |ħa'üħħercakke|ˈħæʔyħħɛr̥ˌcækkɛ|NOUN - Region|Ashen Mountains (D)|hauhîxetaqiche|ˈħæʔuħħɨxˌtæq̚t͡ʃɐ|ħa'üħħerhacakke|
 |firca'innjikke|ˈfir̥cæʔiɲ̊ˌɲ̊ikkɛ|NOUN - Region|(Plains of) The Eternal Duststorm (D)|firêmtaitoniche|ˈfir̥r̥ɘːmdæʔit̚ˌn̥it̚t͡ʃɐ|firrhêmya'i'njikke|
 |färhemvaonjonj|ˈfar̥ɛmˌʋæo̯ɲɔɲ|NOUN - Region|The Last Outpost (H)|faxrêmfânân|ˈfæxr̥ɘːmˌvaːnɑːn|färhemvaonjonj|
+|qârh|ˈɢʌr̥|PRN|Who (Nom)|qer|ˈqɜr̥|qârh|
+|qârkou|ˈɢʌr̥kou̯|PRN|Who (Acc)|qerchôl|ˈqɜr̥t͡ʃɘːl|qârkou|
+|quonjorh|ˈɢuo̯ɲɔr̥|PRN|To Who (Dat)|qêter|ˈqɨːd̚ɐr̥|quonjorh|
+|qerhix|ˈɢɛr̥ix|PRN|Of/From Who (Gen)|qerkish|ˈqɜr̥kiç|qerhix|
+|qerhñaħ|ˈɢɛr̥ɴ̥æħ|PRN|At/With Who (Loc-Instr)|qerñah|ˈqɜr̥ŋ̊æħ|qerhñaħ|
+|quonu|ˈɢuo̯nu|PRN|What (Nom)|qîu|ˈqɨ̃ːu|quonu|
+|quonou|ˈɢuo̯nou̯|PRN|What (Acc)|qîôl|ˈqɨ̃ːɘːl|quonou|
+|qeijienjerh|ˈɢei̯ˌjie̯ɲɛr̥|PRN|To What (Dat)|qîwêter|ˈqɨ̃ːˌɥiːd̚ɐr̥|qeijienjerh|
+|quonuëx|ˈɢuo̯ˌnuɤx|PRN|Of/From What (Gen)|qîukish|ˈqɨ̃ːˌuk̚kiç|quonuëx|
+|qeijeara|ˈɢei̯ˌjeɐ̯ræ|PRN|By/Using What (Loc-Instr)|qîwîmexe|ˈqɨ̃ːˌɥĩːɣɐ|qeijeara|
+|mvom|ˈmʋɔm|PRN|1.s.Nom - I|mûh|ˈmwɐ̃|mvom|
+|feaa|ˈfeɐ̯æ|PRN|1.s.Acc - Me|fêgha|ˈfiɐ̯æ|feaa|
+|ghâu|ˈɣɑʊ̯|PRN|1.p.Nom - We|jâl|ˈjaːl|ghâu|
+|poa|ˈpoɐ̯|PRN|1.p.Acc - Us|pôgh|ˈpuɐ̯|poa|
+|u'|ˈuʔ|PRN|2.s.Nom - Thou|kup|ˈkup̚|u'|
+|tśarh|ˈc͡ɕær̥|PRN|2.s.Acc - Thee|plex|ˈpɬɛx|tśarh|
+|ljarrha'|ˈʎær̥r̥æʔ|PRN|2.d.Nom - You & I|larap|ˈlær̥r̥æp̚|ljarrha|
+|ârrâem|ʌrˈrɑe̯m|PRN|2.d.Acc - You & Me|gâm|ˈɣaːm|ârrâem|
+|me|ˈmɛ|PRN|2.p.Nom - You|me|ˈmɛ|me|
+|źieñe|ˈʑie̯ɴɛ|PRN|2.p.Acc - Ye|zêñko|ˈziːŋgɐ|źieñe|
+|qâħ|ˈɢʌħ|PRN|3.I.Nom - It/They|qeh|ˈqɜħ|qâħ|
+|yêr|ˈɟer|PRN|3.I.Acc - It/Them|îx|ˈʔĩɣ|yêr|
+|qeħħanjh|ˈɢɛħħæɲ̊|PRN|3.A.s.Nom - It/He/She|qehan|ˈqɜħħæn̥|qeħħanjh|
+|yêränjh|ˈɟeraɲ̊|PRN|3.A.s.Acc - It/Him/Her|îxan|ˈʔĩɣæn̥|yêränjh|
+|qâħħonj|ˈɢʌħħɔɲ|PRN|3.H.s.Nom - He/She/It|qehân|ˈqɜħħɑːn|qâħħonj|
+|yêrânj|ˈɟerʌɲ|PRN|3.H.s.Acc - Him/Her/It|îxân|ˈʔĩɣɑːn|yêrânj|
+|errienjonj|ɛrˈrie̯ɲɔɲ|PRN|3.H.d.Nom - He/She/It and I|rêtân|ˈriːd̚ɑːn|errienjonj|
+|ghu'onj|ˈɣuʔɔɲ|PRN|3.H.d.Acc - Him/Her/It and I|juân|ˈjuʔɑːn|ghu'onj|
+|veħħanjh|ˈʋɛħħæɲ̊|PRN|3.A.p.Nom - They|vehan|ˈvɛħħæn̥|veħħanjh|
+|ñenjh|ˈɴɛɲ̊|PRN|3.A.p.Acc - Them|ñen|ˈŋɛn̥|ñenjh|
+|veħħonj|ˈʋɛħħɔɲ|PRN|3.H.p.Nom - They|vehân|ˈvɛħħɑːn|veħħonj|
+|ñâenj|ˈɴɑe̯ɲ|PRN|3.H.p.Acc - Them|ñân|ˈŋaːn|ñâenj|
+|veħke|ˈʋɛħkɛ|PRN|3.D.Nom - He/She/It/They|vehiche|ˈvɛħt͡ʃɐ|veħke|
+|ñikke|ˈɴikkɛ|PRN|3.D.Acc - Him/Her/It/Them|ñiche|ˈŋit̚t͡ʃɐ|ñikke|
+|qâe|ˈɢɑe̯|TAG|indicative formal|qâ|ˈqaː|qâe|
+|qârh|ˈɢʌr̥|TAG|indicative past|qâx|ˈqax|qârh|
+|âenjh|ˈɑe̯ɲ̊|TAG|interrogative|ghan|ˈɑɛ̯n̥|âenjh|
+|âenca|ˈɑe̯ɲ̊cæ|TAG|interrogative formal|ghana|ˈɑɛ̯n̥n̥æ|âenca|
+|âencârh|ˈɑe̯ɲ̊cʌr̥|TAG|interrogative past|ghanox|ˈɑɛ̯n̥n̥ɐx|âencârh|
+|njêrh|ˈɲer̥|TAG|conditional past|nix|ˈnix|njêrh|
+|in|ˈin|TAG|conditional formal|jîn|ˈjĩː|in|
+|ienjarh|ˈie̯ɲær̥|TAG|conditional past formal|jînox|ˈjĩːɐx|ienjarh|
+|ħâunjh|ˈħɑʊ̯ɲ̊|TAG|necessitative|hevn|ˈħɜvn̥|ħâunjh|
+|ħeuvin|ˈħøʊ̯ʋin|TAG|necessitative formal|hevîn|ˈħɜːvvĩː|ħeuvin|
+|yaś|ˈɟæɕ|TAG|imperative formal|al|ˈʔæɬ|yaś|
+|śanjh|ˈɕæɲ̊|TAG|imperative polite|san|ˈsæn̥|śanjh|
+|yaonja|ˈɟæo̯ɲæ|TAG|imperative polite formal|alahna|ˈʔælnæ|yaonja|
+|aś|ˈæɕ|TAG|prohibitive|kas|ˈkæs|aś|
+|ghâenj|ˈɣɑe̯ɲ|TAG|prohibitive formal|jân|ˈjaːn|ghâenj|
+|qâenj|ˈɢɑe̯ɲ|TAG|speculative|qân|ˈqaːn|qâenj|
+|mar|ˈmær|TAG|potential|mag|ˈmæːɣ|mar|
+|mârâ|ˈmʌrʌ|TAG|potential formal|mâge|ˈmaːɣɐ|mârâ|
+|vâur|ˈʋɑʊ̯r|TAG|commissive|wolg|ˈwɔːlɣ|vâur|
+|muljâr|ˈmuʎʌr|TAG|commissive formal|wûlog|ˈwũːlɘːɣ|muljâr|
+|quo|ˈɢuo̯|LOC-PRN|LocPrn-Indefinite - Somewhere|qê|ˈqɨː|quo|
+|mum|ˈmum|LOC-PRN|LocPrn-Proximal - Here/This|mû|ˈmũː|mum|
+|vâe|ˈʋɑe̯|LOC-PRN|LocPrn-Medial - There/That|vâ|ˈvaː|vâe|
+|minj|ˈmiɲ|LOC-PRN|LocPrn-Distal - Over There|mît|ˈmĩːd̚|minj|
+|jêñ|ˈjeɴ|LOC-PRN|LocPrn-Indefinite-Neg - Somewhere Not|êq|ˈjeːɢ̚|jêñ|
+|tħimpü|ˈtħim̥py|LOC-PRN|LocPrn-Proximal-Neg - Here/This Not|twimû|ˈtɸim̥m̥uː|tħimpü|
+|ârvo|ˈʌrʋɔ|LOC-PRN|LocPrn-Medial-Neg - There/That Not|ghâxvâ|ˈaːɣvɑː|ârvo|
+|ienjinj|ˈie̯ɲiɲ|LOC-PRN|LocPrn-Distal-Neg - Over There Not|jîmît|ˈjĩːiːd̚|ienjinj|
+|ħuñë|ˈħuɴɤ|LOC-PRN|LocPrn-Indefinite-Emph - Somewhere Well|hûqê|ˈħũːɢ̚ɘː|ħuñë|
+|ħuomu|ˈħuo̯mu|LOC-PRN|LocPrn-Proximal-Emph - Here/This Well|hûmû|ˈħũːuː|ħuomu|
+|ħâuo|ˈħɑʊ̯ɔ|LOC-PRN|LocPrn-Medial-Emph - There/That Well|hâve|ˈħaːvɐ|ħâuo|
+|ħuomënj|ˈħuo̯mɤɲ|LOC-PRN|LocPrn-Distal-Emph - Over There Well|hûmît|ˈħũːiːd̚|ħuomënj|

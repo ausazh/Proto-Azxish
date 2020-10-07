@@ -399,8 +399,8 @@ Late in the language period, this became part of the normal speech register, wit
   - STEM - čàř /ˈc͡ɕær̥/ > čàřêř; čàřix; čàřah
 - 2d
   - NOM - Thou & I - larap > ľàřřaʔ /ˈʎær̥r̥æʔ/ > ľàřa /ˈʎær̥æ/
-  - Acc - Thee & Me - gâm > ârráem /ʌrˈrɑe̯m/ > âráem /ʌˈrɑe̯m/
-  - STEM - âráem /ʌˈrɑe̯m/ > âráemêř; âráeməx; âráemah
+  - Acc - Thee & Me - gâm > ârráem /ʌrˈrɑe̯m/ > gháem /ˈɣɑe̯m/
+  - STEM - gáem /ˈɣɑe̯m/ > gáemêř; gáeməx; gáemah
 - 2p
   - NOM - Ye - me > mè /ˈmɛ/
   - Acc - You - zêñko > źíeñe /ˈʑie̯ɴɛ/
@@ -408,29 +408,29 @@ Late in the language period, this became part of the normal speech register, wit
 - 3s
   - Inanimate (also plural)
     - NOM - It/They - qeh > qáh /ˈɢʌħ/
-    - Acc - It/Them - îx > ǵér /ˈɟer/
+    - Acc - It/Them - îx > yér /ˈɟer/
     - STEM - ǵér /ˈɟer/ > ǵérêř; ǵérix; ǵérira
   - Animate
-    - NOM - I/H/S - qehan > qèhhań /ˈɢɛħħæɲ̊/
-    - Acc - I/H/S - îxan > ǵéräń /ˈɟeraɲ̊/
+    - NOM - I/H/S - qehan > qèñh /ˈɢɛɴ̥/
+    - Acc - I/H/S - îxan > yeañh /ˈɟeɐ̯ɴ̥/
     - STEM - ǵéräńc /ˈɟeraɲ̊c/ > ǵéräńcêř; ǵéräńcix; ǵéräńcah
   - Human
-    - NOM - H/S/I - qehân > qáhhoń /ˈɢʌħħɔɲ/
-    - Acc - H/S/I - îxân > ǵérâń /ˈɟerʌɲ/
+    - NOM - H/S/I - qehân > qâuñ /ˈɢɑʊ̯ɴ/
+    - Acc - H/S/I - îxân > yeañ /ˈɟeɐ̯ɴ/
     - STEM - ǵérâń /ˈɟerʌɲ/ > ǵérâńêř; ǵérâńəx; ǵérâńah
 - 3d
   - Human
-    - NOM - H/S/I and I - rêtân > erríeńoń /ɛrˈrie̯ɲɔɲ/ > erionj /ɛˈriɔɲ/
-    - Acc - H/S/I and Me - juân > wúʔoń /ˈɣuʔɔɲ/ > ghuronj /ˈɣurɔɲ/
+    - NOM - H/S/I and I - rêtân > erríeńoń /ɛrˈrie̯ɲɔɲ/ > reunj /ˈrøʊ̯ɲ/
+    - Acc - H/S/I and Me - juân > wúʔoń /ˈɣuʔɔɲ/ > ghuonj /ˈɣuo̯ɲ/
     - STEM - ghuronj /ˈɣurɔɲ/ > ghuronjêrh; ghuronjëx; ghuronjaħ
 - 3p
   - Animate
     - NOM - They - ñen > ñèń /ˈɴɛɲ̊/
-    - Acc - Them - vehan > vèhhań /ˈʋɛħħæɲ̊/
+    - Acc - Them - vehan > veañh /ˈʋeɐ̯ɴ̥/
     - STEM - veħħanc /ˈʋɛħħæɲ̊c/ > veħħancêrh; veħħancix; veħħancaħ
   - Human
     - NOM - ñân > ñâenj /ˈɴɑe̯ɲ/
-    - Acc - Them - vehân > veħħonj /ˈʋɛħħɔɲ/
+    - Acc - Them - vehân > vaoñ /ˈʋæo̯ɲ/
     - STEM - veħħonj /ˈʋɛħħɔɲ/ > veħħonjêrh; veħħonjëx; veħħonjaħ
   - Divine (also singular)
     - NOM - They - ñiche > ñíkke /ˈɴikkɛ/
