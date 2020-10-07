@@ -50,6 +50,11 @@ Manually derived from auto-derived original OR 100% manually derived
 |ghaźbêrrânj|ˈɣæʑˌberrʌɲ|NOUN - Region|Olive Coast (H)|gezpixagân|ˈɣɛːzˌbiɣɣɑːn|arraźbêrrânj|
 |rhiemênj|ˈr̥ie̯meɲ|NOUN - Region|The Savannah (H)|qrêpehôn|ˈqr̥iːb̚ɘːn|rhiemênj|
 |uttyvâencox|ˈuttyˌʋɑe̯ɲ̊cɔx|NOUN - Region|Fisherman Islands (H.pl)|kuktrîkêwehantoj|ˈkuk̚ʈiːkɘːwˌɑɛ̯n̥tɐç|uttiouâencox|
+|quoźo'âenqënj|ˈɢuo̯ʑɔʔˌɑe̯nɢɤɲ|NOUN - Region|The Two Rivers (H.d)|ukêzeânqôt|ˈʔuk̚kɘːzɐʔˌaːnɢɘːd̚|quëźo'âenqënj|
+|moanduâenyox|ˈmoɐ̯nduˌɑe̯ɲɟɔx|NOUN - Region|Pine Forests (H.p)|mughhôktsalântoj|ˈmuɐ̯ɘːg̚ˌd͡ðlaːndɐç|moaëñdvljâenyox|
+|fienjafrhienyex|ˈfie̯ɲæˌfr̥ie̯ɲɟɛx|NOUN - Region|The Foothills (H.p)|kwênaqtsirêntoj|ˈkɸiːnæq̚ˌt͡θr̥iːndɐç|fienjatfrhienyex|
+|varcindüaonyex|ˈʋær̥cindyˌæo̯ɲɟɛx|NOUN - Region|Hunter Forests (H.p)|varhatînhôktsalântoj|ˈvær̥ħæt̚tĩːɘːg̚ˌd͡ðlaːndɐç|varħaccinjêñdvljaonyex|
+|ghaonyappaonyex|ˈɣæo̯ɲɟæpˌpæo̯ɲɟɛx|NOUN - Region|Rockbird Mountains (H.p)|gjâñtaqpûholxetapântoj|ˈʝaːŋdæq̚puːħɐɬxɐt̚ˌpaːndɐç|ghaoñeyappüħeśrhappaonyex|
 |vônśko|ˈʋoɲ̊ɕkɔ|NOUN - Mythos|Frost Bird > North (D)|ôtêwpûholche|ˈwoːd̚ɘːwbuːˌħɔɬt͡ʃɐ|vônjoubuħośko|
 |ħanśko|ˈħæɲ̊ɕkɔ|NOUN - Mythos|Flame Bird > South (D)|hanemîpûholche|ˈħæn̥m̥iːpuːˌħɔɬt͡ʃɐ|ħanjmipüħośko|
 |pâenśko|ˈpɑe̯ɲ̊ɕkɔ|NOUN - Mythos|Storm Bird > West~SW (D)|pâtakpûholche|ˈpaːd̚æk̚puːˌħɔɬt͡ʃɐ|pâenjappuħośko|

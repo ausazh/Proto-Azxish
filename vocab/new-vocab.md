@@ -415,6 +415,7 @@ Auto-derived from original
 |ħrhiemonj|ˈħr̥ie̯mɔɲ|NOUN - People|Father (H)|hrêpghân|ˈħr̥iːb̚ɑːn|
 |ko'mënj|ˈkɔʔm̥ɤɲ|NOUN - People|Grandmother (H)|choqomôn|ˈt͡ʃɔq̚m̥ɘːn|
 |ħrhiemênj|ˈħr̥ie̯meɲ|NOUN - People|Grandfather (H)|hrêpghôn|ˈħr̥iːb̚ɘːn|
+|feska'onj|ˈfɛsˌkæʔɔɲ|NOUN - People|Sibling (H)|feschaân|ˈfɛsˌt͡ʃæʔɑːn|
 |ljakke|ˈʎækkɛ|NOUN - People|Ancestor (in general) (D)|lakiche|ˈlæk̚t͡ʃɐ|
 |qamke|ˈɢæm̥kɛ|NOUN - People|Ancestor (personal) (D)|qamiche|ˈqæm̥t͡ʃɐ|
 |ħanħśikke|ˈħæn̥ˌħɕikkɛ|NOUN - People|Smoke > Spirit (D)|hanvaliche|ˈħæn̥ˌfɬit̚t͡ʃɐ|
