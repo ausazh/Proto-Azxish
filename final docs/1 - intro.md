@@ -4,12 +4,18 @@
 
 ## Chapters
 
+### Complete
+
 - 2 - Phonology and Romanisation
 - 3 - Morphology
   - 3.1 - Nouns, Determiners, Pronouns
-  - 3.3 - Verbs, Locational Pronouns
-  - 3.4 - Tags
-  - 3.2 - Adjectives
+  - 3.2 - Verbs, Locational Pronouns
+  - 3.3 - Tags
+
+### Incomplete
+
+- 3 - Morphology
+  - 3.4 - Adjectives
   - 3.5 - Adverbs
 - 4 - Syntax
   - 4.1 - Sentence Structure
