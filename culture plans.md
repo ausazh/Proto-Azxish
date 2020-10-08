@@ -1,6 +1,6 @@
 # Culture
 
-## Background
+## Background, descending from the protolanguage 
 
 - Uħħuononj -- name of the people
   - /ˈuħˌħuo̯nɔɲ/ < /ˈvuħˌħɨ̃ːɑːn/ < /ˈvuˌħiːŋaːn/
