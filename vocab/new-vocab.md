@@ -642,11 +642,6 @@ Auto-derived from original
 |arräqqe|ærˈraɢɢɛ|COLOUR|Black|gaqo|ˈɣæq̚qɐ|
 |paomva|ˈpæo̯mʋæ|COLOUR|White|pâmva|ˈpaːmvæ|
 |fieñe|ˈfie̯ɴɛ|ADV|All > In All/In Total|fêke|ˈfiːg̚ɐ|
-|qumpou|ˈɢum̥pou̯|ADV|Here|umêw|ˈʔum̥m̥ɘːw|
-|ħompënj|ˈħɔm̥pɤɲ|ADV|There|homît|ˈħɔm̥m̥iːd̚|
-|qâ|ˈɢʌ|ADV|Where|qe|ˈqɜ|
-|qo|ˈɢɔ|ADV|When|qo|ˈqɔ|
-|qu|ˈɢu|ADV|How|qi|ˈqɨ|
 |qâuo|ˈɢɑʊ̯ɔ|ADV|Near|âve|ˈʔaːvɐ|
 |erriemüħ|ɛrˈrie̯myħ|ADV|Far|rêmuh|ˈriːmuħ|
 |âur|ˈɑʊ̯r|ADV|Right|ghug|ˈɐʊ̯ɣ|

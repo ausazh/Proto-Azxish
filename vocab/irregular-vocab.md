@@ -65,6 +65,62 @@ Manually derived from auto-derived original OR 100% manually derived
 |ħa'üħħercakke|ˈħæʔyħħɛr̥ˌcækkɛ|NOUN - Region|Ashen Mountains (D)|hauhîxetaqiche|ˈħæʔuħħɨxˌtæq̚t͡ʃɐ|ħa'üħħerhacakke|
 |firca'innjikke|ˈfir̥cæʔiɲ̊ˌɲ̊ikkɛ|NOUN - Region|(Plains of) The Eternal Duststorm (D)|firêmtaitoniche|ˈfir̥r̥ɘːmdæʔit̚ˌn̥it̚t͡ʃɐ|firrhêmya'i'njikke|
 |färhemvaonjonj|ˈfar̥ɛmˌʋæo̯ɲɔɲ|NOUN - Region|The Last Outpost (H)|faxrêmfânân|ˈfæxr̥ɘːmˌvaːnɑːn|färhemvaonjonj|
+|aoś|ˈæo̯ɕ|DET|This/These (I)|ghuja|ˈɐʊ̯ççæ|aoxxa|
+|einjh|ˈei̯ɲ̊|DET|This (A)|ghwin|ɐˈɥin̥|ejinjh|
+|eincex|ˈei̯ɲ̊cɛx|DET|These (A.pl)|ghwintoj|ɐˈɥin̥tɐç|ejincex|
+|ein|ˈei̯n|DET|This (H)|ghwîn|ɐˈɥĩː|ejin|
+|eiqênj|ˈei̯ɢeɲ|DET|These two (H.d)|ghwînqôt|ɐˈɥĩːɢɘːd̚|ejiqênj|
+|einyex|ˈei̯ɲɟɛx|DET|These (H.pl)|ghwîntoj|ɐˈɥĩːdɐç|ejinyex|
+|âuśko|ˈɑʊ̯ɕkɔ|DET|This/These (D)|ghujche|ˈɐʊ̯çt͡ʃɐ|âuxko|
+|gha'|ˈɣæʔ|DET|That/Those (I)|jâhap|ˈjaħæp̚|ghaħa'|
+|ghamh|ˈɣæm̥|DET|That (A)|jâham|ˈjaħæm̥|ghaħamh|
+|ghaomcex|ˈɣæo̯m̥cɛx|DET|Those (A.pl)|jâhamtoj|ˈjaːˌħæm̥tɐç|ghaoħamcex|
+|ghom|ˈɣɔm|DET|That (H)|jâhâm|ˈjaħɑːm|ghoħom|
+|ghâemqënj|ˈɣɑe̯mɢɤɲ|DET|Those two (H.d)|jâhâmqôt|ˈjaːˌħaːmɢɘːd̚|ghâeħâemqënj|
+|ghâemyox|ˈɣɑe̯mɟɔx|DET|Those (H.pl)|jâhâmtoj|ˈjaːˌħaːmdɐç|ghâeħâemyox|
+|ghaokke|ˈɣæo̯kkɛ|DET|That/Those (D)|jâhapche|ˈjaːˌħæp̚t͡ʃɐ|ghaoħakke|
+|mi'|ˈmiʔ|DET|That/Those (I) over there|mitja|ˈmit̚çæ|mikka|
+|meanjh|ˈmeɐ̯ɲ̊|DET|That (A) over there|mitjan|ˈmit̚çæn̥|mikkanjh|
+|meancex|ˈmeɐ̯ɲ̊cɛx|DET|Those (A.pl) over there|mitjantoj|ˈmit̚ˌçæn̥tɐç|mikkancex|
+|meunj|ˈmøʊ̯ɲ|DET|That (H) over there|mitjân|ˈmit̚çɑːn|mikkonj|
+|meunqênj|ˈmøʊ̯nɢeɲ|DET|Those two (H.d) over there|mitjânqôt|ˈmit̚ˌçaːnɢɘːd̚|mikkaonqênj|
+|meunyex|ˈmøʊ̯ɲɟɛx|DET|Those (H.pl) over there|mitjântoj|ˈmit̚ˌçaːndɐç|mikkaonyex|
+|mikke|ˈmikkɛ|DET|That/Those (D) over there|mitiche|ˈmit̚t͡ʃɐ|mikke|
+|qâ'|ˈqʌʔ|DET|Which (I)|qepe---|---||
+|qâmh|ˈqʌm̥|DET|Which (A)|qepen---|---||
+|qâmtox|ˈqʌm̥tɔx|DET|Which (A.pl)|qepentoj---|---||
+|qâem|ˈqɑe̯m|DET|Which (H)|qepên---|---||
+|qâemqënj|ˈqɑe̯mɢɤɲ|DET|Which two (H.d)|qepênqôt---|---||
+|qâemyox|ˈqɑe̯mɟɔx|DET|Which (H.pl)|qepêntoj---|---||
+|qâkke|ˈqʌkkɛ|DET|Which (D)|qepeche---|---||
+|ku'|ˈkuʔ|DET|Many (I)|chupa|ˈt͡ʃup̚pæ|kuppa|
+|kfanjh|ˈkfæɲ̊|DET|Many (A)|chwan|ˈt͡ʃɸæn̥|kfanjh|
+|kfâenj|ˈkfɑe̯ɲ|DET|Many (H)|chwân|ˈt͡ʃɸaːn|kfâenj|
+|kukko|ˈkukkɔ|DET|Many (D)|chupche|ˈt͡ʃup̚t͡ʃɐ|kukko|
+|xieñ|ˈxie̯ɴ|DET|Some (I)|shêña|ˈçiːŋæ|xieña|
+|xeñh|ˈxɛɴ̥|DET|Some (A)|sheñ|ˈçɛŋ̊|xeñh|
+|xieñ|ˈxie̯ɴ|DET|Some (H)|shêñ|ˈçiːŋ|xieñ|
+|xieñge|ˈxie̯ɴgɛ|DET|Some (D)|shêñache|ˈçiːŋd͡ʒɐ|xieñge|
+|xê|ˈxe|DET|Few (I)|xi|ˈxi|arrhê|
+|xênjh|ˈxeɲ̊|DET|Few (A)|xin|ˈxin̥|arrhênjh|
+|xên|ˈxen|DET|Few (H)|xîn|ˈxĩː|arrhên|
+|xêkke|ˈxekkɛ|DET|Few (D)|xiche|ˈxit̚t͡ʃɐ|arrhêkke|
+|qeaħ|ˈɢeɐ̯ħ|DET|Every (I)|âjah|ˈʔaːjæħ|qaiaħ|
+|qeanjh|ˈɢeɐ̯ɲ̊|DET|Every (A)|âjahan|ˈʔaːjɑɛ̯n̥|qaiâenjh|
+|qaonj|ˈɢæo̯ɲ|DET|Every (H)|âjahân|ˈʔaːjɑːn|qaionj|
+|qaikke|ˈɢæɪ̯kkɛ|DET|Every (D)|âjahiche|ˈʔaːjˌɐɪ̯t̚t͡ʃɐ|qaiaikke|
+|vete|ˈʋɛtɛ|DET|More (I)|verto|ˈvɛʈɐ|vete|
+|vetenjh|ˈʋɛtɛɲ̊|DET|More (A)|verton|ˈvɛʈɐn̥|vetenjh|
+|vetênj|ˈʋɛteɲ|DET|More (H)|vertôn|ˈvɛʈɘːn|vetênj|
+|vekko|ˈʋɛkkɔ|DET|More (D)|vertoche|ˈvɛˌʈɔt̚t͡ʃɐ|vetokko|
+|quś|ˈɢuɕ|DET|None (I)|qul|ˈquɬ|quś|
+|qvanjh|ˈɢʋæɲ̊|DET|None (A)|qwan|ˈqɸæn̥|qfanjh|
+|qvâenj|ˈɢʋɑe̯ɲ|DET|None (H)|qwân|ˈqɸaːn|qfâenj|
+|quśko|ˈɢuɕkɔ|DET|None (D)|quliche|ˈquɬt͡ʃɐ|quśko|
+|quto|ˈɢutɔ|DET|Less (I)|qurte|ˈquʈɐ|quto|
+|qutonjh|ˈɢutɔɲ̊|DET|Less (A)|qurten|ˈquʈɐn̥|qutonjh|
+|qutënj|ˈɢutɤɲ|DET|Less (H)|qurtên|ˈquʈɘːn|qutënj|
+|qukke|ˈɢukkɛ|DET|Less (D)|qurteche|ˈquˌʈɛt̚t͡ʃɐ|qutekke|
 |qârh|ˈɢʌr̥|PRN|Who (Nom)|qer|ˈqɜr̥|qârh|
 |qârkou|ˈɢʌr̥kou̯|PRN|Who (Acc)|qerchôl|ˈqɜr̥t͡ʃɘːl|qârkou|
 |quonjorh|ˈɢuo̯ɲɔr̥|PRN|To Who (Dat)|qêter|ˈqɨːd̚ɐr̥|quonjorh|

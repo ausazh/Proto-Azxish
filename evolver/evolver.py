@@ -34,9 +34,11 @@ from second_shift import second_shift
 
 DEFAULT_SRC = '../vocab/old-vocab'
 DEFAULT_DEST = '../vocab/new-vocab'
+DEFAULT_CLEAN_DEST = '../vocab/new-vocab-clean'
 
 TABLIFY_DEFAULT_SRC = '../vocab/irregular-vocab'
 TABLIFY_DEFAULT_DEST = '../vocab/irregular-vocab'
+TABLIFY_DEFAULT_CLEAN_DEST = '../vocab/irregular-vocab-clean'
 
 '''
 CSV format (normal) --
@@ -70,6 +72,24 @@ Manually derived from auto-derived original OR 100% manually derived
 |---|---|---|---|---|---|---|
 '''
 
+MD_HEADER_CLEAN = '''
+# New vocab
+
+Auto-derived from original
+
+|Final form|IPA|Word type|Meaning|
+|---|---|---|---|
+'''
+
+IRREG_MD_HEADER_CLEAN = '''
+# Irregular vocab
+
+Manually derived from auto-derived original OR 100% manually derived
+
+|Final form|IPA|Word type|Meaning|
+|---|---|---|---|
+'''
+
 # Import vocab list from source
 def import_vocab(src):
     with open(src + '.csv', newline='', encoding='utf-8') as f:
@@ -78,7 +98,7 @@ def import_vocab(src):
     return data
 
 # Export vocab list to dest
-def export_vocab(dest, vocab, sort, md):
+def export_vocab(dest, vocab, sort, md, clean_dest):
     # sort vocab
     if sort:
         vocab.sort(key=lambda x: x[0])
@@ -95,6 +115,15 @@ def export_vocab(dest, vocab, sort, md):
                 for w in line:
                     f.write('|')
                     f.write(w)
+                f.write('|\n')
+
+    if clean_dest != '':
+        with open(clean_dest + '.md', 'w', newline='', encoding='utf-8') as f:
+            f.write(MD_HEADER_CLEAN)
+            for line in vocab:
+                for i in range(4):
+                    f.write('|')
+                    f.write(line[i])
                 f.write('|\n')
     return
 
@@ -115,7 +144,7 @@ def evolve_word(line):
     return new_words
 
 # the final function
-def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False, md=False):
+def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False, md=False, clean_dest = DEFAULT_CLEAN_DEST):
     print ('importing vocab from ' + src)
     old_vc = import_vocab(src)
     
@@ -123,10 +152,10 @@ def evolve(src=DEFAULT_SRC, dest=DEFAULT_DEST, sort=False, md=False):
     new_vc = [word for line in old_vc if line for word in evolve_word(line)]
     
     print('exporting vocab to ' + dest)
-    export_vocab(dest, new_vc, sort, md)
+    export_vocab(dest, new_vc, sort, md, clean_dest)
     return new_vc
 
-def tablify (src=TABLIFY_DEFAULT_SRC, dest=TABLIFY_DEFAULT_DEST):
+def tablify (src=TABLIFY_DEFAULT_SRC, dest=TABLIFY_DEFAULT_DEST, clean_dest=TABLIFY_DEFAULT_CLEAN_DEST):
     print('importing tablifying vocab from', src)
     data = []
     with open(src + '.csv', newline='', encoding='utf-8') as f:
@@ -150,6 +179,15 @@ def tablify (src=TABLIFY_DEFAULT_SRC, dest=TABLIFY_DEFAULT_DEST):
                     f.write(w)
             else:
                 raise ValueError('input csv columns incorrect: needs 5 or 7, received', str(line))
+            f.write('|\n')
+    with open(clean_dest + '.md', 'w', newline='', encoding='utf-8') as f:
+        f.write(IRREG_MD_HEADER_CLEAN)
+        for line in data:
+            if line == []:
+                continue
+            for i in range(4):
+                f.write('|')
+                f.write(line[i])
             f.write('|\n')
 
 # vc = evolve(sort=True, md=True)
