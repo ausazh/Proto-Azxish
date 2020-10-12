@@ -525,7 +525,7 @@ Note that Inanimate 3rd person always takes singular agreement, while Divine 3rd
 ### Non-attributive uses
 
 Adjectives can be easily converted into nouns through use of noun class endings.
-Adjectives can also be used predicatively with a verbal suffix -qoñ
+Adjectives can also be used predicatively with a verbal suffix -qo/ñ/of
 
 - frhiccê 'dry'
   - INAN - frhiccête 'dry thing'

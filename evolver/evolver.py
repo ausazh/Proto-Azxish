@@ -191,6 +191,7 @@ def tablify (src=TABLIFY_DEFAULT_SRC, dest=TABLIFY_DEFAULT_DEST, clean_dest=TABL
             f.write('|\n')
 
 # vc = evolve(sort=True, md=True)
-vc = evolve(md=True)
+# vc = evolve()
+vc = evolve('../vocab/some', '../vocab/some-ev', md=True, clean_dest='')
 # oriv = evolve('../vocab/text', '../vocab/text-ev')
-tablify()
+# tablify()
