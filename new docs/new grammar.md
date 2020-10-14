@@ -484,7 +484,7 @@ Note that not all endings have different back/front forms
 
 - Singular 1st/noun > none
 - Dual 1st/noun > -ñênj / -ñënj
-- Plural 1st/noun > -njex / -njox
+- Plural 1st/noun > -njex / -nox
 - Singular 2nd > -rä'
 - Dual 2nd > -räqqênj
 - Plural 2nd > -räccex
