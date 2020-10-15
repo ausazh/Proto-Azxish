@@ -441,7 +441,7 @@ def shift_cluster(word):
             word[0].insert('ɐ')
 
     word.clear()
-    # print('rejigged clusters', word)
+    print('rejigged clusters', word)
     return word
 
 def break_hiatus(word):

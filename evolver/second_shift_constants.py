@@ -75,7 +75,7 @@ TF_BLOCKS = ['p', 'b', 't', 'd', 't͡s', 'd͡z', 'ʈ', 'ɖ', 'ʈ͡ʂ', 'ɖ͡ʐ',
 ]
 
 PLACESHIFT_CLEANUP = {
-    'ç': 'j', 'ɬ': 'ɕ'
+    'ç': 'j', 'ɬ': 'l', 't͡ɬ': 'l',
 }
 
 # Cluster Reduction
